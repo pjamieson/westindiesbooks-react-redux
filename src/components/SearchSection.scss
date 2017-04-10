@@ -1,0 +1,26 @@
+@import "../config";
+
+.SearchSection {
+  width: 100%;
+  margin: 0;
+  padding: 10px 20px 10px 40px;
+  background-color: $search-background-color;
+  .search-header {
+    display: flex;
+    justify-content: space-between;
+    .search-btn {
+      height: 1.7rem;
+      color: $brand-color-dark;
+    }
+  }
+  .search-label {
+    margin-bottom: 0;
+  }
+  .search-text-input {
+    width: 70vw;
+    padding-left: 6px;
+  }
+  .offered-container {
+    padding-top: 10px;
+  }
+}

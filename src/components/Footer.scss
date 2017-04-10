@@ -1,0 +1,57 @@
+@import "../config";
+
+.Footer {
+  padding: 10px 0 0;
+  margin: 0;
+  background-color: $footer-background-color;
+  color: $font-color-light;
+  @media (min-width: 375px) {
+    //padding-top: .3rem;
+  }
+  @media (min-width: 412px) {
+    //padding-top: .8rem;
+  }
+  @media (min-width: 992px) {
+    //padding-top: 1rem;
+    //padding-left: 5%;
+  }
+  h6 {
+    margin-bottom: 0;
+    font-size: 1.6rem;
+    color: $font-color-light;
+    @media (min-width: 992px) {
+      //font-size: 1.6rem;
+    }
+  }
+  a {
+    margin-top: -.5rem;
+    //margin-bottom: .5rem;
+    color: $font-color-light;
+    @media (min-width: 412px) {
+      //margin-top: -2rem;
+      //margin-bottom: 1.5rem;
+    }
+    &:hover {
+      color: $font-color-medium;
+    }
+  }
+  p {
+    font-size: .8rem;
+    color: $font-color-medium;
+    text-align: right;
+    &.copyright {
+      margin-top: -1rem;
+    }
+    &.email {
+      font-size: 1.1rem;
+    }
+  }
+  .container {
+    width: 100%;
+  }
+  .copyright-block {
+    position: absolute;
+    right: 20px;
+    bottom: 0;
+  }
+}

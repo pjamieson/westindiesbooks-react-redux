@@ -1,0 +1,22 @@
+@import "../config";
+
+.AboutSection {
+  display: block;
+  background-color: $about-background-color;
+  color: $font-color-light;
+  padding: 20px 20px 20px 40px;
+  h2, h3 {
+    color: $brand-color-light;
+  }
+  p {
+    color: $font-color-light;
+  }
+  .about-header {
+    display: flex;
+    justify-content: space-between;
+    .about-btn {
+      height: 1.7rem;
+      color: $about-background-color;
+    }
+  }
+}
