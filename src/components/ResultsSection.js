@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { connect } from 'react-redux';
 import Author from './Author';
 import Book from './Book';
 import Edition from './Edition';
@@ -106,7 +107,7 @@ class ResultsSection extends Component {
       }
     });
     if (rows.length === 0) {
-      rows.push( <mark>No books found using the above search criteria.</mark>);
+      rows.push( <mark key="x">No books found using the above search criteria.</mark>);
     }
     return (
       <section className="ResultsSection">
@@ -116,4 +117,12 @@ class ResultsSection extends Component {
   }
 }
 
-export default ResultsSection;
+function mapStateToProps(state) {
+  // Whatever is returned will show up in the props of this (ResultsSection)
+  return {
+    authors: state.authors
+  };
+}
+
+// Promote ResultsSection from a React component to a Redux container.
+export default connect(mapStateToProps)(ResultsSection);

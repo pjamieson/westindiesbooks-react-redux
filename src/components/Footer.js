@@ -9,10 +9,10 @@ class Footer extends Component {
       <footer className="Footer">
         <Container>
           <Row>
-            <Col lg="2" sm="3" xs="12">
+            <Col md="2" xs="12">
               <Nav>
                 <NavItem>
-                  <NavLink href="https://github.com/pjamieson/react-redux-landing-page" target="_blank">
+                  <NavLink href="https://github.com/pjamieson/westindiesbooks-react-redux" target="_blank">
                     <FontAwesome name="github" className="social-icon" size="3x" />
                   </NavLink>
                 </NavItem>
@@ -23,7 +23,7 @@ class Footer extends Component {
                 </NavItem>
               </Nav>
             </Col>
-            <Col lg="3" sm="4" xs="12">
+            <Col md="5" sm="6" xs="12">
               <Row>
                 <div>
                   <h6>Contact</h6>
@@ -33,7 +33,7 @@ class Footer extends Component {
                 </div>
               </Row>
             </Col>
-            <Col lg="7" sm="5" xs="12">
+            <Col md="5" sm="6" xs="12">
               <div className="copyright-block">
                 <p>Created by Patrick Jamieson</p>
                 <p className="copyright">Copyright 2017. All rights reserved.</p>

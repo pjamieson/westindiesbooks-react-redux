@@ -96,4 +96,12 @@ body {
     color: $font-color-dark;
     font-family: $font-family-light;
   }
+  .container {
+    padding: 0;
+    width: 100%;
+    .col {
+      padding-right: 0;
+      width: 100%;
+    }
+  }
 }

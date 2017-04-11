@@ -1,0 +1,10 @@
+.App {
+  .art-index-col {
+    height: 0;
+    visibility: hidden;
+    @media (min-width: 768px) {
+      height:auto;
+      visibility: visible;
+    }
+  }
+}

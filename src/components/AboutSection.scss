@@ -4,12 +4,76 @@
   display: block;
   background-color: $about-background-color;
   color: $font-color-light;
-  padding: 20px 20px 20px 40px;
-  h2, h3 {
+  padding: 15px 15px 5px 20px;
+  @media (min-width: 568px) {
+    padding: 20px 20px 20px 40px;
+  }
+  @media (min-width: 992px) {
+    padding: 20px 30px 20px 40px;
+  }
+  @media (min-width: 1366px) {
+    padding: 20px 40px 20px 40px;
+  }
+  h2 {
     color: $brand-color-light;
+    font-size: 1.1rem;
+    @media (min-width: 375px) {
+      font-size: 1.25rem;
+    }
+    @media (min-width: 412px) {
+      font-size: 1.35rem;
+    }
+    @media (min-width: 568px) {
+      font-size: 1.7rem;
+    }
+    @media (min-width: 667px) {
+      font-size: 1.9rem;
+    }
+    @media (min-width: 768px) {
+      font-size: 2.1rem;
+    }
+    @media (min-width: 1200px) {
+      font-size: 2.5rem;
+    }
+  }
+  h3 {
+    color: $brand-color-light;
+    font-size: .85rem;
+    @media (min-width: 375px) {
+      font-size: 1rem;
+    }
+    @media (min-width: 412px) {
+      font-size: 1.1rem;
+    }
+    @media (min-width: 568px) {
+      font-size: 1.5rem;
+    }
+    @media (min-width: 667px) {
+      font-size: 1.6rem;
+    }
+    @media (min-width: 768px) {
+      font-size: 1.7rem;
+    }
+    @media (min-width: 1200px) {
+      font-size: 2rem;
+    }
   }
   p {
     color: $font-color-light;
+    font-size: .8rem;
+    line-height: 1.1rem;
+    @media (min-width: 667px) {
+      font-size: 1.2rem;
+      line-height: 1.5rem;
+    }
+    @media (min-width: 992px) {
+      font-size: 1.4rem;
+      line-height: 1.7rem;
+    }
+    @media (min-width: 1366px) {
+      font-size: 1.7rem;
+      line-height: 2rem;
+    }
   }
   .about-header {
     display: flex;

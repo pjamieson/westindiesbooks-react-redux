@@ -1,4 +1,5 @@
-[
+export default function () {
+	return [
 	{
 		"last_name": "Aarons",
 		"first_name": "Rudolph L. C.",
@@ -24072,10 +24073,11 @@
 					},
 					{
 						"publisher": "Heinemann",
-						"pub_info": "London: Heinemann, 1980. (Papreback)"
+						"pub_info": "London: Heinemann, 1980. (Paperback)"
 					}
 				]
 			}
 		]
 	}
-];
+]
+}
