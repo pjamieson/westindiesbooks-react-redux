@@ -4,10 +4,18 @@ import './Book.css';
 class Book extends Component {
   render() {
     const book = this.props.book;
+    let summary_paragraphs = [];
+    book.summary.forEach((paragraph) => {
+      summary_paragraphs.push(
+        <p key={paragraph} dangerouslySetInnerHTML={{__html: paragraph}} />
+      );
+    });
     return (
       <div className="Book">
-        <h5>{book.title}</h5>
-        <p dangerouslySetInnerHTML={{__html: book.summary}}></p>
+        <h5 className="book-title">{book.title}</h5>
+        <div className="book-summary">
+          {summary_paragraphs}
+        </div>
       </div>
     );
   }

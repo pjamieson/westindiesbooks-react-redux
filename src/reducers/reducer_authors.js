@@ -4053,7 +4053,8 @@ export default function () {
 		"death_month": "",
 		"death_year": "",
 		"bio": [
-			"Stewart Brown was born in Southampton, U.K., in 1951. A frequent and much respected visitor to the Caribbean, much liked for his deep but modestly offered knowledge of the region and its literature, and his aimiable good humour, Stewart Brown's poetry never forgets that, however immersed it is in local sympathies, it remains the work of an Englishman abroad, an honesty which ensures that the work is never compromised by sentiment."
+			"<b>Stewart Brown</b> was born in Southampton, U.K., in 1951. A frequent and much respected visitor to the Caribbean, Brown is much liked for his deep but modestly offered knowledge of the region and its literature, and his aimiable good humour.",
+			"Brown's poetry never forgets that, however immersed it is in local sympathies, it remains the work of an Englishman abroad, an honesty which ensures that the work is never compromised by sentiment."
 			],
 		"books": [
 			{
@@ -4073,12 +4074,26 @@ export default function () {
 				"pub_day": "",
 				"pub_month": "",
 				"pub_year": "1979",
-				"title": "Specimens (Poems)",
-				"summary": [""],
+				"title": "Specimens",
+				"summary": [
+					"A poem by the English poet, university lecturer, and scholar of African and Caribbean Literature.",
+					"Limited edition of 150 numbered copies, with numbers 1-50 signed by the author."
+				],
 				"editions": [
 					{
 						"publisher": "Sceptre Press",
-						"pub_info": "Knotting: Sceptre Press [1979]. (Pamphlet; 150 numbered copies)"
+						"pub_info": "Knotting Bedfordshire: Sceptre Press [1979].",
+						"edition": "First edition.",
+						"binding": "Printed wrappers.",
+						"size": "8vo (5 in x 8 1/4 in).",
+						"pages": "8 pages.",
+						"copies": [
+							{
+								"features": "Number 16 of 150 numbered copies. This is one of the first 50 copies that were each signed by the poet.",
+								"condition": "Near fine in stiff printed wrappers. There is very light sun-fading to the top 1/2 inch of the front cover, otherwise this is a like-new copy of this limited edition. The pages are center-stapled into the wrappers, and are clean and unmarked.",
+								"price": "US$25.00"
+							}
+						]
 					}
 				]
 			},

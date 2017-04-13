@@ -1,3 +1,36 @@
+@import "../config";
+
 .Edition {
   padding-left: 40px;
+  margin-top: -.5rem;
+  margin-bottom: 1rem;
+  .edition-pub-info {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 1.2rem;
+  }
+  .edition-detail {
+    margin-top: .3rem;
+    margin-bottom: 0;
+    p {
+      margin-top: .1rem;
+      margin-bottom: 0;
+      font-size: 1rem;
+      line-height: 1.2rem;
+    }
+  }
+  .edition-copy {
+    padding-left: 20px;
+    margin-top: .5rem;
+    margin-bottom: 0;
+    p {
+      margin-top: .3rem;
+      margin-bottom: 0;
+      font-size: 1rem;
+      line-height: 1.2rem;
+      &.copy-header, &.copy-price {
+        font-family: $font-family-semibold;
+      }
+    }
+  }
 }
