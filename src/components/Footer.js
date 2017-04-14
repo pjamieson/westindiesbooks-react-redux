@@ -36,7 +36,7 @@ class Footer extends Component {
             <Col md="5" sm="6" xs="12">
               <div className="copyright-block">
                 <p>Created by Patrick Jamieson</p>
-                <p className="copyright">Copyright 2017. All rights reserved.</p>
+                <p className="copyright">Copyright 1997-2017. All rights reserved.</p>
               </div>
             </Col>
           </Row>
