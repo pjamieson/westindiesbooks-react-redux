@@ -38,10 +38,30 @@ class ResultsSection extends Component {
     });
     return isMatch;
   }
+  authorHasEditionOffered(books) {
+    let isMatch = false;
+    books.forEach((book) => {
+      book.editions.forEach((edition) => {
+        if (edition.copies) {
+          isMatch = true;
+        }
+      });
+    });
+    return isMatch;
+  }
   bookHasEditionFromPublisher(editions, publisher) {
     let isMatch = false;
     editions.forEach((edition) => {
       if (edition.pub_info.toLowerCase().indexOf(publisher) > -1) {
+        isMatch = true;
+      }
+    });
+    return isMatch;
+  }
+  bookHasTitleWithEditionOffered(editions) {
+    let isMatch = false;
+    editions.forEach((edition) => {
+      if (edition.copies) {
         isMatch = true;
       }
     });
@@ -52,6 +72,7 @@ class ResultsSection extends Component {
     let titleFilterText = this.props.titleFilterText.toLowerCase();
     let publisherFilterText = this.props.publisherFilterText.toLowerCase();
     let countryFilterText = this.props.countryFilterText.toLowerCase();
+    let offeredOnly = this.props.offeredOnly;
     let full_name = '';
     let show_author = true;
     let show_book = true;
@@ -60,7 +81,8 @@ class ResultsSection extends Component {
     this.props.authors.forEach((author) => {
       full_name = author.first_name + ' ' + author.last_name;
       show_author = true;
-      if (authorFilterText || titleFilterText || publisherFilterText || countryFilterText) {
+      if (authorFilterText || titleFilterText || publisherFilterText
+        || countryFilterText || offeredOnly) {
         if (authorFilterText) {
           show_author = full_name.toLowerCase().indexOf(authorFilterText) > -1;
         }
@@ -76,30 +98,42 @@ class ResultsSection extends Component {
         if (show_author && countryFilterText) {
           show_author = author.birth_country.toLowerCase().indexOf(countryFilterText) > -1;
         }
+        if (show_author && offeredOnly) {
+          show_author = this.authorHasEditionOffered(author.books);
+        }
       }
       if (show_author) {
         rows.push( <Author author={author} key={rows.length} /> );
         // show author's books
         author.books.forEach((book) => {
           show_book = true;
-          if (titleFilterText || publisherFilterText) {
+          if (titleFilterText || publisherFilterText || offeredOnly) {
             if (titleFilterText) {
               show_book = book.title.toLowerCase().indexOf(titleFilterText) > -1;
             }
             if (show_book && publisherFilterText) {
               show_book = this.bookHasEditionFromPublisher(book.editions, publisherFilterText);
             }
+            if (show_book && offeredOnly) {
+              show_book = this.bookHasTitleWithEditionOffered(book.editions);
+            }
           }
           if (show_book) {
-            rows.push( <Book book={book} key={rows.length} /> );
+            rows.push( <Book key={rows.length} book={book}
+              author_name={full_name} /> );
             // show editions of Book
             book.editions.forEach((edition) => {
               show_edition = true;
               if (publisherFilterText) {
                 show_edition = edition.pub_info.toLowerCase().indexOf(publisherFilterText) > -1;
               }
+              if (offeredOnly) {
+                show_edition = edition.copies;
+              }
               if (show_edition) {
-                rows.push( <Edition edition={edition} key={rows.length} /> );
+                rows.push( <Edition key={rows.length} edition={edition}
+                book_title={book.title}
+                author_name={full_name} /> );
               }
             });
           }

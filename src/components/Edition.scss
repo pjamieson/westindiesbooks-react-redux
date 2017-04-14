@@ -9,6 +9,13 @@
     margin-bottom: 0;
     font-size: 1.2rem;
   }
+  .edition-image {
+    float: left;
+    margin-top: .2rem;
+    margin-right: 1rem;
+    margin-bottom: .2rem;
+    height: 100%;
+  }
   .edition-detail {
     margin-top: .3rem;
     margin-bottom: 0;
@@ -20,7 +27,6 @@
     }
   }
   .edition-copy {
-    padding-left: 20px;
     margin-top: .5rem;
     margin-bottom: 0;
     p {
@@ -28,9 +34,12 @@
       margin-bottom: 0;
       font-size: 1rem;
       line-height: 1.2rem;
-      &.copy-header, &.copy-price {
+      &.copy-header {
         font-family: $font-family-semibold;
       }
+    }
+    span.copy-price {
+        font-family: $font-family-semibold;
     }
   }
 }

@@ -4076,17 +4076,18 @@ export default function () {
 				"pub_year": "1979",
 				"title": "Specimens",
 				"summary": [
-					"A poem by the English poet, university lecturer, and scholar of African and Caribbean Literature.",
-					"Limited edition of 150 numbered copies, with numbers 1-50 signed by the author."
+					"A poem by the English poet, university lecturer, and scholar of African and Caribbean Literature."
 				],
 				"editions": [
 					{
 						"publisher": "Sceptre Press",
 						"pub_info": "Knotting Bedfordshire: Sceptre Press [1979].",
+						"img_file": "BrownSpecimens16-150.jpg",
 						"edition": "First edition.",
 						"binding": "Printed wrappers.",
 						"size": "8vo (5 in x 8 1/4 in).",
 						"pages": "8 pages.",
+						"description": "Limited edition of 150 numbered copies, with numbers 1-50 signed by the author.",
 						"copies": [
 							{
 								"features": "Number 16 of 150 numbered copies. This is one of the first 50 copies that were each signed by the poet.",
@@ -4691,15 +4692,26 @@ export default function () {
 				"pub_month": "",
 				"pub_year": "1958",
 				"title": "Black Midas",
-				"summary": [""],
+				"summary": [
+					"The Guyana-born author's first book, a novel about a boy growing up and making his way in Guyana."
+				],
 				"editions": [
 					{
 						"publisher": "Secker & Warburg",
-						"pub_info": "London: Secker & Warburg, 1958."
-					},
-					{
-						"publisher": "Coward-McCann",
-						"pub_info": "New York: Coward-McCann, 1958. (Under the title 'A Touch of Midas')"
+						"pub_info": "London: Secker & Warburg, 1958.",
+						"img_file": "CarewMidas1-150.jpg",
+						"edition": "First edition.",
+						"binding": "Hardcover in dust jacket.",
+						"size": "8vo (5 3/8 in x 8 in).",
+						"pages": "288 pages.",
+						"description": "",
+						"copies": [
+							{
+								"features": "",
+								"condition": "Very good in boards and a good only dust jacket. This book is in nice condition while the dust jacket has multiple problems. There is a neat ownership signature on the front endpaper. The dust jacket is soiled and worn, with some loss at the extremities. It was once tape-repaired at the top of the spine and the bottom of the back panel, and that tape has yellowed with age. There is a closed razor cut across 2/3 of the back panel, and the back flap is torn from the top at the fold, remaining attached only at the very bottom. The pages are clean, and the binding is tight. The dust jacket is protected in a mylar wrapper which essentially holds the nearly-separated back flap in place.",
+								"price": "US$30.00"
+							}
+						]
 					},
 					{
 						"publisher": "Longman",
@@ -4715,20 +4727,48 @@ export default function () {
 				"pub_day": "",
 				"pub_month": "",
 				"pub_year": "1958",
+				"title": "A Touch of Midas",
+				"summary": [
+					"American edition of Black Midas."
+				],
+				"editions": [
+					{
+						"publisher": "Coward-McCann",
+						"pub_info": "New York: Coward-McCann, 1958.",
+						"img_file": "",
+						"edition": "First American edition.",
+						"binding": "Hardcover in dust jacket.",
+						"size": "",
+						"pages":"",
+						"description": ""
+					}
+				]
+			},
+			{
+				"pub_day": "",
+				"pub_month": "",
+				"pub_year": "1958",
 				"title": "The Wild Coast",
-				"summary": [""],
+				"summary": [
+					"The Guyana-born author's second book, a novel set on the Corentyne coast of Guyana."
+				],
 				"editions": [
 					{
 						"publisher": "Secker & Warburg",
-						"pub_info": "London: Secker & Warburg, 1958."
-					},
-					{
-						"publisher": "Periodicals Service Co.",
-						"pub_info": "Periodicals Service Co., 1958."
-					},
-					{
-						"publisher": "Kraus Reprint",
-						"pub_info": "Nendeln: Kraus Reprint, 1972. (Reprint of the 1958 London edition. Cloth, w/o dust jacket.)"
+						"pub_info": "London: Secker & Warburg, 1958.",
+						"img_file": "CarewWild1-150.jpg",
+						"edition": "First edition.",
+						"binding": "Hardcover in dust jacket.",
+						"size": "8vo (5 3/8 in x 8 in).",
+						"pages": "256 pages.",
+						"description": "",
+						"copies": [
+							{
+								"features": "",
+								"condition": "Good in boards and dust jacket. This book has foxing on both the pages and the page edges. The top page edges are also dust stained. The dust jacket is soiled, worn, stained, and faded at the spine. The rear endpaper is wrinkled. The interior pages are mostly clean, with the foxing at the page edges. Some pages have evidence of diagonal folds that probably served as bookmarks. The book's binding is tight. The dust jacket is protected in a mylar wrapper.",
+								"price": "US$20.00"
+							}
+						]
 					},
 					{
 						"publisher": "Longman",
@@ -4756,11 +4796,26 @@ export default function () {
 				"pub_month": "",
 				"pub_year": "1964",
 				"title": "Moscow Is Not My Mecca",
-				"summary": [""],
+				"summary": [
+					"A novel telling the story of a Guianese exchange student studying at a Moscow university."
+				],
 				"editions": [
 					{
 						"publisher": "Secker & Warburg",
-						"pub_info": "London: Secker & Warburg, 1964."
+						"pub_info": "London: Secker & Warburg [1964].",
+						"img_file": "CarewMoscow1-150.jpg",
+						"edition": "First edition.",
+						"binding": "Hardcover in dust jacket.",
+						"size": "8vo (5 3/8 in x 8 in).",
+						"pages": "198 pages.",
+						"description": "",
+						"copies": [
+							{
+								"features": "",
+								"condition": "Very good in boards and dust jacket. This is a nice copy of this scarce title. The dust jacket shows wear at the extremities, its spine is a bit sunned, and the rear panel is soiled and stained. The boards and pages are clean, and the binding is tight. The dust jacket is protected in a plastic wrapper.",
+								"price": "US$60.00"
+							}
+						]
 					}
 				]
 			},
