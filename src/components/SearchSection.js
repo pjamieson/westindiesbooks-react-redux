@@ -85,7 +85,7 @@ class SearchSection extends Component {
                 onChange={this.handleOfferedOnlyInputChange}
               />
               &nbsp;
-              Only show books offered for sale (This feature coming soon)
+              Only show books offered for sale (New feature; adding titles daily.)
             </p>
           </Collapse>
         </form>

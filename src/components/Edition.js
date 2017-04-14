@@ -7,7 +7,6 @@ class Edition extends Component {
     const email_href = 'mailto:patrick@westindiesbooks.com?subject='
      + this.props.book_title + ' by ' + this.props.author_name;
     const img_url = '../assets/images/' + edition.img_file;
-    if (edition.img_file) {console.log(edition.img_file);}
     let copies = [];
     if (edition.copies) {
       edition.copies.forEach((copy) => {
@@ -18,7 +17,7 @@ class Edition extends Component {
             <p>{copy.condition}</p>
             <p>
               <span className="copy-price">{copy.price}</span>
-              <span> To inquire about this available copy, please email </span>
+              <span> To inquire about this copy, email </span>
               <span>
                 <a href={email_href}>West Indies Books</a>
               </span>
@@ -34,11 +33,19 @@ class Edition extends Component {
           {edition.img_file ?
             <img className="edition-image" src={img_url} alt={edition.pub_info} />
             : null }
-          <div className="edition-detail">
-            <p>{edition.edition} {edition.binding}</p>
-            <p>{edition.description}</p>
-            <p>{edition.size} {edition.pages}</p>
-          </div>
+          { edition.edition || edition.binding || edition.description || edition.size || edition.pages ?
+            <div className="edition-detail">
+              { edition.edition || edition.binding ?
+                <p>{edition.edition}&nbsp;{edition.binding}</p>
+              : null }
+              { edition.description ?
+                <p>{edition.description}</p>
+              : null }
+              { edition.size || edition.pages ?
+                <p>{edition.size}&nbsp;{edition.pages}</p>
+              : null }
+            </div>
+          : null }
           <div className="edition-copies">
             {copies}
           </div>
