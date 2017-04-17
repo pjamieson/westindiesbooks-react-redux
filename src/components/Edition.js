@@ -36,7 +36,7 @@ class Edition extends Component {
           { edition.edition || edition.binding || edition.description || edition.size || edition.pages ?
             <div className="edition-detail">
               { edition.edition || edition.binding ?
-                <p>{edition.edition}&nbsp;{edition.binding}</p>
+                <p><span dangerouslySetInnerHTML={{__html: edition.edition}} />&nbsp;{edition.binding}</p>
               : null }
               { edition.description ?
                 <p>{edition.description}</p>
