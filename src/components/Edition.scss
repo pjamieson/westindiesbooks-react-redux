@@ -24,6 +24,15 @@
       margin-bottom: 0;
       font-size: 1rem;
       line-height: 1.2rem;
+      strong {
+        font-family: $font-family-regular;
+      }
+      em {
+        font-family: $font-family-regular-italic;
+      }
+      i {
+        font-family: $font-family-light-italic;
+      }
     }
   }
   .edition-copy {

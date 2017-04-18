@@ -13,6 +13,7 @@ class Book extends Component {
     return (
       <div className="Book">
         <h5 className="book-title">{book.title}</h5>
+        <p className="book-subtitle">{book.subtitle}</p>
         <div className="book-summary">
           {summary_paragraphs}
         </div>

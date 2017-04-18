@@ -42,6 +42,8 @@ class AboutSection extends Component {
           <p>Use the inputs below to filter the complete list by author name, book
             title, publisher, or the West Indian country most associated with the
             author(s).</p>
+          <p>Results are ordered alphabetically by author last name, with an author's.
+            titles ordered by date of original publication of the first edition.</p>
         </Collapse>
       </section>
     );

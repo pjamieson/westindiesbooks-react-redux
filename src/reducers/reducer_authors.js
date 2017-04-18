@@ -27,7 +27,7 @@ export default function () {
 		"birth_year": "1956",
 		"death_year": "",
 		"bio": [
-			"James Aboud was born in Trinidad in 1956 and educated there, in Canada, and in England. He lives in Port of Spain and is a High Court Judge."
+			"<strong>James Aboud</strong> was born in Trinidad in 1956 and educated there, in Canada, and in England. He lives in Port of Spain and is a High Court Judge."
 			],
 		"books": [
 			{
@@ -81,7 +81,7 @@ export default function () {
 		"birth_year": "1915",
 		"death_year": "1986",
 		"bio": [
-			"The author, best known for her novel <em>The Orchid House</em>, was born on the island of Dominica.  She married an Englishman, and lived between the USA and Great Britain until 1954 when she returned to Dominica. She founded the Dominican Labour Party and later became a member of the West Indian Federation."
+			"<strong>Phyllis Shand Allfrey</strong>, best known for her novel <em>The Orchid House</em>, was born on the island of Dominica.  She married an Englishman, and lived between the USA and Great Britain until 1954 when she returned to Dominica. She founded the Dominican Labour Party and later became a member of the West Indian Federation."
 		],
 		"books": [
 			{
@@ -198,7 +198,7 @@ export default function () {
 		"birth_country": "Trinidad and Tobago",
 		"birth_year": "1946",
 		"death_year": "2013",
-		"bio": ["Michael Als was a labor movement pioneer, a politician, and a writer."],
+		"bio": ["<strong>Michael Als</strong> was a labor movement pioneer, a politician, and a writer."],
 		"books": [
 			{
 				"pub_year": "1965",
@@ -283,7 +283,7 @@ export default function () {
 			{
 				"pub_year": "2006",
 				"title": "The Underclass",
-				"summary": ["Though set in Trinidad, this novel unveils the hardships experienced by the underclass everywhere. (Publisher's synopsis)"],
+				"summary": ["Though set in Trinidad, this novel unveils the hardships experienced by the underclass everywhere. <i>(Publisher's synopsis)</i>"],
 				"editions": [
 					{
 						"pub_info": "Port of Spain: StarApple Publishing, 2006."
@@ -319,8 +319,8 @@ export default function () {
 		"birth_year": "1950",
 		"death_year": "",
 		"bio": [
-			"Julia Alvarez is a Dominican-American poet, novelist, and essayist. Many literary critics regard her to be one of the most significant Latina writers and she has achieved critical and commercial success on an international scale.",
-			"Born in New York, she spent the first ten years of her childhood in the Dominican Republic, until her father’s involvement in a political rebellion forced her family to flee the country. (Wikipedia)",
+			"<strong>Julia Alvarez</strong> is a Dominican-American poet, novelist, and essayist. Many literary critics regard her to be one of the most significant Latina writers and she has achieved critical and commercial success on an international scale.",
+			"Born in New York, she spent the first ten years of her childhood in the Dominican Republic, until her father’s involvement in a political rebellion forced her family to flee the country. <i>(Wikipedia)</i>",
 			"Alvarez won the National Medal of Arts (an award created by the United States Congress) in 2014."
 		],
 		"books": [
@@ -468,7 +468,7 @@ export default function () {
 			{
 				"pub_year": "2001",
 				"title": "A Cafecito Story",
-				"summary": ["An 'eco-fable' based on the author's and her husband's experiences trying to reclaim a small coffee farm in her native Dominican Republic. (Publisher's synopsis)"],
+				"summary": ["An 'eco-fable' based on the author's and her husband's experiences trying to reclaim a small coffee farm in her native Dominican Republic. <i>(Publisher's synopsis)</i>"],
 				"editions": [
 					{
 						"pub_info": "White River Junction, Vermont: Chelsea Green Publishing, 2001.",
@@ -502,7 +502,9 @@ export default function () {
 			{
 				"pub_year": "2004",
 				"title": "Finding Miracles",
-				"summary": ["A novel for young adults. Milly Kaufman is an ordinary American teenager living in Vermont—until she meets Pablo, a new student at her high school.... (Publisher's synopsis)"],
+				"summary": [
+					"A novel for young adults. Milly Kaufman is an ordinary American teenager living in Vermont—until she meets Pablo, a new student at her high school.... <i>(Publisher's synopsis)</i>"
+				],
 				"editions": [
 					{
 						"pub_info": "New York: Alfred A. Knopf, 2004.",
@@ -687,13 +689,17 @@ export default function () {
 		"birth_country": "Jamaica",
 		"birth_year": "1900",
 		"death_year": "2000",
-		"bio": ["A renaissance man, Anderson travelled widely during a long and distinguished medical career with the British Colonial Medical Service as Director of Medical Services for British Honduras and then in private practice in Jamaica. A brilliant scholar and life-long student, he won innumerable prizes and scholarships which included studies in Public Health in Rome and Malariology in Greece and Albania. In 1935 he was elected a Fellow of the Royal Society of Tropical Medicine and Hygiene and in 1947 was decorated by King George VI as an Officer of the British Empire for his services to British Honduras. He was a member of the first Provisional Council that established the University of the West Indies. He was Secretary and then President of the British Medical Association - Jamaica Branch. He was also a member of P. E. N., and the author of a novel, <em>Sudden Glory</em>, which was published when he was in his eighties."],
+		"bio": [
+			"A renaissance man, <em>Vernon F. Anderson</em> travelled widely during a long and distinguished medical career with the British Colonial Medical Service as Director of Medical Services for British Honduras and then in private practice in Jamaica. A brilliant scholar and life-long student, he won innumerable prizes and scholarships which included studies in Public Health in Rome and Malariology in Greece and Albania.",
+			"In 1935, Anderson was elected a Fellow of the Royal Society of Tropical Medicine and Hygiene and in 1947 was decorated by King George VI as an Officer of the British Empire for his services to British Honduras. He was a member of the first Provisional Council that established the University of the West Indies. He was Secretary and then President of the British Medical Association - Jamaica Branch.",
+			"Anderson was also a member of P. E. N., and the author of the novel <em>Sudden Glory</em>, which was published when he was in his eighties."
+		],
 		"books": [
 			{
 				"pub_year": "1987",
 				"title": "Sudden Glory",
 				"summary": [
-					"A novel set in Guatemala that tells of a team of archaeologists who have come to study Mayan ruins. Enveloped in the forest, they confront an unfamiliar, violent world, which cuts them off from civilization and brings them face to face with a terrible and profound crisis. <em>(Heinemann synopsis)</em>"
+					"A novel set in Guatemala that tells of a team of archaeologists who have come to study Mayan ruins. Enveloped in the forest, they confront an unfamiliar, violent world, which cuts them off from civilization and brings them face to face with a terrible and profound crisis. <i>(Heinemann synopsis)</i>"
 				],
 				"editions": [
 					{
@@ -733,17 +739,17 @@ export default function () {
 		"birth_year": "1957",
 		"death_year": "",
 		"bio": [
-			"Adisa Jelani Andwele was born Michael Richards in the village of Rockhall, St Thomas, one of the first free villages in Barbados.",
+			"<strong>Adisa Jelani Andwele</strong> was born Michael Richards in the village of Rockhall, St Thomas, one of the first free villages in Barbados.",
 			"Known as AJA, he is a New York-based multi-dimensional artiste and social advocate. He is a Performance Poet, Public Speaker, Humanitarian and Events Planner & Coordinator.",
 			"He has performed around the world; gives dynamic & engaging presentations; produces the carnival in Barbados during the Crop Over Festival and other cultural events; and executes humanitarian projects in Barbados, the Caribbean and Sierra Leone.",
-			"He has been recognized by the UN as the UNDP Spokesperson for Peace & Poverty Eradication for Barbados and the Eastern Caribbean; a UNWomen Partner for Peace; and is a member of the United Nations Secretary-General's Network of Men Leaders - promoting and mobilizing activities for the 'UNiTE: End Violence against Women' Campaign. <em>(LinkedIn profile)</em>"
+			"He has been recognized by the UN as the UNDP Spokesperson for Peace & Poverty Eradication for Barbados and the Eastern Caribbean; a UNWomen Partner for Peace; and is a member of the United Nations Secretary-General's Network of Men Leaders - promoting and mobilizing activities for the 'UNiTE: End Violence against Women' Campaign. <i>(LinkedIn profile)</i>"
 			],
 		"books": [
 			{
 				"pub_year": "2002",
 				"title": "Antiquity",
 				"summary": [
-					"Antiquity has two sections: 'Words', which brings together poems written over the past twenty years, and 'Chants', which includes the songs AJA has been performing to enthusiastic audiences across the Caribbean, North America, Europe and South Africa. These are poems and songs of a radical Black consciousness, Barbadian to the core, but reaching out to chant down injustice and economic oppression wherever they exist. <em>(Publisher's synopsis)</em>"
+					"Antiquity has two sections: 'Words', which brings together poems written over the past twenty years, and 'Chants', which includes the songs AJA has been performing to enthusiastic audiences across the Caribbean, North America, Europe and South Africa. These are poems and songs of a radical Black consciousness, Barbadian to the core, but reaching out to chant down injustice and economic oppression wherever they exist. <i>(Publisher's synopsis)</i>"
 				],
 				"editions": [
 					{
@@ -782,16 +788,16 @@ export default function () {
 		"birth_year": "1932",
 		"death_year": "",
 		"bio": [
-			"Michael Anthony is an eminent Caribbean author and historian, who has been named one of the '50 most influential people in Trinidad and Tobago'.",
+			"<strong>Michael Anthony</strong> is an eminent Caribbean author and historian, who has been named one of the '50 most influential people in Trinidad and Tobago'.",
 			"In his five-decade career, Anthony has had over 25 titles published, including novels, collections of short fiction, books for younger readers, travelogues and histories.",
-			"In 1979 Michael Anthony was awarded the Hummingbird Medal (Gold) for his contributions to Literature, and he received an honorary doctorate from the University of the West Indies (UWI) in 2003. <em>(Wikipedia)</em>"
+			"In 1979 Michael Anthony was awarded the Hummingbird Medal (Gold) for his contributions to Literature, and he received an honorary doctorate from the University of the West Indies (UWI) in 2003. <i>(Wikipedia)</i>"
 		],
 		"books": [
 			{
 				"pub_year": "1963",
 				"title": "The Games Were Coming",
 				"summary": [
-					"Leon is in training for the great bicycle race in the Southern Games in Trinidad. He is so obsessed by the race that he has dismissed everybody in his life, even his girlfriend Sylvia. But she makes sure it doesn't stop there. <em>(Heinemann synopsis)</em>"
+					"Leon is in training for the great bicycle race in the Southern Games in Trinidad. He is so obsessed by the race that he has dismissed everybody in his life, even his girlfriend Sylvia. But she makes sure it doesn't stop there. <i>(Heinemann synopsis)</i>"
 				],
 				"editions": [
 					{
@@ -818,7 +824,7 @@ export default function () {
 				"pub_year": "1965",
 				"title": "The Year in San Fernando",
 				"summary": [
-					"Twelve-year-old Francis gets a chance to go for a year to San Fernando to work as a servant-companion to old Mrs. Chandler, but he has never seen a town before or been away from the warmth of his family. <em>(Heinemann synopsis)</em>"
+					"Twelve-year-old Francis gets a chance to go for a year to San Fernando to work as a servant-companion to old Mrs. Chandler, but he has never seen a town before or been away from the warmth of his family. <i>(Heinemann synopsis)</i>"
 				],
 				"editions": [
 					{
@@ -840,7 +846,7 @@ export default function () {
 				"pub_year": "1967",
 				"title": "Green Days by the River",
 				"summary": [
-					"Another perceptive novel about a boy on the edge of adult responsibilities. It is the story of Shellie, a Trinidad & Tobagoian boy who moves to a new village and there meets two girls. He is charmed by Rosalie but he is attracted to the more cheerful and accessible Joan. <em>(Heinemann synopsis)</em>"
+					"Another perceptive novel about a boy on the edge of adult responsibilities. It is the story of Shellie, a Trinidad & Tobagoian boy who moves to a new village and there meets two girls. He is charmed by Rosalie but he is attracted to the more cheerful and accessible Joan. <i>(Heinemann synopsis)</i>"
 				],
 				"editions": [
 					{
@@ -884,7 +890,7 @@ export default function () {
 				"pub_year": "1973",
 				"title": "Cricket in the Road",
 				"summary": [
-					"These stories are told with the freshness and directness one has come to expect of Michael Anthony. They are all set in Trinidad & Tobago and one of them, 'Enchanted Alley,' was the crystallizing of an idea that led Anthony to write The Year in San Fernando. <em>(Heinemann synopsis)</em>"
+					"These stories are told with the freshness and directness one has come to expect of <strong>Michael Anthony</strong>. They are all set in Trinidad & Tobago and one of them, 'Enchanted Alley,' was the crystallizing of an idea that led Anthony to write The Year in San Fernando. <i>(Heinemann synopsis)</i>"
 				],
 				"editions": [
 					{
@@ -903,7 +909,7 @@ export default function () {
 				"pub_year": "1974",
 				"title": "King of the Masquerade",
 				"summary": [
-					"This story is about a Trinidadian family, the Broomleys. The parents do not approve of the Carnival spirit, but their son Alan makes secret plans to take part in a big Carnival competition on the Savannah in Port of Spain. <em>(Publisher's synopsis)</em>"
+					"This story is about a Trinidadian family, the Broomleys. The parents do not approve of the Carnival spirit, but their son Alan makes secret plans to take part in a big Carnival competition on the Savannah in Port of Spain. <i>(Publisher's synopsis)</i>"
 				],
 				"editions": [
 					{
@@ -972,6 +978,17 @@ export default function () {
 				]
 			},
 			{
+				"pub_year": "2005",
+				"title": "Caribbean Folk Tales and Fantasies",
+				"summary": ["Reissue of the 1976 title <em>Folk Tales and Fantasies</em>."],
+				"editions": [
+					{
+						"pub_info": "Oxford: Macmillan Caribbean, 2005.",
+						"binding": "Trade paperback."
+					}
+				]
+			},
+			{
 				"pub_year": "1978",
 				"title": "The Making of Port of Spain, Volume 1",
 				"summary": [""],
@@ -997,7 +1014,7 @@ export default function () {
 				"pub_year": "1981",
 				"title": "All That Glitters",
 				"summary": [
-					"Who has stolen the glittering gold chain? Michael Anthony again returns to Trinidad and Tobago and to a world of growing up which has enchanted so many. <em>(Heinemann synopsis)</em>"
+					"Who has stolen the glittering gold chain? <strong>Michael Anthony</strong> again returns to Trinidad and Tobago and to a world of growing up which has enchanted so many. <i>(Heinemann synopsis)</i>"
 				],
 				"editions": [
 					{
@@ -1154,7 +1171,7 @@ export default function () {
 			{
 				"pub_year": "1996",
 				"title": "In the Heat of the Day",
-				"summary": ["Tension and action intensify this novel, which is based on the historical facts surrounding Trinidad's Water Riots on March 23, 1903, a seminal event in the island's struggle for independence from Britain. <em>(Heinemann synopsis)</em>"],
+				"summary": ["Tension and action intensify this novel, which is based on the historical facts surrounding Trinidad's Water Riots on March 23, 1903, a seminal event in the island's struggle for independence from Britain. <i>(Heinemann synopsis)</i>"],
 				"editions": [
 					{
 						"pub_info": "Oxford; Portsmouth, NH: Heinemann, 1996.",
@@ -1185,7 +1202,7 @@ export default function () {
 				"pub_year": "2001",
 				"title": "High Tide of Intrigue",
 				"summary": [
-					"<em>High Tide of Intrigue</em> is both a racy thriller and a foray into the world of drugs, corruption, and the triumph of good sense and integrity over weakness and self-interest. The setting, Trinidad, and the theme of drugs draw attention to the position of the region as a staging post in the international drugs trade. Police officer Maureen Mason-Adams is unswerving in her commitment to the fight against drugs. When she discovers that fellow officers, including her husband, are in league with Trinidadian and Grenadian drug runners, the clean-up campaign becomes a personal crusade. At risk to her life, Maureen embarks on an island-hopping investigation of a multimillion-dollar trade conducted by some of the Caribbean's most dangerous men. <em>(Heinemann synopsis)</em>"
+					"<em>High Tide of Intrigue</em> is both a racy thriller and a foray into the world of drugs, corruption, and the triumph of good sense and integrity over weakness and self-interest. The setting, Trinidad, and the theme of drugs draw attention to the position of the region as a staging post in the international drugs trade. Police officer Maureen Mason-Adams is unswerving in her commitment to the fight against drugs. When she discovers that fellow officers, including her husband, are in league with Trinidadian and Grenadian drug runners, the clean-up campaign becomes a personal crusade. At risk to her life, Maureen embarks on an island-hopping investigation of a multimillion-dollar trade conducted by some of the Caribbean's most dangerous men. <i>(Heinemann synopsis)</i>"
 				],
 				"editions": [
 					{
@@ -1207,18 +1224,7 @@ export default function () {
 						"pages": "806 pages. Fold-out map."
 					}
 				]
-			},
-			{
-				"pub_year": "2005",
-				"title": "Caribbean Folk Tales and Fantasies",
-				"summary": ["Reissue of the 1976 title <em>Folk Tales and Fantasies</em>."],
-				"editions": [
-					{
-						"pub_info": "Oxford: Macmillan Caribbean, 2005.",
-						"binding": "Trade paperback."
-					}
-				]
-			},
+			}
 		]
 	},
 	{
@@ -1228,7 +1234,7 @@ export default function () {
 		"birth_year": "",
 		"death_year": "",
 		"bio": [
-			"Brian Antoni was born in Detroit, Michigan but was raised in Freeport, Bahamas. His parents are from Trinidad. His sister is Janine Antoni a well known Bahamian artist. His brother Robert Antoni is a well known Caribbean writer. <em>(Wikipedia)</em>"
+			"<strong>Brian Antoni</strong> was born in Detroit, Michigan but was raised in Freeport, Bahamas. His parents are from Trinidad. His sister is Janine Antoni a well known Bahamian artist. His brother Robert Antoni is a well known Caribbean writer. <i>(Wikipedia)</i>"
 		],
 		"books": [
 			{
@@ -1268,7 +1274,7 @@ export default function () {
 		"birth_year": "1958",
 		"death_year": "",
 		"bio": [
-			"Robert Antoni was born in the United States of Trinidadian parents and grew up largely in the Bahamas, where his father practised medicine. He says his 'fictional world' is 'Corpus Christi,' the invented island (based on Trinidad) that he introduced in his first novel, <em>Divina Trace</em>. <em>(Wikipedia)</em>"
+			"<strong>Robert Antoni</strong> was born in the United States of Trinidadian parents and grew up largely in the Bahamas, where his father practised medicine. He says his 'fictional world' is 'Corpus Christi,' the invented island (based on Trinidad) that he introduced in his first novel, <em>Divina Trace</em>. <i>(Wikipedia)</i>"
 		],
 		"books": [
 			{
@@ -1304,7 +1310,7 @@ export default function () {
 				"pub_year": "1997",
 				"title": "Blessed is the Fruit",
 				"summary": [
-					"Lilla is the white mistress of a once grand but now now rotting colonial mansion and Vel, her black servant. The two West Indian women, both 33 years of age, have lived in the same house for 10 years, but it is not until Lilla rescues Vel from a near-fatal abortion attempt, that the two really get to know each other. <em>(Publisher's synopsis)</em>"
+					"Lilla is the white mistress of a once grand but now now rotting colonial mansion and Vel, her black servant. The two West Indian women, both 33 years of age, have lived in the same house for 10 years, but it is not until Lilla rescues Vel from a near-fatal abortion attempt, that the two really get to know each other. <i>(Publisher's synopsis)</i>"
 				],
 				"editions": [
 					{
@@ -1322,7 +1328,7 @@ export default function () {
 				"pub_year": "2000",
 				"title": "My Grandmother's Erotic Folktales",
 				"summary": [
-					"A brilliantly seductive collection of folktales retold by an exotic grandmother to her innocent young grandson. Set amid the lush landscape of Corpus Christi during World War II, these erotic tales were originally meant to keep the U.S. servicemen out of the brothels -- and out of trouble. <em>(Publisher's synopsis)</em>"
+					"A brilliantly seductive collection of folktales retold by an exotic grandmother to her innocent young grandson. Set amid the lush landscape of Corpus Christi during World War II, these erotic tales were originally meant to keep the U.S. servicemen out of the brothels -- and out of trouble. <i>(Publisher's synopsis)</i>"
 				],
 				"editions": [
 					{
@@ -1345,7 +1351,7 @@ export default function () {
 				"pub_year": "2005",
 				"title": "Carnival",
 				"summary": [
-					"This ambitious third novel takes us on an expedition that stretches from contemporary New York City to the glitter of Trinidadian Carnival, and deep into the island's mountainous interior. <em>(Publisher's synopsis)</em>"
+					"This ambitious third novel takes us on an expedition that stretches from contemporary New York City to the glitter of Trinidadian Carnival, and deep into the island's mountainous interior. <i>(Publisher's synopsis)</i>"
 				],
 				"editions": [
 					{
@@ -1431,8 +1437,8 @@ export default function () {
 		"birth_year": "1943",
 		"death_year": "1990",
 		"bio": [
-			"Rienaldo Arenas was born in Holguin, Cuba in 1943. The most widely read post-revolutionary Cuban writer, Arenas is not well-known in his native country due to the suppression there of his writings. He was expelled from Cuba in 1980.",
-			"Although Arenas was diagnosed with AIDS in 1987, he continued to write and speak out against the Cuban government. He died of an intentional overdose of drugs and alcohol on December 7, 1990, in New York City. <em>(Wikipedia)</em>"
+			"<strong>Rienaldo Arenas</strong> was born in Holguin, Cuba in 1943. The most widely read post-revolutionary Cuban writer, Arenas is not well-known in his native country due to the suppression there of his writings. He was expelled from Cuba in 1980.",
+			"Although Arenas was diagnosed with AIDS in 1987, he continued to write and speak out against the Cuban government. He died of an intentional overdose of drugs and alcohol on December 7, 1990, in New York City. <i>(Wikipedia)</i>"
 			],
 		"books": [
 			{
@@ -1467,8 +1473,8 @@ export default function () {
 			{
 				"pub_year": "1971",
 				"title": "Hallucinations",
+				"subtitle": "Being an Account of the Life and Adventures of Friar Servando Teresa De Mier",
 				"summary": [
-					"Being an Account of the Life and Adventures of Friar Servando Teresa De Mier",
 					"English translation of <em>El mundo alucinante</em> (1966).",
 					"Reissued in 1987 as <em>The Ill-Fated Peregrinations of Fray Servando</em>."
 				],
@@ -1669,7 +1675,7 @@ export default function () {
 			},
 			{
 				"pub_year": "1981",
-				"title": "El central: A Cuban Sugar Million",
+				"title": "El central: A Cuban Sugar Mill",
 				"summary": [""],
 				"editions": [
 					{
@@ -1714,7 +1720,7 @@ export default function () {
 				"title": "Farewell to the Sea: A Novel of Cuba",
 				"summary": [
 					"English translation of <em>Otra vez el mar</em> (1982).",
-					"The broad-based tension between Hector, a disillusioned Cuban poet, disenchanted revolutionary, and closet homosexual, and his wife mirror the harsh reality of life under Castro's rule. <em>(Viking synopsis)</em>"
+					"The broad-based tension between Hector, a disillusioned Cuban poet, disenchanted revolutionary, and closet homosexual, and his wife mirror the harsh reality of life under Castro's rule. <i>(Viking synopsis)</i>"
 				],
 				"editions": [
 					{
@@ -1840,7 +1846,7 @@ export default function () {
 				"title": "The Doorman",
 				"summary": [
 					"English translation of <em>El potero</em> (1987).",
-						"Arenas’s first work set in the United States breaks new ground with the story of a young Cuban refugee who becomes a doorman at a luxury apartment building. Oddly alienated from the tenants, he is seduced by their pets, who are determined to revolt against humans and human society. <em>(Grove Press synopsis)</em>"
+						"Arenas’s first work set in the United States breaks new ground with the story of a young Cuban refugee who becomes a doorman at a luxury apartment building. Oddly alienated from the tenants, he is seduced by their pets, who are determined to revolt against humans and human society. <i>(Grove Press synopsis)</i>"
 				],
 				"editions": [
 					{
@@ -1872,7 +1878,7 @@ export default function () {
 						"binding": "Paperback.",
 					},
 					{
-						"pub_info": ": Ediciones Universal, 1995.",
+						"pub_info": "Miami: Ediciones Universal, 1995.",
 						"binding": "Paperback.",
 						"pages": "139 pages."
 					}
@@ -1939,7 +1945,7 @@ export default function () {
 				"title": "The Assault",
 				"summary": [
 					"English translation of <em>El Asalto</em> (1990).",
-					"Arenas concludes his five-novel sequence--a 'secret history of Cuba' and a writer's autobiography--with this allegorical satire. He paints a harrowing yet boldly entertaining Kafka-esque picture of a dehumanized people and the despair of an observer/narrator clinging to sanity. <em>(Viking synopsis)</em>"
+					"Arenas concludes his five-novel sequence--a 'secret history of Cuba' and a writer's autobiography--with this allegorical satire. He paints a harrowing yet boldly entertaining Kafka-esque picture of a dehumanized people and the despair of an observer/narrator clinging to sanity. <i>(Viking synopsis)</i>"
 				],
 				"editions": [
 					{
@@ -2082,7 +2088,7 @@ export default function () {
 		"birth_year": "1942",
 		"death_year": "",
 		"bio": [
-			"Kevyn Arthur was born in Barbados in 1942 and spent his boyhood in Trinidad and Barbados. Some of his early fiction and poetry was published in Bim. He was a member of Derek Walcott’s Theatre Workshops. Arthur divides his time between Barbados, Trinidad, and the U.S.A."
+			"<strong>Kevyn Arthur</strong> was born in Barbados in 1942 and spent his boyhood in Trinidad and Barbados. Some of his early fiction and poetry was published in <em>Bim</em>. He was a member of Derek Walcott’s Theatre Workshops. Arthur divides his time between Barbados, Trinidad, and the U.S.A."
 			],
 		"books": [
 			{
@@ -2275,7 +2281,6 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Jesperson Press",
 						"pub_info": "St. John's, NF: Jesperson Press, 1988."
 					}
 				]
@@ -2286,7 +2291,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Jesperson Press",
 						"pub_info": "St. John's, NF: Jesperson Press, 19??."
 					}
 				]
@@ -2309,7 +2313,6 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Heinemann",
 						"pub_info": "Oxford: Heineman,1996."
 					}
 				]
@@ -2320,7 +2323,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Heinemann",
 						"pub_info": "Oxford: Heineman,1997."
 					}
 				]
@@ -2341,7 +2343,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Privately Printed",
 						"pub_info": "Paris: [Privately Printed], 1966"
 					}
 				]
@@ -2352,11 +2353,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Longman",
 						"pub_info": "London: Longman, 1967."
 					},
 					{
-						"publisher": "Howard University Press",
 						"pub_info": "Washington, DC: Howard University Press, 1974."
 					}
 				]
@@ -2367,7 +2366,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Paul Breman",
 						"pub_info": "Paul Breman, ????"
 					}
 				]
@@ -2378,7 +2376,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Fourth Dimension Publishers",
 						"pub_info": "Fourth Dimension Publishers, ????"
 					}
 				]
@@ -2399,7 +2396,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Fleet",
 						"pub_info": "New York: Fleet, 1966."
 					}
 				]
@@ -2418,33 +2414,12 @@ export default function () {
 				"pub_year": "1986",
 				"title": "Apata",
 				"summary": [
-					"In 1959, the year Queen Elizabeth of England visited the country, newspapers in British Guiana reported a manhunt taking place deep within the forest. Apata is an imaginative reconstruction of the life of the man at its center, a charismatic young Guianese whose hopes of a brilliant future are frustrated by the color of his skin. Despite his obvious abilities, he cannot complete his education, and is forced instead to take up ignominious work for Glenn, a white homosexual trader. Trapped by a system of prejudices, and deeply humiliated, Apata is pushed into a cycle of crime that leads to the life of a fugitive, and a grisly demise. Harold Bascom's Apata is the story of victims and outcasts everywhere, a gripping adventure that confronts a confusing and hurtful period when different cultures collided. (Heinemann synopsis)"
+					"In 1959, the year Queen Elizabeth of England visited the country, newspapers in British Guiana reported a manhunt taking place deep within the forest. <em>Apata</em> is an imaginative reconstruction of the life of the man at its center, a charismatic young Guianese whose hopes of a brilliant future are frustrated by the color of his skin. Despite his obvious abilities, he cannot complete his education, and is forced instead to take up ignominious work for Glenn, a white homosexual trader. Trapped by a system of prejudices, and deeply humiliated, Apata is pushed into a cycle of crime that leads to the life of a fugitive, and a grisly demise.",
+					"<em>Apata</em> is the story of victims and outcasts everywhere, a gripping adventure that confronts a confusing and hurtful period when different cultures collided. <i>(Heinemann synopsis)</i>"
 				],
 				"editions": [
 					{
-						"publisher": "Heinemann",
 						"pub_info": "London: Heinemann, 1986."
-					}
-				]
-			}
-		]
-	},
-	{
-		"last_name": "Bascombe",
-		"first_name": "George",
-		"birth_country": "[unknown]",
-		"birth_year": "",
-		"death_year": "",
-		"bio": [""],
-		"books": [
-			{
-				"pub_year": "1979",
-				"title": "The Preacher and the Strumpet and Other Short Stories",
-				"summary": [""],
-				"editions": [
-					{
-						"publisher": "Vantage",
-						"pub_info": "New York: Vantage, 1979."
 					}
 				]
 			}
@@ -2462,12 +2437,18 @@ export default function () {
 				"pub_year": "1990",
 				"title": "The Mudheads",
 				"summary": [
-					"Set in the colony of British Guiana in the 1930s, The Mudheads gives a compelling insight into the lives of the privileged white elite who had one set of rules for themselves and another for those who took their orders."
+					"Set in the colony of British Guiana in the 1930s, <em>The Mudheads</em> gives a compelling insight into the lives of the privileged white elite who had one set of rules for themselves and another for those who took their orders."
 				],
 				"editions": [
 					{
-						"publisher": "ssociated Publishing Combine",
-						"pub_info": "Warwickshire: Associated Publishing Combine, 1990."
+						"pub_info": "Warwickshire: Associated Publishing Combine, 1990.",
+						"edition": "First edition.",
+						"binding": "Trade paperback.",
+						"pages": "217 pages."
+					},
+					{
+						"pub_info": "Leeds: Peepal Tree Press, 1990.",
+						"binding": "Trade paperback."
 					}
 				]
 			}
@@ -2477,22 +2458,21 @@ export default function () {
 		"last_name": "Behar",
 		"first_name": "Ruth",
 		"birth_country": "Cuba/USA",
-		"birth_year": "",
+		"birth_year": "1956",
 		"death_year": "",
 		"bio": [""],
 		"books": [
 			{
 				"pub_year": "1995",
-				"title": "Bridges to Cuba/Puentes a Cuba (Editor)",
+				"title": "The Vulnerable Observer",
+				"subtitle": "Anthropology That Breaks Your Heart",
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Michigan University Press",
-						"pub_info": "Michigan: Michigan University Press, 1995."
-					},
-					{
-						"publisher": "Michigan University Press",
-						"pub_info": "Michigan: Michigan University Press, 1996. (Paperback)"
+						"pub_info": "Boston: Beacon Press, 1996.",
+						"edition": "First edition.",
+						"binding": "Hardcover in dust jacket.",
+						"pages": "195 pages."
 					}
 				]
 			}
@@ -2501,19 +2481,19 @@ export default function () {
 	{
 		"last_name": "Belasco",
 		"first_name": "Lionel",
-		"birth_country": "[unknown]",
-		"birth_year": "",
+		"birth_country": "Trinidad and Tobago",
+		"birth_year": "1881",
 		"death_year": "1967",
-		"bio": [""],
+		"bio": ["<strong>Lionel Belasco</strong>was a prominent pianist, composer and bandleader, best known for his calypso recordings."],
 		"books": [
 			{
 				"pub_year": "1973",
 				"title": "Strange Happenings: Tales of the Caribbean",
-				"summary": [""],
+				"summary": ["Introduction by Gracita Faulkner."],
 				"editions": [
 					{
-						"publisher": "Law-Arts Publishers",
-						"pub_info": "New York: Law-Arts Publishers, 1973."
+						"pub_info": "New York: Law-Arts Publishers, 1973.",
+						"pages": "87 pages."
 					}
 				]
 			}
@@ -7637,7 +7617,11 @@ export default function () {
 		"birth_country": "Haiti/USA",
 		"birth_year": "1969",
 		"death_year": "",
-		"bio": ["At 12, Edwidge Danticat spoke almost no English. At 26, she has been nominated for one of the most prestigious awards in literature. Her collection of short stories, Krik? Krak!, explores the island of her birth, Haiti, blending its poetry and its tremendous pain. Reached at her Brooklyn home where she lives with her parents, Danticat says she draws on the stories she heard as a little girl. 'We take great pride in our past,' says Danticat in her gently accented English. Her first languages were Creole and French. When she was a toddler, her parents left Haiti to find a better life in the U.S. She stayed with an aunt and uncle until she rejoined them at 12. While her stories are set in contemporary Haiti, Danticat brings in historical characters like the 1790s slave leader Boukman and events like the killings in 1937 at Massacre River (when soldiers in the Dominican Republic slaughtered Haitians). Although she is a U.S. citizen, Danticat remains connected to Haiti, which she has visited recently. Krik? Krak! is being translated into Creole for Haitian radio. Danticat also served as the associate producer of a documentary made by Jonathan Demme about Haitian torture survivors, Courage and Pain. Danticat always wanted to write, but she planned to train as a nurse after she graduated from Barnard College with a degree in French literature. Like many children of emigrants, Danticat felt great pressure to become 'a doctor, a lawyer, an engineer.' Only because she had a scholarship did she attend Brown University to earn an MFA in creative writing instead of attending nursing school. Her much-praised first novel, Breath, Eyes, Memory, was published in 1994. (From USA TODAY - May 1997)"],
+		"bio": [
+			"When <strong>Edwidge Danticat</strong> was a toddler, her parents left Haiti seeking a better life in the U.S. She remained with an aunt and uncle in Haiti until finally rejoining her parents in Brooklyn when she was 12 years old.",
+			"At that time, Danticat spoke almost no English. Her first languages were Creole and French. At age 26, she was nominated for <i>The National Book Award</i> (for <em>Krik? Krak!</em>), and in 1999 she won the <i>American Book Award</i> (for <em>The Farming of Bones</em>).",
+			"Now a U.S. citizen, Danticat always wanted to write, but she planned to train as a nurse after she graduated from Barnard College with a degree in French literature. Like many children of emigrants, Danticat felt great pressure to become 'a doctor, a lawyer, an engineer.' Only because she had a scholarship did she attend Brown University to earn an MFA in creative writing instead of attending nursing school."
+		],
 		"books": [
 			{
 				"pub_year": "1994",
@@ -7645,64 +7629,52 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Soho",
 						"pub_info": "New York: Soho, 1994."
 					},
 					{
-						"publisher": "Abacus",
 						"pub_info": "London: Abacus, 1994."
 					},
 					{
-						"publisher": "Vintage Books",
-						"pub_info": "New York: Vintage Books, 1995. (Paperback)"
+						"pub_info": "New York: Vintage Books, 1995.",
+						"binding": "Paperback."
 					}
 				]
 			},
 			{
 				"pub_year": "1995",
 				"title": "Krik? Krak!",
-				"summary": [""],
+				"summary": [
+					"A collection of short stories exploring the island of her birth, Haiti, blending its poetry and its tremendous pain."
+				],
 				"editions": [
 					{
-						"publisher": "Soho",
 						"pub_info": "New York: Soho, 1995."
 					},
 					{
-						"publisher": "Vintage/Random House",
-						"pub_info": "NewYork: Vintage/Random House, 1996. (Paperback)"
+						"pub_info": "NewYork: Vintage/Random House, 1996.",
+						"binding": "Paperback."
 					}
 				]
 			},
 			{
 				"pub_year": "1998",
 				"title": "The Farming of Bones",
-				"summary": [""],
+				"summary": ["The third book (and second novel) by the acclaimed Haiti-born author."],
 				"editions": [
 					{
-						"publisher": "Soho",
-						"pub_info": "New York: Soho, 1998."
-					}
-				]
-			},
-			{
-				"pub_year": "2000",
-				"title": "Beacon Best of 2000: Great Writing by Women and Men of All Colors and Cultures (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"publisher": "Beacon Press",
-						"pub_info": "Boston: Beacon Press, 2000. (Paperback)"
-					}
-				]
-			},
-			{
-				"pub_year": "2001",
-				"title": "The Butterfly's Way: Voices from the Haitian Dyaspora in the United States (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"publisher": "Soho",
-						"pub_info": "New York: Soho, 2001. (Paperback)"
+						"pub_info": "[New York] Soho [1998].",
+						"binding": "Hardcover in dust jacket.",
+						"size": "8vo (5 7/8 in x 8 1/2 in).",
+						"pages": "312 pages.",
+						"img_file": "DanticatFarming1-300.jpg",
+						"description": "",
+						"copies": [
+							{
+								"features": "Signed and dated (10/15/98) by the author while on tour to promote the book's publication.",
+								"condition": "Near fine in boards and dust jacket. There is minor sunning to the spine of the dust jacket. The book's pages are clean and unmarked, and the binding is very tight.",
+								"price": "US$17.50"
+							}
+						]
 					}
 				]
 			},
@@ -7723,7 +7695,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Orchard Books",
 						"pub_info": "New York: Orchard Books, 2002."
 					}
 				]
@@ -7734,7 +7705,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Knopf",
 						"pub_info": "New York: Knopf, 2004."
 					}
 				]
@@ -7745,7 +7715,6 @@ export default function () {
 				"summary": ["A young adult novel. Part of 'The Royal Diaries' series"],
 				"editions": [
 					{
-						"publisher": "Scholastic",
 						"pub_info": "Scholastic, 2005."
 					}
 				]
@@ -7756,7 +7725,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Princeton University Press",
 						"pub_info": "Princeton University Press, 2010."
 					}
 				]
@@ -7767,7 +7735,6 @@ export default function () {
 				"summary": ["The title character of this novel is a 7-year-old girl who goes missing in the first chapter and stays missing until the very last pages, as a portrait of the village of Ville Rose's sometimes beautiful, sometimes brutal reality is painted, and a collision of fates inches closer."],
 				"editions": [
 					{
-						"publisher": "Knopf",
 						"pub_info": "New York: Knopf, 2013."
 					}
 				]
@@ -7778,7 +7745,6 @@ export default function () {
 				"summary": ["An illustrated childrens' book. A touching tale of parent-child separation and immigration."],
 				"editions": [
 					{
-						"publisher": "dialect Books",
 						"pub_info": "New York: Dial Books, 2015."
 					}
 				]
@@ -7789,7 +7755,6 @@ export default function () {
 				"summary": ["A young adult novel. A haunting and mesmerizing story about sisterhood, family, love, and loss."],
 				"editions": [
 					{
-						"publisher": "Scholastic Press",
 						"pub_info": "Scholastic Press, 2015."
 					}
 				]
@@ -10034,26 +9999,53 @@ export default function () {
 		"last_name": "Glissant",
 		"first_name": "Edouard",
 		"birth_country": "Martinique",
-		"birth_year": "",
-		"death_year": "",
-		"bio": ["Edouard Glissant, poet as well as novelist, was born in Martinique in 1928. La Lezarde was first awarded the Prix Renaudot when it was published in Paris in 1958."],
+		"birth_year": "1928",
+		"death_year": "2011",
+		"bio": [
+			"<strong>Edouard Glissant</strong>, poet as well as novelist, was born in Martinique in 1928. He was shortlisted for the Nobel Prize in Literature in 1992."
+		],
 		"books": [
 			{
 				"pub_year": "1958",
-				"title": "The Ripening",
-				"summary": ["Originally published in French under the title La lezarde. This extraordinary novel tells the story of the rise to political maturity of eight young Martinicans, and their plans to stage a political murder. Concerned for the justice of the forthcoming elections, they fix upon a government agent who stands in the way of the people. They determine to kill him and, as their instrument, they choose Thael, an unsophisticated shepherd from the hills. (Heinemann synopsis)"],
+				"title": "La lezarde",
+				"summary": [
+					"The author's first novel, <em>La lezarde</em> was awarded the <i>Prix Renaudot</i>.",
+					"English translation <em>The Ripening</em> issued in 1959."
+				],
 				"editions": [
 					{
-						"publisher": "George Braziller",
-						"pub_info": "Paris: Editions Du Seuil, 1958."
+						"pub_info": "Paris: Editions du Seuil, 1958.",
+						"edition": "First edition."
+					}
+				]
+			},
+			{
+				"pub_year": "1958",
+				"title": "The Ripening",
+				"summary": [
+					"English translation of <em>La lezarde</em> (1958).",
+					"This extraordinary novel tells the story of the rise to political maturity of eight young Martinicans, and their plans to stage a political murder. Concerned for the justice of the forthcoming elections, they fix upon a government agent who stands in the way of the people. They determine to kill him and, as their instrument, they choose Thael, an unsophisticated shepherd from the hills. <i>(Heinemann synopsis)</i>"
+				],
+				"editions": [
+					{
+						"pub_info": "New York: George Braziller, 1959.",
+						"edition": "First English Language edition.",
+						"binding": "Hardcover in dust jacket.",
+						"size": "8vo (5 3/4 in x 8 1/2 in).",
+						"pages": "253 pages.",
+						"img_file": "GlissantRipening1-300.jpg",
+						"description": "",
+						"copies": [
+							{
+								"features": "",
+								"condition": "Very good in cloth-covered boards and very good dust jacket. This is a nice copy of this book. The top right edge of the front board is scuffed, and the rear endpaper and pastedown are separated at the top 3/8 inch. The dust jacket is a bit sunned at the spine and edges, and lightly soiled on the back panel, with a stain and closed edge tears on the back panel as well. Otherwise, the pages are clean and unmarked, and the binding is tight.",
+								"price": "US$50.00"
+							}
+						]
 					},
 					{
-						"publisher": "George Braziller",
-						"pub_info": "New York: George Braziller, 1959."
-					},
-					{
-						"publisher": "Heinemann",
-						"pub_info": "Heinemann, 1985."
+						"pub_info": "London: Heinemann, 1985.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -10063,7 +10055,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "France, 1961."
 					},
 					{

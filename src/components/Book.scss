@@ -7,7 +7,12 @@
   .book-title {
     margin-top: 1.5rem;
     margin-bottom: 0;
+    font-family: $font-family-regular-italic;
     font-size: 1.5rem;
+  }
+  .book-subtitle {
+    font-family: $font-family-regular-italic;
+    font-size: 1.1rem;
   }
   .book-summary {
     margin-top: 1rem;
@@ -16,6 +21,15 @@
       margin-top: -.6rem;
       font-size: 1rem;
       line-height: 1.2rem;
+    }
+    strong {
+      font-family: $font-family-regular;
+    }
+    em {
+      font-family: $font-family-regular-italic;
+    }
+    i {
+      font-family: $font-family-light-italic;
     }
   }
 }
