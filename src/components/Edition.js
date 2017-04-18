@@ -35,14 +35,23 @@ class Edition extends Component {
             : null }
           { edition.edition || edition.binding || edition.description || edition.size || edition.pages ?
             <div className="edition-detail">
-              { edition.edition || edition.binding ?
+              { (edition.edition || edition.binding) && !edition.img_file ?
                 <p><span dangerouslySetInnerHTML={{__html: edition.edition}} />&nbsp;{edition.binding}</p>
+              : null }
+              { (edition.edition || edition.binding) && edition.img_file ?
+                <div>
+                  <p><span dangerouslySetInnerHTML={{__html: edition.edition}} /></p>
+                  <p>{edition.binding}</p>
+                </div>
               : null }
               { edition.description ?
                 <p>{edition.description}</p>
               : null }
-              { edition.size || edition.pages ?
+              { (edition.size || edition.pages) && !edition.img_file ?
                 <p>{edition.size}&nbsp;{edition.pages}</p>
+              : null }
+              { (edition.size || edition.pages) && edition.img_file ?
+                <div><p>{edition.size}</p><p>{edition.pages}</p></div>
               : null }
             </div>
           : null }
