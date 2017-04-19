@@ -2,6 +2,10 @@ import React, { Component } from 'react';
 import './Book.css';
 
 class Book extends Component {
+  static propTypes = {
+    book: React.PropTypes.object.isRequired
+  };
+
   render() {
     const book = this.props.book;
     let summary_paragraphs = [];

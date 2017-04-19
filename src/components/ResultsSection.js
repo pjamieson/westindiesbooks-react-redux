@@ -153,14 +153,9 @@ class ResultsSection extends Component {
 
 function mapStateToProps(state) {
   // Whatever is returned will show up in the props of this (ResultsSection)
-  if (state.authors.length > 0) {
-    return {
-      authors: state.authors
-    }
-  } else {
-    // Don't wait for data on initial load
-    return {}
-  }
+  return {
+    authors: state.authors
+  };
 }
 
 // Promote ResultsSection from a React component to a Redux container.

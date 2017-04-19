@@ -2,6 +2,10 @@ import React, { Component } from 'react';
 import './Author.css';
 
 class Author extends Component {
+  static propTypes = {
+    author: React.PropTypes.object.isRequired
+  };
+
   render() {
     const author = this.props.author;
     let bio_paragraphs = [];

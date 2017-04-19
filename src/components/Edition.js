@@ -2,6 +2,10 @@ import React, { Component } from 'react';
 import './Edition.css';
 
 class Edition extends Component {
+  static propTypes = {
+    edition: React.PropTypes.object.isRequired
+  };
+
   render() {
     const edition = this.props.edition;
     const email_href = 'mailto:patrick@westindiesbooks.com?subject='
