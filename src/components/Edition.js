@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './Edition.css';
 
 class Edition extends Component {
+
   static propTypes = {
     edition: React.PropTypes.object.isRequired
   };
@@ -34,31 +35,30 @@ class Edition extends Component {
       <div className="Edition">
         <h6 className="edition-pub-info">{edition.pub_info}</h6>
         <div>
-          {edition.img_file ?
-            <img className="edition-image" src={img_url} alt={edition.pub_info} />
-            : null }
-          { edition.edition || edition.binding || edition.description || edition.size || edition.pages ?
+          {edition.img_file && <img className="edition-image" src={img_url} alt={edition.pub_info} />}
+          {(edition.edition || edition.binding || edition.description || edition.size || edition.pages) &&
             <div className="edition-detail">
-              { (edition.edition || edition.binding) && !edition.img_file ?
+              {((edition.edition || edition.binding) && !edition.img_file) &&
                 <p><span dangerouslySetInnerHTML={{__html: edition.edition}} />&nbsp;{edition.binding}</p>
-              : null }
-              { (edition.edition || edition.binding) && edition.img_file ?
+              }
+              {((edition.edition || edition.binding) && edition.img_file) &&
                 <div>
                   <p><span dangerouslySetInnerHTML={{__html: edition.edition}} /></p>
                   <p>{edition.binding}</p>
                 </div>
-              : null }
-              { edition.description ?
-                <p>{edition.description}</p>
-              : null }
-              { (edition.size || edition.pages) && !edition.img_file ?
+              }
+              {edition.description && <p>{edition.description}</p>}
+              {((edition.size || edition.pages) && !edition.img_file) &&
                 <p>{edition.size}&nbsp;{edition.pages}</p>
-              : null }
-              { (edition.size || edition.pages) && edition.img_file ?
-                <div><p>{edition.size}</p><p>{edition.pages}</p></div>
-              : null }
+              }
+              {((edition.size || edition.pages) && edition.img_file) &&
+                <div>
+                  <p>{edition.size}</p>
+                  <p>{edition.pages}</p>
+                </div>
+              }
             </div>
-          : null }
+          }
           <div className="edition-copies">
             {copies}
           </div>
