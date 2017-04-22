@@ -21,7 +21,7 @@ class Edition extends Component {
             <p>{copy.features}</p>
             <p>{copy.condition}</p>
             <p>
-              <span className="copy-price">{copy.price}</span>
+              <span className="copy-price">US${copy.price}</span>
               <span> To inquire about this copy, email </span>
               <span>
                 <a href={email_href}>West Indies Books</a>
