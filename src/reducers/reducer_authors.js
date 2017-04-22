@@ -153,7 +153,7 @@ export default function () {
 						"pub_info": "Ross-on-Wye, Writers Guild [1958].",
 						"edition": "First edition.",
 						"binding": "Printed wrappers.",
-						"pages": "16 pages."
+						"pages": "16"
 					}
 				]
 			},
@@ -181,12 +181,15 @@ export default function () {
 			{
 				"pub_year": "2014",
 				"title": "Love for an Island: The Collected Poems of Phyllis Shand Allfrey",
-				"summary": ["Edited by Lizabeth Paravisini-Gebert."],
+				"summary": [
+					"Edited by Lizabeth Paravisini-Gebert.",
+					"Includes the four collections of Allfrey's poems published during her lifetime, all the unpublished poems found in her papers, and a sample of the satirical poems from the <i>The Star</i> newspaper in Dominica"
+				],
 				"editions": [
 					{
 						"pub_info": "London and Roseau, Dominica: Papillote Press [2014].",
 						"edition": "First edition.",
-						"binding": "Trade paperback."
+						"binding": "Trade paperback with French-fold wrappers."
 					}
 				]
 			}
@@ -705,7 +708,7 @@ export default function () {
 					{
 						"pub_info": "London: Portsmouth, NH: Heinemann, 1987",
 						"binding": "Mass Market paperback.",
-						"pages": "274 pages."
+						"pages": "274"
 					}
 				]
 			}
@@ -882,7 +885,7 @@ export default function () {
 					{
 						"pub_info": "London: Heinemann Educational, 1973",
 						"edition": "First edition",
-						"pages": "58 pages."
+						"pages": "58"
 					}
 				]
 			},
@@ -899,7 +902,6 @@ export default function () {
 						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"publisher": "Heinemann",
 						"pub_info": "London: Heinemann, 1973.",
 						"binding": "Trade paperback."
 					}
@@ -931,7 +933,7 @@ export default function () {
 						"pub_info": "Port of Spain: Columbus Publishers, 1974.",
 						"edition": "First edition.",
 						"binding": "Trade paperback.",
-						"pages": "140 pages."
+						"pages": "140"
 					}
 				]
 			},
@@ -962,7 +964,7 @@ export default function () {
 					{
 						"pub_info": "Jamaica: Ian Randle, 2007.",
 						"binding": "Trade paperback.",
-						"pages": "192 pages."
+						"pages": "192"
 					}
 				]
 			},
@@ -1021,7 +1023,7 @@ export default function () {
 						"pub_info": "London: Andre Deutsch, 1981.",
 						"edition": "First edition.",
 						"binding": "Hardcover in dust jacket.",
-						"pages": "224 pages."
+						"pages": "224"
 					},
 					{
 						"pub_info": "London: Heinemann, 1983.",
@@ -1064,7 +1066,7 @@ export default function () {
 						"pub_info": "Port-of-Spain: Paria Publishing, 2008.",
 						"edition": "Second edition.",
 						"binding": "Trade paperback.",
-						"pages": "329 pages."
+						"pages": "329"
 					}
 				]
 			},
@@ -1122,7 +1124,7 @@ export default function () {
 						"pub_info": "Port of Spain: Circle Press, 1988.",
 						"edition": "First edition.",
 						"binding": "Trade paperback.",
-						"pages": "342 pages."
+						"pages": "342"
 					}
 				]
 			},
@@ -1194,7 +1196,7 @@ export default function () {
 						"pub_info": "Scarecrow Press, 1997.",
 						"edition": "First edition.",
 						"binding": "Hardcover.",
-						"pages": "688 pages."
+						"pages": "688"
 					}
 				]
 			},
@@ -1221,7 +1223,7 @@ export default function () {
 						"pub_info": "San Fernando: City Council of San Fernando, 2001.",
 						"edition": "First edition.",
 						"binding": "Hardcover in dust jacket.",
-						"pages": "806 pages. Fold-out map."
+						"pages": "806"
 					}
 				]
 			}
@@ -1289,7 +1291,7 @@ export default function () {
 						"pub_info": "London: Robin Clark, 1991.",
 						"edition": "First edition.",
 						"binding": "Hardcover in dust jacket.",
-						"pages": "434 pages."
+						"pages": "434"
 					},
 					{
 						"pub_info": "Woodstock, NY: Overlook [1992].",
@@ -1424,7 +1426,7 @@ export default function () {
 					{
 						"pub_info": "Lusaka: National Educational Company of Zambia, 1978",
 						"edition": "First edition.",
-						"pages": "241 pages."
+						"pages": "241"
 					}
 				]
 			}
@@ -1461,12 +1463,12 @@ export default function () {
 						"pub_info": "México: Editorial Diógenes, 1978.",
 						"edition": "Third edition. (per copyright page)",
 						"binding": "Trade paperback.",
-						"pages": "222 pages."
+						"pages": "222"
 					},
 					{
 						"pub_info": "Barcelona: Editorial Montesinos, 1981.",
 						"binding": "Trade paperback.",
-						"pages": "249 pages."
+						"pages": "249"
 					}
 				]
 			},
@@ -1483,18 +1485,18 @@ export default function () {
 						"pub_info": "New York: Harper & Row, 1971.",
 						"edition": "First U.S. edition.",
 						"binding": "Hardcover in dust jacket.",
-						"pages": "287 pages."
+						"pages": "287"
 					},
 					{
 						"pub_info": "London: Jonathan Cape, 1971.",
 						"edition": "First English edition.",
 						"binding": "Hardcover in dust jacket.",
-						"pages": "287 pages."
+						"pages": "287"
 					},
 					{
 						"pub_info": "Middlesex: Penguin, 1976.",
 						"binding": "Paperback.",
-						"pages": "287 pages."
+						"pages": "287"
 					},
 				]
 			},
@@ -1527,7 +1529,7 @@ export default function () {
 						"pub_info": "La Habana: Ediciones UNEAC, 1967.",
 						"edition": "First edition.",
 						"binding": "Trade paperback.",
-						"pages": "224 pages."
+						"pages": "224"
 					},
 					{
 						"pub_info": "Buenos Aires: Editorial Brújula, 1968.",
@@ -1548,7 +1550,7 @@ export default function () {
 						"pub_info": "Barcelona: Argos Vergara, 1982.",
 						"edition": "First revised edition of <em>Celestino antes del alba</em>.",
 						"binding": "Trade paperback.",
-						"pages": "214 pages."
+						"pages": "214"
 					}
 				]
 			},
@@ -1563,10 +1565,9 @@ export default function () {
 						"pub_info": "New York: Viking, 1987.",
 						"edition": "First U.S. edition of <em>Cantando en el pozo</em>",
 						"binding": "Hardcover in dust jacket.",
-						"pages": "206 pages."
+						"pages": "206"
 					},
 					{
-						"publisher": "Penguin",
 						"pub_info": "New York: Penguin, 1988.",
 						"binding": "Trade paperback."
 					}
@@ -1584,17 +1585,17 @@ export default function () {
 					{
 						"pub_info": "Cuba: Revista Union nª4 año IX, Diciembre 1970 ",
 						"edition": "Primera parte de la novela homómina.",
-						"pages": "174 pages."
+						"pages": "174"
 					},
 					{
 						"pub_info": "Caracas: Monte Avila Editores, 1980.",
 						"binding": "Paperback.",
-						"pages": "397 pages."
+						"pages": "397"
 					},
 					{
 						"pub_info": "Barcelona: Argos Vergara, 1983.",
 						"binding": "Paperback.",
-						"pages": "294 pages."
+						"pages": "294"
 					}
 				]
 			},
@@ -1639,7 +1640,7 @@ export default function () {
 						"pub_info": "Caracas: Libreria Cruz del Sur, 1980.",
 						"edition": "First edition. 3000 numbered copies.",
 						"binding": "Paperback.",
-						"pages": "114 pages."
+						"pages": "114"
 					},
 				]
 			},
@@ -1669,7 +1670,7 @@ export default function () {
 						"pub_info": "Barcelona: Seix Barral, 1981.",
 						"edition": "First edition.",
 						"binding": "Paperback.",
-						"pages": "105 pages."
+						"pages": "105"
 					}
 				]
 			},
@@ -1681,7 +1682,7 @@ export default function () {
 					{
 						"pub_info": "New York: Avon Books, 1981.",
 						"binding": "Paperback.",
-						"pages": "93 pages."
+						"pages": "93"
 					}
 				]
 			},
@@ -1694,7 +1695,7 @@ export default function () {
 						"pub_info": "Barcelona: Seix Barral, 1981.",
 						"edition": "First edition.",
 						"binding": "Paperback.",
-						"pages": "174 pages."
+						"pages": "174"
 					}
 				]
 			},
@@ -1711,7 +1712,7 @@ export default function () {
 						"pub_info": "Barcelona: Editorial Argos Vergara, 1982.",
 						"edition": "First edition.",
 						"binding": "Paperback.",
-						"pages": "420 pages."
+						"pages": "420"
 					}
 				]
 			},
@@ -1761,7 +1762,7 @@ export default function () {
 						"pub_info": "New York: Viking, 2000.",
 						"edition": "First U.S, edition of <em>El color del verano</em>.",
 						"binding": "Hardcover in dust jacket.",
-						"pages": "417 pages."
+						"pages": "417"
 					},
 					{
 						"pub_info": "New York: Penguin Books, 2001.",
@@ -1778,12 +1779,12 @@ export default function () {
 						"pub_info": "Barcelona: Montesinos, 1984.",
 						"edition": "First edition.",
 						"binding": "Paperback.",
-						"pages": "94 pages."
+						"pages": "94"
 					},
 					{
 						"pub_info": "Miami: Ediciones Universal, 2001.",
 						"binding": "Paperback.",
-						"pages": "82 pages."
+						"pages": "82"
 					}
 				]
 			},
@@ -1805,7 +1806,7 @@ export default function () {
 				"editions": [
 					{
 						"pub_info": "México; Argentina: Kosmos Editorial, 1986.",
-						"pages": "264 pages."
+						"pages": "264"
 					},
 					{
 						"pub_info": "Miami: Ediciones Universal, 2001.",
@@ -1827,17 +1828,17 @@ export default function () {
 					{
 						"pub_info": "Málaga: Dador, 1989.",
 						"binding": "Paperback.",
-						"pages": "176 pages."
+						"pages": "176"
 					},
 					{
 						"pub_info": "Miami: Ediciones Universal, 1990.",
 						"binding": "Paperback.",
-						"pages": "158 pages."
+						"pages": "158"
 					},
 					{
 						"pub_info": "Barcelona: Tusquets Editores, 2003.",
 						"binding": "Paperback.",
-						"pages": "248 pages."
+						"pages": "248"
 					}
 				]
 			},
@@ -1853,12 +1854,12 @@ export default function () {
 						"pub_info": "New York: Grove Weidenfeld, 1991.",
 						"edition": "First U.S. edition.",
 						"binding": "Hardcover in dust jacket.",
-						"pages": "191 pages."
+						"pages": "191"
 					},
 					{
 						"pub_info": "New York: Grove Press, 1994.",
 						"binding": "Trade paperback.",
-						"pages": "191 pages."
+						"pages": "191"
 					}
 				]
 			},
@@ -1880,7 +1881,7 @@ export default function () {
 					{
 						"pub_info": "Miami: Ediciones Universal, 1995.",
 						"binding": "Paperback.",
-						"pages": "139 pages."
+						"pages": "139"
 					}
 				]
 			},
@@ -1910,7 +1911,7 @@ export default function () {
 						"pub_info": "Madrid: Editorial Betania, 1989.",
 						"edition": "First edition.",
 						"binding": "Paperback.",
-						"pages": "115 pages."
+						"pages": "115"
 					},
 					{
 						"pub_info": "Adriana Hidalgo Editora, 2001.",
@@ -1930,13 +1931,13 @@ export default function () {
 						"pub_info": "Ediciones Universal, 1990.",
 						"edition": "First edition.",
 						"binding": "Paperback.",
-						"pages": "141 pages."
+						"pages": "141"
 					},
 					{
 						"pub_info": "Barcelona: Tusquets Editores, 2003.",
 						"edition": "First edition.",
 						"binding": "Paperback.",
-						"pages": "200 pages."
+						"pages": "200"
 					}
 				]
 			},
@@ -1970,7 +1971,7 @@ export default function () {
 						"pub_info": "Miami: Ediciones Universal, 1990.",
 						"edition": "First edition.",
 						"binding": "Paperback.",
-						"pages": "153 pages."
+						"pages": "153"
 					}
 				]
 			},
@@ -1983,7 +1984,7 @@ export default function () {
 						"pub_info": "Huelva : Diputación provincial de Huelva, 1991.",
 						"edition": "First edition.",
 						"binding": "Paperback.",
-						"pages": "84 pages."
+						"pages": "84"
 					}
 				]
 			},
@@ -1998,7 +1999,7 @@ export default function () {
 						"pub_info": "Barcelona: Tusquets, 1992.",
 						"edition": "First edition.",
 						"binding": "Paperback.",
-						"pages": "343 pages."
+						"pages": "343"
 					}
 				]
 			},
@@ -2014,7 +2015,7 @@ export default function () {
 						"pub_info": "New York: Viking, 1993",
 						"edition": "First U.S. edition of <em>El Asalto</em>.",
 						"binding": "Hardcover in dust jacket.",
-						"pages": "317 pages."
+						"pages": "317"
 					},
 					{
 						"pub_info": "London: Penguin Books, 1994.",
@@ -2034,7 +2035,7 @@ export default function () {
 						"pub_info": "Paris: Le Serpent à Plumes, 1993.",
 						"edition": "First edition.",
 						"binding": "Paperback.",
-						"pages": "150 pages."
+						"pages": "150"
 					}
 				]
 			},
@@ -2093,9 +2094,9 @@ export default function () {
 		"books": [
 			{
 				"pub_year": "1993",
-				"title": "England and Nowhere (Poems)",
+				"title": "England and Nowhere",
 				"summary": [
-					"Exploring Barbadian and American experience, Kevyn Arthur celebrates Caribbean diversity and the provisionality of life of a 'precarious people' and, dealing with issues of identity with iconoclastic wit, demolishes views which are partial and narrow."
+					"Poems. Exploring Barbadian and American experience, Kevyn Arthur celebrates Caribbean diversity and the provisionality of life of a 'precarious people' and, dealing with issues of identity with iconoclastic wit, demolishes views which are partial and narrow."
 				],
 				"editions": [
 					{
@@ -2134,7 +2135,8 @@ export default function () {
 						"pub_info": "New York: Holt, Rinehart and Winston, 1976."
 					},
 					{
-						"pub_info": "Middlesex: Penguin, 1977. (Paperback)"
+						"pub_info": "Middlesex: Penguin, 1977.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -2160,7 +2162,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "Bantam, 1979. (Paperback)"
+						"pub_info": "Bantam, 1979.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -2170,7 +2173,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "Fontana, 1982. (Paperback)"
+						"pub_info": "Fontana, 1982.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -2183,10 +2187,12 @@ export default function () {
 						"pub_info": "New York: Facts On File, 1982."
 					},
 					{
-						"pub_info": "London: Dragon's World, 1982. (Paperback)"
+						"pub_info": "London: Dragon's World, 1982.",
+						"binding": "Paperback."
 					},
 					{
-						"pub_info": "Toronto: Collins Willow, 1982. (Paperback)"
+						"pub_info": "Toronto: Collins Willow, 1982.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -2236,10 +2242,12 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "London: Bantam, 1987. (Hardcover)"
+						"pub_info": "London: Bantam, 1987.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "London: Corgi Books, 1987. (Paperback)"
+						"pub_info": "London: Corgi Books, 1987.",
+						"binding": "Paperback."
 					}
 				]
 			}
@@ -2286,12 +2294,12 @@ export default function () {
 				]
 			},
 			{
-				"pub_year": "?",
+				"pub_year": "1995",
 				"title": "Out of Darkness",
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "St. John's, NF: Jesperson Press, 19??."
+						"pub_info": "St. John's, NF: Jesperson Press, 1995."
 					}
 				]
 			}
@@ -2309,7 +2317,7 @@ export default function () {
 				"pub_year": "1996",
 				"title": "The Autobiography of Paras P",
 				"summary": [
-					"Paras P. is the most correct person in Trinidad & Tobago, shown by the popularity of his Centre of Correctness. This candid autobiography illustrates how Paras' whole life has been geared to being 'proper', from early days learning the Queen's English to life as the most upright of politicians. Pity that Paras never noticed the laughter and ridicule permeating all the tapes he has of his doings.... Full of wit and wisdom, The Autobiography of Paras P. is a tongue-in-cheek glimpse into the life of one man who honestly believes he is the last bastion of morality in Trinidad & Tobago. (Heinemann synopsis)"
+					"Paras P. is the most correct person in Trinidad & Tobago, shown by the popularity of his Centre of Correctness. This candid autobiography illustrates how Paras' whole life has been geared to being 'proper', from early days learning the Queen's English to life as the most upright of politicians. Pity that Paras never noticed the laughter and ridicule permeating all the tapes he has of his doings.... Full of wit and wisdom, The Autobiography of Paras P. is a tongue-in-cheek glimpse into the life of one man who honestly believes he is the last bastion of morality in Trinidad & Tobago. <i>(Heinemann synopsis)</i>"
 				],
 				"editions": [
 					{
@@ -2361,22 +2369,22 @@ export default function () {
 				]
 			},
 			{
-				"pub_year": "?",
-				"title": "The Conflicting Eye (Poems)",
-				"summary": [""],
+				"pub_year": "1973",
+				"title": "The Conflicting Eye",
+				"summary": ["Poems."],
 				"editions": [
 					{
-						"pub_info": "Paul Breman, ????"
+						"pub_info": "London: Paul Breman, 1973"
 					}
 				]
 			},
 			{
-				"pub_year": "?",
+				"pub_year": "1985",
 				"title": "Veils of Vengeance Falling",
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "Fourth Dimension Publishers, ????"
+						"pub_info": "Enugu, Nigeria: Fourth Dimension Publishers, 1985"
 					}
 				]
 			}
@@ -2444,7 +2452,7 @@ export default function () {
 						"pub_info": "Warwickshire: Associated Publishing Combine, 1990.",
 						"edition": "First edition.",
 						"binding": "Trade paperback.",
-						"pages": "217 pages."
+						"pages": "217"
 					},
 					{
 						"pub_info": "Leeds: Peepal Tree Press, 1990.",
@@ -2472,7 +2480,7 @@ export default function () {
 						"pub_info": "Boston: Beacon Press, 1996.",
 						"edition": "First edition.",
 						"binding": "Hardcover in dust jacket.",
-						"pages": "195 pages."
+						"pages": "195"
 					}
 				]
 			}
@@ -2493,7 +2501,7 @@ export default function () {
 				"editions": [
 					{
 						"pub_info": "New York: Law-Arts Publishers, 1973.",
-						"pages": "87 pages."
+						"pages": "87"
 					}
 				]
 			}
@@ -2513,11 +2521,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Heinemann",
 						"pub_info": "Oxford: Heinemann, 1988."
 					},
 					{
-						"publisher": "Heinemann",
 						"pub_info": "Portsmouth, New Hampshire: Heinemann, 1988."
 					}
 				]
@@ -2538,7 +2544,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Phoenix Press",
 						"pub_info": "London: Phoenix Press, 1961 (?)."
 					}
 				]
@@ -2549,7 +2554,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Heinemann",
 						"pub_info": "London: Heinemann, 1973."
 					}
 				]
@@ -2570,7 +2574,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "1942"
 					}
 				]
@@ -2581,7 +2584,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "1943"
 					}
 				]
@@ -2592,7 +2594,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "1944"
 					}
 				]
@@ -2602,7 +2603,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "The Gleaner Co.",
 						"pub_info": "Kingston: The Gleaner Co., [1948]"
 					}
 				]
@@ -2613,7 +2613,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "1949"
 					}
 				]
@@ -2624,7 +2623,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Kingston: Pioneer Press",
 						"pub_info": "1950"
 					}
 				]
@@ -2635,7 +2633,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "1952"
 					}
 				]
@@ -2646,7 +2643,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Pioneer Press",
 						"pub_info": "Kingston: Pioneer Press, 1957."
 					}
 				]
@@ -2657,7 +2653,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "1961"
 					}
 				]
@@ -2668,7 +2663,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Sangster's Book Stores",
 						"pub_info": "Jamaica: Sangster's Book Stores, 1966."
 					}
 					]
@@ -2679,7 +2673,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Sangster's",
 						"pub_info": "Kingston: Sangster's, 1979"
 					}
 				]
@@ -2690,7 +2683,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Jamaica School of Art ",
 						"pub_info": "Jamaica School of Art , 1981"
 					}
 				]
@@ -2700,7 +2692,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "1982"
 					}
 				]
@@ -2711,7 +2702,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Sangster's",
 						"pub_info": "Kingston: Sangster's, 1993"
 					}
 				]
@@ -2730,19 +2720,18 @@ export default function () {
 		"books": [
 			{
 				"pub_year": "1976",
-				"title": "Bluefoot Traveller (Poems)",
-				"summary": [""],
+				"title": "Bluefoot Traveller",
+				"summary": ["St. John's, NF: Jesperson Press, 1988."],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "1976"
 					}
 				]
 			},
 			{
 				"pub_year": "1979",
-				"title": "Fractured Circles (Poems)",
-				"summary": [""],
+				"title": "Fractured Circles",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "1979"
@@ -2751,8 +2740,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1982",
-				"title": "Lucy's Letters and Loving (Poems)",
-				"summary": [""],
+				"title": "Lucy's Letters and Loving",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "1982"
@@ -2761,11 +2750,12 @@ export default function () {
 			},
 			{
 				"pub_year": "1985",
-				"title": "Chain of Days (Poems)",
-				"summary": [""],
+				"title": "Chain of Days",
+				"summary": ["Poems."],
 				"editions": [
 					{
-						"pub_info": "Oxford University Press, 1985. (Paperback)"
+						"pub_info": "Oxford University Press, 1985.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -2777,20 +2767,18 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Hamish Hamilton",
 						"pub_info": "London: Hamish Hamilton, 1987."
 					},
 					{
-						"publisher": "Orchard Books",
 						"pub_info": "New York: Orchard Books [1988]."
 					},
 					{
-						"publisher": "Puffin Books",
-						"pub_info": "London: Puffin Books, 1989. (Paperback)"
+						"pub_info": "London: Puffin Books, 1989.",
+						"binding": "Paperback."
 					},
 					{
-						"publisher": "Viking",
-						"pub_info": "New York: Viking, 1990. (Paperback)"
+						"pub_info": "New York: Viking, 1990.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -2802,28 +2790,24 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Walker Books",
 						"pub_info": "London: Walker Books, 1988."
 					},
 					{
-						"publisher": "Henry Holt & Co.",
 						"pub_info": "New York: Henry Holt & Co., 1989."
 					}
 				]
 			},
 			{
 				"pub_year": "1988",
-				"title": "When I Dance (Poems)",
+				"title": "When I Dance",
 				"summary": [
 					"A collection of 59 poems for young adults, celebrating life in inner-city Britain and in the rural Caribbean."
 				],
 				"editions": [
 					{
-						"publisher": "Hamish Hamilton",
 						"pub_info": "London: Hamish Hamilton, 1988."
 					},
 					{
-						"publisher": "Harcourt Brace Jovanovich",
 						"pub_info": "San Diego: Harcourt Brace Jovanovich [1991]."
 					}
 				]
@@ -2836,16 +2820,14 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Hamish Hamilton",
 						"pub_info": "London: Hamish Hamilton, 1991."
 					},
 					{
-						"publisher": "Willa Perlman Books",
 						"pub_info": "[New York] Willa Perlman Books [1993]."
 					},
 					{
-						"publisher": "Trophy Press",
-						"pub_info": "New York: Trophy Press, 1995. (Paperback)"
+						"pub_info": "New York: Trophy Press, 1995.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -2857,12 +2839,11 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Willa Perlman Books",
 						"pub_info": "[New York] Willa Perlman Books [1992]."
 					},
 					{
-						"publisher": "Trophy Press",
-						"pub_info": "New York: Trophy Press, 1994. (Paperback)"
+						"pub_info": "New York: Trophy Press, 1994.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -2874,7 +2855,6 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Simon & Schuster",
 						"pub_info": "New York: Simon & Schuster, 1994."
 					}
 				]
@@ -2887,22 +2867,20 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Kingfisher Books",
 						"pub_info": "Kingfisher Books, 1995."
 					},
 					{
-						"publisher": "Kingfisher Books",
-						"pub_info": "Kingfisher Books, 1997. (Paperback)"
+						"pub_info": "Kingfisher Books, 1997.",
+						"binding": "Paperback."
 					}
 				]
 			},
 			{
 				"pub_year": "1995",
-				"title": "Hot Earth Cold Earth (Poems)",
-				"summary": [""],
+				"title": "Hot Earth Cold Earth",
+				"summary": ["Poems."],
 				"editions": [
 					{
-						"publisher": "Bloodaxe Books",
 						"pub_info": "Bloodaxe Books, 1995."
 					}
 				]
@@ -2915,7 +2893,6 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Harcourt Brace",
 						"pub_info": "Harcourt Brace, 1996."
 					}
 				]
@@ -2928,7 +2905,6 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Simon & Schuster",
 						"pub_info": "New York: Simon & Schuster, 1996."
 					}
 				]
@@ -2941,7 +2917,6 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Simon & Schuster",
 						"pub_info": "New York: Simon & Schuster, 1997."
 					}
 				]
@@ -2954,7 +2929,6 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Simon & Schuster",
 						"pub_info": "New York: Simon & Schuster, 1997."
 					}
 				]
@@ -2967,7 +2941,6 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Macmillan",
 						"pub_info": "Macmillan, 2002."
 					}
 				]
@@ -2988,7 +2961,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Hansib",
 						"pub_info": "London: Hansib, 1988"
 					}
 				]
@@ -2999,7 +2971,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Hansib",
 						"pub_info": "[London: Hansib, 1988]."
 					}
 				]
@@ -3010,7 +2981,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "TSAR",
 						"pub_info": "Toronto: TSAR, 1988."
 					}
 				]
@@ -3021,7 +2991,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "TSAR",
 						"pub_info": "Toronto: TSAR, 1989."
 					}
 				]
@@ -3032,7 +3001,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "TSAR",
 						"pub_info": "Toronto: TSAR, 1995."
 					}
 				]
@@ -3043,7 +3011,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Hansib",
 						"pub_info": "St. John's, Antigua: Hansib, 1996"
 					}
 				]
@@ -3054,7 +3021,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "St. Martins Press",
 						"pub_info": "New York: St. Martins Press [1996]."
 					}
 				]
@@ -3073,15 +3039,13 @@ export default function () {
 		"books": [
 			{
 				"pub_year": "1985",
-				"title": "Digging Up the Mountains (Stories)",
-				"summary": [""],
+				"title": "Digging Up the Mountains",
+				"summary": ["Stories."],
 				"editions": [
 					{
-						"publisher": "Macmillan of Canada",
 						"pub_info": "Toronto: Macmillan of Canada, 1985."
 					},
 					{
-						"publisher": "Viking",
 						"pub_info": "[New York] Viking [1986]."
 					}
 				]
@@ -3092,30 +3056,25 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Macmillan of Canada",
 						"pub_info": "Toronto: Macmillan of Canada, 1988."
 					},
 					{
-						"publisher": "Bloomsbury",
 						"pub_info": "London: Bloomsbury, 1988."
 					},
 					{
-						"publisher": "Clarkson N. Potter",
 						"pub_info": "New York: Clarkson N. Potter, 1989."
 					}
 				]
 			},
 			{
 				"pub_year": "1990",
-				"title": "On the Eve of Uncertain Tomorrows (Stories)",
-				"summary": [""],
+				"title": "On the Eve of Uncertain Tomorrows",
+				"summary": ["Stories."],
 				"editions": [
 					{
-						"publisher": "Lester & Orpen Dennys",
 						"pub_info": "Toronto: Lester & Orpen Dennys, 1990."
 					},
 					{
-						"publisher": "Clarkson N. Potter",
 						"pub_info": "New York: Clarkson N. Potter, 1991."
 					}
 				]
@@ -3126,7 +3085,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Knopf",
 						"pub_info": "Toronto: Knopf, 1992."
 					}
 				]
@@ -3137,7 +3095,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Penguin",
 						"pub_info": "Toronto: Penguin, 1994."
 					}
 				]
@@ -3148,11 +3105,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Vintage",
 						"pub_info": "London: Vintage, 1998."
 					},
 					{
-						"publisher": "Knopf",
 						"pub_info": "Toronto: Knopf, 1998."
 					}
 				]
@@ -3163,11 +3118,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Scribners",
 						"pub_info": "London: Scribners, 2002."
 					},
 					{
-						"publisher": "Cormorant Books",
 						"pub_info": "Toronto, ON, Canada: Cormorant Books, 2002."
 					}
 				]
@@ -3216,7 +3169,6 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Peepal Tree Press",
 						"pub_info": "Leeds: Peepal Tree Press, 1994."
 					}
 				]
@@ -3237,11 +3189,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Pioneer Press",
 						"pub_info": "Kingston: Pioneer Press, 1952."
 					},
 					{
-						"publisher": "Collins",
 						"pub_info": "London: Collins, 1966."
 					}
 				]
@@ -3252,7 +3202,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Collins",
 						"pub_info": "London: Collins, 1958."
 					}
 				]
@@ -3265,7 +3214,6 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Collins",
 						"pub_info": "London: Collins, 1965."
 					}
 				]
@@ -3276,12 +3224,12 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Cambridge University Press",
-						"pub_info": "Cambridge University Press, 1989. (Paperback)"
+						"pub_info": "Cambridge University Press, 1989.",
+						"binding": "Paperback."
 					},
 					{
-						"publisher": "Cambridge University Press",
-						"pub_info": "Cambridge University Press, 1990. (Hardcover)"
+						"pub_info": "Cambridge University Press, 1990.",
+						"binding": "Hardcover in dust jacket."
 					}
 				]
 			}
@@ -3305,7 +3253,6 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Seaburn",
 						"pub_info": "New York: Seaburn, 1994."
 					}
 				]
@@ -3326,7 +3273,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Longman",
 						"pub_info": "Harlow, Essex: Longman, 1994."
 					}
 				]
@@ -3347,7 +3293,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Privately printed",
 						"pub_info": "Trinidad & Tobago: [Privately printed], 1973."
 					}
 				]
@@ -3368,7 +3313,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Longman",
 						"pub_info": "Harlow, Essex: Longman, 1981."
 					}
 				]
@@ -3389,20 +3333,17 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Bodley Head",
 						"pub_info": "London: Bodley Head, 1959."
 					},
 					{
-						"publisher": "Prentice-Hall",
 						"pub_info": "Englewood Cliffs: Prentice-Hall, 1959."
 					},
 					{
-						"publisher": "Bodley Head",
 						"pub_info": "Toronto: Bodley Head, 1967."
 					},
 					{
-						"publisher": "Jove",
-						"pub_info": "Jove, 1995. (Paperback)"
+						"pub_info": "Jove, 1995.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -3412,7 +3353,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Prentice-Hall",
 						"pub_info": "Englewood Cliffs: Prentice-Hall, 1962."
 					}
 				]
@@ -3423,11 +3363,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Bodley Head",
 						"pub_info": "London: Bodley Head, 1963."
 					},
 					{
-						"publisher": "McGraw-Hill",
 						"pub_info": "New York: McGraw-Hill, 1968."
 					}
 				]
@@ -3438,11 +3376,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Bodley Head",
 						"pub_info": "London: Bodley Head, 1965."
 					},
 					{
-						"publisher": "Bobbs-Merrill",
 						"pub_info": "Indianapolis: Bobbs-Merrill, 1966."
 					}
 				]
@@ -3453,11 +3389,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Bodley Head",
 						"pub_info": "London: Bodley Head, 1972."
 					},
 					{
-						"publisher": "McGraw-Hill",
 						"pub_info": "New York: McGraw-Hill, 1972."
 					}
 				]
@@ -3468,11 +3402,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Bodley Head",
 						"pub_info": "London: Bodley Head, 1975"
 					},
 					{
-						"publisher": "McGraw-Hill",
 						"pub_info": "New York: McGraw-Hill, 1975."
 					}
 				]
@@ -3493,7 +3425,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Khoisan Artists",
 						"pub_info": "Toronto: Khoisan Artists, 1978."
 					}
 				]
@@ -3503,7 +3434,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Kids Can Press",
 						"pub_info": "Toronto: Kids Can Press, 1979."
 					}
 				]
@@ -3514,7 +3444,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Williams-Wallace",
 						"pub_info": "Toronto: Williams-Wallace, 1983."
 					}
 				]
@@ -3524,7 +3453,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Williams-Wallace",
 						"pub_info": "Toronto: Williams-Wallace, 1983."
 					}
 				]
@@ -3537,7 +3465,6 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Williams-Wallace",
 						"pub_info": "Toronto: Williams-Wallace [1984]."
 					}
 				]
@@ -3548,7 +3475,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "A. Space",
 						"pub_info": "[Toronto: A. Space, 1988]."
 					}
 				]
@@ -3559,16 +3485,15 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Williams-Wallace",
 						"pub_info": "Stratford, Ontario: Williams-Wallace, 1988."
 					},
 					{
-						"publisher": "Firebrand Books",
-						"pub_info": "Firebrand Books, 1989. (Hardcover)"
+						"pub_info": "Firebrand Books, 1989.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"publisher": "Firebrand Books",
-						"pub_info": "Firebrand Books, 1989. (Paperback)"
+						"pub_info": "Firebrand Books, 1989.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -3578,7 +3503,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Coach House Press",
 						"pub_info": "Toronto: Coach House Press, 1990."
 					}
 				]
@@ -3589,7 +3513,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Women's Press",
 						"pub_info": "Toronto: Women's Press, 1991."
 					}
 				]
@@ -3600,7 +3523,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Coach House Press",
 						"pub_info": "Toronto: Coach House Press, 1995."
 					}
 				]
@@ -3611,22 +3533,19 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Knopf",
 						"pub_info": "Toronto: Knopf, 1996."
 					},
 					{
-						"publisher": "Grove Press",
 						"pub_info": "New York: Grove Press [1997]."
 					}
 				]
 			},
 			{
 				"pub_year": "1997",
-				"title": "Land to Light On (Poems)",
-				"summary": [""],
+				"title": "Land to Light On",
+				"summary": ["Poems."],
 				"editions": [
 					{
-						"publisher": "McClelland & Stewart",
 						"pub_info": "Toronto: McClelland & Stewart, 1997."
 					}
 				]
@@ -3637,11 +3556,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Knopf",
 						"pub_info": "Toronto: Knopf, 1999."
 					},
 					{
-						"publisher": "Grove Press",
 						"pub_info": "New York: Grove Press, 1999."
 					}
 				]
@@ -3652,12 +3569,11 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Doubleday Canada",
 						"pub_info": "Toronto: Doubleday Canada, 2001."
 					},
 					{
-						"publisher": "Vintage Canada",
-						"pub_info": "Toronto: Vintage Canada, 2002. (Paperback)"
+						"pub_info": "Toronto: Vintage Canada, 2002.",
+						"binding": "Paperback."
 					}
 				]
 			}
@@ -3677,7 +3593,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "21st Century Books",
 						"pub_info": "Toronto: 21st Century Books, 1971."
 					}
 				]
@@ -3696,24 +3611,22 @@ export default function () {
 			],
 		"books": [
 			{
-				"pub_year": "?",
+				"pub_year": "1989",
 				"title": "Sappho Sakyi's Meditations",
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Savacou Publications",
-						"pub_info": "Savacou Publications, ????"
+						"pub_info": "Kingston: Savacou Publications, 1989"
 					}
 				]
 			},
 			{
-				"pub_year": "?",
+				"pub_year": "1990",
 				"title": "Shar",
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Savacou Publications",
-						"pub_info": "Savacou Publications, ????"
+						"pub_info": "Kingston: Savacou Publications, 1990"
 					}
 				]
 			},
@@ -3723,7 +3636,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Oxford University Press",
 						"pub_info": "London and New York: Oxford University Press, 1967."
 					}
 				]
@@ -3734,8 +3646,17 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Oxford University Press",
 						"pub_info": "London: Oxford University Press, 1969."
+					}
+				]
+			},
+			{
+				"pub_year": "1970",
+				"title": "The Folk Culture of the Slaves in Jamaica",
+				"summary": [""],
+				"editions": [
+					{
+						"pub_info": "London: New Beacon, 1970"
 					}
 				]
 			},
@@ -3745,23 +3666,31 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Oxford University Press",
 						"pub_info": "London: Oxford University Press, 1973."
 					}
 				]
 			},
 			{
-				"pub_year": "1976",
-				"title": "Black + Blues (Poems)",
+				"pub_year": "1975",
+				"title": "Other Exiles",
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Casa de las Americas",
+						"pub_info": "London: Oxford University Press, 1975"
+					}
+				]
+			},
+			{
+				"pub_year": "1976",
+				"title": "Black + Blues",
+				"summary": ["Poems."],
+				"editions": [
+					{
 						"pub_info": "Habana: Casa de las Americas, 1976."
 					},
 					{
-						"publisher": "New Directions",
-						"pub_info": "[New York] New Directions [1995]. (Paperback)"
+						"pub_info": "[New York] New Directions [1995].",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -3771,7 +3700,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Oxford University Press",
 						"pub_info": "Oxford: Oxford University Press, 1977."
 					}
 				]
@@ -3782,7 +3710,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Clarendon Press",
 						"pub_info": "Clarendon Press, 1979."
 					}
 				]
@@ -3793,7 +3720,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Savacou",
 						"pub_info": "Kingston, Savacou Cooperative, 1979."
 					}
 				]
@@ -3804,11 +3730,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "1979"
 					},
 					{
-						"publisher": "Savacou Publications",
 						"pub_info": "Kingston: Savacou Publications [1988]."
 					}
 				]
@@ -3819,50 +3743,27 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Oxford University Press",
 						"pub_info": "Oxford: Oxford University Press, 1982."
 					}
 				]
 			},
 			{
-				"pub_year": "?",
-				"title": "Other Exiles",
+				"pub_year": "1983", "title": "Third World Poems",
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Oxford University Press",
-						"pub_info": "Oxford University Press, ????"
+						"pub_info": "Harrow: Longman, 1983"
 					}
 				]
 			},
 			{
-				"pub_year": "?", "title": "Third World Poems",
+				"pub_year": "1984",
+				"title": "History of the Voice",
+				"subtitle": "The development of nation language in Anglophone Caribbean poetry",
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Longman",
-						"pub_info": "Longman, ????"
-					}
-				]
-			},
-			{
-				"pub_year": "?",
-				"title": "History of the Voice: The development of nation language in Anglophone Caribbean poetry",
-				"summary": [""],
-				"editions": [
-					{
-						"publisher": "New Beacon",
-						"pub_info": "New Beacon, ????"
-					}
-				]
-			},
-			{
-				"pub_year": "?", "title": "The Folk Culture of the Slaves in Jamaica",
-				"summary": [""],
-				"editions": [
-					{
-						"publisher": "New Beacon",
-						"pub_info": "New Beacon, ????"
+						"pub_info": "London: New Beacon, 1984"
 					}
 				]
 			},
@@ -3872,7 +3773,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Savacou",
 						"pub_info": "Kingston: Savacou, 1986."
 					}
 				]
@@ -3883,7 +3783,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Casa De Las Americas",
 						"pub_info": "Habana: Casa De Las Americas, 1986."
 					}
 				]
@@ -3894,8 +3793,27 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "1987"
+					}
+				]
+			},
+			{
+				"pub_year": "1989",
+				"title": "Sappho Sakyi's Meditations",
+				"summary": [""],
+				"editions": [
+					{
+						"pub_info": "Kingston: Savacou Publications, 1989"
+					}
+				]
+			},
+			{
+				"pub_year": "1990",
+				"title": "Shar",
+				"summary": [""],
+				"editions": [
+					{
+						"pub_info": "Kingston: Savacou Publications, 1990"
 					}
 				]
 			},
@@ -3905,12 +3823,11 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Bloodaxe Books",
 						"pub_info": "Newcastle: Bloodaxe Books [1992]."
 					},
 					{
-						"publisher": "New Directions",
-						"pub_info": "New York: New Directions, 1994. (Paperback)"
+						"pub_info": "New York: New Directions, 1994.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -3920,7 +3837,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "University of Michigan Press",
 						"pub_info": "University of Michigan Press, 1993."
 					}
 				]
@@ -3933,7 +3849,6 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "University of Michigan Press",
 						"pub_info": "Madison: University of Wisconsin Press, 1993."
 					}
 				]
@@ -3946,7 +3861,6 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Lost Roads",
 						"pub_info": "Providence: Lost Roads, 1994."
 					}
 				]
@@ -3957,12 +3871,11 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Longman",
 						"pub_info": "Harlow, Essex: Longman, 1994."
 					},
 					{
-						"publisher": "Addison-Wesley",
-						"pub_info": "Addison-Wesley, 1994. (Paperback)"
+						"pub_info": "Addison-Wesley, 1994.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -3972,7 +3885,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Savacou North/Kamau Brathwaite",
 						"pub_info": "Savacou North/Kamau Brathwaite, 1995."
 					}
 				]
@@ -3983,8 +3895,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "We Press",
-						"pub_info": "New York: We Press, 1999. (Paperback)"
+						"pub_info": "New York: We Press, 1999.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -3996,8 +3908,8 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "House of Nehesi",
-						"pub_info": "St. Martin: House of Nehesi, 2000. (Paperback)"
+						"pub_info": "St. Martin: House of Nehesi, 2000.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -4007,8 +3919,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "New Directions",
-						"pub_info": "New York: New Directions, 2001. (Paperback)"
+						"pub_info": "New York: New Directions, 2001.",
+						"binding": "Paperback."
 					}
 				]
 			}
@@ -4028,7 +3940,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "New Beacon",
 						"pub_info": "London: New Beacon, 1980."
 					}
 				]
@@ -4039,7 +3950,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Inst of Social & Economic Research, University of the West Indies",
 						"pub_info": "Mona: Inst of Social & Economic Research, University of the West Indies, 1981."
 					}
 				]
@@ -4050,7 +3960,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "New Beacon",
 						"pub_info": "London: New Beacon, 1988."
 					}
 				]
@@ -4061,12 +3970,11 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "New Beacon",
 						"pub_info": "London: New Beacon, 1994."
 					},
 					{
-						"publisher": "University Press of Mississippi",
-						"pub_info": "Jackson: University Press of Mississippi, 1997. (Paperback)"
+						"pub_info": "Jackson: University Press of Mississippi, 1997.",
+						"binding": "Paperback."
 					}
 				]
 			}
@@ -4086,18 +3994,18 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Vantage",
 						"pub_info": "New York: Vantage, 1973."
 					}
 				]
 			},
 			{
-				"pub_year": "?", "title": "Skeletons of the System: The framework of democracy in Trinidad and Tobago",
+				"pub_year": "1992",
+				"title": "Skeletons of the System",
+				"subtitle": "The framework of democracy in Trinidad and Tobago",
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Greenleaf Enterprises",
-						"pub_info": "Greenleaf Enterprises, ????"
+						"pub_info": "Scarborough, Tobago: Greenleaf Enterprises, 1992"
 					}
 				]
 			}
@@ -4119,7 +4027,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Hennessey & Ingalls",
 						"pub_info": "Los Angeles: Hennessey & Ingalls, 1973."
 					}
 				]
@@ -4132,11 +4039,9 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Heinemann",
 						"pub_info": "Heinemann, 1978."
 					},
 					{
-						"publisher": "Heinemann",
 						"pub_info": "Heinemann, 1984."
 					}
 				]
@@ -4147,7 +4052,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Greenwood Publishing",
 						"pub_info": "Westport, CT: Greenwood Publishing, 1981."
 					}
 				]
@@ -4158,20 +4062,18 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "University of Western Ontario",
 						"pub_info": "London, ON: University of Western Ontario, 1989."
 					}
 				]
 			},
 			{
 				"pub_year": "1996",
-				"title": "Duppies (Poems)",
+				"title": "Duppies",
 				"summary": [
-					"Brown's memories of childhood in rural Jamaica, the twilight world of duppies and rolling calf and minds inhabiting both Protestantism and obeah, comes to represent ancestry and spiritual continuity as a line of defence against cultural homogenisation."
+					"Poems. Brown's memories of childhood in rural Jamaica, the twilight world of duppies and rolling calf and minds inhabiting both Protestantism and obeah, comes to represent ancestry and spiritual continuity as a line of defence against cultural homogenisation."
 				],
 				"editions": [
 					{
-						"publisher": "Peepal Tree Press",
 						"pub_info": "Leeds: Peepal Tree Press, 1996."
 					}
 				]
@@ -4195,7 +4097,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Outposts Publications",
 						"pub_info": "Walton-on-Thames: Outposts Publications, 1975"
 					}
 				]
@@ -4208,19 +4109,18 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Sceptre Press",
 						"pub_info": "Knotting Bedfordshire: Sceptre Press [1979].",
 						"img_file": "BrownSpecimens16-300.jpg",
 						"edition": "First edition.",
 						"binding": "Printed wrappers.",
 						"size": "8vo (5 in x 8 1/4 in).",
-						"pages": "8 pages.",
+						"pages": "8",
 						"description": "Limited edition of 150 numbered copies, with numbers 1-50 signed by the author.",
 						"copies": [
 							{
 								"features": "Number 16 of 150 numbered copies. This is one of the first 50 copies that were each signed by the poet.",
 								"condition": "Near fine in stiff printed wrappers. There is very light sun-fading to the top 1/2 inch of the front cover, otherwise this is a like-new copy of this limited edition. The pages are center-stapled into the wrappers, and are clean and unmarked.",
-								"price": "US$25.00"
+								"price": "25.00"
 							}
 						]
 					}
@@ -4232,33 +4132,29 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Hodder and Stoughton",
 						"pub_info": "Hodder and Stoughton, 1984."
 					},
 					{
-						"publisher": "Edward Arnold",
 						"pub_info": "Edward Arnold, 1992."
 					}
 				]
 			},
 			{
 				"pub_year": "1986",
-				"title": "Zinder (Poems)",
-				"summary": [""],
+				"title": "Zinder",
+				"summary": ["Poems."],
 				"editions": [
 					{
-						"publisher": "Seren Books",
 						"pub_info": "Seren Books, 1986."
 					}
 				]
 			},
 			{
 				"pub_year": "1989",
-				"title": "Lugard's Bridge (Poems)",
-				"summary": [""],
+				"title": "Lugard's Bridge",
+				"summary": ["Poems."],
 				"editions": [
 					{
-						"publisher": "Seren Books",
 						"pub_info": "Seren Books, 1989."
 					}
 				]
@@ -4269,7 +4165,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Longman",
 						"pub_info": "London: Longman, 1989."
 					}
 				]
@@ -4280,7 +4175,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Book Trust",
 						"pub_info": "Book Trust, 1989"
 					}
 				]
@@ -4293,7 +4187,6 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Heinemann",
 						"pub_info": "London: Heinemann, 1990."
 					}
 				]
@@ -4304,7 +4197,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Dufour",
 						"pub_info": "Dufour, 1991."
 					}
 				]
@@ -4313,11 +4205,10 @@ export default function () {
 				"pub_year": "1992",
 				"title": "The Heinemann Book of Caribbean Poetry (Editor)",
 				"summary": [
-					"West Indians, as Ian McDonald comments, 'write poetry as well as they play cricket' and Heinemann's anthology is the most comprehensive and up-to-date selection of contemporary Caribbean poetry, including major names like Derek Walcott, John Agard, and Merle Collins, alongside new poets of the region. This collection is an invaluable academic selection and will provide a fine introduction for the general reader interested in the lyricism of Caribbean poetry. (Publisher's synopsis)"
+					"West Indians, as Ian McDonald comments, 'write poetry as well as they play cricket' and Heinemann's anthology is the most comprehensive and up-to-date selection of contemporary Caribbean poetry, including major names like Derek Walcott, John Agard, and Merle Collins, alongside new poets of the region. This collection is an invaluable academic selection and will provide a fine introduction for the general reader interested in the lyricism of Caribbean poetry. <i>(Publisher's synopsis)</i>"
 				],
 				"editions": [
 					{
-						"publisher": "Heinemann",
 						"pub_info": "Oxford: Heinemann, 1992."
 					}
 				]
@@ -4328,7 +4219,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Longman",
 						"pub_info": "Longman, 1995."
 					}
 				]
@@ -4339,12 +4229,11 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Dufour",
 						"pub_info": "Dufour, 1996."
 					},
 					{
-						"publisher": "Dufour",
-						"pub_info": "Dufour, 1996. (Paperback)"
+						"pub_info": "Dufour, 1996.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -4356,20 +4245,18 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Peepal Tree Press",
 						"pub_info": "Leeds: Peepal Tree Press, 1999."
 					}
 				]
 			},
 			{
 				"pub_year": "1999",
-				"title": "Elsewhere (Poems)",
+				"title": "Elsewhere",
 				"summary": [
 					"Elsewhere brings together, frequently in much revised form, the best work from his earlier much praised collections (Mekin Foolishness, Zinder and Lugard's Bridge) with many new poems. The long sequence 'Elsewhere', which brings Brown's painterly eye and witty humanity to the experience of living in the Caribbean, and 'Elmina', a moving and imaginative meditation on an Englishman's sense of complicity in the history of the slave trade, will further enhance his reputation."
 				],
 				"editions": [
 					{
-						"publisher": "Peepal Tree Press",
 						"pub_info": "Leeds: Peepal Tree Press, 1999."
 					}
 				]
@@ -4390,11 +4277,10 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Women's Press",
-						"pub_info": "[London] Women's Press [1990]. (Paperback)"
+						"pub_info": "[London] Women's Press [1990].",
+						"binding": "Paperback."
 					},
 					{
-						"publisher": "Women's Press",
 						"pub_info": "London: Women's Press, 1992."
 					}
 				]
@@ -4405,16 +4291,14 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Women's Press",
 						"pub_info": "London: Women's Press, 1992."
 					},
 					{
-						"publisher": "Interlink Books",
 						"pub_info": "New York: Interlink Books [1993]."
 					},
 					{
-						"publisher": "Interlink Books",
-						"pub_info": "New York: Interlink Books, 1997. (Paperback)"
+						"pub_info": "New York: Interlink Books, 1997.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -4424,11 +4308,10 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Women's Press",
-						"pub_info": "[London: Women's Press, 1995]. (Paperback)"
+						"pub_info": "[London: Women's Press, 1995].",
+						"binding": "Paperback."
 					},
 					{
-						"publisher": "Trafalgar Square",
 						"pub_info": "Trafalgar Square, 1997."
 					}
 				]
@@ -4447,16 +4330,15 @@ export default function () {
 				"pub_year": "1975",
 				"title": "It So Happen",
 				"summary": [
-					"A collection of 16 short stories. Saga-boy and Jasper prepare for a grand stick-fight, Big Joe will do anything to marry the girl he loves, all the men are determined to defeat Marie in the rum drinking competition, and PaJohn the Obeah Man is foiled by his own wicked spell. Timothy Callender's close-knit community is full of zany characters. Their dialect, the troubles they face, and the celebrations they share, are realistic and overflowing with great humor. (Heinemann synopsis)"
+					"A collection of 16 short stories. Saga-boy and Jasper prepare for a grand stick-fight, Big Joe will do anything to marry the girl he loves, all the men are determined to defeat Marie in the rum drinking competition, and PaJohn the Obeah Man is foiled by his own wicked spell. Timothy Callender's close-knit community is full of zany characters. Their dialect, the troubles they face, and the celebrations they share, are realistic and overflowing with great humor. <i>(Heinemann synopsis)</i>"
 				],
 				"editions": [
 					{
-						"publisher": "Christian Journals",
 						"pub_info": "Belfast: Christian Journals, 1975."
 					},
 					{
-						"publisher": "Heinemann",
-						"pub_info": "[London] Heinemann [1991]. (Paperback)"
+						"pub_info": "[London] Heinemann [1991].",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -4466,37 +4348,32 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Privately printed",
 						"pub_info": "Barbados: [Privately printed], 1977."
 					}
 				]
 			},
 			{
-				"pub_year": "?",
+				"pub_year": "1978",
 				"title": "The Watchman: A Photo-Novel",
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Privately printed",
-						"pub_info": "Barbados: [Privately printed], 19??."
+						"pub_info": "Barbados: [Privately printed], 1978."
 					},
 					{
-						"publisher": "Heinemann Educational Books",
 						"pub_info": "Heinemann Educational Books, 1984."
 					}
 				]
 			},
 			{
-				"pub_year": "?",
+				"pub_year": "1978",
 				"title": "Schoolboys: A Photo-Novel",
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Privately printed",
-						"pub_info": "Barbados: [Privately printed], 19??."
+						"pub_info": "Barbados: [Privately printed], 1978."
 					},
 					{
-						"publisher": "Heinemann Educational Books",
 						"pub_info": "Heinemann Educational Books, 1984."
 					}
 				]
@@ -4507,8 +4384,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Callender's Books & Art",
-						"pub_info": "Barbados: Callender's Books & Art [1979]. (Paperback)"
+						"pub_info": "Barbados: Callender's Books & Art [1979].",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -4518,8 +4395,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Realization Studio",
-						"pub_info": "Barbados: Realization Studio, 1987. (Pamphlet)"
+						"pub_info": "Barbados: Realization Studio, 1987.",
+						"binding": "Pamphlet."
 					}
 				]
 			},
@@ -4529,8 +4406,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Realization Studio",
-						"pub_info": "Barbados: Realization Studio, 1987. (Pamphlet)"
+						"pub_info": "Barbados: Realization Studio, 1987.",
+						"binding": "Pamphlet."
 					}
 				]
 			}
@@ -4554,7 +4431,6 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Belecam & Associates",
 						"pub_info": "Belecam & Associates, 2001."
 					}
 				]
@@ -4575,11 +4451,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "1944"
 					},
 					{
-						"publisher": "Scope Publishing",
 						"pub_info": "Port-of-Spain: Scope Publishing, 1979."
 					}
 				]
@@ -4600,11 +4474,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Ticknor & Fields",
 						"pub_info": "New York: Ticknor & Fields, 1987."
 					},
 					{
-						"publisher": "Women's Press",
 						"pub_info": "London: Women's Press, 1987."
 					}
 				]
@@ -4627,18 +4499,16 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Savacou Co-operative",
 						"pub_info": "Kingston: Savacou Co-operative, 1978."
 					}
 				]
 			},
 			{
 				"pub_year": "1985",
-				"title": "Woman's Tongue (Stories)",
-				"summary": [""],
+				"title": "Woman's Tongue",
+				"summary": ["Stories."],
 				"editions": [
 					{
-						"publisher": "Savacou Co-operative",
 						"pub_info": "Kingston: Savacou Co-operative, 1985."
 					}
 				]
@@ -4651,7 +4521,6 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Peepal Tree Press",
 						"pub_info": "Leeds: Peepal Tree Press, 1991."
 					}
 				]
@@ -4662,11 +4531,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Kingston Publishers",
 						"pub_info": "Kingston: Kingston Publishers, 1993"
 					},
 					{
-						"publisher": "LMH Publishing",
 						"pub_info": "Kingston: LMH Publishing, 2001."
 					}
 				]
@@ -4677,7 +4544,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "LMH Publishing",
 						"pub_info": "Kingston: LMH Publishing, 1997."
 					}
 				]
@@ -4698,7 +4564,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "The Times Printery",
 						"pub_info": "Kingston: The Times Printery, 1907."
 					}
 				]
@@ -4726,13 +4591,13 @@ export default function () {
 						"edition": "First edition.",
 						"binding": "Hardcover in dust jacket.",
 						"size": "8vo (5 3/8 in x 8 in).",
-						"pages": "288 pages.",
+						"pages": "288",
 						"description": "",
 						"copies": [
 							{
 								"features": "",
 								"condition": "Very good in boards and a good only dust jacket. This book is in nice condition while the dust jacket has multiple problems. There is a neat ownership signature on the front endpaper. The dust jacket is soiled and worn, with some loss at the extremities. It was once tape-repaired at the top of the spine and the bottom of the back panel, and that tape has yellowed with age. There is a closed razor cut across 2/3 of the back panel, and the back flap is torn from the top at the fold, remaining attached only at the very bottom. The pages are clean, and the binding is tight. The dust jacket is protected in a mylar wrapper which essentially holds the nearly-separated back flap in place.",
-								"price": "US$30.00"
+								"price": "30.00"
 							}
 						]
 					},
@@ -4775,13 +4640,13 @@ export default function () {
 						"edition": "First edition.",
 						"binding": "Hardcover in dust jacket.",
 						"size": "8vo (5 3/8 in x 8 in).",
-						"pages": "256 pages.",
+						"pages": "256",
 						"description": "",
 						"copies": [
 							{
 								"features": "",
 								"condition": "Good in boards and dust jacket. This book has foxing on both the pages and the page edges. The top page edges are also dust stained. The dust jacket is soiled, worn, stained, and faded at the spine. The rear endpaper is wrinkled. The interior pages are mostly clean, with the foxing at the page edges. Some pages have evidence of diagonal folds that probably served as bookmarks. The book's binding is tight. The dust jacket is protected in a mylar wrapper.",
-								"price": "US$20.00"
+								"price": "20.00"
 							}
 						]
 					},
@@ -4814,14 +4679,14 @@ export default function () {
 						"edition": "First edition.",
 						"binding": "Hardcover in dust jacket.",
 						"size": "8vo (5 3/8 in x 8 in).",
-						"pages": "198 pages.",
+						"pages": "198",
 						"img_file": "CarewMoscow1-300.jpg",
 						"description": "",
 						"copies": [
 							{
 								"features": "",
 								"condition": "Very good in boards and dust jacket. This is a nice copy of this scarce title. The dust jacket shows wear at the extremities, its spine is a bit sunned, and the rear panel is soiled and stained. The boards and pages are clean, and the binding is tight. The dust jacket is protected in a plastic wrapper.",
-								"price": "US$60.00"
+								"price": "60.00"
 							}
 						]
 					}
@@ -4877,8 +4742,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "International Organization of Journalists",
-						"pub_info": "Prauge: International Organization of Journalists, 1985. (Trade paperback)"
+						"pub_info": "Prauge: International Organization of Journalists, 1985.",
+						"binding": "Trade paperback."
 					}
 				]
 			},
@@ -4888,12 +4753,11 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Africa World Press",
 						"pub_info": "Africa World Press, 1988. (Cloth)"
 					},
 					{
-						"publisher": "Africa World Press",
-						"pub_info": "Africa World Press, 1988. (Paperback)"
+						"pub_info": "Africa World Press, 1988.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -4903,12 +4767,11 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Lawrence Hill Books",
 						"pub_info": "[Chicago] Lawrence Hill Books [1994]. (Cloth)"
 					},
 					{
-						"publisher": "Lawrence Hill Books",
-						"pub_info": "[Chicago] Lawrence Hill Books [1994]. (Paperback)"
+						"pub_info": "[Chicago] Lawrence Hill Books [1994].",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -4918,8 +4781,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "A & B Books Publishers",
-						"pub_info": "Brooklyn: A & B Books Publishers, 1994. (Paperback)"
+						"pub_info": "Brooklyn: A & B Books Publishers, 1994.",
+						"binding": "Paperback."
 					}
 				]
 			}
@@ -4928,30 +4791,11 @@ export default function () {
 	{
 		"last_name": "Cargill",
 		"first_name": "Morris",
-		"birth_country": "Jamaica/USA",
+		"birth_country": "Jamaica",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
 		"books": [
-			{
-				"pub_year": "1965",
-				"title": "Ian Fleming Introduces Jamaica (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"publisher": "Deutsch",
-						"pub_info": "London: Deutsch, 1965."
-					},
-					{
-						"publisher": "Novelty Trading Co.",
-						"pub_info": "Jamaica: Novelty Trading Co., 1965."
-					},
-					{
-						"publisher": "Hawthorne",
-						"pub_info": "New York: Hawthorne, 1965."
-					}
-				]
-			},
 			{
 				"pub_year": "1969",
 				"title": "Fever Grass",
@@ -4960,16 +4804,14 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Collins and Sangster",
 						"pub_info": "[London/Kingston] Collins and Sangster, 1969."
 					},
 					{
-						"publisher": "G.P. Putnam's Sons",
 						"pub_info": "New York: G.P. Putnam's Sons, 1969."
 					},
 					{
-						"publisher": "Berkley",
-						"pub_info": "New York: Berkley, 1971. (Paperback)"
+						"pub_info": "New York: Berkley, 1971.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -4981,16 +4823,14 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Collins and Sangster",
 						"pub_info": "[London/Kingston] Collins and Sangster, 1970."
 					},
 					{
-						"publisher": "Citadel Press",
 						"pub_info": "Secaucus. N.J.: Citadel Press [1971]."
 					},
 					{
-						"publisher": "Dell",
-						"pub_info": "New York: Dell, 1974. (Paperback)"
+						"pub_info": "New York: Dell, 1974.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -5002,7 +4842,6 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Citadel Press",
 						"pub_info": "Secaucus. N.J.: Citadel Press [1975]."
 					}
 				]
@@ -5013,7 +4852,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Lyle Stuart",
 						"pub_info": "Secaucus, NJ: Lyle Stuart, 1978."
 					}
 				]
@@ -5024,27 +4862,24 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Lyle Stuart",
 						"pub_info": "Secaucus, NJ: Lyle Stuart, 1978."
 					},
 					{
-						"publisher": "Cinnamon Books",
 						"pub_info": "N.J: Cinnamon Books, 1979."
 					},
 					{
-						"publisher": "Barricade Books",
-						"pub_info": "Barricade Books, 1995. (Paperback)"
+						"pub_info": "Barricade Books, 1995.",
+						"binding": "Paperback."
 					}
 				]
 			},
 			{
-				"pub_year": "?",
+				"pub_year": "1987",
 				"title": "Morris Cargill: A selection of his writings in the Gleaner, 1952-1985",
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Topical Publishers",
-						"pub_info": "Topical Publishers."
+						"pub_info": "Kingston: Topical Publishers, 1987."
 					}
 				]
 			}
@@ -5068,7 +4903,6 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Casa de las Americas",
 						"pub_info": "Havana: Casa de las Americas, 1976."
 					}
 				]
@@ -5079,7 +4913,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Longman Caribbean",
 						"pub_info": "Essex: Longman Caribbean, 1989."
 					}
 				]
@@ -5100,15 +4933,12 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Victor Gollancz",
 						"pub_info": "London: Victor Gollancz, 1956."
 					},
 					{
-						"publisher": "Knopf",
 						"pub_info": "New York: Knopf, 1956."
 					},
 					{
-						"publisher": "Noonday",
 						"pub_info": "New York: Noonday, 1990."
 					}
 				]
@@ -5119,19 +4949,15 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Knopf",
 						"pub_info": "New York: Knopf, 1957."
 					},
 					{
-						"publisher": "Macmillan",
 						"pub_info": "Macmillan, 1971."
 					},
 					{
-						"publisher": "The Limited Editions Club",
 						"pub_info": "New York: The Limited Editions Club [1988]."
 					},
 					{
-						"publisher": "Noonday",
 						"pub_info": "New York: Noonday, 1989."
 					}
 				]
@@ -5142,34 +4968,30 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "1962"
 					},
 					{
-						"publisher": "Victor Gollancz",
 						"pub_info": "London: Victor Gollancz, 1963."
 					},
 					{
-						"publisher": "Noonday",
-						"pub_info": "New York: Noonday, 1989. (Paperback)"
+						"pub_info": "New York: Noonday, 1989.",
+						"binding": "Paperback."
 					},
 					{
-						"publisher": "Minerva",
-						"pub_info": "[London] Minerva [1991]. (Paperback)"
+						"pub_info": "[London] Minerva [1991].",
+						"binding": "Paperback."
 					}
 				]
 			},
 			{
 				"pub_year": "1970",
-				"title": "War of Time (Stories)",
-				"summary": [""],
+				"title": "War of Time",
+				"summary": ["Stories."],
 				"editions": [
 					{
-						"publisher": "Victor Gollancz",
 						"pub_info": "London: Victor Gollancz, 1970."
 					},
 					{
-						"publisher": "Knopf",
 						"pub_info": "New York: Knopf, 1970."
 					}
 				]
@@ -5180,16 +5002,15 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "1974."
 					},
 					{
-						"publisher": "Council Oaks Books",
-						"pub_info": "Council Oaks Books, 1988. (Paperback)"
+						"pub_info": "Council Oaks Books, 1988.",
+						"binding": "Paperback."
 					},
 					{
-						"publisher": "Andre Deutsch",
-						"pub_info": "[London] Andre Deutsch [1991]. (Paperback)"
+						"pub_info": "[London] Andre Deutsch [1991].",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -5199,11 +5020,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Knopf",
 						"pub_info": "New York: Knopf, 1976."
 					},
 					{
-						"publisher": "Victor Gollancz",
 						"pub_info": "London: Victor Gollancz, 1976."
 					}
 				]
@@ -5214,16 +5033,14 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Letras Cubanas",
 						"pub_info": "Havana: Letras Cubanas, 1979."
 					},
 					{
-						"publisher": "Mercury House",
 						"pub_info": "San Francisco: Mercury House [1990]. (Cloth)"
 					},
 					{
-						"publisher": "Mercury House",
-						"pub_info": "San Francisco: Mercury House, 1992. (Paperback)"
+						"pub_info": "San Francisco: Mercury House, 1992.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -5232,11 +5049,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Farrar Straus & Giroux",
 						"pub_info": "New York: Farrar Straus & Giroux, 1989."
 					},
 					{
-						"publisher": "Andre Deutsch",
 						"pub_info": "London: Andre Deutsch, 1990."
 					}
 				]
@@ -5263,14 +5078,14 @@ export default function () {
 						"edition": "First edition.",
 						"binding": "Printed wrappers.",
 						"size": "18mo (4 1/8 in x 6 in).",
-						"pages": "14 pages.",
+						"pages": "14",
 						"img_file": "CarterHill-300.jpg",
 						"description": "Includes twelve short poems, one to a page in this small pamphlet. This is an extremely rare edition.",
 						"copies": [
 							{
 								"features": "",
 								"condition": "Very good in stiff, center-stapled printed paper wrappers. The covers are very lightly worn, and there are diagonal fold marks on the final three top page corners and the top outer corner of the back cover. The staples that bind this pamphlet have rusted. Otherwise, the pages are clean and unmarked, and the stapled binding is tight.",
-								"price": "US$1750.00"
+								"price": "1750.00"
 							}
 						]
 					}
@@ -5282,7 +5097,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "1952"
 					}
 				]
@@ -5293,7 +5107,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "1952"
 					}
 				]
@@ -5304,7 +5117,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "1953"
 					}
 				]
@@ -5317,15 +5129,12 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Lawrence and Wishart",
 						"pub_info": "Great Britain: Lawrence and Wishart 1954."
 					},
 					{
-						"publisher": "University of Guyana",
 						"pub_info": "University of Guyana, 1966."
 					},
 					{
-						"publisher": "Release Publication",
 						"pub_info": "Georgetown, Guyana: Release Publication, 1979."
 					}
 				]
@@ -5336,7 +5145,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "New Beacon Books",
 						"pub_info": "New Beacon Books, 1978."
 					}
 				]
@@ -5347,7 +5155,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Release Publishers",
 						"pub_info": "[Georgetown, Guyana] Release Publishers [1980]."
 					}
 				]
@@ -5360,11 +5167,9 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Demerara Publishers",
 						"pub_info": "Georgetown, Guyana: Demerara Publishers, 1989."
 					},
 					{
-						"publisher": "Red Thread Press",
 						"pub_info": "Red Thread Press, 1997."
 					}
 				]
@@ -5377,7 +5182,6 @@ export default function () {
 				],
 				"editions": [
 					{
-						"publisher": "Peepal Tree Press",
 						"pub_info": "Leeds: Peepal Tree Press, 1999."
 					}
 				]
@@ -5393,17 +5197,13 @@ export default function () {
 		"bio": [""],
 		"books": [
 			{
-				"pub_year": "?",
+				"pub_year": "1999",
 				"title": "Chronicle of the Seven Sorrows",
-				"summary": [""],
+				"summary": ["English translation of <em>Chronique des sept misères</em> (1986)"],
 				"editions": [
 					{
-						"publisher": "Folio",
-						"pub_info": "Paris: Folio, 1992."
-					},
-					{
-						"publisher": "University of Nebraska Press",
-						"pub_info": "Lincoln: University of Nebraska Press, 1999."
+						"pub_info": "Lincoln: University of Nebraska Press, 1999.",
+						"edition": "First English language edition."
 					}
 				]
 			},
@@ -5413,42 +5213,34 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Gallimard",
 						"pub_info": "Paris: Gallimard, 1988."
 					},
 					{
-						"publisher": "Pantheon",
 						"pub_info": "New York: Pantheon [1997]."
 					},
 					{
-						"publisher": "Granta",
-						"pub_info": "London: Granta, [2000]. (Paperback)"
+						"pub_info": "London: Granta, [2000].",
+						"binding": "Paperback."
 					}
 				]
 			},
 			{
-				"pub_year": "?",
+				"pub_year": "1994",
 				"title": "Creole Folktales",
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "New Press",
-						"pub_info": "New York: New Press, 1995."
+						"pub_info": "New York: New Press, 1994."
 					}
 				]
 			},
 			{
-				"pub_year": "?",
-				"title": "School Days : Chemin-D'Ecole",
-				"summary": [""],
+				"pub_year": "1994",
+				"title": "School Days",
+				"summary": ["English translation of <em>Chemin-D'Ecole</em> (1994)"],
 				"editions": [
 					{
-						"publisher": "University of Nebraska Press",
 						"pub_info": "Lincoln: University of Nebraska Press, 1997."
-					},
-					{
-						"publisher": "University of Nebraska Press",
-						"pub_info": "Lincoln: University of Nebraska Press, 1997. (Paperback)"
 					}
 				]
 			},
@@ -5458,15 +5250,12 @@ export default function () {
 				"summary": ["Winner of the 1992 Prix Goncourt, France's most prestigious literary prize."],
 				"editions": [
 					{
-						"publisher": "Editions Gallimard",
 						"pub_info": "Paris: Editions Gallimard, 1992."
 					},
 					{
-						"publisher": "Pantheon",
 						"pub_info": "New York: Pantheon [1997]."
 					},
 					{
-						"publisher": "Granta",
 						"pub_info": "London: Granta, [1997]."
 					}
 				]
@@ -5477,22 +5266,22 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "France, 1998."
 					},
 					{
-						"publisher": "Zoland Books",
 						"pub_info": "Cambridge, MA: Zoland Books, [1999]."
 					}
 				]
 			},
 			{
-				"pub_year": "?",
+				"pub_year": "1999",
 				"title": "Childhood",
-				"summary": [""],
+				"summary": ["English translation of <em>Antan d'enfance</em> (1990)"],
 				"editions": [
 					{
-						"publisher": "University of Nebraska Press",
+						"pub_info": "London: Granta Books, 1999."
+					},
+					{
 						"pub_info": "Lincoln: University of Nebraska Press, 1999."
 					}
 				]
@@ -5503,7 +5292,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Hazan",
 						"pub_info": "Paris: Hazan, 2001."
 					}
 				]
@@ -5514,7 +5302,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Gallimard",
 						"pub_info": "Paris: Gallimard, 2002."
 					}
 				]
@@ -5535,7 +5322,6 @@ export default function () {
 				"summary": ["Winner of the 1989 Guyana prize, this collection of poems, which constantly illuminate the moments of everyday living, established Chan as one of the Caribbean’s most individual and original younger poets."],
 				"editions": [
 					{
-						"publisher": "Peepal Tree Press",
 						"pub_info": "Leeds: Peepal Tree Press, 1988."
 					}
 				]
@@ -5546,7 +5332,6 @@ export default function () {
 				"summary": ["From a Canadian present and a Guyanese past, these poems question all fictions, whether of the everyday or of ultimate reality. Whilst staring into the abyss, these poems also celebrate the power of love and moments 'brimming with light'."],
 				"editions": [
 					{
-						"publisher": "Peepal Tree Press",
 						"pub_info": "Leeds: Peepal Tree Press, 1994."
 					}
 				]
@@ -5567,7 +5352,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Constable",
 						"pub_info": "London: Constable, 1927."
 					}
 				]
@@ -5578,11 +5362,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Constable",
 						"pub_info": "London: Constable, 1928."
 					},
 					{
-						"publisher": "Chantry Publications",
 						"pub_info": "London: Chantry Publications, 1952."
 					}
 				]
@@ -5593,7 +5375,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Duckworth",
 						"pub_info": "London: Duckworth, 1939."
 					}
 				]
@@ -5604,7 +5385,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Arawak Press",
 						"pub_info": "Kingston: Arawak Press, 1952."
 					}
 				]
@@ -5615,7 +5395,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Chantry Publications",
 						"pub_info": "London: Chantry Publications, 1953."
 					}
 				]
@@ -5636,7 +5415,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Brookside Press",
 						"pub_info": "London: Brookside Press, 1969."
 					}
 				]
@@ -5647,7 +5425,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Brookside Press",
 						"pub_info": "London: Brookside Press, 1973."
 					}
 				]
@@ -5658,7 +5435,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Bogle-l'Ouverture",
 						"pub_info": "London: Bogle-l'Ouverture, 1981."
 					}
 				]
@@ -5669,11 +5445,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Karnak House",
 						"pub_info": "London: Karnak House, 1985."
 					},
 					{
-						"publisher": "Zed Books",
 						"pub_info": "Zed Books, 1986."
 					}
 				]
@@ -5684,7 +5458,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Bogle-l'Ouverture",
 						"pub_info": "London: Bogle-l'Ouverture, 1986."
 					}
 				]
@@ -5695,7 +5468,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Viking Kestrel",
 						"pub_info": "London: Viking Kestrel, 1989."
 					}
 				]
@@ -5706,7 +5478,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Houghton Mifflin",
 						"pub_info": "Boston: Houghton Mifflin, 1996."
 					}
 				]
@@ -5717,18 +5488,16 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Little Tiger Press",
 						"pub_info": "Waukesha, WI: Little Tiger Press, 1999."
 					}
 				]
 			},
 			{
 				"pub_year": "2000",
-				"title": "Teacher Alligator (Poems)",
-				"summary": [""],
+				"title": "Teacher Alligator",
+				"summary": ["Poems."],
 				"editions": [
 					{
-						"publisher": "Bloomsbury",
 						"pub_info": "Bloomsbury, 2000."
 					}
 				]
@@ -5749,11 +5518,9 @@ export default function () {
 				"summary": ["A collection of short stories from the Caribbean, capturing the violence, trickery, pathos and racial comedy of Trinidad & Tobagoian society. (Callaloo, Vol. 15, No. 1)"],
 				"editions": [
 					{
-						"publisher": "Hansib",
 						"pub_info": "London: Hansib, 1988."
 					},
 					{
-						"publisher": "Calaloux Publications",
 						"pub_info": "Calaloux Publications, 1988."
 					}
 				]
@@ -5774,7 +5541,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Educo Press",
 						"pub_info": "Port-of-Spain: Educo Press, 1976."
 					}
 				]
@@ -5785,7 +5551,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "New Voices",
 						"pub_info": "Trinidad & Tobago: New Voices, 1979."
 					}
 				]
@@ -5796,7 +5561,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Express",
 						"pub_info": "Trinidad & Tobago: Express, 1991."
 					}
 				]
@@ -5826,14 +5590,14 @@ export default function () {
 						"edition": "First edition.",
 						"binding": "Hardcover in dust jacket.",
 						"size": "8vo (5 3/8 in x 8 in).",
-						"pages": "202 pages.",
+						"pages": "202",
 						"img_file": "ClarkeSurvivors1-300.jpg",
 						"description": "",
 						"copies": [
 							{
 								"features": "Inscribed to Toronto radio personality Ron Hewat and dated (February 2, 1965) by the author on the title page.",
 								"condition": "Very good in boards and dust jacket. This is a nice copy of this title. The dust jacket is sunned at the spine, lightly soiled, and lightly worn at the extremities. The pages are clean and unmarked, and the binding is tight.",
-								"price": "US$125.00"
+								"price": "125.00"
 							}
 						]
 					},
@@ -5841,7 +5605,7 @@ export default function () {
 						"pub_info": "London: Heinemann, 1964.",
 						"edition": "First English edition.",
 						"binding": "Hardcover in dust jacket.",
-						"pages": "202 pages."
+						"pages": "202"
 					},
 					{
 						"pub_info": "Leeds, England: Peepal Tree Press, 2011.",
@@ -5859,14 +5623,14 @@ export default function () {
 						"edition": "First edition.",
 						"binding": "Hardcover in dust jacket.",
 						"size": "8vo (5 3/8 in x 8 in).",
-						"pages": "183 pages.",
+						"pages": "183",
 						"img_file": "ClarkeThorns1-300.jpg",
 						"description": "",
 						"copies": [
 							{
 								"features": "Inscribed and dated (July 2, 1965) by the author on the title page.",
 								"condition": "Near fine in boards and dust jacket. This is a nice copy of this title. The dust jacket is a bit sunned at the spine, and there is a small stain on the top page edges. Perhaps oddly, the book's title page indicates Heinemann as the publisher, while the dust jacket indicates the Canadian publisher McClelland & Stewart. The pages are clean and unmarked, and the binding is tight.",
-								"price": "US$60.00"
+								"price": "60.00"
 							}
 						]
 					},
@@ -5878,7 +5642,7 @@ export default function () {
 					{
 						"pub_info": "Leeds, England: Peepal Tree Press, 2011.",
 						"binding": "Trade paperback.",
-						"pages": "186 pages."
+						"pages": "186"
 					}
 				]
 			},
@@ -5888,15 +5652,12 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Heinemann",
 						"pub_info": "London: Heinemann, 1967."
 					},
 					{
-						"publisher": "Macmillan",
 						"pub_info": "Toronto: Macmillan, 1967."
 					},
 					{
-						"publisher": "Little, Brown",
 						"pub_info": "Boston: Little, Brown and Company [1972]."
 					}
 				]
@@ -5907,8 +5668,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Al Kitab Sudan",
-						"pub_info": "Burlington, Ontario: Al Kitab Sudan, 1968. (Pamphlet)"
+						"pub_info": "Burlington, Ontario: Al Kitab Sudan, 1968.",
+						"binding": "Pamphlet."
 					}
 				]
 			},
@@ -5918,11 +5679,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Anansi",
 						"pub_info": "Toronto: Anansi, 1971."
 					},
 					{
-						"publisher": "Little, Brown",
 						"pub_info": "Boston: Little, Brown and Company, 1973."
 					}
 				]
@@ -5933,7 +5692,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Little, Brown",
 						"pub_info": "Boston/Toronto: Little, Brown and Company [1973]."
 					}
 				]
@@ -5944,7 +5702,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Little, Brown",
 						"pub_info": "Boston/Toronto: Little Brown and Company, 1975."
 					}
 				]
@@ -5955,15 +5712,12 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "General Publishing Co",
 						"pub_info": "Don Mills, Ontario: General Publishing Co., 1977."
 					},
 					{
-						"publisher": "Kegan Paul",
 						"pub_info": "London: Routledge & Kegan Paul, 1978."
 					},
 					{
-						"publisher": "Paperjacks",
 						"pub_info": "Markham, Ontario: Paperjacks, 1978."
 					}
 				]
@@ -5974,11 +5728,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "McClelland and Stewart",
 						"pub_info": "[Toronto] McClelland and Stewart [1980]."
 					},
 					{
-						"publisher": "Casa de las Americas",
 						"pub_info": "Havana: Casa de las Americas, 1980."
 					}
 				]
@@ -5989,7 +5741,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "McClelland and Stewart",
 						"pub_info": "Toronto: McClelland and Stewart, 1985."
 					}
 				]
@@ -6000,8 +5751,8 @@ export default function () {
 				"summary": ["A collection of 9 short stories, with an introduction by the author."],
 				"editions": [
 					{
-						"publisher": "Penguin",
-						"pub_info": "[Markham, Ontario] Penguin Books [1986]. (Paperback)"
+						"pub_info": "[Markham, Ontario] Penguin Books [1986].",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -6011,11 +5762,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Victor Gollancz",
 						"pub_info": "London: Victor Gollancz, 1986."
 					},
 					{
-						"publisher": "Penguin",
 						"pub_info": "Markham, Ontario: Penguin, 1988."
 					}
 				]
@@ -6026,7 +5775,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Exile Editions",
 						"pub_info": "Toronto: Exile Editions, 1992."
 					}
 				]
@@ -6037,8 +5785,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Harper-Collins",
-						"pub_info": "Toronto: Harper-Collins, 1992. (Pamphlet)"
+						"pub_info": "Toronto: Harper-Collins, 1992.",
+						"binding": "Pamphlet."
 					}
 				]
 			},
@@ -6048,8 +5796,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Exile Editions",
-						"pub_info": "Toronto: Exile Editions, 1993. (Paperback)"
+						"pub_info": "Toronto: Exile Editions, 1993.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -6059,8 +5807,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Exile Editions",
-						"pub_info": "Toronto: Exile Editions, 1994. (Paperback)"
+						"pub_info": "Toronto: Exile Editions, 1994.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -6070,7 +5818,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "McClelland and Stewart",
 						"pub_info": "Toronto: McClelland and Stewart, 1997."
 					}
 				]
@@ -6081,7 +5828,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "The New Press",
 						"pub_info": "New York: The New Press, [1999]."
 					}
 				]
@@ -6092,7 +5838,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "McClelland and Stewart",
 						"pub_info": "[Toronto] McClelland and Stewart [1999]."
 					}
 				]
@@ -6103,7 +5848,6 @@ export default function () {
 				"summary": ["A novel set in the post-colonial West Indian island of Bimshire in the thirties and forties, 'The Polished Hoe' unravels over the course of twenty-four hours, but spans the lifetime of one woman and the collective experience of a society characterized by slavery. Winner of the 2002 Giller Prize and the 2003 Commonwealth Writers Prize Best Book Award for the Canada and Caribbean region. Also shared winner (along with Nino Ricci for 'Testament') of Ontario's Trillium Prize."],
 				"editions": [
 					{
-						"publisher": "Thomas Allen",
 						"pub_info": "Toronto: Thomas Allen, 2002."
 					}
 				]
@@ -6124,7 +5868,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Persephone Press",
 						"pub_info": "Watertown, MA: Persephone Press, 1980."
 					}
 				]
@@ -6135,20 +5878,17 @@ export default function () {
 				"summary": ["Set in 1958 Jamaica, the novel tells of Clare Savage, a light-skinned twelve-year-old, middle class girl growing up amid the contridictions of race, class, and history in a colonized country. (Callaloo, Vol. 15, No. 1)"],
 				"editions": [
 					{
-						"publisher": "Crossing Press",
 						"pub_info": "Trumansburg, NY: Crossing Press, 1984."
 					},
 					{
-						"publisher": "Dutton",
 						"pub_info": "New York: Dutton, 1990."
 					},
 					{
-						"publisher": "Penguin",
 						"pub_info": "New York: Penguin, 1991."
 					},
 					{
-						"publisher": "Plumsock Mesoamerican Studies",
-						"pub_info": "Plumsock Mesoamerican Studies, 1995. (Paperback)"
+						"pub_info": "Plumsock Mesoamerican Studies, 1995.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -6158,7 +5898,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Firebrand Books",
 						"pub_info": "Ithaca, NY: Firebrand Books, 1985."
 					}
 				]
@@ -6169,20 +5908,17 @@ export default function () {
 				"summary": ["The story of Clare Savage's quest for spiritual integrity in Jamaica. (Callaloo, Vol. 15, No. 1)"],
 				"editions": [
 					{
-						"publisher": "Dutton",
 						"pub_info": "New York: Dutton, 1987."
 					},
 					{
-						"publisher": "Methuen",
 						"pub_info": "London: Methuen, 1988."
 					},
 					{
-						"publisher": "Vintage",
 						"pub_info": "New York: Vintage Books, 1989."
 					},
 					{
-						"publisher": "Plume",
-						"pub_info": "Plume, 1996. (Paperback)"
+						"pub_info": "Plume, 1996.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -6192,15 +5928,13 @@ export default function () {
 				"summary": ["A collection of short stories, all but one set in the United States. The stories examine aspects of contemporary life in the States, including AIDS, the legacy od Viet Nam, and racial inequities, all seen through the eyes of one who has adopted the U.S. as her home. (Callaloo, Vol. 15, No. 1)"],
 				"editions": [
 					{
-						"publisher": "Methuen",
 						"pub_info": "New York: Methuen, 1990."
 					},
 					{
-						"publisher": "Dutton",
-						"pub_info": "New York: Dutton, 1990. (Paperback)"
+						"pub_info": "New York: Dutton, 1990.",
+						"binding": "Paperback."
 					},
 					{
-						"publisher": "Plume",
 						"pub_info": "Plume, 1996."
 					}
 				]
@@ -6211,23 +5945,21 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Dutton",
 						"pub_info": "[New York] Dutton [1993]."
 					},
 					{
-						"publisher": "Plume/Penguin",
 						"pub_info": "New York: Plume/Penguin, 1993."
 					}
 				]
 			},
 			{
 				"pub_year": "1998",
-				"title": "The Store of a Million Items (Stories)",
-				"summary": [""],
+				"title": "The Store of a Million Items",
+				"summary": ["Stories."],
 				"editions": [
 					{
-						"publisher": "Houghton Mifflin",
-						"pub_info": "Boston: Houghton Mifflin, 1998. (Trade paperback)"
+						"pub_info": "Boston: Houghton Mifflin, 1998.",
+						"binding": "Trade paperback."
 					}
 				]
 			}
@@ -6247,7 +5979,6 @@ export default function () {
 				"summary": ["Memoirs of a civil servant who grew up in Grenada."],
 				"editions": [
 					{
-						"publisher": "Stockwell",
 						"pub_info": "Devon: Stockwell, 1970"
 					}
 				]
@@ -6268,12 +5999,11 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Karia Press",
 						"pub_info": "[London] Karia Press [1985]. (Cloth)"
 					},
 					{
-						"publisher": "Karia Press",
-						"pub_info": "[London] Karia Press [1985]. (Paperback)"
+						"pub_info": "[London] Karia Press [1985].",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -6283,11 +6013,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Women's Press",
 						"pub_info": "London: Women's Press, 1987."
 					},
 					{
-						"publisher": "Cambridge University Press",
 						"pub_info": "New York: Cambridge University Press, 1990."
 					}
 				]
@@ -6298,11 +6026,9 @@ export default function () {
 				"summary": ["I think her use of Grenadian language is one of the great emotive elements of the piece. She also manages to capture complicated aspects of our history which were not previously dealt with. Because of the use of our language she has been able to tap into psychic resources which were not tapped before. (L.Snow, May 1997)"],
 				"editions": [
 					{
-						"publisher": "Women's Press",
 						"pub_info": "[London] Women's Press [1987]."
 					},
 					{
-						"publisher": "Seal Press",
 						"pub_info": "Seattle: Seal Press, 1988."
 					}
 				]
@@ -6313,18 +6039,16 @@ export default function () {
 				"summary": ["Seven stories set in Grenada. A glossary of Grenadian vocabulary is included."],
 				"editions": [
 					{
-						"publisher": "Women's Press",
 						"pub_info": "London: Women's Press, 1990."
 					}
 				]
 			},
 			{
 				"pub_year": "1993",
-				"title": "Rotten Pomerack (Poems)",
-				"summary": [""],
+				"title": "Rotten Pomerack",
+				"summary": ["Poems."],
 				"editions": [
 					{
-						"publisher": "Virago",
 						"pub_info": "London: Virago, 1993."
 					}
 				]
@@ -6335,7 +6059,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Virago",
 						"pub_info": "[London: Virago, 1995]."
 					}
 				]
@@ -6346,18 +6069,16 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "57 Productions",
 						"pub_info": "[London] 57 Productions [1996]."
 					}
 				]
 			},
 			{
 				"pub_year": "2003",
-				"title": "Lady in a Boat (Poems)",
-				"summary": ["Twenty years after the death of the Grenadian revolution, Merle Collins writes of a Caribbean adrift, amnesiac and in danger of nihilistic despair. But she also achieves a life-enhancing and consoling perspective on those griefs."],
+				"title": "Lady in a Boat",
+				"summary": ["Poems. Twenty years after the death of the Grenadian revolution, Merle Collins writes of a Caribbean adrift, amnesiac and in danger of nihilistic despair. But she also achieves a life-enhancing and consoling perspective on those griefs."],
 				"editions": [
 					{
-						"publisher": "Peepal Tree Press",
 						"pub_info": "Leeds: Peepal Tree Press, 2003."
 					}
 				]
@@ -6370,27 +6091,25 @@ export default function () {
 		"birth_country": "Barbados",
 		"birth_year": "1883",
 		"death_year": "1980",
-		"bio": ["Frank Collymore was born in 1883 and he died an old respected poet, teacher, actor, artist, and short-story writer in 1980. He taught and influenced George Lamming, Frank Worrel, Austin Clarke, and Timothy Callender, helped Derek Walcott get published in Barbados, and through his editorship of BIM, the foremost literary magazine of Barbados, he earned the reputation of doyen and godfather of West Indian literature. (Source: www.heinemann.com)"],
+		"bio": ["<strong>Frank Collymore</strong> was born in 1883 and he died an old respected poet, teacher, actor, artist, and short-story writer in 1980. He taught and influenced George Lamming, Frank Worrel, Austin Clarke, and Timothy Callender, helped Derek Walcott get published in Barbados. Through his editorship of <i>BIM</i>, the foremost literary magazine of Barbados, he earned the reputation of doyen and godfather of West Indian literature. <i>(Heinemann)</i>"],
 		"books": [
 			{
-				"pub_year": "?",
+				"pub_year": "1944",
 				"title": "Thirty Poems",
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "?",
-						"pub_info": "????"
+						"pub_info": "Bridgetown, Barbados: Advocate Company, 1944."
 					}
 				]
 			},
 			{
-				"pub_year": "?",
+				"pub_year": "1945",
 				"title": "Beneath the Casuarinas",
-				"summary": [""],
+				"summary": ["Poems."],
 				"editions": [
 					{
-						"publisher": "?",
-						"pub_info": "????"
+						"pub_info": "Bridgetown, Barbados: Advocate Company, 1945."
 					}
 				]
 			},
@@ -6400,7 +6119,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Advocate",
 						"pub_info": "Bridgetown: Advocate, 1948"
 					}
 				]
@@ -6411,32 +6129,32 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Advocate Company",
-						"pub_info": "Bridgetown: Advocate Company, 1955."
+						"pub_info": "Bridgetown: Advocate Company, 1955.",
+						"edition": "First edition."
 					},
 					{
-						"publisher": "Advocate Company",
-						"pub_info": "Bridgetown: Advocate Company, 1956. (Second printing)"
+						"pub_info": "Bridgetown: Advocate Company, 1956.",
+						"edition": "First edition, second printing."
 					},
 					{
-						"publisher": "Advocate Company",
-						"pub_info": "Bridgetown: Advocate Company, 1957. (Second edition)"
+						"pub_info": "Bridgetown: Advocate Company, 1957.",
+						"edition": "Second edition."
 					},
 					{
-						"publisher": "Advocate Company",
-						"pub_info": "Bridgetown: Advocate Company, 1965. (Third edition)"
+						"pub_info": "Bridgetown: Advocate Company, 1965.",
+						"edition": "Third edition."
 					},
 					{
-						"publisher": "The Barbados National Trust",
-						"pub_info": "[Barbados: The Barbados National Trust, 1969]. (Fourth edition)"
+						"pub_info": "[Barbados: The Barbados National Trust, 1969].",
+						"edition": "Fourth edition."
 					},
 					{
-						"publisher": "The Barbados National Trust",
-						"pub_info": "[Barbados: The Barbados National Trust, 1970]. (Fifth edition)"
+						"pub_info": "[Barbados: The Barbados National Trust, 1970].",
+						"edition": "Fifth edition."
 					},
 					{
-						"publisher": "The Barbados National Trust",
-						"pub_info": "[Barbados: The Barbados National Trust, 1992]. (Sixth edition)"
+						"pub_info": "[Barbados: The Barbados National Trust, 1992].",
+						"edition": "Sixth edition."
 					}
 				]
 			},
@@ -6446,19 +6164,17 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "Barbados, 1959."
 					}
 				]
 			},
 			{
-				"pub_year": "?",
+				"pub_year": "1968",
 				"title": "Rhymed Ruminations on the Fauna of Barbados",
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "?",
-						"pub_info": "????"
+						"pub_info": "Bridgetown, Barbados: Advocate Company, 1968"
 					}
 				]
 			},
@@ -6475,7 +6191,7 @@ export default function () {
 			{
 				"pub_year": "1993",
 				"title": "The Man Who Loved Attending Funerals and Other Stories",
-				"summary": ["Collymore's stories explore the mind's dark places. Often morbid and grotesque, they deal with the solitary, the eccentric, and the psychotic in society. This is the first collection of Collymore's finely focused and evocative short stories. The book includes an appraisal of Collymore's work by Harold Barratt and Reinhold Sander and will be invaluable for scholars and students of West Indian literature, charting the awakening of writers in the forties and fifties. (Heinemann synopsis)"],
+				"summary": ["Collymore's stories explore the mind's dark places. Often morbid and grotesque, they deal with the solitary, the eccentric, and the psychotic in society. This is the first collection of Collymore's finely focused and evocative short stories. The book includes an appraisal of Collymore's work by Harold Barratt and Reinhold Sander and will be invaluable for scholars and students of West Indian literature, charting the awakening of writers in the forties and fifties. <i>(Heinemann synopsis)</i>"],
 				"editions": [
 					{
 						"pub_info": "London: Heinemann, 1993."
@@ -6524,7 +6240,8 @@ export default function () {
 						"pub_info": "Washington D.C: Three Continents Press, 1982."
 					},
 					{
-						"pub_info": "Lynne Rienner Publishers, 1982. (Paperback)"
+						"pub_info": "Lynne Rienner Publishers, 1982.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -6553,10 +6270,12 @@ export default function () {
 						"pub_info": "[New York] Viking [1987]."
 					},
 					{
-						"pub_info": "New York: Ballantine Books, 1988. (Paperback)"
+						"pub_info": "New York: Ballantine Books, 1988.",
+						"binding": "Paperback."
 					},
 					{
-						"pub_info": "New York: Penguin USA, 1996. (Paperback)"
+						"pub_info": "New York: Penguin USA, 1996.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -6601,7 +6320,8 @@ export default function () {
 						"pub_info": "Charlottesville: University Press of Virginia [1992]."
 					},
 					{
-						"pub_info": "New York: Ballantine Books, 1994. (Paperback)"
+						"pub_info": "New York: Ballantine Books, 1994.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -6643,7 +6363,8 @@ export default function () {
 						"pub_info": "Lincoln: University of Nebraska Press, 1997. (Cloth)"
 					},
 					{
-						"pub_info": "Lincoln: University of Nebraska Press, 1997. (Paperback)"
+						"pub_info": "Lincoln: University of Nebraska Press, 1997.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -6656,7 +6377,8 @@ export default function () {
 						"pub_info": "Lincoln: University of Nebraska Press, 1996. (Cloth)"
 					},
 					{
-						"pub_info": "Lincoln: University of Nebraska Press, 1996. (Paperback)"
+						"pub_info": "Lincoln: University of Nebraska Press, 1996.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -6682,7 +6404,8 @@ export default function () {
 						"pub_info": "New York: Soho, 1998."
 					},
 					{
-						"pub_info": "London: Faber and Faber, 1998. (Paperback)"
+						"pub_info": "London: Faber and Faber, 1998.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -6695,7 +6418,8 @@ export default function () {
 						"pub_info": "Lincoln: University of Nebraska Press, 1999. (Cloth)"
 					},
 					{
-						"pub_info": "Lincoln: University of Nebraska Press, 1999. (Paperback)"
+						"pub_info": "Lincoln: University of Nebraska Press, 1999.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -6721,8 +6445,8 @@ export default function () {
 		"books": [
 			{
 				"pub_year": "1983",
-				"title": "Breakin Chains (Poems)",
-				"summary": [""],
+				"title": "Breakin Chains",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "[Toronto] Weelahs Publications [1983]."
@@ -6731,8 +6455,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1989",
-				"title": "The Red Catepillar on College Street (Poems)",
-				"summary": [""],
+				"title": "The Red Catepillar on College Street",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Toronto: Sister Vision, 1989."
@@ -6741,21 +6465,11 @@ export default function () {
 			},
 			{
 				"pub_year": "1992",
-				"title": "Memories Have Tongue (Poems)",
-				"summary": [""],
+				"title": "Memories Have Tongue",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Toronto: Sister Vision, 1992."
-					}
-				]
-			},
-			{
-				"pub_year": "1999",
-				"title": "Utterances and Incantations (Editor)",
-				"summary": ["A poetry anthology. Contributors are Lillian Allen, amuna baraka-clarke, Michelle Barrow, Louise Bennett, Jean 'Binta' Breeze, Afua Cooper, Queen Majeeda, ahdri zhina mandiela , Cherry Natural, Deanne (Dee) Smith and Anita Stewart a.k.a. Anilia Soyinka."],
-				"editions": [
-					{
-						"pub_info": "Toronto: Sister Vision, 1999."
 					}
 				]
 			}
@@ -6832,7 +6546,7 @@ export default function () {
 			{
 				"pub_year": "1993",
 				"title": "Mint Tea and Other Stories",
-				"summary": ["Unconventional love, social injustice, dangerous economics--these are the subject of Christine Craig's short stories. She tenderly evokes the women's experiences of Jamaica, criss-crossing between generations and places, disregarding conventions, and weaving new insights into a complex place and a complex people. Craig brings to this first collection a sharp, unsentimental eye, a flair for language, and a subtle sense of irony. Christine Craig now lives in the U.S. (Heinemann synopsis)"],
+				"summary": ["Unconventional love, social injustice, dangerous economics--these are the subject of Christine Craig's short stories. She tenderly evokes the women's experiences of Jamaica, criss-crossing between generations and places, disregarding conventions, and weaving new insights into a complex place and a complex people. Craig brings to this first collection a sharp, unsentimental eye, a flair for language, and a subtle sense of irony. Christine Craig now lives in the U.S. <i>(Heinemann synopsis)</i>"],
 				"editions": [
 					{
 						"pub_info": "Oxford: Heinemann, 1993."
@@ -6861,8 +6575,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1977",
-				"title": "Distances (Poems)",
-				"summary": [""],
+				"title": "Distances",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "[Vancouver] Fiddlehead Poetry Books, 1977."
@@ -6871,8 +6585,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1977",
-				"title": "Goatsong (Poems)",
-				"summary": [""],
+				"title": "Goatsong",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Ontario: Mosaic Press/Valley Editions, 1977."
@@ -6881,8 +6595,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1977",
-				"title": "Heart's Frame (Poems)",
-				"summary": [""],
+				"title": "Heart's Frame",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "1977"
@@ -6891,8 +6605,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1979",
-				"title": "This Planet Earth (Poems)",
-				"summary": [""],
+				"title": "This Planet Earth",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Ottawa: Borealis Press, 1979."
@@ -6911,8 +6625,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1982",
-				"title": "Elephants Make Good Stepladders (Poems)",
-				"summary": [""],
+				"title": "Elephants Make Good Stepladders",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "London, Ontario: Third Eye, 1982."
@@ -6921,7 +6635,7 @@ export default function () {
 			},
 			{
 				"pub_year": "1986",
-				"title": "Islands Lovelier Than a Vision (Poems)",
+				"title": "Islands Lovelier Than a Vision",
 				"summary": ["Poems that match a complexity of tone and attitude to the experience of twin Caribbean and Canadian horizons, where even as the poems record a growing immersion in the textures of Canadian life, memories of Guyana surface with stubborn persistence."],
 				"editions": [
 					{
@@ -7011,8 +6725,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1994",
-				"title": "Storming the Wind (Poems)",
-				"summary": [""],
+				"title": "Storming the Wind",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Toronto: TSAR, 1994."
@@ -7021,8 +6735,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1995",
-				"title": "Born in Amazonia (Poems)",
-				"summary": [""],
+				"title": "Born in Amazonia",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Oakville, Ontario: Mosaic Press, 1995."
@@ -7058,14 +6772,15 @@ export default function () {
 						"pub_info": "Toronto: TSAR, 1996."
 					},
 					{
-						"pub_info": "Inbook, 1997. (Paperback)"
+						"pub_info": "Inbook, 1997.",
+						"binding": "Paperback."
 					}
 				]
 			},
 			{
 				"pub_year": "1997",
-				"title": "Discussing Columbus (Poems)",
-				"summary": ["Dabydeen explores experiences of Canada and the Caribbean which simultaneously speak of a past of brutal genocide and a world of recreating newness, constantly evolving from the heterogeneous convergencies which that voyage of 1492 began."],
+				"title": "Discussing Columbus",
+				"summary": ["Poems. Dabydeen explores experiences of Canada and the Caribbean which simultaneously speak of a past of brutal genocide and a world of recreating newness, constantly evolving from the heterogeneous convergencies which that voyage of 1492 began."],
 				"editions": [
 					{
 						"pub_info": "Leeds: Peepal Tree Press, 1997."
@@ -7104,7 +6819,7 @@ export default function () {
 		"books": [
 			{
 				"pub_year": "1984",
-				"title": "Slave Song (Poems)",
+				"title": "Slave Song",
 				"summary": ["Winner of the Commonwealth Poetry Prize. In these poems Dabydeen explores the connections between slavery and indenture, the desire-hate relationship between Black and White and the violence and vitality of Creole."],
 				"editions": [
 					{
@@ -7128,10 +6843,12 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "Coventry: Dangaroo Press, 1987. (Paperback)"
+						"pub_info": "Coventry: Dangaroo Press, 1987.",
+						"binding": "Paperback."
 					},
 					{
-						"pub_info": "Athens, GA: University of Georgia Press, 1987. (Paperback)"
+						"pub_info": "Athens, GA: University of Georgia Press, 1987.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -7141,7 +6858,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "Hansib, 1987. (Paperback)"
+						"pub_info": "Hansib, 1987.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -7151,17 +6869,19 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "Hansib, 1987. (Paperback)"
+						"pub_info": "Hansib, 1987.",
+						"binding": "Paperback."
 					}
 				]
 			},
 			{
 				"pub_year": "1988",
-				"title": "Coolie Odyssey (Poems)",
-				"summary": ["A celebration, albeit a tentative and unsentimental one, of the survival and rooting of a creolised Indian culture in the Caribbean, and Dabydeen’s own exploration of his cultural origins."],
+				"title": "Coolie Odyssey",
+				"summary": ["Poems. A celebration, albeit a tentative and unsentimental one, of the survival and rooting of a creolised Indian culture in the Caribbean, and Dabydeen’s own exploration of his cultural origins."],
 				"editions": [
 					{
-						"pub_info": "Coventry, Dangaroo Press, 1988. (Paperback)"
+						"pub_info": "Coventry, Dangaroo Press, 1988.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -7221,7 +6941,8 @@ export default function () {
 				"summary": ["A long narrative poem written in response to JMW Turner’s celebrated painting ‘Slavers Throwing Overboard the Dead & Dying’ which focuses on what is hidden in Turner’s painting, the submerged head of the drowning African."],
 				"editions": [
 					{
-						"pub_info": "London: Jonathan Cape, 1994. (Trade paperback)"
+						"pub_info": "London: Jonathan Cape, 1994.",
+						"binding": "Trade paperback."
 					},
 					{
 						"pub_info": "Leeds: Peepal Tree Press, 2002."
@@ -7254,7 +6975,8 @@ export default function () {
 				"summary": ["Dabydeen echoes the method of ‘Turner’ by taking the black slave boy from Hogarth’s ‘A Harlot’s Progress’ and inventing a biography for him. As the oldest black man in London, forced on the charity of the abolitionists, Mungo spins a story which in its twists and turns is the one he wants to tell, not the story of victimisation and paternalistic rescue which his ‘benefactors’ want to hear."],
 				"editions": [
 					{
-						"pub_info": "London: Jonathan Cape, 1999. (Trade paperback)"
+						"pub_info": "London: Jonathan Cape, 1999.",
+						"binding": "Trade paperback."
 					}
 				]
 			}
@@ -7281,14 +7003,14 @@ export default function () {
 						"edition": "First edition.",
 						"binding": "Trade paperback.",
 						"size": "8vo (5 in x 7 3/4 in).",
-						"pages": "48 pages.",
+						"pages": "48",
 						"img_file": "DAguiarMomaDot1-300.jpg",
 						"description": "",
 						"copies": [
 							{
 								"features": "Inscribed by the author on the title page.",
 								"condition": "Very good in stiff illustrated wrappers. There is a Poetry Book Society sticker on the front cover, and evidence of bending to the top right corner of the book. The pages are clean and unmarked, and the binding is tight.",
-								"price": "US$17.50"
+								"price": "17.50"
 							}
 						]
 					}
@@ -7340,7 +7062,8 @@ export default function () {
 				"summary": ["his collection of poems explores the experiences of peoples of the West Indian diaspora in London."],
 				"editions": [
 					{
-						"pub_info": "[Newcaslte] Bloodaxe Books [1993]. (Paperback)"
+						"pub_info": "[Newcaslte] Bloodaxe Books [1993].",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -7354,14 +7077,14 @@ export default function () {
 						"edition": "First edition.",
 						"binding": "Hardcover in dust jacket.",
 						"size": "8vo (5 1/8 in x 7 5/8 in).",
-						"pages": "138 pages.",
+						"pages": "138",
 						"img_file": "DAguiarLongest1st-300.jpg",
 						"description": "",
 						"copies": [
 							{
 								"features": "",
 								"condition": "Near fine in boards and dust jacket. There is minor sunning to the spine of the dust jacket. The book's pages are clean and unmarked, and the binding is very tight.",
-								"price": "US$12.50"
+								"price": "12.50"
 							}
 						]
 					},
@@ -7412,7 +7135,8 @@ export default function () {
 				"summary": ["A long narrative poem about the Jonestown massacre in Guyana in 1979, which is told in Guyanese versions of English, fusing patois, Creole and nation language with the standard vernacular.[8] It was shortlisted for the 1998 T. S. Eliot Prize."],
 				"editions": [
 					{
-						"pub_info": "London: Chatto & Windus [1998]. (Paperback)"
+						"pub_info": "London: Chatto & Windus [1998].",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -7435,7 +7159,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "London: Chatto & Windus [2001]. (Paperback)"
+						"pub_info": "London: Chatto & Windus [2001].",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -7548,14 +7273,14 @@ export default function () {
 						"pub_info": "[New York] Soho [1998].",
 						"binding": "Hardcover in dust jacket.",
 						"size": "8vo (5 7/8 in x 8 1/2 in).",
-						"pages": "312 pages.",
+						"pages": "312",
 						"img_file": "DanticatFarming1-300.jpg",
 						"description": "",
 						"copies": [
 							{
 								"features": "Signed and dated (10/15/98) by the author while on tour to promote the book's publication.",
 								"condition": "Near fine in boards and dust jacket. There is minor sunning to the spine of the dust jacket. The book's pages are clean and unmarked, and the binding is very tight.",
-								"price": "US$17.50"
+								"price": "17.50"
 							}
 						]
 					}
@@ -7687,9 +7412,9 @@ export default function () {
 		"last_name": "Dathorne",
 		"first_name": "Oscar Ronald",
 		"birth_country": "Guyana",
-		"birth_year": "",
-		"death_year": "",
-		"bio": [""],
+		"birth_year": "19 Nov 1934",
+		"death_year": "18 Dec 2007",
+		"bio": ["<strong>Oscar Ronald Dathorne</strong> was a Guyanese educator, novelist, poet and critic. He was the founder of the Association of Caribbean Studies and the Journal of Caribbean Studies. <i>(Wikipedia)</i>"],
 		"books": [
 			{
 				"pub_year": "1963",
@@ -7708,36 +7433,6 @@ export default function () {
 				"editions": [
 					{
 						"pub_info": "London: Cassell, 1964."
-					}
-				]
-			},
-			{
-				"pub_year": "?",
-				"title": "One Iota of Difference",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "London: Cassell, ????"
-					}
-				]
-			},
-			{
-				"pub_year": "1966",
-				"title": "Caribbean Narrative: An anthology of West Indian Writing (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "London: Heinemann Educational Books, 1966."
-					}
-				]
-			},
-			{
-				"pub_year": "1969",
-				"title": "Africa in Prose (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "Baltimore: Penguin, 1969."
 					}
 				]
 			},
@@ -8104,7 +7799,8 @@ export default function () {
 						"pub_info": "Melbourne: Australasian Book Society, 1952."
 					},
 					{
-						"pub_info": "Melbourne: Australasian Book Society, 1952. (Paperback)"
+						"pub_info": "Melbourne: Australasian Book Society, 1952.",
+						"binding": "Paperback."
 					},
 					{
 						"pub_info": "London: Allison & Busby, 1981."
@@ -8120,7 +7816,8 @@ export default function () {
 						"pub_info": "Melbourne: Australasian Book Society, 1956."
 					},
 					{
-						"pub_info": "Melbourne: Australasian Book Society, 1956. (Paperback)"
+						"pub_info": "Melbourne: Australasian Book Society, 1956.",
+						"binding": "Paperback."
 					},
 					{
 						"pub_info": "London: Allison & Busby, 1984."
@@ -8252,8 +7949,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1973",
-				"title": "Thoughts and Dreams (Poems)",
-				"summary": [""],
+				"title": "Thoughts and Dreams",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Devon: Stockwell, 1973."
@@ -8262,8 +7959,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1974",
-				"title": "Dreams Non Stop (Poems)",
-				"summary": [""],
+				"title": "Dreams Non Stop",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Devon: Stockwell, 1974."
@@ -8272,8 +7969,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1975",
-				"title": "Reminiscing (Poems)",
-				"summary": [""],
+				"title": "Reminiscing",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Devon: Stockwell, 1975."
@@ -8296,7 +7993,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "Devon: Stockwell, 1978. (Trade paperback)"
+						"pub_info": "Devon: Stockwell, 1978.",
+						"binding": "Trade paperback."
 					}
 				]
 			},
@@ -8415,7 +8113,8 @@ export default function () {
 						"pub_info": "London: Ernest Benn Limited [1952]."
 					},
 					{
-						"pub_info": "London: Ernest Benn, 1961. (Paperback)"
+						"pub_info": "London: Ernest Benn, 1961.",
+						"binding": "Paperback."
 					},
 					{
 						"pub_info": "Jamaica: Macmillan Caribbean, 1985."
@@ -8431,7 +8130,8 @@ export default function () {
 						"pub_info": "London: Ernest Benn Limited [1953]."
 					},
 					{
-						"pub_info": "London: Ernest Benn, 1961. (Paperback)"
+						"pub_info": "London: Ernest Benn, 1961.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -8481,36 +8181,6 @@ export default function () {
 		]
 	},
 	{
-		"last_name": "Donnell",
-		"first_name": "Alison",
-		"birth_country": "[unknown]",
-		"birth_year": "",
-		"death_year": "",
-		"bio": [""],
-		"books": [
-			{
-				"pub_year": "1996",
-				"title": "The Routledge Reader in Caribbean Literature (1900-1990's) (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "London/New York: Routledge, 1996."
-					}
-				]
-			},
-			{
-				"pub_year": "2002",
-				"title": "Companion to Contemporary Black British Culture (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "New York: Routledge, 2002."
-					}
-				]
-			}
-		]
-	},
-	{
 		"last_name": "Doodnath",
 		"first_name": "Samuel",
 		"birth_country": "Trinidad and Tobago",
@@ -8550,7 +8220,7 @@ export default function () {
 		"books": [
 			{
 				"pub_year": "1999",
-				"title": "Electricity Comes to Cocoa Bottom (Poems)",
+				"title": "Electricity Comes to Cocoa Bottom",
 				"summary": ["These poems take the reader on a journey of light, from the flicker of the firefly in rural Jamaica, through the half-moonlight of the limbo of exile in the USA, to the point of arrival and reconnection imaged by the eight-pointed star."],
 				"editions": [
 					{
@@ -8573,7 +8243,7 @@ export default function () {
 	{
 		"last_name": "D'Oyley",
 		"first_name": "Enid F.",
-		"birth_country": "[unknown]",
+		"birth_country": "Jamaica",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -8603,15 +8273,15 @@ export default function () {
 	{
 		"last_name": "Drayton",
 		"first_name": "Geoffrey",
-		"birth_country": "[unknown]",
-		"birth_year": "",
+		"birth_country": "Barbados",
+		"birth_year": "13 Feb 1924",
 		"death_year": "",
 		"bio": [""],
 		"books": [
 			{
 				"pub_year": "1950",
-				"title": "Three Meridians (Poems)",
-				"summary": [""],
+				"title": "Three Meridians",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Toronto, Ryerson Press, 1950."
@@ -8621,7 +8291,7 @@ export default function () {
 			{
 				"pub_year": "1959",
 				"title": "Christopher",
-				"summary": ["An imaginative small boy leaves his childhood behind in the course of a school holiday. People puzzle Christopher. His father, an unsuccessful planter in Jamaica, resents his own dependence on his wife's family and includes Christopher in that resentment. (Heinemann synopsis)"],
+				"summary": ["An imaginative small boy leaves his childhood behind in the course of a school holiday. People puzzle Christopher. His father, an unsuccessful planter in Jamaica, resents his own dependence on his wife's family and includes Christopher in that resentment. <i>(Heinemann synopsis)</i>"],
 				"editions": [
 					{
 						"pub_info": "London: Collins, 1959."
@@ -8644,31 +8314,11 @@ export default function () {
 		]
 	},
 	{
-		"last_name": "Du Quesnay",
-		"first_name": "Frederick J. Le Mercier",
-		"birth_country": "[unknown]",
-		"birth_year": "",
-		"death_year": "",
-		"bio": [""],
-		"books": [
-			{
-				"pub_year": "1960",
-				"title": "A Princess for Port Royal: A romantic novel",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "Ilfracombe: Stockwell, 1960."
-					}
-				]
-			}
-		]
-	},
-	{
 		"last_name": "Durie",
 		"first_name": "Alice",
-		"birth_country": "[unknown]",
-		"birth_year": "",
-		"death_year": "",
+		"birth_country": "Jamaica",
+		"birth_year": "1886",
+		"death_year": "1970",
 		"bio": [""],
 		"books": [
 			{
@@ -8693,8 +8343,8 @@ export default function () {
 		"books": [
 			{
 				"pub_year": "2000",
-				"title": "Villa Fair (Stories)",
-				"summary": [""],
+				"title": "Villa Fair",
+				"summary": ["Stories."],
 				"editions": [
 					{
 						"pub_info": "Vancouver: Beach Holme, 2000."
@@ -8714,10 +8364,11 @@ export default function () {
 			{
 				"pub_year": "1982",
 				"title": "Beka Lamb",
-				"summary": ["Set in Belize, Beka Lamb is the record of a few months in the life of Beka and her family. The politics of the small colony, the influence of the matriarchal society and the dominating presence of the Catholic Church are woven into the fabric of the story to provide a compelling portrait of ordinary life in Belize. (Publisher's synopsis)"],
+				"summary": ["Set in Belize, Beka Lamb is the record of a few months in the life of Beka and her family. The politics of the small colony, the influence of the matriarchal society and the dominating presence of the Catholic Church are woven into the fabric of the story to provide a compelling portrait of ordinary life in Belize. <i>(Publisher's synopsis)</i>"],
 				"editions": [
 					{
-						"pub_info": "Oxford: Heinemann, 1982. (Paperback)"
+						"pub_info": "Oxford: Heinemann, 1982.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -8727,7 +8378,8 @@ export default function () {
 				"summary": ["The compelling story of a woman's fight to come to terms with the ghosts of her past and to determine her own future. Pavana Leslie returns to her homeland, Belize, after many years abroad, bringing her twin children -- whose unwitting father is now influential in the government. Private emotion twists with public crisis: Pavana strives to reconcile her personal and professional life, while the country itself is in turmoil as Independence approaches and rival factions battle for supremacy. Just as Belize will shake off colonial dependency, so, by the end of this enthralling saga, will Pavana achieve a new confidence, a new vision."],
 				"editions": [
 					{
-						"pub_info": "Oxford: Heinemann, 1991. (Paperback)"
+						"pub_info": "Oxford: Heinemann, 1991.",
+						"binding": "Paperback."
 					}
 				]
 			}
@@ -8786,7 +8438,7 @@ export default function () {
 	{
 		"last_name": "Emtage",
 		"first_name": "James B.",
-		"birth_country": "[unknown]",
+		"birth_country": "Barbados",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -8813,8 +8465,8 @@ export default function () {
 		"books": [
 			{
 				"pub_year": "1976",
-				"title": "Landscape in the Making (Poems)",
-				"summary": [""],
+				"title": "Landscape in the Making",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "1976"
@@ -8823,8 +8475,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1988",
-				"title": "Loggerhead (Poems)",
-				"summary": [""],
+				"title": "Loggerhead",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Sandberry Press, 1988."
@@ -8833,31 +8485,11 @@ export default function () {
 			},
 			{
 				"pub_year": "1998",
-				"title": "Mother Jackson Murders the Moon (Poems)",
-				"summary": ["Whether in her celebrations of domestic happiness in a house where even the chairs talk, her satires on Jamaican life, or her reflections on ageing, Gloria Escoffery writes with a visionary intensity and fantastical imagination which is all her own."],
+				"title": "Mother Jackson Murders the Moon",
+				"summary": ["Poems. Whether in her celebrations of domestic happiness in a house where even the chairs talk, her satires on Jamaican life, or her reflections on ageing, Gloria Escoffery writes with a visionary intensity and fantastical imagination which is all her own."],
 				"editions": [
 					{
 						"pub_info": "Leeds: Peepal Tree Press, 1998."
-					}
-				]
-			}
-		]
-	},
-	{
-		"last_name": "Esteves",
-		"first_name": "Carmen C.",
-		"birth_country": "[unknown]",
-		"birth_year": "",
-		"death_year": "",
-		"bio": [""],
-		"books": [
-			{
-				"pub_year": "1991",
-				"title": "Green Cane and Juicy Flotsam: Short Stories by Caribbean Women (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "New Jersey: Rutgers University Press, 1991."
 					}
 				]
 			}
@@ -8893,8 +8525,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1976",
-				"title": "Cotton Rhymes (Poems)",
-				"summary": [""],
+				"title": "Cotton Rhymes",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "1976"
@@ -8923,8 +8555,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1978",
-				"title": "Green Innocence (Poems)",
-				"summary": [""],
+				"title": "Green Innocence",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "1978"
@@ -8933,8 +8565,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1980",
-				"title": "Stop the Carnival (Poems)",
-				"summary": [""],
+				"title": "Stop the Carnival",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "1980"
@@ -8973,7 +8605,7 @@ export default function () {
 			},
 			{
 				"pub_year": "1998",
-				"title": "Lara Rains & Colonial Rites (Poems)",
+				"title": "Lara Rains & Colonial Rites",
 				"summary": ["Howard Fergus's poems explore the nature of living on Montserrat, a 'two-be-three island/hard like rock', vulnerable to the forces of nature (Hurricane Hugo and the erupting Soufriere) and still 'this British corridor', with room for poems about cricket."],
 				"editions": [
 					{
@@ -9013,7 +8645,7 @@ export default function () {
 			},
 			{
 				"pub_year": "2003",
-				"title": "Volcano Verses (Poems)",
+				"title": "Volcano Verses",
 				"summary": ["The poems in Volcano Verses express the confidence that island life and folk will outlast volcanic tantrums, that though ‘Tonight Chances pique still grows/...But cattle low and egrets ride/ Inspite of fire from mountain tides’."],
 				"editions": [
 					{
@@ -9025,8 +8657,8 @@ export default function () {
 	},
 	{
 		"last_name": "Ferguson",
-		"first_name": "Merril",
-		"birth_country": "[unknown]",
+		"first_name": "Merrill",
+		"birth_country": "Help!",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -9038,96 +8670,6 @@ export default function () {
 				"editions": [
 					{
 						"pub_info": "London: MacGibbon and Kee, 1960."
-					}
-				]
-			}
-		]
-	},
-	{
-		"last_name": "Fernandez",
-		"first_name": "Margarite",
-		"birth_country": "[unknown]",
-		"birth_year": "",
-		"death_year": "",
-		"bio": [""],
-		"books": [
-			{
-				"pub_year": "1983",
-				"title": "Contemporary Women Authors of Latin America: Introductory Essays (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "Brooklyn: Brooklyn College Press, 1983."
-					}
-				]
-			},
-			{
-				"pub_year": "1993",
-				"title": "Pleasure in the Word: Erotic Writings by Latin American Women (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "Fredonia, New York: White Pine Press, 1993."
-					}
-				]
-			},
-			{
-				"pub_year": "1996",
-				"title": "Remaking A Lost Harmony - Stories from the Hispanic Caribbean (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "Fredonia, New York: White Pine Press, 1996."
-					}
-				]
-			},
-			{
-				"pub_year": "1997",
-				"title": "The Latino Reader: An American Literary Tradition, 1542 to the Present Day (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "New York: Houghton Mifflin Company, 1997."
-					}
-				]
-			},
-			{
-				"pub_year": "1997",
-				"title": "Sacred Possessions Vodou, Santeria, Obeah, and the Caribbean (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "New Brunswick: Rutgers University Press, 1997."
-					}
-				]
-			},
-			{
-				"pub_year": "1999",
-				"title": "Rudolfo A. Anaya",
-				"summary": ["A study of the Chicano author and his seven novels."],
-				"editions": [
-					{
-						"pub_info": "Westport, CT: Greenwood Publishing Group, 1999."
-					}
-				]
-			},
-			{
-				"pub_year": "2001",
-				"title": "Healing Cultures: Art and Religion as Curative Practices in the Caribbean and Its Diaspora (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "New York: Palgrave, 2001."
-					}
-				]
-			},
-			{
-				"pub_year": "2002",
-				"title": "U. S. Latino Literature : A Critical Guide for Students and Teachers (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "Westport, CT: Greenwood Publishing Group, 2002."
 					}
 				]
 			}
@@ -9153,8 +8695,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1962",
-				"title": "Love Leaps Here (Poems)",
-				"summary": [""],
+				"title": "Love Leaps Here",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "UK: Privately published, 1962."
@@ -9332,7 +8874,7 @@ export default function () {
 	{
 		"last_name": "Fraser",
 		"first_name": "Fitzroy",
-		"birth_country": "[unknown]",
+		"birth_country": "Jamaica",
 		"birth_year": "1936",
 		"death_year": "",
 		"bio": [""],
@@ -9359,8 +8901,8 @@ export default function () {
 		"books": [
 			{
 				"pub_year": "2001",
-				"title": "Romantically Erotic Deadly Religious (Poems)",
-				"summary": [""],
+				"title": "Romantically Erotic Deadly Religious",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Hamburg: Mau-Vea Press, 2001."
@@ -9372,7 +8914,7 @@ export default function () {
 	{
 		"last_name": "Gilchrist",
 		"first_name": "Rupert",
-		"birth_country": "[unknown]",
+		"birth_country": "Nevis",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -9386,13 +8928,16 @@ export default function () {
 						"pub_info": "London: Souvenir Press, 1975."
 					},
 					{
-						"pub_info": "New York: Bantam, 1976. (Paperback)"
+						"pub_info": "New York: Bantam, 1976.",
+						"binding": "Paperback."
 					},
 					{
-						"pub_info": "Corgi, 1976. (Paperback)"
+						"pub_info": "Corgi, 1976.",
+						"binding": "Paperback."
 					},
 					{
-						"pub_info": "New York: Golden Apple, 1984. (Paperback)"
+						"pub_info": "New York: Golden Apple, 1984.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -9405,10 +8950,12 @@ export default function () {
 						"pub_info": "London: Souvenir Press, 1976."
 					},
 					{
-						"pub_info": "New York: Bantam, 1976. (Paperback)"
+						"pub_info": "New York: Bantam, 1976.",
+						"binding": "Paperback."
 					},
 					{
-						"pub_info": "Corgi, 1977. (Paperback)"
+						"pub_info": "Corgi, 1977.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -9421,10 +8968,12 @@ export default function () {
 						"pub_info": "London: Souvenir Press, 1977."
 					},
 					{
-						"pub_info": "New York: Bantam, 1977. (Paperback)"
+						"pub_info": "New York: Bantam, 1977.",
+						"binding": "Paperback."
 					},
 					{
-						"pub_info": "Corgi, 1978. (Paperback)"
+						"pub_info": "Corgi, 1978.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -9437,7 +8986,8 @@ export default function () {
 						"pub_info": "London: Souvenir Press, 1978."
 					},
 					{
-						"pub_info": "New York: Bantam, 1979. (Paperback)"
+						"pub_info": "New York: Bantam, 1979.",
+						"binding": "Paperback."
 					},
 					{
 						"pub_info": "London: Souvenir Press, 1985."
@@ -9453,13 +9003,16 @@ export default function () {
 						"pub_info": "London: Souvenir Press, 1979."
 					},
 					{
-						"pub_info": "New York: Bantam, 1979. (Paperback)"
+						"pub_info": "New York: Bantam, 1979.",
+						"binding": "Paperback."
 					},
 					{
-						"pub_info": "Corgi, 1980. (Paperback)"
+						"pub_info": "Corgi, 1980.",
+						"binding": "Paperback."
 					},
 					{
-						"pub_info": "New York: Golden Apple, 1984. (Paperback)"
+						"pub_info": "New York: Golden Apple, 1984.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -9472,7 +9025,8 @@ export default function () {
 						"pub_info": "London: Souvenir Press, 1980."
 					},
 					{
-						"pub_info": "New York: Bantam, 1982. (Paperback)"
+						"pub_info": "New York: Bantam, 1982.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -9485,7 +9039,8 @@ export default function () {
 						"pub_info": "London: Souvenir Press, 1982."
 					},
 					{
-						"pub_info": "Corgi, 1983. (Paperback)"
+						"pub_info": "Corgi, 1983.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -9615,7 +9170,7 @@ export default function () {
 			{
 				"pub_year": "1986",
 				"title": "Frangipani House",
-				"summary": ["Frangipani House is the story of Mama King, trapped by age and infirmity, but ultimately indomitable. She becomes too much for her family who send her away to Frangipani House, a dreary claustrophobic rest home -- but Mama King does not give in. She makes her mark -- first through anguish, then near madness, and finally by escape to the dangerous, dirty, vital world of the poor. Frangipani House is a beautifully written protest at institutions that isolate, and a way of life that denies respect and responsibility for the weak. (Publisher's synopsis)"],
+				"summary": ["Frangipani House is the story of Mama King, trapped by age and infirmity, but ultimately indomitable. She becomes too much for her family who send her away to Frangipani House, a dreary claustrophobic rest home -- but Mama King does not give in. She makes her mark -- first through anguish, then near madness, and finally by escape to the dangerous, dirty, vital world of the poor. Frangipani House is a beautifully written protest at institutions that isolate, and a way of life that denies respect and responsibility for the weak. <i>(Publisher's synopsis)</i>"],
 				"editions": [
 					{
 						"pub_info": "London: Heinemann, 1986."
@@ -9625,7 +9180,7 @@ export default function () {
 			{
 				"pub_year": "1989",
 				"title": "Boy Sandwich",
-				"summary": ["In her second novel, Beryl Gilroy vividly conveys the ways in which three generations of a West Indian family have been affected by life in Britain. For the grandparents, confined to the tyranny of an old people's home, a collection of sepia photos and memories are a vital link to the Caribbean and a rosy past. Their recollections instill in their grandson, born in the UK and brought up in an environment of racial conflict, the desire to take the family back to their homeland and regain a sense of belonging. (Publisher's synopsis)"],
+				"summary": ["In her second novel, Beryl Gilroy vividly conveys the ways in which three generations of a West Indian family have been affected by life in Britain. For the grandparents, confined to the tyranny of an old people's home, a collection of sepia photos and memories are a vital link to the Caribbean and a rosy past. Their recollections instill in their grandson, born in the UK and brought up in an environment of racial conflict, the desire to take the family back to their homeland and regain a sense of belonging. <i>(Publisher's synopsis)</i>"],
 				"editions": [
 					{
 						"pub_info": "London: Heinemann, 1989."
@@ -9644,8 +9199,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1991",
-				"title": "Echoes and Voices (Poems)",
-				"summary": [""],
+				"title": "Echoes and Voices",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "London: Vantage, 1991"
@@ -9741,14 +9296,14 @@ export default function () {
 						"edition": "First English Language edition.",
 						"binding": "Hardcover in dust jacket.",
 						"size": "8vo (5 3/4 in x 8 1/2 in).",
-						"pages": "253 pages.",
+						"pages": "253",
 						"img_file": "GlissantRipening1-300.jpg",
 						"description": "",
 						"copies": [
 							{
 								"features": "",
 								"condition": "Very good in cloth-covered boards and very good dust jacket. This is a nice copy of this book. The top right edge of the front board is scuffed, and the rear endpaper and pastedown are separated at the top 3/8 inch. The dust jacket is a bit sunned at the spine and edges, and lightly soiled on the back panel, with a stain and closed edge tears on the back panel as well. Otherwise, the pages are clean and unmarked, and the binding is tight.",
-								"price": "US$50.00"
+								"price": "50.00"
 							}
 						]
 					},
@@ -9839,8 +9394,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1998",
-				"title": "Black Salt (Poems)",
-				"summary": [""],
+				"title": "Black Salt",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Ann Arbor: University of Michigan, 1998."
@@ -9909,8 +9464,8 @@ export default function () {
 		"books": [
 			{
 				"pub_year": "1980",
-				"title": "Tamarind Season (Poems)",
-				"summary": [""],
+				"title": "Tamarind Season",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Kingston: The Institute of Jamaica [1980]."
@@ -9919,8 +9474,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1990",
-				"title": "Baby Mother and the King of Swords (Stories)",
-				"summary": [""],
+				"title": "Baby Mother and the King of Swords",
+				"summary": ["Stories."],
 				"editions": [
 					{
 						"pub_info": "Essex: Longman, 1990."
@@ -9949,8 +9504,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1995",
-				"title": "To Us, All Flowers Are Roses (Poems)",
-				"summary": [""],
+				"title": "To Us, All Flowers Are Roses",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Urbana: University of Illinois Press, 1995."
@@ -9959,8 +9514,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1999",
-				"title": "Turn Thanks (Poems)",
-				"summary": [""],
+				"title": "Turn Thanks",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Urbana IL: University of Illinois Press, 1999."
@@ -9973,7 +9528,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "Manchester: Carcanet, 2000. (Paperback)"
+						"pub_info": "Manchester: Carcanet, 2000.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -10019,8 +9575,8 @@ export default function () {
 		"books": [
 			{
 				"pub_year": "1977",
-				"title": "Actors in the Arena (Poems)",
-				"summary": [""],
+				"title": "Actors in the Arena",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Savacou, 1977."
@@ -10029,8 +9585,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1988",
-				"title": "Under the Sun (Poems)",
-				"summary": [""],
+				"title": "Under the Sun",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Trinidad: The New Voices, 1988."
@@ -10049,7 +9605,7 @@ export default function () {
 			},
 			{
 				"pub_year": "2002",
-				"title": "Woman Song (Poems)",
+				"title": "Woman Song",
 				"summary": ["In Woman Song, Jean Goulbourne articulates the grief, hopes and unquenchable spirit of black women in the Caribbean. She writes with the directness of the reggae lyric, with both pungency and humour, and with an aphoristic economy which has the art of saying more with less. Her poems encompass the lives of women old and young; middle-class and sufferers; women whose lives are enclosed, who want liberation from the 'station of motherhood, wifehood and frustration', and women who through their resistance, creativity and assertion of selfhood have made space for themselves. The celebration of such lives stands as a beacon of hope in the depiction of Jamaican society in which rape, poverty and abandonment are too frequently women's lot."],
 				"editions": [
 					{
@@ -10069,7 +9625,7 @@ export default function () {
 		"books": [
 			{
 				"pub_year": "1994",
-				"title": "The Woolgatherer (Poems)",
+				"title": "The Woolgatherer",
 				"summary": ["A richly autobiographical collection from a much anthologised Trinidadian poet which, with an astringency of vision and wry humour, confronts the remembered humiliations of childhood poverty and celebrates the liberating power of education."],
 				"editions": [
 					{
@@ -10079,8 +9635,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1977",
-				"title": "Lillian's Songs (Poems)",
-				"summary": [""],
+				"title": "Lillian's Songs",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Self-published, 1996."
@@ -10089,8 +9645,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1977",
-				"title": "Leaving the Dark (Poems)",
-				"summary": [""],
+				"title": "Leaving the Dark",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Self-published, 1998."
@@ -10099,8 +9655,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1977",
-				"title": "Plumed Palms (Poems)",
-				"summary": [""],
+				"title": "Plumed Palms",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Self-published, 2000."
@@ -10119,7 +9675,7 @@ export default function () {
 		"books": [
 			{
 				"pub_year": "2002",
-				"title": "Horizons (Poems)",
+				"title": "Horizons",
 				"summary": ["Stanley Greaves brings a painter’s perceptions and a musician’s ear to the writing of this substantial selection of his poetry written over the past forty years. He describes his painting as ‘a kind of allegorical story-telling’ and the same kind of connections between the concrete and the metaphysical, and the presence of the extraordinary in the ordinary are found in his poems. This collection won the 2002 Guyana Prize for the best first collection of poetry."],
 				"editions": [
 					{
@@ -10149,10 +9705,12 @@ export default function () {
 						"pub_info": "[London] Souvenir [1966]."
 					},
 					{
-						"pub_info": "London: Virago, 1989. (Paperback)"
+						"pub_info": "London: Virago, 1989.",
+						"binding": "Paperback."
 					},
 					{
-						"pub_info": "Minneapolis: Coffee House Press, 2001. (Paperback)"
+						"pub_info": "Minneapolis: Coffee House Press, 2001.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -10168,7 +9726,8 @@ export default function () {
 						"pub_info": "London: Gollancz, 1974."
 					},
 					{
-						"pub_info": "New York: Bantam, 1974. (Paperback)"
+						"pub_info": "New York: Bantam, 1974.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -10207,7 +9766,8 @@ export default function () {
 						"pub_info": "London: Gollancz, 1979."
 					},
 					{
-						"pub_info": "New York: Dell, 1992. (Paperback)"
+						"pub_info": "New York: Dell, 1992.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -10259,7 +9819,8 @@ export default function () {
 						"pub_info": "London: Gollancz, 1983."
 					},
 					{
-						"pub_info": "New York: Dell, 1983. (Paperback)"
+						"pub_info": "New York: Dell, 1983.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -10282,7 +9843,8 @@ export default function () {
 						"pub_info": "New York: Holt, Rinehart and Winston, 1985."
 					},
 					{
-						"pub_info": "Minneapolis: Coffee House Press, 2002. (Paperback)"
+						"pub_info": "Minneapolis: Coffee House Press, 2002.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -10363,39 +9925,6 @@ export default function () {
 				]
 			},
 			{
-				"pub_year": "1989",
-				"title": "Down the River: Afro-Caribbean Rhymes Games & Songs for Children (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "Mammoth 1989."
-					},
-					{
-						"pub_info": "New York: Scholastic, 1996."
-					}
-				]
-			},
-			{
-				"pub_year": "?",
-				"title": "A Web of Stories",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "Mammoth 19??."
-					}
-				]
-			},
-			{
-				"pub_year": "?",
-				"title": "Sing Me a Story!",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "????"
-					}
-				]
-			},
-			{
 				"pub_year": "1990",
 				"title": "Cric Crac: A Collection of West Indian Stories",
 				"summary": [""],
@@ -10471,12 +10000,11 @@ export default function () {
 				"summary": ["Poems published under the pseudonym Kona Waruk."],
 				"editions": [
 					{
-						"publisher": "The Miniature Poets",
 						"pub_info": "British Guiana: The Miniature Poets, 1951.",
 						"edition": "First edition.",
 						"binding": "Center-stapled in printed wrappers.",
 						"size": "18mo (4 1/8 in x 6 in).",
-						"pages": "12 pages, plus wrappers.",
+						"pages": "12",
 						"img_file": "HarrisFetish-300.jpg"
 					}
 				]
@@ -10505,7 +10033,7 @@ export default function () {
 						"pub_info": "London: New Beacon [1978].",
 						"edition": "Revised edition.",
 						"binding": "Hardcover and paperback.",
-						"pages": "85 pages."
+						"pages": "85"
 					}
 				]
 			},
@@ -10520,10 +10048,12 @@ export default function () {
 						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "London: Faber and Faber [1968]. (Trade paperback)"
+						"pub_info": "London: Faber and Faber [1968].",
+						"binding": "Trade paperback."
 					},
 					{
-						"pub_info": "London: Faber and Faber [1988]. (Trade paperback)"
+						"pub_info": "London: Faber and Faber [1988].",
+						"binding": "Trade paperback."
 					}
 				]
 			},
@@ -10573,14 +10103,14 @@ export default function () {
 						"edition": "First edition.",
 						"binding": "Hardcover in dust jacket.",
 						"size": "8vo (5 in x 7 1/2 in).",
-						"pages": "96 pages.",
+						"pages": "96",
 						"img_file": "HarrisHeartland1-300.jpg",
 						"description": "",
 						"copies": [
 							{
 								"features": "",
 								"condition": "Good in boards and dust jacket. The free front endpaper has been torn out of the book, there's an ink mark and a bookstore stamp on the half title page, there are three pages with ink marks in the margin, and there's a date written in ink on the rear pastedown endpaper. The dust jacket is worn at the edges and moderately soiled. Otherwise, the book's pages are clean, and the binding is tight.",
-								"price": "US$60.00"
+								"price": "60.00"
 							}
 						]
 					}
@@ -10608,14 +10138,14 @@ export default function () {
 						"edition": "First edition.",
 						"binding": "Hardcover in dust jacket.",
 						"size": "8vo (5 in x 7 1/2 in).",
-						"pages": "80 pages.",
+						"pages": "80",
 						"img_file": "HarrisWaiting1-300.jpg",
 						"description": "",
 						"copies": [
 							{
 								"features": "An Advance Review Copy with the publisher's slip laid in.",
 								"condition": "Near fine in boards and a very good dust jacket. There is minor wear to the dust jacket, most notable at the top right of the book's front. The book's pages are clean and unmarked, and the binding is tight.",
-								"price": "US$95.00"
+								"price": "95.00"
 							}
 						]
 					}
@@ -10677,14 +10207,14 @@ export default function () {
 						"edition": "First edition.",
 						"binding": "Hardcover in dust jacket.",
 						"size": "8vo (5 3/8 in x 8 1/8 in).",
-						"pages": "104 pages.",
+						"pages": "104",
 						"img_file": "HarrisRainmakers1-300.jpg",
 						"description": "",
 						"copies": [
 							{
 								"features": "With a 'With the author's compliments' slip laid in.",
 								"condition": "Near fine in boards and a near fine dust jacket. The spine of the dust jacket is lightly sunned. There is light dust staining to the pages' top edges. The book's pages are clean and unmarked, and the binding is tight.",
-								"price": "US$75.00"
+								"price": "75.00"
 							}
 						]
 					}
@@ -10708,7 +10238,8 @@ export default function () {
 				"summary": ["Two novels originally published in 1962 and 1963."],
 				"editions": [
 					{
-						"pub_info": "London: Faber and Faber [1973]. (Trade paperback)"
+						"pub_info": "London: Faber and Faber [1973].",
+						"binding": "Trade paperback."
 					}
 				]
 			},
@@ -10754,7 +10285,8 @@ export default function () {
 				"summary": ["A collection of 14 essays and talks.  Most were previously published in various journals; some are revised.  With an introduction by Hena Maes-Jelinek."],
 				"editions": [
 					{
-						"pub_info": "[Denmark] Dangaroo Press [1981]. (Trade paperback)"
+						"pub_info": "[Denmark] Dangaroo Press [1981].",
+						"binding": "Trade paperback."
 					}
 				]
 			},
@@ -10790,14 +10322,14 @@ export default function () {
 						"edition": "First edition.",
 						"binding": "Hardcover in dust jacket.",
 						"size": "8vo (5 1/4 in x 8 in).",
-						"pages": "172 pages.",
+						"pages": "172",
 						"img_file": "HarrisCarnival1-300.jpg",
 						"description": "",
 						"copies": [
 							{
 								"features": "",
 								"condition": "Near fine in boards and a very good dust jacket. There is minor sunning to the spine of the dust jacket. The book's pages are clean and unmarked, and the binding is very tight.",
-								"price": "US$18.95"
+								"price": "18.95"
 							}
 						]
 					}
@@ -10812,7 +10344,8 @@ export default function () {
 						"pub_info": "London: Faber and Faber [1985]."
 					},
 					{
-						"pub_info": "London: Faber and Faber [1985]. (Trade paperback)"
+						"pub_info": "London: Faber and Faber [1985].",
+						"binding": "Trade paperback."
 					}
 				]
 			},
@@ -10826,14 +10359,14 @@ export default function () {
 						"edition": "First edition.",
 						"binding": "Hardcover in dust jacket.",
 						"size": "8vo (5 5/8 in x 8 3/4 in).",
-						"pages": "88 pages.",
+						"pages": "88",
 						"img_file": "HarrisRehearsal1-300.jpg",
 						"description": "",
 						"copies": [
 							{
 								"features": "",
 								"condition": "Fine in boards and a fine dust jacket. This is a like new copy of this book. The book's pages are beginning to lightly tan from the edges, as is typical with aging of the paper used to print this book. Otherwise the pages are clean and unmarked, and the binding is very tight.",
-								"price": "US$12.50"
+								"price": "12.50"
 							}
 						]
 					}
@@ -10863,14 +10396,14 @@ export default function () {
 						"edition": "First edition.",
 						"binding": "Hardcover in dust jacket.",
 						"size": "8vo (5 3/4 in x 8 1/8 in).",
-						"pages": "244 pages.",
+						"pages": "244",
 						"img_file": "HarrisResurrectionP-300.jpg",
 						"description": "",
 						"copies": [
 							{
 								"features": "Uncorrected Advance Proofs, as noted on the wrappers cover.",
 								"condition": "Note: This proof copy is NOT hardcover. Fine in printed wrappers and a very good dust jacket. This is a like new copy of this set of uncorrected advance proofs. The book's pages are clean and unmarked, and the binding is very tight. The dust jacket shows minor wear at the top and bottom of the spine.",
-								"price": "US$30.00"
+								"price": "30.00"
 							}
 						]
 					}
@@ -10885,7 +10418,8 @@ export default function () {
 						"pub_info": "London: Faber and Faber [1993]."
 					},
 					{
-						"pub_info": "London: Faber and Faber [1993]. (Trade paperback)"
+						"pub_info": "London: Faber and Faber [1993].",
+						"binding": "Trade paperback."
 					}
 				]
 			},
@@ -10895,7 +10429,8 @@ export default function () {
 				"summary": ["An exploration of the mass-suicide at Jonestown, as narrated by a fictional survivor."],
 				"editions": [
 					{
-						"pub_info": "London: Faber and Faber [1996]. (Trade paperback)"
+						"pub_info": "London: Faber and Faber [1996].",
+						"binding": "Trade paperback."
 					}
 				]
 			},
@@ -10905,7 +10440,8 @@ export default function () {
 				"summary": ["A paper that was given at The Temenos Academy by the Guyana-born author on 21st April 1997."],
 				"editions": [
 					{
-						"pub_info": "London: Temenos Academy, 1997. (Pamphlet)"
+						"pub_info": "London: Temenos Academy, 1997.",
+						"binding": "Pamphlet."
 					}
 				]
 			},
@@ -10915,7 +10451,8 @@ export default function () {
 				"summary": ["An exploration of the mass-suicide at Jonestown, as narrated by a fictional survivor."],
 				"editions": [
 					{
-						"pub_info": "London: Faber and Faber [2001]. (Trade paperback)"
+						"pub_info": "London: Faber and Faber [2001].",
+						"binding": "Trade paperback."
 					}
 				]
 			}
@@ -10935,12 +10472,11 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Faber and Faber",
 						"pub_info": "London: Faber and Faber [1955]."
 					},
 					{
-						"publisher": "Faber and Faber",
-						"pub_info": "London: Faber and Faber [1985]. (Paperback)"
+						"pub_info": "London: Faber and Faber [1985].",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -10950,7 +10486,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Faber and Faber",
 						"pub_info": "London: Faber and Faber [1956]."
 					}
 				]
@@ -10961,7 +10496,6 @@ export default function () {
 				"summary": ["Published in the United States as The Eye of the Storm."],
 				"editions": [
 					{
-						"publisher": "Faber and Faber",
 						"pub_info": "London: Faber and Faber [1957]."
 					}
 				]
@@ -10972,7 +10506,6 @@ export default function () {
 				"summary": ["Originally published in London as The Faces of Love."],
 				"editions": [
 					{
-						"publisher": "Little, Brown",
 						"pub_info": "Boston: Little, Brown [1957]."
 					}
 				]
@@ -10983,11 +10516,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Faber and Faber",
 						"pub_info": "London: Faber and Faber [1959]."
 					},
 					{
-						"publisher": "Vanguard",
 						"pub_info": "New York: Vanguard, 1961."
 					}
 				]
@@ -10998,11 +10529,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Faber and Faber",
 						"pub_info": "London: Faber and Faber [1961]."
 					},
 					{
-						"publisher": "Harper & Row",
 						"pub_info": "New York: Harper & Row [1962]."
 					}
 				]
@@ -11013,7 +10542,6 @@ export default function () {
 				"summary": ["A 56-page pamphlet co-authored with Rex Nettleford."],
 				"editions": [
 					{
-						"publisher": "University of the West Indies",
 						"pub_info": "No place: Department of Extra-Mural Studies, University of the West Indies, [1963]."
 					}
 				]
@@ -11024,16 +10552,14 @@ export default function () {
 				"summary": ["A thriller co-authored with Morris Cargill and published under the pseudonym John Morris."],
 				"editions": [
 					{
-						"publisher": "Collins and Sangster",
 						"pub_info": "[London/Kingston] Collins and Sangster, 1969."
 					},
 					{
-						"publisher": "G.P. Putnam's Sons",
 						"pub_info": "New York: G.P. Putnam's Sons, 1969."
 					},
 					{
-						"publisher": "Berkley",
-						"pub_info": "New York: Berkley, 1971. (Paperback)"
+						"pub_info": "New York: Berkley, 1971.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -11043,16 +10569,14 @@ export default function () {
 				"summary": ["A thriller co-authored with Morris Cargill and published under the pseudonym John Morris."],
 				"editions": [
 					{
-						"publisher": "Collins and Sangster",
 						"pub_info": "[London/Kingston] Collins and Sangster, 1970."
 					},
 					{
-						"publisher": "Citadel Press",
 						"pub_info": "Secaucus. NJ: Citadel Press [1971]."
 					},
 					{
-						"publisher": "Dell",
-						"pub_info": "New York: Dell, 1974. (Paperback)"
+						"pub_info": "New York: Dell, 1974.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -11062,19 +10586,7 @@ export default function () {
 				"summary": ["A thriller co-authored with Morris Cargill and published under the pseudonym John Morris."],
 				"editions": [
 					{
-						"publisher": "Citadel Press",
 						"pub_info": "Secaucus. NJ: Citadel Press [1975]."
-					}
-				]
-			},
-			{
-				"pub_year": "1976",
-				"title": "Carifesta Forum: An Anthology of 20 Caribbean Voices (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"publisher": "Institute of Jamaica",
-						"pub_info": "[Kingston] Institute of Jamaica [1976]."
 					}
 				]
 			},
@@ -11084,11 +10596,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Faber and Faber",
 						"pub_info": "London/Boston: Faber and Faber [1981]."
 					},
 					{
-						"publisher": "St. Martins",
 						"pub_info": "New York: St. Martins, 1982."
 					}
 				]
@@ -11109,7 +10619,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Longman",
 						"pub_info": "London: Longman, 1974."
 					}
 				]
@@ -11120,19 +10629,17 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Allison and Busby",
 						"pub_info": "London: Allison and Busby, 1978."
 					},
 					{
-						"publisher": "Allison and Busby",
-						"pub_info": "London: Allison and Busby, 1979. (Trade paperback)"
+						"pub_info": "London: Allison and Busby, 1979.",
+						"binding": "Trade paperback."
 					},
 					{
-						"publisher": "Flamingo",
-						"pub_info": "London: Flamingo, 1984. (Paperback)"
+						"pub_info": "London: Flamingo, 1984.",
+						"binding": "Paperback."
 					},
 					{
-						"publisher": "Persea Books",
 						"pub_info": "New York: Persea Books [1992]."
 					}
 				]
@@ -11143,20 +10650,19 @@ export default function () {
 				"summary": ["A novel set in Guyana. Later collected in The Armstrong Trilogy."],
 				"editions": [
 					{
-						"publisher": "Allison and Busby",
-						"pub_info": "London: Allison and Busby, 1979. (Cloth and trade paper)"
+						"pub_info": "London: Allison and Busby, 1979.",
+						"binding": "Hardcover and trade paperback."
 					},
 					{
-						"publisher": "Flamingo",
-						"pub_info": "London: Flamingo, 1984. (Paperback)"
+						"pub_info": "London: Flamingo, 1984.",
+						"binding": "Paperback."
 					},
 					{
-						"publisher": "Persea Books",
 						"pub_info": "New York: Persea Books [1992]."
 					},
 					{
-						"publisher": "Persea Books",
-						"pub_info": "New York: Persea Books [1993].(Trade paperback)"
+						"pub_info": "New York: Persea Books [1993].",
+						"binding": "Trade paperback."
 					}
 				]
 			},
@@ -11166,12 +10672,12 @@ export default function () {
 				"summary": ["A novel set in Guyana. Later collected in The Armstrong Trilogy."],
 				"editions": [
 					{
-						"publisher": "Allison and Busby",
-						"pub_info": "London: Allison and Busby, 1981. (Cloth and trade paper)"
+						"pub_info": "London: Allison and Busby, 1981.",
+						"binding": "Hardcover and trade paperback."
 					},
 					{
-						"publisher": "Flamingo",
-						"pub_info": "London: Flamingo, 1984. (Paperback)"
+						"pub_info": "London: Flamingo, 1984.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -11181,12 +10687,12 @@ export default function () {
 				"summary": ["A novel set in Guyana. Later collected in The Armstrong Trilogy."],
 				"editions": [
 					{
-						"publisher": "Allison & Busby",
-						"pub_info": "London: Allison & Busby [1981]. (Cloth and trade paper)"
+						"pub_info": "London: Allison & Busby [1981].",
+						"binding": "Hardcover and trade paperback."
 					},
 					{
-						"publisher": "Flamingo",
-						"pub_info": "London: Flamingo, 1984. (Paperback)"
+						"pub_info": "London: Flamingo, 1984.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -11196,16 +10702,15 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Allison & Busby",
 						"pub_info": "London: Allison & Busby [1982]."
 					},
 					{
-						"publisher": "Flamingo",
-						"pub_info": "London: Flamingo, 1985. (Paperback)"
+						"pub_info": "London: Flamingo, 1985.",
+						"binding": "Paperback."
 					},
 					{
-						"publisher": "Marion Boyars",
-						"pub_info": "New York: Marion Boyars, 1997. (Trade paperback)"
+						"pub_info": "New York: Marion Boyars, 1997.",
+						"binding": "Trade paperback."
 					}
 				]
 			},
@@ -11215,12 +10720,11 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Marion Boyars",
 						"pub_info": "London: Allison & Busby [1984]."
 					},
 					{
-						"publisher": "Flamingo",
-						"pub_info": "London: Flamingo, 1986. (Paperback)"
+						"pub_info": "London: Flamingo, 1986.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -11230,11 +10734,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Collins",
 						"pub_info": "London: Collins, 1988."
 					},
 					{
-						"publisher": "Persea Books",
 						"pub_info": "New York: Persea Books, 1995."
 					}
 				]
@@ -11245,12 +10747,11 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Collins",
 						"pub_info": "London: Collins, 1990."
 					},
 					{
-						"publisher": "Flamingo",
-						"pub_info": "London: Flamingo, 1991. (Paperback)"
+						"pub_info": "London: Flamingo, 1991.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -11260,8 +10761,8 @@ export default function () {
 				"summary": ["Collects the previous novels From the Heat of the Day, One Generation and Genetha."],
 				"editions": [
 					{
-						"publisher": "Persea Books",
-						"pub_info": "New York: Persea Books [1994]. (Trade paperback)"
+						"pub_info": "New York: Persea Books [1994].",
+						"binding": "Trade paperback."
 					}
 				]
 			},
@@ -11271,7 +10772,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Marion Boyars",
 						"pub_info": "London/New York: Marion Boyars, 1997."
 					}
 				]
@@ -11281,7 +10781,7 @@ export default function () {
 	{
 		"last_name": "Hemming",
 		"first_name": "Wilbert Emanuel",
-		"birth_country": "[unknown]",
+		"birth_country": "Jamaica",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -11289,11 +10789,23 @@ export default function () {
 			{
 				"pub_year": "1970",
 				"title": "Meeting at the Bend",
+				"subtitle": "A Second World War romance",
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Stockwell",
-						"pub_info": "Ilfracombe: Stockwell, 1970."
+						"pub_info": "Ilfracombe: Stockwell, 1970.",
+						"pages": "109"
+					}
+				]
+			},
+			{
+				"pub_year": "1983",
+				"title": "Weep for Your Daughters",
+				"summary": ["A novelette."],
+				"editions": [
+					{
+						"pub_info": "Kingston: Pyramid Publications, 1983.",
+						"pages": "36"
 					}
 				]
 			}
@@ -11302,19 +10814,20 @@ export default function () {
 	{
 		"last_name": "Henfrey",
 		"first_name": "June",
-		"birth_country": "[unknown]",
-		"birth_year": "",
-		"death_year": "",
+		"birth_country": "Barbados",
+		"birth_year": "1939",
+		"death_year": "1992",
 		"bio": [""],
 		"books": [
 			{
-				"pub_year": "?",
+				"pub_year": "1994",
 				"title": "Coming Home and Other Stories",
-				"summary": [""],
+				"summary": ["Stories set in Barbados."],
 				"editions": [
 					{
-						"publisher": "Peepal Tree Press",
-						"pub_info": "Leeds: Peepal Tree Press, 199?."
+						"pub_info": "Leeds: Peepal Tree Press, 1994.",
+						"edition": "First edition.",
+						"binding": "Trade paperback."
 					}
 				]
 			}
@@ -11334,7 +10847,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Harcourt, Brace",
 						"pub_info": "New York: Harcourt, Brace, 1961."
 					}
 				]
@@ -11345,11 +10857,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Collins",
 						"pub_info": "London: Collins, 1967."
 					},
 					{
-						"publisher": "Simon and Schuster",
 						"pub_info": "New York: Simon and Schuster, 1967."
 					}
 				]
@@ -11360,7 +10870,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Harcourt Brace Jovanovich",
 						"pub_info": "New York: Harcourt Brace Jovanovich [1972]."
 					}
 				]
@@ -11371,7 +10880,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Harcourt Brace Jovanovich",
 						"pub_info": "New York: Harcourt Brace Jovanovich [1980]."
 					}
 				]
@@ -11392,8 +10900,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Learning Improvement Centre",
-						"pub_info": "Ontario: Learning Improvement Centre, 1994. (Trade paperback)"
+						"pub_info": "Ontario: Learning Improvement Centre, 1994.",
+						"binding": "Trade paperback."
 					}
 				]
 			},
@@ -11403,8 +10911,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Learning Improvement Centre",
-						"pub_info": "Ontario: Learning Improvement Centre, 1994. (Trade paperback)"
+						"pub_info": "Ontario: Learning Improvement Centre, 1994.",
+						"binding": "Trade paperback."
 					}
 				]
 			},
@@ -11414,8 +10922,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Learning Improvement Centre",
-						"pub_info": "Ontario: Learning Improvement Centre, 1996. (Trade paperback)"
+						"pub_info": "Ontario: Learning Improvement Centre, 1996.",
+						"binding": "Trade paperback."
 					}
 				]
 			},
@@ -11425,8 +10933,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Learning Improvement Centre",
-						"pub_info": "Ontario: Learning Improvement Centre, 1999. (Trade paperback)"
+						"pub_info": "Ontario: Learning Improvement Centre, 1999.",
+						"binding": "Trade paperback."
 					}
 				]
 			},
@@ -11436,8 +10944,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Learning Improvement Centre",
-						"pub_info": "Ontario: Learning Improvement Centre, 2000. (Trade paperback)"
+						"pub_info": "Ontario: Learning Improvement Centre, 2000.",
+						"binding": "Trade paperback."
 					}
 				]
 			}
@@ -11446,7 +10954,7 @@ export default function () {
 	{
 		"last_name": "Hilton",
 		"first_name": "Anne",
-		"birth_country": "[unknown]" ,
+		"birth_country": "Trinidad and Tobago",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -11457,7 +10965,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Publishing Associates",
 						"pub_info": "Port of Spain: Publishing Associates, 1977."
 					}
 				]
@@ -11474,12 +10981,12 @@ export default function () {
 		"books": [
 			{
 				"pub_year": "1997",
-				"title": "Songs & Images for St.Martin (Poems)",
+				"title": "Songs & Images for St.Martin",
 				"summary": ["Borromeo is a strong, reverberating poetic voice nobody dares ignore. What took him so long to come out with this volume? - Fabian Badejo, St. Maarten Guardian"],
 				"editions": [
 					{
-						"publisher": "House of Nehesi",
-						"pub_info": "St. Martin: House of Nehesi, 1997. (Paperback)"
+						"pub_info": "St. Martin: House of Nehesi, 1997.",
+						"binding": "Paperback."
 					}
 				]
 			}
@@ -11496,10 +11003,9 @@ export default function () {
 			{
 				"pub_year": "1970",
 				"title": "Crick Crack Monkey",
-				"summary": ["A revealing novel of childhood about Tee who is being made socially acceptable by her Aunt Beatrice so that she can cope with the caste system of Trinidad & Tobago. (Heinemann synopsis)"],
+				"summary": ["A revealing novel of childhood about Tee who is being made socially acceptable by her Aunt Beatrice so that she can cope with the caste system of Trinidad & Tobago. <i>(Heinemann synopsis)</i>"],
 				"editions": [
 					{
-						"publisher": "Andre Deutsch",
 						"pub_info": "London: Andre Deutsch, 1970."
 					},
 					{
@@ -11513,7 +11019,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Farrar Straus Giroux",
 						"pub_info": "New York: Farrar Straus Giroux, 1993."
 					}
 				]
@@ -11534,11 +11039,9 @@ export default function () {
 				"summary": ["Co-authored with Tom Harshman"],
 				"editions": [
 					{
-						"publisher": "Doubleday",
 						"pub_info": "New York: Doubleday, 1959."
 					},
 					{
-						"publisher": "Greenwood Publishing Group",
 						"pub_info": "Westport, CT: Greenwood Publishing Group, 1969."
 					}
 				]
@@ -11549,7 +11052,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Viking",
 						"pub_info": "New York: Viking, 1973."
 					}
 				]
@@ -11560,7 +11062,6 @@ export default function () {
 				"summary": ["A collection of black and white photographs of male nudes."],
 				"editions": [
 					{
-						"publisher": "Viking",
 						"pub_info": "New York: Viking, 1986."
 					}
 				]
@@ -11570,7 +11071,7 @@ export default function () {
 	{
 		"last_name": "Honeyghan",
 		"first_name": "Glasceta",
-		"birth_country": "[unknown]",
+		"birth_country": "Jamaica",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -11581,7 +11082,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Calaloux",
 						"pub_info": "Massachusetts: Calaloux, 1993."
 					}
 				]
@@ -11602,8 +11102,8 @@ export default function () {
 				"summary": ["This first novel won the John W. Campbell award for best new writer, the Aspect first novel contest, and was a finalist for the Philip K. Dick award."],
 				"editions": [
 					{
-						"publisher": "Warner Aspect",
-						"pub_info": "New York: Warner Aspect, 1998. (Paperback)"
+						"pub_info": "New York: Warner Aspect, 1998.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -11613,8 +11113,8 @@ export default function () {
 				"summary": ["A Caribbean-style science fiction novel. This book was a Hugo nominee, on the Tiptree shortlist and was a NY Times Book Review notable book for 2000."],
 				"editions": [
 					{
-						"publisher": "Warner Aspect",
-						"pub_info": "New York: Warner Aspect, 2000. (Paperback)"
+						"pub_info": "New York: Warner Aspect, 2000.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -11624,8 +11124,8 @@ export default function () {
 				"summary": ["A richly vibrant collection of short fiction that ranges from Trinidad to Toronto and is powerful and sensual. Winner of the 2002 World Fantasy Award."],
 				"editions": [
 					{
-						"publisher": "Warner",
-						"pub_info": "New York: Warner, 2001. (Paperback)"
+						"pub_info": "New York: Warner, 2001.",
+						"binding": "Paperback."
 					}
 				]
 			}
@@ -11645,7 +11145,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "London Magazine Editions",
 						"pub_info": "London, Ontario: London Magazine Editions, 1980."
 					}
 				]
@@ -11666,7 +11165,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Collins and Harvill",
 						"pub_info": "London: Collins and Harvill, 1979."
 					}
 				]
@@ -11677,7 +11175,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "John Murray",
 						"pub_info": "London: John Murray, 1985."
 					}
 				]
@@ -11688,7 +11185,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Overlook Press",
 						"pub_info": "New York: Overlook Press, 1987."
 					}
 				]
@@ -11699,7 +11195,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "John Murray",
 						"pub_info": "London: John Murray Ltd. 1987."
 					}
 				]
@@ -11720,7 +11215,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Collins",
 						"pub_info": "Bridgetown: Advocate, 1951."
 					}
 				]
@@ -11731,7 +11225,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Collins",
 						"pub_info": "London: Collins, 1969."
 					}
 				]
@@ -11742,7 +11235,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Collins",
 						"pub_info": "London: Collins, 1971."
 					}
 				]
@@ -11752,7 +11244,7 @@ export default function () {
 	{
 		"last_name": "Iremonger",
 		"first_name": "Lucille",
-		"birth_country": "[unknown]",
+		"birth_country": "Jamaica",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -11763,7 +11255,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Hutchinson",
 						"pub_info": "London: Hutchinson, 1950."
 					}
 				]
@@ -11774,7 +11265,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Hammond & Co.",
 						"pub_info": "London: Hammond & Co., 1952."
 					}
 				]
@@ -11785,7 +11275,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "E. P. Dutton & Co.",
 						"pub_info": "New York: E. P. Dutton & Co., 1955."
 					}
 				]
@@ -11796,7 +11285,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "George G. Harrap",
 						"pub_info": "UK: George G. Harrap, 1956,"
 					}
 				]
@@ -11807,11 +11295,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Faber and Faber",
 						"pub_info": "London: Faber and Faber, 1957."
 					},
 					{
-						"publisher": "White Lion Publishers",
 						"pub_info": "London: White Lion Publishers, 1975."
 					}
 				]
@@ -11822,11 +11308,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Faber and Faber",
 						"pub_info": "London: Faber and Faber, 1958."
 					},
 					{
-						"publisher": "Thomas Crowell",
 						"pub_info": "New York: Thomas Crowell, 1958."
 					}
 				]
@@ -11837,7 +11321,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Secker & Warburg,",
 						"pub_info": "London: Secker & Warburg, 1961."
 					}
 				]
@@ -11848,7 +11331,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Secker & Warburg,",
 						"pub_info": "London: Secker & Warburg, 1970."
 					}
 				]
@@ -11859,11 +11341,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Michael Joseph",
 						"pub_info": "London: Michael Joseph, 1976."
 					},
 					{
-						"publisher": "William Morrow",
 						"pub_info": "New York: William Morrow, 1976."
 					}
 				]
@@ -11874,7 +11354,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Collins",
 						"pub_info": "London: Collins, 1978."
 					}
 				]
@@ -11885,7 +11364,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "William Morrow",
 						"pub_info": "New York: William Morrow, 1981."
 					}
 				]
@@ -11896,7 +11374,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Secker & Warburg",
 						"pub_info": "London: Secker & Warburg, 1984."
 					}
 				]
@@ -11917,7 +11394,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Artex Publishing",
 						"pub_info": "Wisconsin: Artex Publishing, 1995."
 					}
 				]
@@ -11934,11 +11410,10 @@ export default function () {
 		"books": [
 			{
 				"pub_year": "1982",
-				"title": "Shattered Songs: A Journey from Somewhere to Somewhere (Poems)",
-				"summary": [""],
+				"title": "Shattered Songs: A Journey from Somewhere to Somewhere",
+				"summary": ["Poems."],
 				"editions": [
 					{
-						"publisher": "Aya Press",
 						"pub_info": "Toronto: Aya Press, 1982."
 					}
 				]
@@ -11949,7 +11424,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Underwhich Editions",
 						"pub_info": "[Toronto] Underwhich Editions, 1986."
 					}
 				]
@@ -11960,7 +11434,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Williams-Wallace Publishers",
 						"pub_info": "Toronto: Williams-Wallace Publishers, 1987."
 					}
 				]
@@ -11974,7 +11447,6 @@ export default function () {
 						"pub_info": "London: Peepal Tree Press, 1988."
 					},
 					{
-						"publisher": "Coach House Press",
 						"pub_info": "Toronto: Coach House Press [1990]."
 					}
 				]
@@ -11985,7 +11457,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Terebi",
 						"pub_info": "Toronto: Terebi, 1989."
 					}
 				]
@@ -11996,18 +11467,16 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "TSAR",
 						"pub_info": "Toronto: TSAR, 1990."
 					}
 				]
 			},
 			{
 				"pub_year": "1991",
-				"title": "Body Rites: Beyond the Darkening (Poems)",
-				"summary": [""],
+				"title": "Body Rites: Beyond the Darkening",
+				"summary": ["Poems."],
 				"editions": [
 					{
-						"publisher": "TSAR",
 						"pub_info": "Toronto: TSAR, 1991."
 					}
 				]
@@ -12024,12 +11493,12 @@ export default function () {
 		"books": [
 			{
 				"pub_year": "1997",
-				"title": "The Rainy Season (Poems)",
+				"title": "The Rainy Season",
 				"summary": ["Here is a strong new voice which has come to join the chorus of inspired chanting of Caribbean women poets. - Lorna Goodison, University of Michigan-Ann Arbor"],
 				"editions": [
 					{
-						"publisher": "House of Nehesi",
-						"pub_info": "St. Martin: House of Nehesi, 1997. (Paperback)"
+						"pub_info": "St. Martin: House of Nehesi, 1997.",
+						"binding": "Paperback."
 					}
 				]
 			}
@@ -12049,7 +11518,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Self-published",
 						"pub_info": "Tunapuna: Self-published, 1976."
 					}
 				]
@@ -12060,7 +11528,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Self-published",
 						"pub_info": "Tunapuna: Self-published, 1981."
 					}
 				]
@@ -12081,7 +11548,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Howard University Press",
 						"pub_info": "Washington: Howard University Press, 1974."
 					}
 				]
@@ -12102,7 +11568,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "New Beacon",
 						"pub_info": "London: New Beacon, 1980."
 					}
 				]
@@ -12113,7 +11578,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Peepal Tree",
 						"pub_info": "Leeds: Peepal Tree, 1997."
 					}
 				]
@@ -12134,7 +11598,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "People's Progressive Party",
 						"pub_info": "Georgetown: People's Progressive Party, [1973]."
 					}
 				]
@@ -12145,7 +11608,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "People's Progressive Party",
 						"pub_info": "Georgetown: People's Progressive Party, [1976]."
 					}
 				]
@@ -12156,7 +11618,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Peepal Tree",
 						"pub_info": "Leeds: Peepal Tree, 1993."
 					}
 				]
@@ -12167,7 +11628,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Peepal Tree",
 						"pub_info": "Leeds: Peepal Tree, 1995."
 					}
 				]
@@ -12177,7 +11637,7 @@ export default function () {
 	{
 		"last_name": "James",
 		"first_name": "Alexander MacG.",
-		"birth_country": "[unknown]",
+		"birth_country": "Jamaica",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -12188,7 +11648,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "The Gleaner Co.",
 						"pub_info": "Kingston: The Gleaner Co. Ltd., 1920."
 					}
 				]
@@ -12209,12 +11668,20 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Secker and Warburg",
 						"pub_info": "London: Secker and Warburg, 1936."
 					},
 					{
-						"publisher": "New Beacon",
 						"pub_info": "London: New Beacon, 1989."
+					}
+				]
+			},
+			{
+				"pub_year": "1937",
+				"title": "World Revolution 1917-1936",
+				"summary": [""],
+				"editions": [
+					{
+						"pub_info": "London: Secker and Warburg, 1937."
 					}
 				]
 			},
@@ -12224,8 +11691,7 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Fact",
-						"pub_info": "London: Fact, 1938."
+						"pub_info": "New York: Haskell House, 1938."
 					}
 				]
 			},
@@ -12235,44 +11701,32 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "?",
-						"pub_info": "(1938)"
+						"pub_info": "London: Secker and Warburg, 1938"
 					},
 					{
-						"publisher": "Vintage",
-						"pub_info": "New York: Vintage, 1963. (Paperback)"
-					}
-				]
-			},
-			{
-				"pub_year": "?",
-				"title": "World Revolution 1917-1936",
-				"summary": [""],
-				"editions": [
-					{
-						"publisher": "Kraus Reprint",
-						"pub_info": "Nendeln: Kraus Reprint, 1970."
+						"pub_info": "New York: Vintage, 1963.",
+						"binding": "Paperback."
 					}
 				]
 			},
 			{
 				"pub_year": "1953",
-				"title": "Mariners, Renegades and Castaways: The story of Herman Melville and the world we live in",
+				"title": "Mariners, Renegades and Castaways",
+				"subtitle": "The story of Herman Melville and the world we live in",
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "?",
-						"pub_info": "New York, 1953."
+						"pub_info": "New York: Allison & Busby, 1953."
 					}
 				]
 			},
 			{
 				"pub_year": "1960",
-				"title": "Modern Politics: Being a series of lectures on the subject given at the Trinidad Public Library",
+				"title": "Modern Politics",
+				"subtitle": "Being a series of lectures on the subject given at the Trinidad Public Library",
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "P.N.M. Publishing Co.",
 						"pub_info": "Trinidad: P.N.M. Publishing Co., 1960."
 					}
 				]
@@ -12283,16 +11737,14 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Stanley Paul",
 						"pub_info": "London: Stanley Paul & Co., 1963."
 					},
 					{
-						"publisher": "Pantheon",
 						"pub_info": "New York: Pantheon Books, 1983."
 					},
 					{
-						"publisher": "Duke University Press",
-						"pub_info": "Durham: Duke University Press, 1993. (Paperback)"
+						"pub_info": "Durham: Duke University Press, 1993.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -12302,7 +11754,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Facing Reality",
 						"pub_info": "Detroit: Facing Reality, 1964."
 					}
 				]
@@ -12313,7 +11764,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Facing Reality",
 						"pub_info": "Detroit: Facing Reality, 1969."
 					}
 				]
@@ -12324,7 +11774,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Allison & Busby",
 						"pub_info": "London: Allison & Busby [1986]."
 					}
 				]
@@ -12335,7 +11784,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Blackwell Publishers",
 						"pub_info": "Cambridge: Blackwell Publishers, 1996."
 					}
 				]
@@ -12356,7 +11804,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Vantage",
 						"pub_info": "New York: Vantage, 1990."
 					}
 				]
@@ -12377,11 +11824,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Villard Books",
 						"pub_info": "New York: Villard Books, 1992."
 					},
 					{
-						"publisher": "Ballantine Books",
 						"pub_info": "New York: Ballantine Books, 1994."
 					}
 				]
@@ -12392,7 +11837,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Villard Books",
 						"pub_info": "New York: Villard Books, 1993."
 					}
 				]
@@ -12403,7 +11847,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "New York: HarperCollins",
 						"pub_info": "HarperCollins, 1996."
 					}
 				]
@@ -12424,7 +11867,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Self-published",
 						"pub_info": "Gasparillo: Self-published, 1966."
 					}
 				]
@@ -12435,7 +11877,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Self-published",
 						"pub_info": "Gasparillo: Self-published, 1983."
 					}
 				]
@@ -12456,7 +11897,6 @@ export default function () {
 				"summary": ["The author's first novel — which was rejected 70 times before being accepted for publication — tells the story of a biblical struggle in a remote Jamaican village in 1957."],
 				"editions": [
 					{
-						"publisher": "Akashic Books",
 						"pub_info": "New York: Akashic Books, 2005."
 					}
 				]
@@ -12467,7 +11907,6 @@ export default function () {
 				"summary": ["The story follows Lilith, a young woman born into slavery, who challenges the boundaries of what is expected of her."],
 				"editions": [
 					{
-						"publisher": "Riverhead Books",
 						"pub_info": "New York: Riverhead Books, 2009."
 					}
 				]
@@ -12478,7 +11917,6 @@ export default function () {
 				"summary": ["The novel spans several decades and explores the attempted assassination of Bob Marley in Jamaica in 1976 and its aftermath through the crack wars in New York City in the 1980s and a changed Jamaica in the 1990s. The book was awarded the 2015 Man Booker Prize. This marked the first time that a Jamaican-born author has won the prize."],
 				"editions": [
 					{
-						"publisher": "Oneworld Publisher",
 						"pub_info": "London: Oneworld Publisher, 2014."
 					}
 				]
@@ -12494,12 +11932,21 @@ export default function () {
 		"bio": [""],
 		"books": [
 			{
+				"pub_year": "1985",
+				"title": "Gifts From My Grandmother",
+				"summary": ["Poems"],
+				"editions": [
+					{
+						"pub_info": "London: Sheba Feminist Publishers, 1985."
+					}
+				]
+			},
+			{
 				"pub_year": "1993",
 				"title": "The Thieving Summer",
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Hamish Hamilton",
 						"pub_info": "London; Hamish Hamilton, 1993."
 					}
 				]
@@ -12510,19 +11957,7 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Peepal Tree Press",
 						"pub_info": "Leeds: Peepal Tree Press, 1996."
-					}
-				]
-			},
-			{
-				"pub_year": "?",
-				"title": "Gifts From My Grandmother (Poems)",
-				"summary": [""],
-				"editions": [
-					{
-						"publisher": "Sheba Feminist Publishers",
-						"pub_info": "London: Sheba Feminist Publishers, ????."
 					}
 				]
 			}
@@ -12542,7 +11977,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Virago Press",
 						"pub_info": "London: Virago Press, 1985."
 					}
 				]
@@ -12553,7 +11987,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Virago Press",
 						"pub_info": "London: Virago Press, 1988."
 					}
 				]
@@ -12563,10 +11996,10 @@ export default function () {
 	{
 		"last_name": "Jones",
 		"first_name": "Evan",
-		"birth_country": "[unknown]",
-		"birth_year": "",
+		"birth_country": "Jamaica",
+		"birth_year": "1927",
 		"death_year": "",
-		"bio": [""],
+		"bio": ["<strong>Evan Jones</strong> is a poet, playwright and screenwriter based in Britain. He was educated in Jamaica, the United States and England. <i>(Wikipedia)</i>"],
 		"books": [
 			{
 				"pub_year": "1984",
@@ -12574,7 +12007,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Irwin Publishing",
 						"pub_info": "Concord, Ontario: Irwin Publishing, 1984."
 					}
 				]
@@ -12591,11 +12023,10 @@ export default function () {
 		"books": [
 			{
 				"pub_year": "1990",
-				"title": "Coconut Kind of Day (Poems)",
-				"summary": [""],
+				"title": "Coconut Kind of Day",
+				"summary": ["Poems."],
 				"editions": [
 					{
-						"publisher": "Lothrop Lee & Shepard Books",
 						"pub_info": "New York: Lothrop Lee & Shepard Books, 1990."
 					}
 				]
@@ -12606,7 +12037,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Clarion Books",
 						"pub_info": "New York: Clarion Books, 1991."
 					}
 				]
@@ -12617,7 +12047,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Clarion Books",
 						"pub_info": "New York: Clarion Books, 1992."
 					}
 				]
@@ -12628,7 +12057,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Lothrop Lee & Shepard Books",
 						"pub_info": "New York: Lothrop Lee & Shepard Books, 1994."
 					}
 				]
@@ -12639,7 +12067,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Houghton Mifflin",
 						"pub_info": "New York: Houghton Mifflin Co., 1994."
 					}
 				]
@@ -12650,7 +12077,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Houghton Mifflin",
 						"pub_info": "New York: Houghton Mifflin Co., 1998."
 					}
 				]
@@ -12661,7 +12087,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Simon & Schuster",
 						"pub_info": "New York: Simon & Schuster, 1998."
 					}
 				]
@@ -12672,7 +12097,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "HarperCollins Children's Books",
 						"pub_info": "Scarborough, Ontario: HarperCollins Children's Books, 2000."
 					}
 				]
@@ -12693,7 +12117,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Roraima",
 						"pub_info": "Guyana: Roraima, 1994."
 					}
 				]
@@ -12714,11 +12137,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Coffee House Press",
 						"pub_info": "Minneapolis: Coffee House Press, 1996."
 					},
 					{
-						"publisher": "Henry Holt",
 						"pub_info": "New York: Henry Holt, 1997."
 					}
 				]
@@ -12729,7 +12150,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Coffee House Press",
 						"pub_info": "Minneapolis: Coffee House Press, 1999."
 					}
 				]
@@ -12745,32 +12165,32 @@ export default function () {
 		"bio": [""],
 		"books": [
 			{
-				"pub_year": "?",
+				"pub_year": "1975",
 				"title": "When Moon Shine",
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "????"
+						"pub_info": "Port of Spain: Keensdee Productions, 1975."
 					}
 				]
 			},
 			{
-				"pub_year": "?",
+				"pub_year": "1977",
 				"title": "Tim Tim",
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "????"
+						"pub_info": "Port of Spain: Keensdee Productions, 1977."
 					}
 				]
 			},
 			{
-				"pub_year": "?",
+				"pub_year": "1979",
 				"title": "Tell Me Again",
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "????"
+						"pub_info": "Port of Spain: Keensdee Productions, 1979."
 					}
 				]
 			},
@@ -12780,17 +12200,17 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "[Port of Spain: Keensdee Productions Ltd., 1981]."
+						"pub_info": "[Port of Spain: Keensdee Productions, 1981]."
 					}
 				]
 			},
 			{
-				"pub_year": "?",
+				"pub_year": "1989",
 				"title": "Twice Upon A Time",
-				"summary": [""],
+				"summary": ["Poetry and short stories."],
 				"editions": [
 					{
-						"pub_info": "????"
+						"pub_info": "Port of Spain: Keensdee Productions, 1989."
 					}
 				]
 			}
@@ -12892,7 +12312,8 @@ export default function () {
 						"pub_info": "London: Longman, 1974."
 					},
 					{
-						"pub_info": "London: Longman, 1985. (Paperback)"
+						"pub_info": "London: Longman, 1985.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -12971,10 +12392,12 @@ export default function () {
 						"pub_info": "London: Picador International, 1983."
 					},
 					{
-						"pub_info": "New York: Aventura [1985]. (Paperback)"
+						"pub_info": "New York: Aventura [1985].",
+						"binding": "Paperback."
 					},
 					{
-						"pub_info": "New York: Plume, 1992. (Paperback)"
+						"pub_info": "New York: Plume, 1992.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -12987,7 +12410,8 @@ export default function () {
 						"pub_info": "New York: Farrar Straus Giroux [1985]."
 					},
 					{
-						"pub_info": "New York: Plume, 1986. (Paperback)"
+						"pub_info": "New York: Plume, 1986.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -13013,7 +12437,8 @@ export default function () {
 						"pub_info": "New York: Farrar Straus Giroux [1988]."
 					},
 					{
-						"pub_info": "New York: Plume, 1989. (Paperback)"
+						"pub_info": "New York: Plume, 1989.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -13029,7 +12454,8 @@ export default function () {
 						"pub_info": "London: Jonathan Cape [1991]."
 					},
 					{
-						"pub_info": "New York: Plume, 1991. (Paperback)"
+						"pub_info": "New York: Plume, 1991.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -13058,7 +12484,7 @@ export default function () {
 	{
 		"last_name": "King",
 		"first_name": "Berry",
-		"birth_country": "[unknown]",
+		"birth_country": "Jamaica",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -13078,7 +12504,7 @@ export default function () {
 	{
 		"last_name": "Kirkpatrick",
 		"first_name": "Oliver",
-		"birth_country": "[unknown]",
+		"birth_country": "Jamaica",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -13118,7 +12544,7 @@ export default function () {
 	{
 		"last_name": "Knight",
 		"first_name": "Clyde",
-		"birth_country": "[unknown]",
+		"birth_country": "Jamaica",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -13134,12 +12560,15 @@ export default function () {
 				]
 			},
 			{
-				"pub_year": "?",
+				"pub_year": "1992",
 				"title": "Woman, Hold Your Head and Cry",
-				"summary": [""],
+				"summary": ["A committed novel which exposes the inequalities of race, class and gender relations in contemporary urban Jamaica."],
 				"editions": [
 					{
-						"pub_info": "Leeds: Peepal Tree Press, 199?."
+						"pub_info": "Leeds: Peepal Tree Press, 1992.",
+						"edition": "First edition.",
+						"binding": "Trade paperback.",
+						"pages": "184"
 					}
 				]
 			}
@@ -13186,7 +12615,7 @@ export default function () {
 			{
 				"pub_year": "1972",
 				"title": "No Pain Like This Body",
-				"summary": ["Set in a Hindu community in the eastern Caribbean, No Pain Like This Body describes in vivid, unsentimental prose the life of a poor rice-growing family. Their struggle to cope with illness, a drunken and unpredictable father, and the violence of the elements is set against a sharply drawn village community. (Heinemann synopsis)"],
+				"summary": ["Set in a Hindu community in the eastern Caribbean, No Pain Like This Body describes in vivid, unsentimental prose the life of a poor rice-growing family. Their struggle to cope with illness, a drunken and unpredictable father, and the violence of the elements is set against a sharply drawn village community. <i>(Heinemann synopsis)</i>"],
 				"editions": [
 					{
 						"pub_info": "Toronto: Anansi, 1972."
@@ -13357,11 +12786,9 @@ export default function () {
 				"summary": ["The Lamming monographs are themselves part of the current discourse which targets the historical, cultural and  scientific implications of the pan-hemispheric encounters that will continue to be of global importance well into the  twenty-first century. - Rex Nettleford, Pro Vice Chancellor, University of the West Indies"],
 				"editions": [
 					{
-						"publisher": "House of Nehesi",
 						"pub_info": "St. Martin: House of Nehesi, 1995."
 					},
 					{
-						"publisher": "House of Nehesi",
 						"pub_info": "St. Martin: House of Nehesi, 2000."
 					}
 				]
@@ -13371,7 +12798,7 @@ export default function () {
 	{
 		"last_name": "Lewis",
 		"first_name": "Enid",
-		"birth_country": "[unknown]",
+		"birth_country": "Trinidad and Tobago",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -13411,7 +12838,7 @@ export default function () {
 	{
 		"last_name": "Lindo",
 		"first_name": "Archie",
-		"birth_country": "[unknown]",
+		"birth_country": "Jamaica",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -13441,7 +12868,7 @@ export default function () {
 	{
 		"last_name": "Lockett",
 		"first_name": "Mary F.",
-		"birth_country": "[unknown]",
+		"birth_country": "Jamaica",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -13492,10 +12919,12 @@ export default function () {
 				"summary": ["Winner of the B.P. Independence Literary Award, a competition sponsored by the BP Companies in Trinidad to mark the first anniversary of independence."],
 				"editions": [
 					{
-						"pub_info": "London: Collins, 1965. (Hardcover)"
+						"pub_info": "London: Collins, 1965.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "Chicago: Regnery, 1966. (Hardcover)"
+						"pub_info": "Chicago: Regnery, 1966.",
+						"binding": "Hardcover in dust jacket."
 					}
 				]
 			},
@@ -13505,16 +12934,20 @@ export default function () {
 				"summary": ["Earl Lovelace's second novel tells the story of an isolated rural community coming in touch with the wider world. The villages learn, only too cruelly, that 'progress' can mean the destruction of cherished values."],
 				"editions": [
 					{
-						"pub_info": "London: Collins, 1968. (Hardcover)"
+						"pub_info": "London: Collins, 1968.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "Chicago: Regnery, 1968. (Hardcover)"
+						"pub_info": "Chicago: Regnery, 1968.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "London: Heinemann [1979]. (Paperback)"
+						"pub_info": "London: Heinemann [1979].",
+						"binding": "Paperback."
 					},
 					{
-						"pub_info": "London: Faber and Faber, 1998. (Paperback)"
+						"pub_info": "London: Faber and Faber, 1998.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -13524,32 +12957,39 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "[London] Andre Deutsch [1979]. (Hardcover)"
+						"pub_info": "[London] Andre Deutsch [1979].",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "Essex: Longman, 1979. (Paperback)"
+						"pub_info": "Essex: Longman, 1979.",
+						"binding": "Paperback."
 					},
 					{
-						"pub_info": "London: Faber and Faber, 1998. (Paperback)"
+						"pub_info": "London: Faber and Faber, 1998.",
+						"binding": "Paperback."
 					},
 					{
-						"pub_info": "New York: Persea, 1998. (Hardcover)"
+						"pub_info": "New York: Persea, 1998.",
+						"binding": "Hardcover in dust jacket."
 					}
 				]
 			},
 			{
 				"pub_year": "1982",
 				"title": "The Wine of Astonishment",
-				"summary": ["A powerful and moving chronicle of the different ways in which members of a small Trinidad & Tobagoian community, Bonasse, hold on to their identity as they find themselves caught up in change and corruption. (Heinemann synopsis)"],
+				"summary": ["A powerful and moving chronicle of the different ways in which members of a small Trinidad & Tobagoian community, Bonasse, hold on to their identity as they find themselves caught up in change and corruption. <i>(Heinemann synopsis)</i>"],
 				"editions": [
 					{
-						"pub_info": "London. Andre Deutsch, 1982. (Hardcover)"
+						"pub_info": "London. Andre Deutsch, 1982.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "Oxford: Heinemann, 1983. (Paperback)"
+						"pub_info": "Oxford: Heinemann, 1983.",
+						"binding": "Paperback."
 					},
 					{
-						"pub_info": "New York: Aventura, [1984]. (Paperback)"
+						"pub_info": "New York: Aventura, [1984].",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -13559,7 +12999,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "London: Heinemann, 1984. (Paperback)"
+						"pub_info": "London: Heinemann, 1984.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -13579,16 +13020,20 @@ export default function () {
 				"summary": ["Winner of the Commonwealth Writers Prize for Best Novel. A novel which explores like none before it the intermingling of cultures that is the contemporary West Indian experience."],
 				"editions": [
 					{
-						"pub_info": "London: Faber and Faber [1996]. (Hardcover)"
+						"pub_info": "London: Faber and Faber [1996].",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "London: Faber and Faber [1996]. (Paperback)"
+						"pub_info": "London: Faber and Faber [1996].",
+						"binding": "Paperback."
 					},
 					{
-						"pub_info": "[New York] Persea Books [1997]. (Hardcover)"
+						"pub_info": "[New York] Persea Books [1997].",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "[New York] Persea Books [1998]. (Paperback)"
+						"pub_info": "[New York] Persea Books [1998].",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -13598,7 +13043,8 @@ export default function () {
 				"summary": ["A 'Read Awhile' story for young (Level 3) readers. Illustrated by Annabel Large."],
 				"editions": [
 					{
-						"pub_info": "[Essex] Longman [1997]. (Paperback)"
+						"pub_info": "[Essex] Longman [1997].",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -13608,7 +13054,6 @@ export default function () {
 				"summary": ["Winner of 2012 OCM Bocas Prize for Caribbean Literature"],
 				"editions": [
 					{
-						"publisher": "Faber & Faber",
 						"pub_info": "London: Faber & Faber, January 2011."
 					}
 				]
@@ -13766,7 +13211,7 @@ export default function () {
 			{
 				"pub_year": "1992",
 				"title": "The Dispossessed",
-				"summary": ["This first novel grew from the world of indentured sugar plantation workers. Arriving from India in 1917, their labor and the labor of future generations made their island rich but left them poor, far from home, and despised by native islanders. From the guaranteed work on the estates, the laborers were forced to move on, to survive in a hostile world not knowing where the next day's bread would come from. This is the story of their lives, their resilience and their ultimate survival. (Publisher's synopsis)"],
+				"summary": ["This first novel grew from the world of indentured sugar plantation workers. Arriving from India in 1917, their labor and the labor of future generations made their island rich but left them poor, far from home, and despised by native islanders. From the guaranteed work on the estates, the laborers were forced to move on, to survive in a hostile world not knowing where the next day's bread would come from. This is the story of their lives, their resilience and their ultimate survival. <i>(Publisher's synopsis)</i>"],
 				"editions": [
 					{
 						"pub_info": "Oxford: Heinemann, 1992."
@@ -13778,8 +13223,8 @@ export default function () {
 	{
 		"last_name": "Maharaj",
 		"first_name": "Rabindranath",
-		"birth_country": "[unknown]",
-		"birth_year": "",
+		"birth_country": "Trinidad and Tobago",
+		"birth_year": "1955",
 		"death_year": "",
 		"bio": [""],
 		"books": [
@@ -13826,7 +13271,7 @@ export default function () {
 			{
 				"pub_year": "1953",
 				"title": "The Hills Were Joyful Together",
-				"summary": ["This novel, set in a yard which is a microcosm of Kingston slum life, sets out as Mais himself said to give &quot;a true picture of the real Jamaica and the dreadful condition of the working classes.&quot; It precedes the Rasta story of Brother Man. (Heinemann synopsis)"],
+				"summary": ["This novel, set in a yard which is a microcosm of Kingston slum life, sets out as Mais himself said to give &quot;a true picture of the real Jamaica and the dreadful condition of the working classes.&quot; It precedes the Rasta story of Brother Man. <i>(Heinemann synopsis)</i>"],
 				"editions": [
 					{
 						"pub_info": "London: Jonathan Cape, 1953."
@@ -13839,7 +13284,7 @@ export default function () {
 			{
 				"pub_year": "1954",
 				"title": "Brother Man",
-				"summary": ["This is Roger Mais' second novel. It brings alive the dance and laughter of the poor struggling for existence in the slums of Jamaica. In particular it portrays the Rastafarian cult. (Heinemann synopsis)"],
+				"summary": ["This is Roger Mais' second novel. It brings alive the dance and laughter of the poor struggling for existence in the slums of Jamaica. In particular it portrays the Rastafarian cult. <i>(Heinemann synopsis)</i>"],
 				"editions": [
 					{
 						"pub_info": "London: Jonathan Cape, 1954."
@@ -13908,23 +13353,18 @@ export default function () {
 				"summary": ["Originally published in French. 'Batouala', which gained the Goncourt Prize in 1921, is a genuine picture of negro life in the French Congo. If some passages here and there appear a little outspoken to English taste, they form nevertheless an integral part of this authentic portrayal of negro manners. [British publisher's note]. Set in the Oubangui-Chari region of French Equatorial Africa."],
 				"editions": [
 					{
-						"publisher": "Editions Alb",
 						"pub_info": "Michel: Editions Alb, 1921."
 					},
 					{
-						"publisher": "Jonathan Cape",
 						"pub_info": "London: Jonathan Cape, 1922."
 					},
 					{
-						"publisher": "Thomas Seltzer",
 						"pub_info": "New York: Thomas Seltzer, 1922."
 					},
 					{
-						"publisher": "Limited Editions Club",
 						"pub_info": "New York: Limited Editions Club, 1932."
 					},
 					{
-						"publisher": "Black Orpheus Press",
 						"pub_info": "Washington, DC: Black Orpheus Press, 1972."
 					}
 				]
@@ -13935,7 +13375,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Présence Africaine",
 						"pub_info": "Paris: Présence Africaine, 1958."
 					}
 				]
@@ -13952,8 +13391,8 @@ export default function () {
 		"books": [
 			{
 				"pub_year": "1972",
-				"title": "Cross Fire (Poems)",
-				"summary": [""],
+				"title": "Cross Fire",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "1972"
@@ -13962,8 +13401,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1973",
-				"title": "Mad (Poems)",
-				"summary": [""],
+				"title": "Mad",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "1973"
@@ -13982,8 +13421,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1979",
-				"title": "Masterclass (Poems)",
-				"summary": [""],
+				"title": "Masterclass",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "1979"
@@ -13992,8 +13431,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1980",
-				"title": "Games & Penalties (Poems)",
-				"summary": [""],
+				"title": "Games & Penalties",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "1980"
@@ -14002,8 +13441,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1982",
-				"title": "Love, Politics & Food (Poems)",
-				"summary": [""],
+				"title": "Love, Politics & Food",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "1982"
@@ -14012,8 +13451,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1984",
-				"title": "Family Matters (Poems)",
-				"summary": [""],
+				"title": "Family Matters",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "1984"
@@ -14022,8 +13461,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1984",
-				"title": "Human Rites (Poems)",
-				"summary": [""],
+				"title": "Human Rites",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "1984"
@@ -14032,8 +13471,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1986",
-				"title": "Something Unusual (Stories)",
-				"summary": [""],
+				"title": "Something Unusual",
+				"summary": ["Stories."],
 				"editions": [
 					{
 						"pub_info": "1986"
@@ -14042,8 +13481,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1986",
-				"title": "Lambchops in Papua New Guinea (Poems)",
-				"summary": [""],
+				"title": "Lambchops in Papua New Guinea",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "1986"
@@ -14052,8 +13491,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1987",
-				"title": "Living in Disguise (Poems)",
-				"summary": [""],
+				"title": "Living in Disguise",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "1987"
@@ -14062,19 +13501,18 @@ export default function () {
 			},
 			{
 				"pub_year": "1989",
-				"title": "Towards the End of a Century (Poems)",
-				"summary": [""],
+				"title": "Towards the End of a Century",
+				"summary": ["Poems."],
 				"editions": [
 					{
-						"publisher": "Anvil Press",
 						"pub_info": "[London] Anvil Press [1989]."
 					}
 				]
 			},
 			{
 				"pub_year": "1991",
-				"title": "Maurice V.'s Dido (Poems)",
-				"summary": [""],
+				"title": "Maurice V.'s Dido",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "1991"
@@ -14103,8 +13541,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1995",
-				"title": "Misapprehensions (Poems)",
-				"summary": [""],
+				"title": "Misapprehensions",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "1995"
@@ -14117,15 +13555,14 @@ export default function () {
 				"summary": ["In this campus novel about life and writing, factuality and invention rub shoulders to hilarious effect in the confessions of Pewter Stapleton, West Indian writer still full of memories of his native Montserrat, teaching in the North of England."],
 				"editions": [
 					{
-						"publisher": "Peepal Tree Press",
 						"pub_info": "Leeds: Peepal Tree Press, 1999."
 					}
 				]
 			},
 			{
 				"pub_year": "2000",
-				"title": "Fragments of Memory (Poems)",
-				"summary": [""],
+				"title": "Fragments of Memory",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "2000"
@@ -14138,7 +13575,6 @@ export default function () {
 				"summary": ["Whether writing stories of observant humour, occasional bleakness, audacious mythologising or absurdist magical realism, the crafted completeness of the stories in this collection reveal Markham as a master of the short story form."],
 				"editions": [
 					{
-						"publisher": "Peepal Tree Press",
 						"pub_info": "Leeds: Peepal Tree Press, 2002."
 					}
 				]
@@ -14291,7 +13727,7 @@ export default function () {
 			{
 				"pub_year": "1969",
 				"title": "The Humming-Bird Tree",
-				"summary": ["A novel of childhood set in Trinidad & Tobago. It will be of particular interest to the numerous enthusiasts of [Michael Anthony's] The Year in San Fernando. (Publisher's synopsis)"],
+				"summary": ["A novel of childhood set in Trinidad & Tobago. It will be of particular interest to the numerous enthusiasts of [Michael Anthony's] The Year in San Fernando. <i>(Publisher's synopsis)</i>"],
 				"editions": [
 					{
 						"pub_info": "1969"
@@ -14307,7 +13743,7 @@ export default function () {
 			{
 				"pub_year": "1992",
 				"title": "The Heinemann Book of Caribbean Poetry (Editor)",
-				"summary": ["West Indians, as Ian McDonald comments, 'write poetry as well as they play cricket' and Heinemann's anthology is the most comprehensive and up-to-date selection of contemporary Caribbean poetry, including major names like Derek Walcott, John Agard, and Merle Collins, alongside new poets of the region. This collection is an invaluable academic selection and will provide a fine introduction for the general reader interested in the lyricism of Caribbean poetry. (Publisher's synopsis)"],
+				"summary": ["West Indians, as Ian McDonald comments, 'write poetry as well as they play cricket' and Heinemann's anthology is the most comprehensive and up-to-date selection of contemporary Caribbean poetry, including major names like Derek Walcott, John Agard, and Merle Collins, alongside new poets of the region. This collection is an invaluable academic selection and will provide a fine introduction for the general reader interested in the lyricism of Caribbean poetry. <i>(Publisher's synopsis)</i>"],
 				"editions": [
 					{
 						"pub_info": "Oxford: Heinemann, 1992."
@@ -14326,8 +13762,8 @@ export default function () {
 		"books": [
 			{
 				"pub_year": "1912",
-				"title": "Songs of Jamaica (Poems)",
-				"summary": [""],
+				"title": "Songs of Jamaica",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "1912"
@@ -14362,8 +13798,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1922",
-				"title": "Harlem Shadows (Poems)",
-				"summary": [""],
+				"title": "Harlem Shadows",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "New York: Harcourt, Brace and Co., 1922."
@@ -14442,7 +13878,8 @@ export default function () {
 						"pub_info": "New York: Bookman Associates, 1953."
 					},
 					{
-						"pub_info": "New York: Harcourt, Brace & World [nd]. (Paperback)"
+						"pub_info": "New York: Harcourt, Brace & World [nd].",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -14468,11 +13905,12 @@ export default function () {
 		"books": [
 			{
 				"pub_year": "1992",
-				"title": "Satellite City (Stories)",
-				"summary": [""],
+				"title": "Satellite City",
+				"summary": ["Stories."],
 				"editions": [
 					{
-						"pub_info": "[Essex] Longman [1992]. (Paperback)"
+						"pub_info": "[Essex] Longman [1992].",
+						"binding": "Paperback."
 					}
 				]
 			}
@@ -14481,7 +13919,7 @@ export default function () {
 	{
 		"last_name": "McKenzie",
 		"first_name": "Claude Winston",
-		"birth_country": "[unknown]",
+		"birth_country": "Help!",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -14509,7 +13947,7 @@ export default function () {
 			{
 				"pub_year": "1991",
 				"title": "A Boy Named Ossie",
-				"summary": ["This is a well crafted and entertaining collection of linked stories. Through the eyes of Ossie, the reader is given a wonderfully grounded and evocative sense of life in rural Jamaica; its humor, warmth and its ambitions, as well as its terrors and tribulations. The countryside and characters are beautifully observed and realized, and Earl McKenzie excels at convincing dialogue. Proverbs, rituals, and folklore are unobtrusively drawn upon to enhance the sense of a world intimately known. (Publisher's synopsis)"],
+				"summary": ["This is a well crafted and entertaining collection of linked stories. Through the eyes of Ossie, the reader is given a wonderfully grounded and evocative sense of life in rural Jamaica; its humor, warmth and its ambitions, as well as its terrors and tribulations. The countryside and characters are beautifully observed and realized, and Earl McKenzie excels at convincing dialogue. Proverbs, rituals, and folklore are unobtrusively drawn upon to enhance the sense of a world intimately known. <i>(Publisher's synopsis)</i>"],
 				"editions": [
 					{
 						"pub_info": "Heinemann, 1991."
@@ -15023,12 +14461,12 @@ export default function () {
 		"birth_country": "Guyana",
 		"birth_year": "1945",
 		"death_year": "",
-		"bio": ["Rooplall Monar was born in a mud floor logie on the Lusignan sugar estate, East Coast Demerara, in 1945. His parents were both caneworkers, and his mother continued to work on her own ground provision plot daily, long after she retired. The family moved to Annandale Village in 1953 to a houselot with its own plot. This, much extended over the years, remains Monar's home."],
+		"bio": ["<strong>Rooplall Monar</strong> was born in a mud floor logie on the Lusignan sugar estate, East Coast Demerara, in 1945. His parents were both caneworkers, and his mother continued to work on her own ground provision plot daily, long after she retired. The family moved to Annandale Village in 1953 to a houselot with its own plot. This, much extended over the years, remains Monar's home."],
 		"books": [
 			{
 				"pub_year": "1972",
-				"title": "Meanings (Poems)",
-				"summary": [""],
+				"title": "Meanings",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "1972"
@@ -15037,8 +14475,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1983",
-				"title": "Patterns (Poems)",
-				"summary": [""],
+				"title": "Patterns",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "1972"
@@ -15047,8 +14485,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1987",
-				"title": "Backdam People (Stories)",
-				"summary": [""],
+				"title": "Backdam People",
+				"summary": ["Stories."],
 				"editions": [
 					{
 						"pub_info": "Leeds: Peepal Tree Press, 1987."
@@ -15057,8 +14495,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1987",
-				"title": "Koker (Poems)",
-				"summary": [""],
+				"title": "Koker",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Leeds: Peepal Tree Press, 1987."
@@ -15067,8 +14505,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1989",
-				"title": "Janjhat (Novel)",
-				"summary": [""],
+				"title": "Janjhat",
+				"summary": ["A novel."],
 				"editions": [
 					{
 						"pub_info": "Leeds: Peepal Tree Press, 1989."
@@ -15077,8 +14515,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1992",
-				"title": "High House and Radio (Stories)",
-				"summary": [""],
+				"title": "High House and Radio",
+				"summary": ["Stories."],
 				"editions": [
 					{
 						"pub_info": "Leeds: Peepal Tree Press, 1992."
@@ -15096,12 +14534,12 @@ export default function () {
 				]
 			},
 			{
-				"pub_year": "?",
+				"pub_year": "1998",
 				"title": "Ramsingh Street",
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "?"
+						"pub_info": "Georgetown, Guyana: Association of Guyanese Writers and Artists, 1998."
 					}
 				]
 			},
@@ -15160,8 +14598,8 @@ export default function () {
 	{
 		"last_name": "Mootoo",
 		"first_name": "Shani",
-		"birth_country": "[unknown]",
-		"birth_year": "",
+		"birth_country": "Trinidad and Tobago",
+		"birth_year": "1958",
 		"death_year": "",
 		"bio": [""],
 		"books": [
@@ -15171,7 +14609,7 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "Vancouver,B.C.: Press Gang Publishers, 1993."
+						"pub_info": "Vancouver: Press Gang Publishers, 1993."
 					}
 				]
 			}
@@ -15180,8 +14618,8 @@ export default function () {
 	{
 		"last_name": "Mordecai",
 		"first_name": "Pamela",
-		"birth_country": "[unknown]",
-		"birth_year": "",
+		"birth_country": "Jamaican",
+		"birth_year": "1942",
 		"death_year": "",
 		"bio": [""],
 		"books": [
@@ -15217,7 +14655,8 @@ export default function () {
 						"pub_info": "New York: G.P. Putnam's Sons, 1969."
 					},
 					{
-						"pub_info": "New York: Berkley, 1971. (Paperback)"
+						"pub_info": "New York: Berkley, 1971.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -15233,7 +14672,8 @@ export default function () {
 						"pub_info": "Secaucus. N.J.: Citadel Press [1971]."
 					},
 					{
-						"pub_info": "New York: Dell, 1974. (Paperback)"
+						"pub_info": "New York: Dell, 1974.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -15272,7 +14712,7 @@ export default function () {
 	{
 		"last_name": "Munroe",
 		"first_name": "Andrew Adrian",
-		"birth_country": "[unknown]",
+		"birth_country": "Guyana",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -15393,7 +14833,7 @@ export default function () {
 			{
 				"pub_year": "1957",
 				"title": "The Mystic Masseur",
-				"summary": ["This is the story of Ganesh Ramsumair's success: of how, if he had not been so unappreciated as a teacher he would never become a masseur; of how, if he had not lacked talent as an ordinary masseur he would never have blossomed into a mystic one. Such a topsy-turvy success story could only have taken place in Trinidad & Tobago. (Heinemann synopsis)"],
+				"summary": ["This is the story of Ganesh Ramsumair's success: of how, if he had not been so unappreciated as a teacher he would never become a masseur; of how, if he had not lacked talent as an ordinary masseur he would never have blossomed into a mystic one. Such a topsy-turvy success story could only have taken place in Trinidad & Tobago. <i>(Heinemann synopsis)</i>"],
 				"editions": [
 					{
 						"pub_info": "London: Andre Deutsch, 1957."
@@ -15531,7 +14971,7 @@ export default function () {
 	{
 		"last_name": "Narain",
 		"first_name": "Harry",
-		"birth_country": "[unknown]",
+		"birth_country": "Guyana",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -16064,7 +15504,7 @@ export default function () {
 	{
 		"last_name": "Osborne",
 		"first_name": "Ivor",
-		"birth_country": "[unknown]",
+		"birth_country": "Jamaica",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -16094,7 +15534,7 @@ export default function () {
 	{
 		"last_name": "Palmer",
 		"first_name": "C. Everard",
-		"birth_country": "[unknown]",
+		"birth_country": "Jamaica",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -16111,8 +15551,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1962",
-				"title": "The Adventures of Jimmy Maxwell (Children's novel)",
-				"summary": [""],
+				"title": "The Adventures of Jimmy Maxwell",
+				"summary": ["A children's novel."],
 				"editions": [
 					{
 						"pub_info": "Jamaica: Ministry of Education, 1962."
@@ -16121,8 +15561,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1963",
-				"title": "A Taste of Danger (Children's novel)",
-				"summary": [""],
+				"title": "A Taste of Danger",
+				"summary": ["A children's novel."],
 				"editions": [
 					{
 						"pub_info": "Jamaica: Ministry of Education, 1963."
@@ -16224,7 +15664,7 @@ export default function () {
 	{
 		"last_name": "Palmer",
 		"first_name": "Hazelle",
-		"birth_country": "[unknown]",
+		"birth_country": "Barbados",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -16235,7 +15675,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "Toronto: Sister Vision, 1995. (Paperback)"
+						"pub_info": "Toronto: Sister Vision, 1995.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -16254,7 +15695,7 @@ export default function () {
 	{
 		"last_name": "Paravisini-Gebert",
 		"first_name": "Lizabeth",
-		"birth_country": "[unknown]",
+		"birth_country": "Puerto Rico",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -16275,7 +15716,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "White Pine Press",
 						"pub_info": "Fredonia, New York: White Pine Press, 1993."
 					}
 				]
@@ -16286,7 +15726,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "White Pine Press",
 						"pub_info": "Fredonia, New York: White Pine Press, 1996."
 					}
 				]
@@ -16297,7 +15736,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Rutgers University Press",
 						"pub_info": "New Brunswick: Rutgers University Press, 1997."
 					}
 				]
@@ -16308,7 +15746,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Palgrave",
 						"pub_info": "New York: Palgrave, 2001."
 					}
 				]
@@ -16365,7 +15802,8 @@ export default function () {
 						"pub_info": "Boston: Houghton Mifflin, 1965."
 					},
 					{
-						"pub_info": "Essex: Longman Trade/Caroline House, 1987. (Paperback)"
+						"pub_info": "Essex: Longman Trade/Caroline House, 1987.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -16398,7 +15836,8 @@ export default function () {
 						"pub_info": "New York: Morrow, 1971."
 					},
 					{
-						"pub_info": "Curtis, ????. (Paperback)"
+						"pub_info": "Curtis, ????.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -16454,8 +15893,8 @@ export default function () {
 		"books": [
 			{
 				"pub_year": "1989",
-				"title": "Demerary Telepathy (Poems)",
-				"summary": [""],
+				"title": "Demerary Telepathy",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Leeds: Peepal Tree Press, 1989."
@@ -16464,8 +15903,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1989",
-				"title": "Between the Dash and the Comma (Poems)",
-				"summary": [""],
+				"title": "Between the Dash and the Comma",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "The Author, 1989."
@@ -16504,8 +15943,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1998",
-				"title": "Canada Geese and Apple Chatney (Stories)",
-				"summary": [""],
+				"title": "Canada Geese and Apple Chatney",
+				"summary": ["Stories."],
 				"editions": [
 					{
 						"pub_info": "Toronto: TSAR, 1998."
@@ -16514,8 +15953,8 @@ export default function () {
 			},
 			{
 				"pub_year": "2002",
-				"title": "The Wintering Kundalini (Poems)",
-				"summary": [""],
+				"title": "The Wintering Kundalini",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Leeds: Peepal Tree Press, 2002."
@@ -16621,7 +16060,8 @@ export default function () {
 						"pub_info": "London: Faber and Faber [1985]. (Simultaneously in hardcover and trade paperback)"
 					},
 					{
-						"pub_info": "New York: Vintage, 1995. (Paperback)"
+						"pub_info": "New York: Vintage, 1995.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -16637,10 +16077,12 @@ export default function () {
 						"pub_info": "New York: Farrar Straus Giroux, 1986."
 					},
 					{
-						"pub_info": "New York: Macmillan [1988]. (Paperback)"
+						"pub_info": "New York: Macmillan [1988].",
+						"binding": "Paperback."
 					},
 					{
-						"pub_info": "New York: Vintage, 1995. (Paperback)"
+						"pub_info": "New York: Vintage, 1995.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -16676,7 +16118,8 @@ export default function () {
 						"pub_info": "New York: Viking, 1989."
 					},
 					{
-						"pub_info": "New York: Vintage Books, 1995. (Paperback)"
+						"pub_info": "New York: Vintage Books, 1995.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -16692,7 +16135,8 @@ export default function () {
 						"pub_info": "New York: Alfred A. Knopf, 1992."
 					},
 					{
-						"pub_info": "New York: Vintage, 1993. (Paperback)"
+						"pub_info": "New York: Vintage, 1993.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -16711,7 +16155,8 @@ export default function () {
 						"pub_info": "Toronto: Knopf Canada, 1994."
 					},
 					{
-						"pub_info": "New York: Vintage, 1995. (Paperback)"
+						"pub_info": "New York: Vintage, 1995.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -16721,10 +16166,12 @@ export default function () {
 				"summary": ["The author's sixth novel."],
 				"editions": [
 					{
-						"pub_info": "London: Faber and Faber [1997]. (Hardcover)"
+						"pub_info": "London: Faber and Faber [1997].",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "New York, Alfred A. Knopf, 1997. (Hardcover)"
+						"pub_info": "New York, Alfred A. Knopf, 1997.",
+						"binding": "Hardcover in dust jacket."
 					}
 				]
 			},
@@ -16734,10 +16181,12 @@ export default function () {
 				"summary": ["An anthology of pieces by British writers who were born beyond Britain's shores."],
 				"editions": [
 					{
-						"pub_info": "London: Faber and Faber [1997]. (Hardcover)"
+						"pub_info": "London: Faber and Faber [1997].",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "New York: Vintage Books, 1999. (Trade paperback)"
+						"pub_info": "New York: Vintage Books, 1999.",
+						"binding": "Trade paperback."
 					}
 				]
 			},
@@ -16747,10 +16196,12 @@ export default function () {
 				"summary": ["An anthology of 65 great writings on tennis, with an Introduction by Phillips."],
 				"editions": [
 					{
-						"pub_info": "[London] Faber and Faber [1999]. (Trade paperback)"
+						"pub_info": "[London] Faber and Faber [1999].",
+						"binding": "Trade paperback."
 					},
 					{
-						"pub_info": "New York: Vintage Books, 1999. (Trade paperback)"
+						"pub_info": "New York: Vintage Books, 1999.",
+						"binding": "Trade paperback."
 					}
 				]
 			},
@@ -16776,7 +16227,8 @@ export default function () {
 						"pub_info": "London: Secker & Warburg [2001]."
 					},
 					{
-						"pub_info": "New York: Alfred A. Knopf, 2002. (Trade paperback)"
+						"pub_info": "New York: Alfred A. Knopf, 2002.",
+						"binding": "Trade paperback."
 					}
 				]
 			},
@@ -16806,7 +16258,18 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "London: The Women's Press, 1990. (Paperback)"
+						"pub_info": "London: The Women's Press, 1990.",
+						"binding": "Paperback."
+					}
+				]
+			},
+			{
+				"pub_year": "1980-1982",
+				"title": "Shame Trees Don't Grow Here : But Poincianas Bloom",
+				"summary": [""],
+				"editions": [
+					{
+						"pub_info": "Leeds: Peepal Tree Books, 1992"
 					}
 				]
 			},
@@ -16816,7 +16279,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "Essex: Longman, 1993. (Paperback)"
+						"pub_info": "Essex: Longman, 1993.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -16826,7 +16290,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "Essex: Longman Trade/Caroline House, 1994. (Paperback)"
+						"pub_info": "Essex: Longman Trade/Caroline House, 1994.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -16841,22 +16306,12 @@ export default function () {
 				]
 			},
 			{
-				"pub_year": "?",
+				"pub_year": "1994",
 				"title": "Dread Talk: The Language of Rastafari",
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "????"
-					}
-				]
-			},
-			{
-				"pub_year": "?",
-				"title": "Shame Trees Don't Grow Here : But Poincianas Bloom",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "????"
+						"pub_info": "Kingston: Canoe Press, 1994"
 					}
 				]
 			}
@@ -16864,9 +16319,9 @@ export default function () {
 	},
 	{
 		"last_name": "Porter",
-		"first_name": "Frank",
-		"birth_country": "[unknown]",
-		"birth_year": "",
+		"first_name": "Frank M.",
+		"birth_country": "Trinidad and Tobago",
+		"birth_year": "1929",
 		"death_year": "",
 		"bio": [""],
 		"books": [
@@ -16896,27 +16351,30 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "Radient Publishing Co., 1990. (Paperback)"
+						"pub_info": "Radient Publishing Co., 1990.",
+						"binding": "Paperback."
 					}
 				]
 			},
 			{
 				"pub_year": "1993",
 				"title": "Me Dying Trial",
-				"summary": ["Set first in rural Jamaica and later in North America, the story spans twenty years in the lives of three generations of Jamaican women. Me Dying Trial chronicles the three women's disappointments, bravery, strength, and desires as they pursue the American dream. (Heinemann synopsis)"],
+				"summary": ["Set first in rural Jamaica and later in North America, the story spans twenty years in the lives of three generations of Jamaican women. Me Dying Trial chronicles the three women's disappointments, bravery, strength, and desires as they pursue the American dream. <i>(Heinemann synopsis)</i>"],
 				"editions": [
 					{
-						"pub_info": "Oxford: Heinemann, 1993. (Paperback)"
+						"pub_info": "Oxford: Heinemann, 1993.",
+						"binding": "Paperback."
 					}
 				]
 			},
 			{
 				"pub_year": "1994",
 				"title": "A Small Gathering of Bones",
-				"summary": ["Dale's passionate relationship with Nevin is foundering. Hope and despair, jealousy and yearning, battle within him as he seeks to confront the antagonism of family, church, and society toward his homosexuality. All the while, a mysterious illness is threatening the gay community of late 1970s Jamaica and when Dale's friends succumb to it, his own isolation increases, pushing him toward desperate action. (Heinemann synopsis)"],
+				"summary": ["Dale's passionate relationship with Nevin is foundering. Hope and despair, jealousy and yearning, battle within him as he seeks to confront the antagonism of family, church, and society toward his homosexuality. All the while, a mysterious illness is threatening the gay community of late 1970s Jamaica and when Dale's friends succumb to it, his own isolation increases, pushing him toward desperate action. <i>(Heinemann synopsis)</i>"],
 				"editions": [
 					{
-						"pub_info": "Oxford: Heinemann, 1994. (Paperback)"
+						"pub_info": "Oxford: Heinemann, 1994.",
+						"binding": "Paperback."
 					}
 				]
 			}
@@ -16965,15 +16423,15 @@ export default function () {
 	{
 		"last_name": "Quayle",
 		"first_name": "Ada",
-		"birth_country": "[unknown]",
-		"birth_year": "",
+		"birth_country": "Jamaica",
+		"birth_year": "1927",
 		"death_year": "",
 		"bio": [""],
 		"books": [
 			{
 				"pub_year": "1957",
 				"title": "The Mistress",
-				"summary": [""],
+				"summary": ["Historical fiction."],
 				"editions": [
 					{
 						"pub_info": "London: MacGibbon and Kee, 1957."
@@ -17079,16 +16537,14 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Knopf",
 						"pub_info": "New York: Knopf, 1949."
 					},
 					{
-						"publisher": "Heinemann",
 						"pub_info": "London: Heinemann, 1950."
 					},
 					{
-						"publisher": "Heinemann",
-						"pub_info": "London: Heinemann, 1973. (Paperback)"
+						"pub_info": "London: Heinemann, 1973.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -17098,19 +16554,15 @@ export default function () {
 				"summary": ["The renowned Jamaican storyteller sets this exciting novel in Kenya's Mau Mau revolution."],
 				"editions": [
 					{
-						"publisher": "Heinemann",
 						"pub_info": "London: Heinemann, 1958."
 					},
 					{
-						"publisher": "Viking",
 						"pub_info": "New York: Viking, 1958"
 					},
 					{
-						"publisher": "Collier Books",
 						"pub_info": "New York: Collier Books, 1971"
 					},
 					{
-						"publisher": "Heinemann",
 						"pub_info": "London: Heinemann, 1980."
 					}
 				]
@@ -17121,7 +16573,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Longman",
 						"pub_info": "London: Longman, 1960."
 					}
 				]
@@ -17132,7 +16583,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "1967"
 					}
 				]
@@ -17143,11 +16593,9 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Jamaica Publishing House",
 						"pub_info": "Kingston: Jamaica Publishing House, 1971."
 					},
 					{
-						"publisher": "Jamaica Publishing House",
 						"pub_info": "Kingston: Jamaica Publishing House, 1980."
 					}
 				]
@@ -17158,7 +16606,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Institute of Jamaica",
 						"pub_info": "Kingston: Institute of Jamaica, 1976."
 					}
 				]
@@ -17169,8 +16616,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Jamaica Publishing House",
-						"pub_info": "[Kingston] Jamaica Publishing House [1983]. (Paperback)"
+						"pub_info": "[Kingston] Jamaica Publishing House [1983].",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -17180,7 +16627,6 @@ export default function () {
 				"summary": ["Biography of Norman Manley, President of Jamaica 1959-1962."],
 				"editions": [
 					{
-						"publisher": "Caribean Authors Publishing",
 						"pub_info": "Caribean Authors Publishing, 1985."
 					}
 				]
@@ -17381,11 +16827,11 @@ export default function () {
 	},
 	{
 		"last_name": "Richards",
-		"first_name": "N.H.",
-		"birth_country": "[unknown]",
-		"birth_year": "",
-		"death_year": "",
-		"bio": [""],
+		"first_name": "Novelle Hamilton",
+		"birth_country": "Antigua",
+		"birth_year": "1917",
+		"death_year": "1986",
+		"bio": ["<strong>Novelle Hamilton Richards</strong> was a politician, writer, and the author of the national anthem of Antigua and Barbuda."],
 		"books": [
 			{
 				"pub_year": "1971",
@@ -17628,15 +17074,17 @@ export default function () {
 	{
 		"last_name": "Rogers",
 		"first_name": "Joel Augustas",
-		"birth_country": "[unknown]",
-		"birth_year": "",
-		"death_year": "",
-		"bio": [""],
+		"birth_country": "Jamaica",
+		"birth_year": "1880 or 1883",
+		"death_year": "1966",
+		"bio": ["<strong>Joel Augustas Rogers</strong> was born in Negril. He emigrated from Jamaica to the United States in 1906, where he settled in Harlem, New York. There he lived most of his life."],
 		"books": [
 			{
 				"pub_year": "1917",
 				"title": "From Superman to Man",
-				"summary": [""],
+				"summary": [
+					"The author's first book attacked notions of African inferiority. It is a polemic against the ignorance that fuels racism. The central plot revolves around a debate between a Pullman porter and a white racist Southern politician."
+				],
 				"editions": [
 					{
 						"pub_info": "Chicago: A. Donohue and Co., Printers, 1917."
@@ -17698,13 +17146,15 @@ export default function () {
 						"pub_info": "London: Angela Royal Publishing, 1999."
 					},
 					{
-						"pub_info": "London: Anchor Press, 2000. (Paperback)"
+						"pub_info": "London: Anchor Press, 2000.",
+						"binding": "Paperback."
 					},
 					{
 						"pub_info": "New York: Farrar, Straus & Giroux, 2000."
 					},
 					{
-						"pub_info": "New York: Picador, 2001. (Paperback)"
+						"pub_info": "New York: Picador, 2001.",
+						"binding": "Paperback."
 					},
 					{
 						"pub_info": "Paris: Actes Sud, 2001."
@@ -17744,7 +17194,7 @@ export default function () {
 			{
 				"pub_year": "1989",
 				"title": "No Black Sparrows",
-				"summary": ["This posthumously published first novel is a compelling tale of Jamaica in the 1930s. The society and culture of the urban poor are depicted with vivid detail and insight through the 'Sparrows,' four impoverished orphan children who eke out a living as petty traders, and under constant threat from the police. (Heineman blurb)"],
+				"summary": ["This posthumously published first novel is a compelling tale of Jamaica in the 1930s. The society and culture of the urban poor are depicted with vivid detail and insight through the 'Sparrows,' four impoverished orphan children who eke out a living as petty traders, and under constant threat from the police. <i>(Heineman bsynopsis)</i>"],
 				"editions": [
 					{
 						"pub_info": "Heinemann, 1989."
@@ -17893,7 +17343,8 @@ export default function () {
 						"pub_info": "London: Hutchinson, 1968."
 					},
 					{
-						"pub_info": "[Harlow, Essex] Longman [1982]. (Paperback)"
+						"pub_info": "[Harlow, Essex] Longman [1982].",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -17933,7 +17384,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "[Harmondsworth] Pelican Books [1971]. (Paperback)"
+						"pub_info": "[Harmondsworth] Pelican Books [1971].",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -17999,8 +17451,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1980",
-				"title": "Away (Poems)",
-				"summary": [""],
+				"title": "Away",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "London: Allison & Busby [1980]."
@@ -18020,7 +17472,7 @@ export default function () {
 			{
 				"pub_year": "1982",
 				"title": "The Bridge Beyond",
-				"summary": ["In this novel Simone Schwarz-Bart shows the survival power of the women of Guadeloupe who live in conditions of extreme poverty and deprivation and yet who are filled with dauntless courage and love for life. The story is of the proud Lougandor women --Toussine the grandmother who, when luck deserts her, refuses to 'make a habit of sorrow' instilling in her grand-daughter, Telumee, the same principles of self reliance. For these two women happiness and suffering are different sides of the same coin. (Heinemann synopsis)"],
+				"summary": ["In this novel Simone Schwarz-Bart shows the survival power of the women of Guadeloupe who live in conditions of extreme poverty and deprivation and yet who are filled with dauntless courage and love for life. The story is of the proud Lougandor women --Toussine the grandmother who, when luck deserts her, refuses to 'make a habit of sorrow' instilling in her grand-daughter, Telumee, the same principles of self reliance. For these two women happiness and suffering are different sides of the same coin. <i>(Heinemann synopsis)</i>"],
 				"editions": [
 					{
 						"pub_info": "London: Heinemann, 1982."
@@ -18030,7 +17482,7 @@ export default function () {
 			{
 				"pub_year": "1992",
 				"title": "Between Two Worlds",
-				"summary": ["Simone Schwarz-Bart's tale intertwines the real and the magical, the history of the author's native Guadeloupe and the myths of the island. A monstrous beast has blocked out the sunlight and thrown Guadeloupe into eternal darkness. The beast is white domination and TiJean must destroy this evil. Through an exploration of contemporary Guadeloupe and a journey in the Africa of his ancestors, Simone Schwarz-Bart puts her hero to the test, but will he come through his voyage unscathed? (Heinemann synopsis)"],
+				"summary": ["Simone Schwarz-Bart's tale intertwines the real and the magical, the history of the author's native Guadeloupe and the myths of the island. A monstrous beast has blocked out the sunlight and thrown Guadeloupe into eternal darkness. The beast is white domination and TiJean must destroy this evil. Through an exploration of contemporary Guadeloupe and a journey in the Africa of his ancestors, Simone Schwarz-Bart puts her hero to the test, but will he come through his voyage unscathed? <i>(Heinemann synopsis)</i>"],
 				"editions": [
 					{
 						"pub_info": "London: Heinemann, 1992."
@@ -18050,7 +17502,7 @@ export default function () {
 			{
 				"pub_year": "1992",
 				"title": "Witchbroom",
-				"summary": ["The last of an old colonial family, Lavren Monagas de los Macajuelos pours forth epic and intimate tales of conquest, crime, and passion. This extraordinary hermaphrodite character observes and acts in the unfolding drama of the new world, and we are drawn into the account of the quest for El Dorado begun by Columbus, the great navigator. (Heinemann synopsis)"],
+				"summary": ["The last of an old colonial family, Lavren Monagas de los Macajuelos pours forth epic and intimate tales of conquest, crime, and passion. This extraordinary hermaphrodite character observes and acts in the unfolding drama of the new world, and we are drawn into the account of the quest for El Dorado begun by Columbus, the great navigator. <i>(Heinemann synopsis)</i>"],
 				"editions": [
 					{
 						"pub_info": "London: Allison and Busby, 1992."
@@ -18063,7 +17515,7 @@ export default function () {
 			{
 				"pub_year": "1994",
 				"title": "Ballad for the New World and Other Stories",
-				"summary": ["Tales of thwarted desires, repressed passions and betrayals evoke a troubled Caribbean paradise. The legacy of a cruel history haunts this new world society. Individuals are consumed by their own emotions and confused by the shifting ground of their own cultures. With a blend of pathos and ironic humor, Lawrence Scott describes life in this fallen Eden, where both the melancholy and the extravagant play their part. (Heinemann synopsis)"],
+				"summary": ["Tales of thwarted desires, repressed passions and betrayals evoke a troubled Caribbean paradise. The legacy of a cruel history haunts this new world society. Individuals are consumed by their own emotions and confused by the shifting ground of their own cultures. With a blend of pathos and ironic humor, Lawrence Scott describes life in this fallen Eden, where both the melancholy and the extravagant play their part. <i>(Heinemann synopsis)</i>"],
 				"editions": [
 					{
 						"pub_info": "Oxford: Heinemann, 1994."
@@ -18075,7 +17527,7 @@ export default function () {
 	{
 		"last_name": "Seaforth",
 		"first_name": "Sybil",
-		"birth_country": "[unknown]",
+		"birth_country": "Jamaica",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -18102,56 +17554,52 @@ export default function () {
 		"books": [
 			{
 				"pub_year": "1978",
-				"title": "Moods for Isis - Picturepoems of Love & Struggle (Poems)",
+				"title": "Moods for Isis - Picturepoems of Love & Struggle",
 				"summary": ["The variety and quantity of his insight will motivate and stir the soul/mind of his readers to intense passion....as they attempt to absorb his multi-level poetic message. - Linda Taylor"],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "1978"
 					}
 				]
 			},
 			{
 				"pub_year": "1982",
-				"title": "For the Mighty Gods - An Offering (Poems)",
+				"title": "For the Mighty Gods - An Offering",
 				"summary": ["The main feeling flashing through the book is of a conscious young Black man; conscious of the ugliness and beauty of this world. It is clear he understands the tied up beauties of black life... That our struggles are righteous. That we will win. That our women are Black beauties packed full of the sweetness of love desired and expressed. - Amiri Baraka"],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "1982"
 					}
 				]
 			},
 			{
 				"pub_year": "1983",
-				"title": "Images in the Yard (Poems)",
+				"title": "Images in the Yard",
 				"summary": ["The aim ... is not to romanticize the past nor detract from present hardships, but to awaken 'the people' to the true consciousness of our predicament, to give us an awareness of recognition, and to forge a dignified sense of identity for Balck people all over the universe... Lasana's message is crucial to the survival of 'Them Freedom Fighters'... - Musa W. Ibrahim"],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "1983"
 					}
 				]
 			},
 			{
 				"pub_year": "1983",
-				"title": "Maroon Lives - For Grenadian Freedom Fighters (Poems)",
-				"summary": [""],
+				"title": "Maroon Lives - For Grenadian Freedom Fighters",
+				"summary": ["Poems."],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "1983"
 					}
 				]
 			},
 			{
 				"pub_year": "1986",
-				"title": "Born Here (Poems)",
+				"title": "Born Here",
 				"summary": ["Born Here should be considered the first true poetic baptism of Lasana Sekou in the still sedated waters of his native island on which more than 300 years of French and Dutch colonial rule has had a numbing lethargic effect. - Fabian A. Badejo"],
 				"editions": [
 					{
-						"publisher": "House of Nehesi",
-						"pub_info": "St. Martin: House of Nehesi, 1986. (Paperback)"
+						"pub_info": "St. Martin: House of Nehesi, 1986.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -18161,19 +17609,19 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "House of Nehesi",
-						"pub_info": "St. Martin: House of Nehesi, 1988. (Paperback)"
+						"pub_info": "St. Martin: House of Nehesi, 1988.",
+						"binding": "Paperback."
 					}
 				]
 			},
 			{
 				"pub_year": "1989",
-				"title": "Love Songs Make You Cry (Stories)",
+				"title": "Love Songs Make You Cry",
 				"summary": ["With the publication of this collection of short stories, Lasana M. Sekou, whose work in verse has been receiving a deserved regional recognition, has accepted the challenge of prose fiction. - Dr. Linda Badejo-Richardson"],
 				"editions": [
 					{
-						"publisher": "House of Nehesi",
-						"pub_info": "St. Martin: House of Nehesi, 1989. (Paperback)"
+						"pub_info": "St. Martin: House of Nehesi, 1989.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -18183,7 +17631,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "1990"
 					}
 				]
@@ -18194,8 +17641,8 @@ export default function () {
 				"summary": ["The poems of Mothernation covers a period when it is not yet opportune to speak one's mind publicly without fear of political repercussion. ... (Sekou's) cry for freedom is creative and shocking for his audience. But no one can remain indifferent toward that fascinating voice. - Armando Lampe, Ph.D., Catholic Priest"],
 				"editions": [
 					{
-						"publisher": "House of Nehesi",
-						"pub_info": "St. Martin: House of Nehesi, 1991. (Paperback)"
+						"pub_info": "St. Martin: House of Nehesi, 1991.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -18205,8 +17652,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "House of Nehesi",
-						"pub_info": "St. Martin: House of Nehesi, 1991. (Paperback)"
+						"pub_info": "St. Martin: House of Nehesi, 1991.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -18216,19 +17663,18 @@ export default function () {
 				"summary": ["A first and fascinating labor of love and scholarship highlighting, in text, and illustrations, St.Martin's people, history, culture and natural environment. Extensive bibliography."],
 				"editions": [
 					{
-						"publisher": "House of Nehesi",
 						"pub_info": "St. Martin: House of Nehesi, 1996."
 					}
 				]
 			},
 			{
 				"pub_year": "1997",
-				"title": "Brotherhood of the Spurs (Stories)",
-				"summary": ["Brotherhood of the Spurs brings a new dimension to the growing stature of Lasana M. Sekou as a St.Martin and  Caribbean writer. - George Lamming"],
+				"title": "Brotherhood of the Spurs",
+				"summary": ["Stories. 'Brotherhood of the Spurs brings a new dimension to the growing stature of Lasana M. Sekou as a St.Martin and  Caribbean writer.' - George Lamming"],
 				"editions": [
 					{
-						"publisher": "House of Nehesi",
-						"pub_info": "St. Martin: House of Nehesi, 1997. (Paperback)"
+						"pub_info": "St. Martin: House of Nehesi, 1997.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -18238,7 +17684,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "?",
 						"pub_info": "1999"
 					}
 				]
@@ -18259,13 +17704,16 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "London: Allan Wingate, 1952. (Hardcover)"
+						"pub_info": "London: Allan Wingate, 1952.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "New York: Viking, 1953. (Hardcover)"
+						"pub_info": "New York: Viking, 1953.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "London: Longman, 1979. (Paperback)"
+						"pub_info": "London: Longman, 1979.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -18275,7 +17723,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "London: Allan Wingate, 1955. (Hardcover)"
+						"pub_info": "London: Allan Wingate, 1955.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
 						"pub_info": "Toronto: TSAR, 1993."
@@ -18288,22 +17737,28 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "London: Allan Wingate, 1956. (Hardcover)"
+						"pub_info": "London: Allan Wingate, 1956.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "New York: St. Martin's Press, 1956. (Hardcover)"
+						"pub_info": "New York: St. Martin's Press, 1956.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "London: Mayflower, 1966. (Paperback)"
+						"pub_info": "London: Mayflower, 1966.",
+						"binding": "Paperback."
 					},
 					{
-						"pub_info": "London: Longman, 1972. (Hardcover)"
+						"pub_info": "London: Longman, 1972.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "London: Longman, 1979. (Paperback)"
+						"pub_info": "London: Longman, 1979.",
+						"binding": "Paperback."
 					},
 					{
-						"pub_info": "Toronto: TSAR, 1991. (Paperback)"
+						"pub_info": "Toronto: TSAR, 1991.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -18313,16 +17768,20 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "London: MacGibbon and Kee, 1957. (Hardcover)"
+						"pub_info": "London: MacGibbon and Kee, 1957.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "New York: St. Martin's Press, 1957. (Hardcover)"
+						"pub_info": "New York: St. Martin's Press, 1957.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "London: Longman Caribbean, 1973. (Hardcover)"
+						"pub_info": "London: Longman Caribbean, 1973.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "London: Longman, 1979. (Paperback)"
+						"pub_info": "London: Longman, 1979.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -18332,16 +17791,20 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "London: MacGibbon and Kee, 1958. (Hardcover)"
+						"pub_info": "London: MacGibbon and Kee, 1958.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "New York: St. Martin's Press, 1959. (Hardcover)"
+						"pub_info": "New York: St. Martin's Press, 1959.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "London: Four Square, 1962. (Paperback)"
+						"pub_info": "London: Four Square, 1962.",
+						"binding": "Paperback."
 					},
 					{
-						"pub_info": "London: Heinemann, 1979. (Paperback)"
+						"pub_info": "London: Heinemann, 1979.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -18351,10 +17814,12 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "London: MacGibbon and Kee, 1963. (Hardcover)"
+						"pub_info": "London: MacGibbon and Kee, 1963.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "New York: St. Martin's Press, 1963. (Hardcover)"
+						"pub_info": "New York: St. Martin's Press, 1963.",
+						"binding": "Hardcover in dust jacket."
 					}
 				]
 			},
@@ -18364,7 +17829,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "London: MacGibbon and Kee, 1965. (Hardcover)"
+						"pub_info": "London: MacGibbon and Kee, 1965.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
 						"pub_info": "[Washington, DC] Three Continents Press [1990]. (Hardcover and trade paperback)"
@@ -18387,7 +17853,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "London: MacGibbon and Kee, 1970. (Hardcover)"
+						"pub_info": "London: MacGibbon and Kee, 1970.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
 						"pub_info": "[Toronto] Williams-Wallace Publishers [1985]. (Hardcover and trade paperback)"
@@ -18400,7 +17867,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "London: Davis-Poynter, 1972. (Hardcover)"
+						"pub_info": "London: Davis-Poynter, 1972.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
 						"pub_info": "Toronto: TSAR, 1990."
@@ -18410,13 +17878,15 @@ export default function () {
 			{
 				"pub_year": "1975",
 				"title": "Moses Ascending",
-				"summary": ["The second of Selvon's novels about West Indians in Britain, this is the entertaining sequel to The Lonely Londoners. (Heinemann synopsis)"],
+				"summary": ["The second of Selvon's novels about West Indians in Britain, this is the entertaining sequel to The Lonely Londoners. <i>(Heinemann synopsis)</i>"],
 				"editions": [
 					{
-						"pub_info": "London: Davis-Poynter, 1975. (Hardcover)"
+						"pub_info": "London: Davis-Poynter, 1975.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "London: Heinemann, 1984. (Paperback)"
+						"pub_info": "London: Heinemann, 1984.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -18429,7 +17899,8 @@ export default function () {
 						"pub_info": "London: Longman, 1983."
 					},
 					{
-						"pub_info": "Essex: Longman Drumbeat, 1983. (Paperback)"
+						"pub_info": "Essex: Longman Drumbeat, 1983.",
+						"binding": "Paperback."
 					},
 					{
 						"pub_info": "[Washington, DC] Three Continents Press [1992]. (Hardcover and trade paperback) Includes a new preface by the author."
@@ -18442,7 +17913,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "Leeds: Peepal Tree Press, 1988. (Paperback)"
+						"pub_info": "Leeds: Peepal Tree Press, 1988.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -18452,7 +17924,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "[Essex] Longman [1989]. (Paperback)"
+						"pub_info": "[Essex] Longman [1989].",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -18462,7 +17935,8 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "[Leeds]= Peepal Tree Press [1991]. (Paperback)"
+						"pub_info": "[Leeds]= Peepal Tree Press [1991].",
+						"binding": "Paperback."
 					}
 				]
 			}
@@ -18508,8 +17982,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1985",
-				"title": "Talking of Trees (Poems)",
-				"summary": [""],
+				"title": "Talking of Trees",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "[Kingston: Calabash, 1985]."
@@ -18548,8 +18022,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1994",
-				"title": "Gardening in the Tropics (Poems)",
-				"summary": [""],
+				"title": "Gardening in the Tropics",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Toronto: McClelland & Stewart, 1994."
@@ -18558,8 +18032,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1995",
-				"title": "Discerner of Hearts (Stories)",
-				"summary": [""],
+				"title": "Discerner of Hearts",
+				"summary": ["Stories."],
 				"editions": [
 					{
 						"pub_info": "[Toronto: McClelland & Stewart, 1995.]"
@@ -18751,7 +18225,7 @@ export default function () {
 	{
 		"last_name": "Snod",
 		"first_name": "E. [E.A. Dodd]",
-		"birth_country": "[unknown]",
+		"birth_country": "Jamaica",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -18779,7 +18253,7 @@ export default function () {
 			{
 				"pub_year": "1993",
 				"title": "The Roads are Down",
-				"summary": ["This is a deceptively simple tale of the hazardous and uncharted battle zones between gender, culture, and race. Spence tells the story of a young Jamaican woman who by accident meets an aging American and his wife. A friendship forms between Katherine and the American, and this relationship ultimately leads to Katherine's acquiring her longed-for house in the remote hills above Kingston that she so loves. (Heinemann synopsis)"],
+				"summary": ["This is a deceptively simple tale of the hazardous and uncharted battle zones between gender, culture, and race. Spence tells the story of a young Jamaican woman who by accident meets an aging American and his wife. A friendship forms between Katherine and the American, and this relationship ultimately leads to Katherine's acquiring her longed-for house in the remote hills above Kingston that she so loves. <i>(Heinemann synopsis)</i>"],
 				"editions": [
 					{
 						"pub_info": "Oxford: Heinemann, 1993."
@@ -18842,7 +18316,8 @@ export default function () {
 				"summary": ["First separate edition.  Originally published in Shades of Grey in 1968."],
 				"editions": [
 					{
-						"pub_info": "[London] Heinemann [1986]. (Paperback)"
+						"pub_info": "[London] Heinemann [1986].",
+						"binding": "Paperback."
 					}
 				]
 			}
@@ -18888,8 +18363,8 @@ export default function () {
 		"books": [
 			{
 				"pub_year": "1999",
-				"title": "From The Depths of My Naked Soul: Chaku Writes (Poems)",
-				"summary": [""],
+				"title": "From The Depths of My Naked Soul: Chaku Writes",
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Brooklyn: Caribbean Diaspora Press, 1999."
@@ -18898,8 +18373,8 @@ export default function () {
 			},
 			{
 				"pub_year": "2000",
-				"title": "Under the Calabash Tree (Stories)",
-				"summary": [""],
+				"title": "Under the Calabash Tree",
+				"summary": ["Stories."],
 				"editions": [
 					{
 						"pub_info": "Brooklyn: Caribbean Diaspora Press, 2000."
@@ -18999,7 +18474,7 @@ export default function () {
 			{
 				"pub_year": "1994",
 				"title": "Spirits in the Dark",
-				"summary": ["Nigel Thomas writes with compelling honesty about the confusing maze of pressures that paralyze Jerome Quashee, who undergoes a religious ritual, blocking all sensual links to the outside world in order to see clearly into his past and find the sources of the pain and guilt that torment his soul. His intelligence at first promises him a gateway out of the poverty his parents have known, but he must compete with privileged white boys for scholarships in a racist, class-ridden culture. He wrestles with both the guilt of knowing so little about his African heritage and the simultaneous pressure to think, speak, and act as a white person. And he will bring disgrace on his family if he does not suppress his emerging homosexuality. (Publisher's synopsis)"],
+				"summary": ["Nigel Thomas writes with compelling honesty about the confusing maze of pressures that paralyze Jerome Quashee, who undergoes a religious ritual, blocking all sensual links to the outside world in order to see clearly into his past and find the sources of the pain and guilt that torment his soul. His intelligence at first promises him a gateway out of the poverty his parents have known, but he must compete with privileged white boys for scholarships in a racist, class-ridden culture. He wrestles with both the guilt of knowing so little about his African heritage and the simultaneous pressure to think, speak, and act as a white person. And he will bring disgrace on his family if he does not suppress his emerging homosexuality. <i>(Publisher's synopsis)</i>"],
 				"editions": [
 					{
 						"pub_info": "Heinemann, 1994."
@@ -19050,11 +18525,11 @@ export default function () {
 	},
 	{
 		"last_name": "Tomlinson",
-		"first_name": "F.C.",
-		"birth_country": "[unknown]",
+		"first_name": "Frederick Charles",
+		"birth_country": "Jamaica",
 		"birth_year": "",
 		"death_year": "",
-		"bio": [""],
+		"bio": ["<strong>Frederick Charles Tomlinson</strong> was a barrister and writer."],
 		"books": [
 			{
 				"pub_year": "1903",
@@ -19248,7 +18723,8 @@ export default function () {
 						"pub_info": "London: Jonathan Cape [1973]."
 					},
 					{
-						"pub_info": "Washington, DC: Three Continents Press, 1982. (Paperback)"
+						"pub_info": "Washington, DC: Three Continents Press, 1982.",
+						"binding": "Paperback."
 					}
 				]
 			},
@@ -19487,7 +18963,7 @@ export default function () {
 			{
 				"pub_year": "1987",
 				"title": "Juletane",
-				"summary": ["When Helene is packing up her belongings in readiness for her imminent move and marriage, she unearths a faded old exercise book. As she reads she cannot anticipate the effect it will have upon her own future. It is the diary of Juletane, a young West Indian woman. Written over three weeks, it records her short life; her lonely childhood in France, her marriage to an African student, and her eager return, with him, to Africa -- the land of her ancestors. In stark contrast to her naive illusions, the social realities of traditional Muslim life and their cultural demands on her as a woman threaten to drive her to unendurable extremes of loneliness and complete alienation. She is a foreigner, in spite of the color of her skin. (Heinemann synopsis)"],
+				"summary": ["When Helene is packing up her belongings in readiness for her imminent move and marriage, she unearths a faded old exercise book. As she reads she cannot anticipate the effect it will have upon her own future. It is the diary of Juletane, a young West Indian woman. Written over three weeks, it records her short life; her lonely childhood in France, her marriage to an African student, and her eager return, with him, to Africa -- the land of her ancestors. In stark contrast to her naive illusions, the social realities of traditional Muslim life and their cultural demands on her as a woman threaten to drive her to unendurable extremes of loneliness and complete alienation. She is a foreigner, in spite of the color of her skin. <i>(Heinemann synopsis)</i>"],
 				"editions": [
 					{
 						"pub_info": "London: Heinemann, 1987."
@@ -19499,10 +18975,10 @@ export default function () {
 	{
 		"last_name": "Waters",
 		"first_name": "Erika J.",
-		"birth_country": "[unknown]",
+		"birth_country": "USA",
 		"birth_year": "",
 		"death_year": "",
-		"bio": [""],
+		"bio": ["<strong>Erika J. Waters</strong> is an American editor, academic and critic. She was the founding editor of the literary journal <i>The Caribbean Writer</i> in 1986 and has published critical works on Caribbean literature and on women's literature. <i>(Wikipedia)</i>"],
 		"books": [
 			{
 				"pub_year": "1994",
@@ -19540,26 +19016,6 @@ export default function () {
 		]
 	},
 	{
-		"last_name": "Welsh",
-		"first_name": "Sarah Lawson",
-		"birth_country": "[unknown]",
-		"birth_year": "",
-		"death_year": "",
-		"bio": [""],
-		"books": [
-			{
-				"pub_year": "1996",
-				"title": "The Routledge Reader in Caribbean Literature (1900-1990's) (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "London/New York: Routledge, 1996."
-					}
-				]
-			}
-		]
-	},
-	{
 		"last_name": "Wheatley",
 		"first_name": "Jennie N.",
 		"birth_country": "British Virgin Islands",
@@ -19573,7 +19029,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "Macmillan",
 						"pub_info": "Macmillan, 1979."
 					}
 				]
@@ -19584,7 +19039,6 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"publisher": "UNESCO",
 						"pub_info": "UNESCO, 1984."
 					}
 				]
@@ -19595,7 +19049,6 @@ export default function () {
 				"summary": ["These stories will help us ... evoke that spirit of adventure for which our forbears were well known and which our younger generation would wish to follow. - Ralph O'Neal, Chief Minister, British Virgin Islands"],
 				"editions": [
 					{
-						"publisher": "WSTD Publishing",
 						"pub_info": "WSTD Publishing, 1991."
 					}
 				]
@@ -19647,28 +19100,8 @@ export default function () {
 	},
 	{
 		"last_name": "Williams",
-		"first_name": "G.",
-		"birth_country": "[unknown]",
-		"birth_year": "",
-		"death_year": "",
-		"bio": [""],
-		"books": [
-			{
-				"pub_year": "1975",
-				"title": "A Hero for Jamaica",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "New York: Exposition Press, 1975."
-					}
-				]
-			}
-		]
-	},
-	{
-		"last_name": "Williams",
-		"first_name": "Lorna",
-		"birth_country": "[unknown]",
+		"first_name": "Lorna V.",
+		"birth_country": "Jamaica",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -19728,14 +19161,17 @@ export default function () {
 	{
 		"last_name": "Wilson",
 		"first_name": "Betty",
-		"birth_country": "[unknown]",
+		"birth_country": "Jamaica",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
 		"books": [
 			{
 				"pub_year": "1989",
-				"title": "Her True-True Name: An Anthology of Women's Writing from the Caribbean (Editor)", "summary": ["From memories of turn-of-the-century Dominica to the contemporary USA, Africa, and Britain, 31 women writers from throughout the Caribbean express the loss and the longing, the pride and passion of the Caribbean identity. Differences of language -- English, French, Spanish -- point to a common history of migration and imperialism. The precision of 'standard English' and the poetry of creole embody the rich contradictions of that heritage. Rooted in African old-tradition, a modern self-defining consciousness insists on calling itself by its 'true-true name.' The selections, arranged by country, include the following writers: Guyana -- Beryl Gilroy, Grace Nichols, Janice Shinebourne. Belize -- Zee Edgell. Cuba -- Omega Aguero, Mirta Yanez. Jamaica -- Erna Brodber, Michelle Cliff, Christine Craig, Velma Pollard, Joan Riley, Olive Senior, Sylvia Wynter Carew. Haiti -- Marie Chauvet (Marie Vieux). Dominican Republic -- Hilma Contreras. Puerto Rico -- Rosario Ferre, Magali Garcia Ramis, Carmen Lugo Filippi, Ana Lydia Vega. Antigua -- Jamaica Kincaid. Guadeloupe -- Maryse Conde, Simone Schwarz-Bart, Myriam Warner-Vieyra. Dominica --Jean Rhys, Phyllis Shand Allfrey, Barbados -- Paule Marshall. Grenada -- Merle Collins. Trinidad and Tobago -- Dionne Brand, Rosa Guy, Marion Patrick-Jones, Merle Hodge."],
+				"title": "Her True-True Name: An Anthology of Women's Writing from the Caribbean (Editor)",
+				"summary": [
+					"From memories of turn-of-the-century Dominica to the contemporary USA, Africa, and Britain, 31 women writers from throughout the Caribbean express the loss and the longing, the pride and passion of the Caribbean identity."
+				],
 				"editions": [
 					{
 						"pub_info": "London: Heinemann, 1989."
@@ -19754,12 +19190,12 @@ export default function () {
 		"books": [
 			{
 				"pub_year": "2001",
-				"title": "Same Sea ... Another Wave (Stories)",
-				"summary": ["In Cynthia Wilson's Same Sea ... Another Wave Cyrilene Sargeant takes us into her world with all the unstoppable confidence of a precocious, deeply loved child. ... Caribbean writers do explore childhood, of course, but there are few who evoke so beautifully and completely credibly, a childhood in the Caribbean in an era that we can now see as the childhood of the modern Caribbean. - Kendel Hippolyte, Poet, Playwright, St Lucia"],
+				"title": "Same Sea ... Another Wave",
+				"summary": ["Stories. 'In Cynthia Wilson's Same Sea ... Another Wave Cyrilene Sargeant takes us into her world with all the unstoppable confidence of a precocious, deeply loved child. ... Caribbean writers do explore childhood, of course, but there are few who evoke so beautifully and completely credibly, a childhood in the Caribbean in an era that we can now see as the childhood of the modern Caribbean.' - Kendel Hippolyte, Poet, Playwright, St Lucia"],
 				"editions": [
 					{
-						"publisher": "House of Nehesi",
-						"pub_info": "St. Martin: House of Nehesi, 2001. (Paperback)"
+						"pub_info": "St. Martin: House of Nehesi, 2001.",
+						"binding": "Paperback."
 					}
 				]
 			}
@@ -19852,7 +19288,6 @@ export default function () {
 				"summary": ["This novel is an account of a young boy raised by his grandmother in a post-slavery - but still plantation-based - Martinique. Later published in English as Black Shack Alley"],
 				"editions": [
 					{
-						"publisher": "Jean Froissart",
 						"pub_info": "Paris: Jean Froissart, 1950. (Limited edition of 1000 numbered copies on Corvol paper)"
 					}
 				]
@@ -19863,12 +19298,11 @@ export default function () {
 				"summary": ["English language edition of La rue cases-negres"],
 				"editions": [
 					{
-						"publisher": "Three Continents Press",
 						"pub_info": "Washington D.C.: Three Continents Press, 1980."
 					},
 					{
-						"publisher": "Heinemann",
-						"pub_info": "London: Heinemann, 1980. (Paperback)"
+						"pub_info": "London: Heinemann, 1980.",
+						"binding": "Paperback."
 					}
 				]
 			}
