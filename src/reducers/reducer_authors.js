@@ -33,7 +33,7 @@ export default function () {
 			{
 				"pub_year": "1986",
 				"title": "The Stone Rose",
-				"summary": ["Poems"],
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Port of Spain: Paria Publishing, 1986"
@@ -87,7 +87,7 @@ export default function () {
 			{
 				"pub_year": "1940",
 				"title": "In Circles",
-				"summary": ["Poems"],
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Harrow Weald, Middlesex: Raven Press, 1940.",
@@ -100,7 +100,7 @@ export default function () {
 			{
 				"pub_year": "1950",
 				"title": "Palm and Oak",
-				"summary": ["Poems"],
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "London: Self-published, 1950.",
@@ -137,7 +137,7 @@ export default function () {
 			{
 				"pub_year": "1955",
 				"title": "Contrasts",
-				"summary": ["Poems"],
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Bridgetown, Barbados: Advocate Press, 1955."
@@ -160,7 +160,7 @@ export default function () {
 			{
 				"pub_year": "1973",
 				"title": "Palm and Oak II",
-				"summary": ["Poems"],
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "Roseau, Dominica: Star Printery, 1973."
@@ -189,7 +189,9 @@ export default function () {
 					{
 						"pub_info": "London and Roseau, Dominica: Papillote Press [2014].",
 						"edition": "First edition.",
-						"binding": "Trade paperback with French-fold wrappers."
+						"binding": "Trade paperback with French-fold wrappers.",
+						"size": "8vo (5 1/8 in x 7 3/4 in).",
+						"pages": "94",
 					}
 				]
 			}
@@ -379,7 +381,7 @@ export default function () {
 			{
 				"pub_year": "1995",
 				"title": "The Other Side / El Otro Lado",
-				"summary": ["Poems"],
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "New York: Dutton, 1995.",
@@ -2678,16 +2680,6 @@ export default function () {
 				]
 			},
 			{
-				"pub_year": "1981",
-				"title": "Jamaica Maddah Goose (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "Jamaica School of Art , 1981"
-					}
-				]
-			},
-			{
 				"pub_year": "1982", "title": "Selected Poems",
 				"summary": [""],
 				"editions": [
@@ -2976,26 +2968,6 @@ export default function () {
 				]
 			},
 			{
-				"pub_year": "1988",
-				"title": "Jahaji Bhai - An anthology of Indo-Caribbean Literature (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "Toronto: TSAR, 1988."
-					}
-				]
-			},
-			{
-				"pub_year": "1989",
-				"title": "Indenture and Exile: The Indo-Caribbean Experience (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "Toronto: TSAR, 1989."
-					}
-				]
-			},
-			{
 				"pub_year": "1995",
 				"title": "Novels and the Nation: Essays in Canadian Literature",
 				"summary": [""],
@@ -3012,16 +2984,6 @@ export default function () {
 				"editions": [
 					{
 						"pub_info": "St. John's, Antigua: Hansib, 1996"
-					}
-				]
-			},
-			{
-				"pub_year": "1996",
-				"title": "Frontiers of Caribbean Literature in English (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "New York: St. Martins Press [1996]."
 					}
 				]
 			}
@@ -4127,19 +4089,6 @@ export default function () {
 				]
 			},
 			{
-				"pub_year": "1984",
-				"title": "Caribbean Poetry Now (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "Hodder and Stoughton, 1984."
-					},
-					{
-						"pub_info": "Edward Arnold, 1992."
-					}
-				]
-			},
-			{
 				"pub_year": "1986",
 				"title": "Zinder",
 				"summary": ["Poems."],
@@ -4161,33 +4110,11 @@ export default function () {
 			},
 			{
 				"pub_year": "1989",
-				"title": "Voice Print (Poems edited w/Mervyn Morris and Gordon Rohlehr)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "London: Longman, 1989."
-					}
-				]
-			},
-			{
-				"pub_year": "1989",
 				"title": "Writers from Africa",
 				"summary": [""],
 				"editions": [
 					{
 						"pub_info": "Book Trust, 1989"
-					}
-				]
-			},
-			{
-				"pub_year": "1990",
-				"title": "Caribbean New Wave: Contemporary Short Stories (Editor)",
-				"summary": [
-					"This anthology provides readers with a sampler of the energy, commitment, and sheer brilliance of a whole new generation of Caribbean writers. Contents: James Berry (Jamaica), Miss Dorcas. Wayne Brown (Trinidad and Tobago), The Crossing. Clyde Hosein (Trinidad and Tobago), The Man at the Gate. Hazel D. Campbell (Jamaica), The Thursday Wife. Ian MacDonald (Trinidad and Tobago/Guyana), The Duel in the Mercy Ward. Rooplal Monar (Guyana), Bahadur. Jamaica Kincaid (Antigua), My Mother. Neil Bissoondath (Trinidad and Tobago/Canada), Insecurity. Opal Palmer Adisa (Jamaica), Duppy Get Her. Austin Clarke (Barbados), A Funeral. Faustin Charles (Trinidad and Tobago), Signpost of the Phoenix. Cyril Dabydeen (Guyana/Canada), Bitter Blood. Willi Chen (Trinidad and Tobago), The Stickfighter. Amryl Johnson (Trinidad and Tobago), Yardstick. Olive Senior (Jamaica), The Two Grandmothers. Lorna Goodison (Jamaica), Della Makes Life. Lawrence Scott (Trinidad and Tobago), King Sailor One J'Overt Morning. Earl Lovelace (Trinidad and Tobago), Shoemaker Arnold. Earl McKenzie (Jamaica), Fear of the Sea. Velma Pollard (Jamaica), My Mother. Jan Shienbourne (Guyana), The Maid in Bel Air."
-				],
-				"editions": [
-					{
-						"pub_info": "London: Heinemann, 1990."
 					}
 				]
 			},
@@ -4198,28 +4125,6 @@ export default function () {
 				"editions": [
 					{
 						"pub_info": "Dufour, 1991."
-					}
-				]
-			},
-			{
-				"pub_year": "1992",
-				"title": "The Heinemann Book of Caribbean Poetry (Editor)",
-				"summary": [
-					"West Indians, as Ian McDonald comments, 'write poetry as well as they play cricket' and Heinemann's anthology is the most comprehensive and up-to-date selection of contemporary Caribbean poetry, including major names like Derek Walcott, John Agard, and Merle Collins, alongside new poets of the region. This collection is an invaluable academic selection and will provide a fine introduction for the general reader interested in the lyricism of Caribbean poetry. <i>(Publisher's synopsis)</i>"
-				],
-				"editions": [
-					{
-						"pub_info": "Oxford: Heinemann, 1992."
-					}
-				]
-			},
-			{
-				"pub_year": "1995",
-				"title": "Caribbean New Voices 1: A Forum for Caribbean Writing (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "Longman, 1995."
 					}
 				]
 			},
@@ -5463,16 +5368,6 @@ export default function () {
 				]
 			},
 			{
-				"pub_year": "1989",
-				"title": "Under the Storyteller's Spell (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "London: Viking Kestrel, 1989."
-					}
-				]
-			},
-			{
 				"pub_year": "1996",
 				"title": "A Caribbean Counting Book",
 				"summary": [""],
@@ -6534,16 +6429,6 @@ export default function () {
 				]
 			},
 			{
-				"pub_year": "1992",
-				"title": "Guyana at the Crossroads (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "Coral Gables: University of Miami N-S Center Press, 1992."
-					}
-				]
-			},
-			{
 				"pub_year": "1993",
 				"title": "Mint Tea and Other Stories",
 				"summary": ["Unconventional love, social injustice, dangerous economics--these are the subject of Christine Craig's short stories. She tenderly evokes the women's experiences of Jamaica, criss-crossing between generations and places, disregarding conventions, and weaving new insights into a complex place and a complex people. Craig brings to this first collection a sharp, unsentimental eye, a flair for language, and a subtle sense of irony. Christine Craig now lives in the U.S. <i>(Heinemann synopsis)</i>"],
@@ -6664,19 +6549,9 @@ export default function () {
 				]
 			},
 			{
-				"pub_year": "1987",
-				"title": "A Shapely Fire: Changing the Literary Landscape (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "Ontario: Mosaic Press, 1987."
-					}
-				]
-			},
-			{
 				"pub_year": "1988",
-				"title": "To Monkey Jungle (Short stories)",
-				"summary": [""],
+				"title": "To Monkey Jungle",
+				"summary": ["Short stories."],
 				"editions": [
 					{
 						"pub_info": "Ontario: Third Eye, 1988."
@@ -6755,16 +6630,6 @@ export default function () {
 			},
 			{
 				"pub_year": "1996",
-				"title": "Another Way to Dance: Contemporary Asian Poetry from Canada and the United States (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "Toronto: TSAR, 1996."
-					}
-				]
-			},
-			{
-				"pub_year": "1996",
 				"title": "Black Jesus and Other Stories",
 				"summary": [""],
 				"editions": [
@@ -6828,16 +6693,6 @@ export default function () {
 				]
 			},
 			{
-				"pub_year": "1985",
-				"title": "The Black Presence in English Literature (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "Manchester University Press, 1985"
-					}
-				]
-			},
-			{
 				"pub_year": "1987",
 				"title": "Hogarth's Blacks: Images of Blacks in Eighteenth Century English Art",
 				"summary": [""],
@@ -6864,17 +6719,6 @@ export default function () {
 				]
 			},
 			{
-				"pub_year": "1987",
-				"title": "India in the Caribbean (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "Hansib, 1987.",
-						"binding": "Paperback."
-					}
-				]
-			},
-			{
 				"pub_year": "1988",
 				"title": "Coolie Odyssey",
 				"summary": ["Poems. A celebration, albeit a tentative and unsentimental one, of the survival and rooting of a creolised Indian culture in the Caribbean, and Dabydeen’s own exploration of his cultural origins."],
@@ -6882,16 +6726,6 @@ export default function () {
 					{
 						"pub_info": "Coventry, Dangaroo Press, 1988.",
 						"binding": "Paperback."
-					}
-				]
-			},
-			{
-				"pub_year": "1988",
-				"title": "Handbook for Teaching Caribbean Literature (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "Heinemann, 1988."
 					}
 				]
 			},
@@ -6912,16 +6746,6 @@ export default function () {
 				"editions": [
 					{
 						"pub_info": "London: Secker & Warberg, 1991."
-					}
-				]
-			},
-			{
-				"pub_year": "1991",
-				"title": "Black Writers in Britain, 1760-1890 (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "Edinburgh University Press, 1991."
 					}
 				]
 			},
@@ -6956,16 +6780,6 @@ export default function () {
 				"editions": [
 					{
 						"pub_info": "London: Secker & Warburg, 1996."
-					}
-				]
-			},
-			{
-				"pub_year": "1996",
-				"title": "Across the Dark Waters: Indian Identity in the Caribbean (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "MacMillan, 1996."
 					}
 				]
 			},
@@ -7577,19 +7391,6 @@ export default function () {
 				]
 			},
 			{
-				"pub_year": "1998",
-				"title": "Wheel and Come Again - An Anthology of Reggae Poetry (Editor)",
-				"summary": ["The author's 7th publication. This collection is a dancehall session in poetry that takes readers into the heart of reggae and into the seduction of the drum and bass. It features poems from almost 40 writers of Caribbean origin including Kamau Brathwaite, Lorna Goodison, Linton Kwesi Johnson, Edward Baugh and John Agard."],
-				"editions": [
-					{
-						"pub_info": "Leeds: Peepal Tree Press, 1998."
-					},
-					{
-						"pub_info": "Fredericton: Goose Lane Editions, 1998."
-					}
-				]
-			},
-			{
 				"pub_year": "1999",
 				"title": "Natural Mysticism: Towards a New Reggae Aesthetic",
 				"summary": ["Natural Mysticism: Towards a New Reggae Aesthetic is Kwame Dawes' 8th publication. It speaks for all those for whom reggae defines the major experiences of life. Here Dawes describes how reggae has been central to his sense of selfhood, his consciousness of place and society in Jamaica and his development as a writer."],
@@ -7749,43 +7550,13 @@ export default function () {
 						"pub_info": "London: Longman, 1978."
 					}
 				]
-			},
-			{
-				"pub_year": "1978",
-				"title": "Our Way: A Collection of Caribbean Short Stories for Youngsters (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "London: Longman, 1978."
-					}
-				]
-			},
-			{
-				"pub_year": "1989",
-				"title": "Voices in Exile: Jamaican Texts of the 18th and 19th Centuries (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "Tuscaloosa: University of Alamaba Press, 1989."
-					}
-				]
-			},
-			{
-				"pub_year": "1990",
-				"title": "Language in Exile: Three Hundred Years of Jamaican Creole (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "Tuscaloosa: University of Alamaba Press, 1990."
-					}
-				]
 			}
 		]
 	},
 	{
 		"last_name": "De Boissiere",
 		"first_name": "Ralph",
-		"birth_country": "Trinidad and Tobago, Australia",
+		"birth_country": "Trinidad and Tobago",
 		"birth_year": "",
 		"death_year": "",
 		"bio": [""],
@@ -8704,55 +8475,12 @@ export default function () {
 				]
 			},
 			{
-				"pub_year": "1966",
-				"title": "Caribbean Voices: An Anthology of West Indian Poetry: Vol. 1, Dreams and Visions (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "London: Evans Brothers, 1966."
-					}
-				]
-			},
-			{
-				"pub_year": "1970",
-				"title": "Caribbean Voices: An Anthology of West Indian Poetry: Vol. 2, The Blue Horizons (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "London: Evans Brothers, 1970."
-					}
-				]
-			},
-			{
-				"pub_year": "1971",
-				"title": "Caribbean Voices, Combined Edition (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "London: Evans Brothers, 1971."
-					},
-					{
-						"pub_info": "Washington, DC: Luce, 1973."
-					}
-				]
-			},
-			{
 				"pub_year": "1971",
 				"title": "Society, Schools and Progress in the West Indies",
 				"summary": [""],
 				"editions": [
 					{
 						"pub_info": "Oxford: Pergamon Press, 1971."
-					}
-				]
-			},
-			{
-				"pub_year": "1982",
-				"title": "An Anthology of African and Caribbean Writing in English (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "London: Heinemann, 1982."
 					}
 				]
 			},
@@ -8797,12 +8525,15 @@ export default function () {
 		"bio": [""],
 		"books": [
 			{
-				"pub_year": "1987",
-				"title": "Lionheart Gal: Life Stories of Jamaican Women (Editor)",
+				"pub_year": "1996",
+				"title": "My Mother's Last Dance",
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "Toronto: Sister Vision Press, 1987."
+						"pub_info": "Toronto: Sister Vision Press, 1996.",
+						"edition": "First edition.",
+						"binding": "Trade paperback.",
+						"pages": "100"
 					}
 				]
 			}
@@ -9094,16 +8825,6 @@ export default function () {
 				"editions": [
 					{
 						"pub_info": "Longman, 1975."
-					}
-				]
-			},
-			{
-				"pub_year": "19??",
-				"title": "The Literate Imagination (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "19??"
 					}
 				]
 			},
@@ -11934,7 +11655,7 @@ export default function () {
 			{
 				"pub_year": "1985",
 				"title": "Gifts From My Grandmother",
-				"summary": ["Poems"],
+				"summary": ["Poems."],
 				"editions": [
 					{
 						"pub_info": "London: Sheba Feminist Publishers, 1985."
@@ -13739,21 +13460,11 @@ export default function () {
 						"pub_info": "Oxford: Heinemann, 1992."
 					}
 				]
-			},
-			{
-				"pub_year": "1992",
-				"title": "The Heinemann Book of Caribbean Poetry (Editor)",
-				"summary": ["West Indians, as Ian McDonald comments, 'write poetry as well as they play cricket' and Heinemann's anthology is the most comprehensive and up-to-date selection of contemporary Caribbean poetry, including major names like Derek Walcott, John Agard, and Merle Collins, alongside new poets of the region. This collection is an invaluable academic selection and will provide a fine introduction for the general reader interested in the lyricism of Caribbean poetry. <i>(Publisher's synopsis)</i>"],
-				"editions": [
-					{
-						"pub_info": "Oxford: Heinemann, 1992."
-					}
-				]
 			}
 		]
 	},
 	{
-		"last_name": "McKAY",
+		"last_name": "McKay",
 		"first_name": "Claude",
 		"birth_country": "Jamaica/USA",
 		"birth_year": "1890",
@@ -14621,15 +14332,35 @@ export default function () {
 		"birth_country": "Jamaican",
 		"birth_year": "1942",
 		"death_year": "",
-		"bio": [""],
+		"bio": ["Toronto writer <strong>Pamela Mordecai</strong> is a well-known voice in the poetry of the Caribbean diaspora. She has long been a popular anthologist, a mentor to other writers, a frequent contributor to literary journals, and a vital link between the literary worlds of Canada and Jamaica."],
 		"books": [
 			{
-				"pub_year": "1989",
-				"title": "Her True-True Name: An Anthology of Women's Writing from the Caribbean (Editor)",
-				"summary": ["From memories of turn-of-the-century Dominica to the contemporary USA, Africa, and Britain, 31 women writers from throughout the Caribbean express the loss and the longing, the pride and passion of the Caribbean identity. Differences of language -- English, French, Spanish -- point to a common history of migration and imperialism. The precision of &quot;standard English&quot; and the poetry of creole embody the rich contradictions of that heritage. Rooted in African old-tradition, a modern self-defining consciousness insists on calling itself by its 'true-true name.' The selections, arranged by country, include the following writers: Guyana -- Beryl Gilroy, Grace Nichols, Janice Shinebourne. Belize -- Zee Edgell. Cuba -- Omega Aguero, Mirta Yanez. Jamaica -- Erna Brodber, Michelle Cliff, Christine Craig, Velma Pollard, Joan Riley, Olive Senior, Sylvia Wynter Carew. Haiti -- Marie Chauvet (Marie Vieux). Dominican Republic -- Hilma Contreras. Puerto Rico -- Rosario Ferre, Magali Garcia Ramis, Carmen Lugo Filippi, Ana Lydia Vega. Antigua -- Jamaica Kincaid. Guadeloupe -- Maryse Conde, Simone Schwarz-Bart, Myriam Warner-Vieyra. Dominica --Jean Rhys, Phyllis Shand Allfrey, Barbados -- Paule Marshall. Grenada -- Merle Collins. Trinidad and Tobago -- Dionne Brand, Rosa Guy, Marion Patrick-Jones, Merle Hodge."],
+				"pub_year": "2001",
+				"title": "Certifiable",
+				"summary": ["Poems"],
 				"editions": [
 					{
-						"pub_info": "London: Heinemann, 1989."
+						"pub_info": "Fredericton: Goose Lane Editions, 2001."
+					}
+				]
+			},
+			{
+				"pub_year": "2007",
+				"title": "Pink Icing and other stories",
+				"summary": [""],
+				"editions": [
+					{
+						"pub_info": "London, Ontario: Insomniac Press, 2007."
+					}
+				]
+			},
+			{
+				"pub_year": "2015",
+				"title": "Red Jacket",
+				"summary": ["Growing up as part of a large, loving family on the Caribbean island of St. Chris, Grace Carpenter is happy but puzzled about her identity. Although her extended family is black, she is a redibo, with copper-coloured skin, freckles, reddish hair, and grey eyes. Sometimes she gets called names, but the question of why she is different is never explained. <i>(Publisher's synopsis)</i>"],
+				"editions": [
+					{
+						"pub_info": "Toronts: TAP Books, 2015."
 					}
 				]
 			}
@@ -14684,26 +14415,6 @@ export default function () {
 				"editions": [
 					{
 						"pub_info": "Secaucus. N.J.: Citadel Press [1975]."
-					}
-				]
-			}
-		]
-	},
-	{
-		"last_name": "Morrow",
-		"first_name": "Bradford",
-		"birth_country": "USA",
-		"birth_year": "",
-		"death_year": "",
-		"bio": [""],
-		"books": [
-			{
-				"pub_year": "1996",
-				"title": "The Archipelago: New Caribbean Writing (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "Annandale-on-Hudson, NY: Conjunctions/Bard College, 1996."
 					}
 				]
 			}
@@ -15693,66 +15404,6 @@ export default function () {
 		]
 	},
 	{
-		"last_name": "Paravisini-Gebert",
-		"first_name": "Lizabeth",
-		"birth_country": "Puerto Rico",
-		"birth_year": "",
-		"death_year": "",
-		"bio": [""],
-		"books": [
-			{
-				"pub_year": "1991",
-				"title": "Green Cane and Juicy Flotsam: Short Stories by Caribbean Women (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "New Jersey: Rutgers University Press, 1991."
-					}
-				]
-			},
-			{
-				"pub_year": "1993",
-				"title": "Pleasure in the Word: Erotic Writings by Latin American Women (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "Fredonia, New York: White Pine Press, 1993."
-					}
-				]
-			},
-			{
-				"pub_year": "1996",
-				"title": "Remaking A Lost Harmony - Stories from the Hispanic Caribbean (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "Fredonia, New York: White Pine Press, 1996."
-					}
-				]
-			},
-			{
-				"pub_year": "1997",
-				"title": "Sacred Possessions Vodou, Santeria, Obeah, and the Caribbean (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "New Brunswick: Rutgers University Press, 1997."
-					}
-				]
-			},
-			{
-				"pub_year": "2001",
-				"title": "Healing Cultures: Art and Religion as Curative Practices in the Caribbean and Its Diaspora (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "New York: Palgrave, 2001."
-					}
-				]
-			}
-		]
-	},
-	{
 		"last_name": "Patrick-Jones",
 		"first_name": "Marion",
 		"birth_country": "Trinidad and Tobago",
@@ -15828,15 +15479,15 @@ export default function () {
 				]
 			},
 			{
-				"pub_year": "1971",
+				"pub_year": "1972",
 				"title": "Die The Long Day",
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "New York: Morrow, 1971."
+						"pub_info": "New York: Morrow, 1972."
 					},
 					{
-						"pub_info": "Curtis, ????.",
+						"pub_info": "St. Albans: Mayflower, 1973.",
 						"binding": "Paperback."
 					}
 				]
@@ -16017,14 +15668,14 @@ export default function () {
 		"last_name": "Phillips",
 		"first_name": "Caryl",
 		"birth_country": "St. Kitts/England",
-		"birth_year": "",
+		"birth_year": "13 Mar 1958",
 		"death_year": "",
-		"bio": [""],
+		"bio": ["<strong>Caryl Phillips</strong> is a Kittitian-British novelist, playwright and essayist. Best known for his novels (for which he has won multiple awards), Phillips is often described as a Black Atlantic writer, since much of his fictional output is defined by its interest in, and searching exploration of, the experiences of peoples of the African diaspora in England, the Caribbean and the United States. <i>(Wikipedia)</i>"],
 		"books": [
 			{
 				"pub_year": "1981",
-				"title": "Strange Fruit (Play)",
-				"summary": [""],
+				"title": "Strange Fruit",
+				"summary": ["Play."],
 				"editions": [
 					{
 						"pub_info": "[Derbyshire] Amber Lane Press [1981]."
@@ -16033,8 +15684,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1982",
-				"title": "Where There is Darkness (Play)",
-				"summary": ["Where There is Darkness examines the plight of a West Indian man, Albert Williams, on the eve of his return to the Caribbean after an absence of 25 years. After a farewell party at his house he faces the reality of what his time in Britain has meant to him, his family and friends. (From the back cover of the first edition)"],
+				"title": "Where There is Darkness",
+				"summary": ["<em>Where There is Darkness</em> is a play that examines the plight of a West Indian man, Albert Williams, on the eve of his return to the Caribbean after an absence of 25 years. After a farewell party at his house he faces the reality of what his time in Britain has meant to him, his family and friends. <i>(Publisher's synopsis)</i>"],
 				"editions": [
 					{
 						"pub_info": "[Derbyshire] Amber Lane Press [1982]."
@@ -16043,8 +15694,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1984",
-				"title": "The Shelter (Play)",
-				"summary": [""],
+				"title": "The Shelter",
+				"summary": ["Play."],
 				"editions": [
 					{
 						"pub_info": "[Derbyshire] Amber Lane Press [1984]."
@@ -16057,7 +15708,9 @@ export default function () {
 				"summary": ["The author's first novel."],
 				"editions": [
 					{
-						"pub_info": "London: Faber and Faber [1985]. (Simultaneously in hardcover and trade paperback)"
+						"pub_info": "London: Faber and Faber [1985].",
+						"edition": "First edition.",
+						"binding": "Hardcover in dust jacket and trade paperback."
 					},
 					{
 						"pub_info": "New York: Vintage, 1995.",
@@ -16071,10 +15724,14 @@ export default function () {
 				"summary": ["The author's second novel. A personal favorite."],
 				"editions": [
 					{
-						"pub_info": "London: Faber and Faber, 1986."
+						"pub_info": "London: Faber and Faber, 1986.",
+						"edition": "First edition.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "New York: Farrar Straus Giroux, 1986."
+						"pub_info": "New York: Farrar Straus Giroux, 1986.",
+						"edition": "First American edition.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
 						"pub_info": "New York: Macmillan [1988].",
@@ -16092,14 +15749,16 @@ export default function () {
 				"summary": ["The author's first full-length work of nonfiction. 'The European Tribe' is the global community of whites who have forced their languages, cultures, and history on their non-white neighbors."],
 				"editions": [
 					{
-						"pub_info": "New York: Farrar Straus Giroux [1987]."
+						"pub_info": "New York: Farrar Straus Giroux [1987].",
+						"edition": "First American edition.",
+						"binding": "Hardcover in dust jacket."
 					}
 				]
 			},
 			{
 				"pub_year": "1987",
-				"title": "Playing Away (Teleplay)",
-				"summary": [""],
+				"title": "Playing Away",
+				"summary": ["Teleplay."],
 				"editions": [
 					{
 						"pub_info": "London: Faber and Faber, 1987."
@@ -16112,10 +15771,14 @@ export default function () {
 				"summary": ["The author's third novel."],
 				"editions": [
 					{
-						"pub_info": "London: Viking, 1989."
+						"pub_info": "London: Viking, 1989.",
+						"edition": "First edition.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "New York: Viking, 1989."
+						"pub_info": "New York: Viking, 1989.",
+						"edition": "First American edition.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
 						"pub_info": "New York: Vintage Books, 1995.",
@@ -16129,10 +15792,14 @@ export default function () {
 				"summary": ["The author's fourth novel."],
 				"editions": [
 					{
-						"pub_info": "London: Bloomsbury, 1991."
+						"pub_info": "London: Bloomsbury, 1991.",
+						"edition": "First edition.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "New York: Alfred A. Knopf, 1992."
+						"pub_info": "New York: Alfred A. Knopf, 1992.",
+						"edition": "First American edition.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
 						"pub_info": "New York: Vintage, 1993.",
@@ -16146,10 +15813,14 @@ export default function () {
 				"summary": ["The author's fifth novel. Shortlisted for the 1993 Booker Prize."],
 				"editions": [
 					{
-						"pub_info": "London: Bloomsbury, 1993."
+						"pub_info": "London: Bloomsbury, 1993.",
+						"edition": "First edition.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "New York: Alfred A. Knopf, 1994."
+						"pub_info": "New York: Alfred A. Knopf, 1994.",
+						"edition": "First American edition.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
 						"pub_info": "Toronto: Knopf Canada, 1994."
@@ -16167,10 +15838,12 @@ export default function () {
 				"editions": [
 					{
 						"pub_info": "London: Faber and Faber [1997].",
+						"edition": "First edition.",
 						"binding": "Hardcover in dust jacket."
 					},
 					{
 						"pub_info": "New York, Alfred A. Knopf, 1997.",
+						"edition": "First American edition.",
 						"binding": "Hardcover in dust jacket."
 					}
 				]
@@ -16182,6 +15855,7 @@ export default function () {
 				"editions": [
 					{
 						"pub_info": "London: Faber and Faber [1997].",
+						"edition": "First edition.",
 						"binding": "Hardcover in dust jacket."
 					},
 					{
@@ -16211,20 +15885,25 @@ export default function () {
 				"summary": [""],
 				"editions": [
 					{
-						"pub_info": "[London] Faber and Faber [2000]."
+						"pub_info": "[London] Faber and Faber [2000].",
+						"edition": "First edition.",
+						"binding": "Hardcover in dust jacket."
 					},
 					{
-						"pub_info": "New York: Alfred A. Knopf, 2000."
+						"pub_info": "New York: Alfred A. Knopf, 2000.",
+						"edition": "First American edition.",
+						"binding": "Hardcover in dust jacket."
 					}
 				]
 			},
 			{
 				"pub_year": "2001",
-				"title": "A New World Order (Essays)",
-				"summary": [""],
+				"title": "A New World Order",
+				"summary": ["Essays."],
 				"editions": [
 					{
-						"pub_info": "London: Secker & Warburg [2001]."
+						"pub_info": "London: Secker & Warburg [2001].",
+						"edition": "First edition."
 					},
 					{
 						"pub_info": "New York: Alfred A. Knopf, 2002.",
@@ -16238,7 +15917,9 @@ export default function () {
 				"summary": ["The author's seventh novel."],
 				"editions": [
 					{
-						"pub_info": "London: Secker & Warburg [2003]."
+						"pub_info": "London: Secker & Warburg [2003].",
+						"edition": "First edition.",
+						"binding": "Hardcover in dust jacket."
 					}
 				]
 			}
@@ -17265,19 +16946,9 @@ export default function () {
 				]
 			},
 			{
-				"pub_year": "1960",
-				"title": "West Indian Stories (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "London: Faber and Faber,1960."
-					}
-				]
-			},
-			{
 				"pub_year": "1964",
-				"title": "Hurricane (Children's novel)",
-				"summary": [""],
+				"title": "Hurricane",
+				"summary": ["Children's novel."],
 				"editions": [
 					{
 						"pub_info": "London: Oxford University Press, 1964."
@@ -17286,18 +16957,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1965",
-				"title": "Stories from the Caribbean (Editor)",
-				"summary": ["Reissued in 1970 under the title Island Voices: Stories from the West Indies."],
-				"editions": [
-					{
-						"pub_info": "London: Elek Books [1965]."
-					}
-				]
-			},
-			{
-				"pub_year": "1965",
-				"title": "Earthquake (Children's novel)",
-				"summary": [""],
+				"title": "Earthquake",
+				"summary": ["Children's novel."],
 				"editions": [
 					{
 						"pub_info": "London: Oxford University Press, 1965."
@@ -17306,8 +16967,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1966",
-				"title": "Drought (Children's novel)",
-				"summary": [""],
+				"title": "Drought",
+				"summary": ["Children's novel."],
 				"editions": [
 					{
 						"pub_info": "London: Oxford University Press, 1966."
@@ -17316,8 +16977,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1966",
-				"title": "The Shark Hunters (Children's novel)",
-				"summary": [""],
+				"title": "The Shark Hunters",
+				"summary": ["Children's novel."],
 				"editions": [
 					{
 						"pub_info": "London: Nelson, 1966."
@@ -17326,8 +16987,8 @@ export default function () {
 			},
 			{
 				"pub_year": "1967",
-				"title": "Riot (Children's novel)",
-				"summary": [""],
+				"title": "Riot",
+				"summary": ["Children's novel"],
 				"editions": [
 					{
 						"pub_info": "London: Oxford University Press, 1967."
@@ -17369,16 +17030,6 @@ export default function () {
 				]
 			},
 			{
-				"pub_year": "1970",
-				"title": "Island Voices: Stories from the Caribbean (Editor)",
-				"summary": ["Originally published in 1965 under the title Stories from the West Indies."],
-				"editions": [
-					{
-						"pub_info": "New York: Liveright [1970]. (Cloth & paper)"
-					}
-				]
-			},
-			{
 				"pub_year": "1971",
 				"title": "Havana Journal",
 				"summary": [""],
@@ -17386,16 +17037,6 @@ export default function () {
 					{
 						"pub_info": "[Harmondsworth] Pelican Books [1971].",
 						"binding": "Paperback."
-					}
-				]
-			},
-			{
-				"pub_year": "1973",
-				"title": "Caribbean Prose (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "London: Evans Brothers Ltd. 1973."
 					}
 				]
 			},
@@ -17626,16 +17267,6 @@ export default function () {
 				]
 			},
 			{
-				"pub_year": "1990",
-				"title": "The Independence Papers: Readings on a New Political Status for St.Maarten/St. Martin (Editor)",
-				"summary": [""],
-				"editions": [
-					{
-						"pub_info": "1990"
-					}
-				]
-			},
-			{
 				"pub_year": "1991",
 				"title": "Mothernation - Poems from 1984 to 1987",
 				"summary": ["The poems of Mothernation covers a period when it is not yet opportune to speak one's mind publicly without fear of political repercussion. ... (Sekou's) cry for freedom is creative and shocking for his audience. But no one can remain indifferent toward that fascinating voice. - Armando Lampe, Ph.D., Catholic Priest"],
@@ -17654,16 +17285,6 @@ export default function () {
 					{
 						"pub_info": "St. Martin: House of Nehesi, 1991.",
 						"binding": "Paperback."
-					}
-				]
-			},
-			{
-				"pub_year": "1996",
-				"title": "National Symbols of St.Martin - A Primer (Editor)",
-				"summary": ["A first and fascinating labor of love and scholarship highlighting, in text, and illustrations, St.Martin's people, history, culture and natural environment. Extensive bibliography."],
-				"editions": [
-					{
-						"pub_info": "St. Martin: House of Nehesi, 1996."
 					}
 				]
 			},
@@ -19153,28 +18774,6 @@ export default function () {
 				"editions": [
 					{
 						"pub_info": "Leeds, Yorkshire: Peepal Tree Press, 1994."
-					}
-				]
-			}
-		]
-	},
-	{
-		"last_name": "Wilson",
-		"first_name": "Betty",
-		"birth_country": "Jamaica",
-		"birth_year": "",
-		"death_year": "",
-		"bio": [""],
-		"books": [
-			{
-				"pub_year": "1989",
-				"title": "Her True-True Name: An Anthology of Women's Writing from the Caribbean (Editor)",
-				"summary": [
-					"From memories of turn-of-the-century Dominica to the contemporary USA, Africa, and Britain, 31 women writers from throughout the Caribbean express the loss and the longing, the pride and passion of the Caribbean identity."
-				],
-				"editions": [
-					{
-						"pub_info": "London: Heinemann, 1989."
 					}
 				]
 			}
