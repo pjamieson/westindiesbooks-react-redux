@@ -49,12 +49,16 @@ class Edition extends Component {
               }
               {edition.description && <p>{edition.description}</p>}
               {((edition.size || edition.pages) && !edition.img_file) &&
-                <p>{edition.size}&nbsp;{edition.pages}</p>
+                <div>
+                  {(edition.size && edition.pages) && <p>{edition.size}&nbsp;{edition.pages} pages</p>}
+                  {(edition.size && !edition.pages) && <p>{edition.size}</p>}
+                  {(!edition.size && edition.pages) && <p>{edition.pages} pages</p>}
+                </div>
               }
               {((edition.size || edition.pages) && edition.img_file) &&
                 <div>
-                  <p>{edition.size}</p>
-                  <p>{edition.pages}</p>
+                  {edition.size && <p>{edition.size}</p>}
+                  {edition.pages && <p>{edition.pages} pages.</p>}
                 </div>
               }
             </div>
