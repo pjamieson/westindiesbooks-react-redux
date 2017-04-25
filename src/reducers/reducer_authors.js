@@ -4332,7 +4332,7 @@ export default function () {
 					"pub_year": "2001",
 					"title": "Azucar! The Story of Sugar",
 					"summary": [
-						"'...A brilliant first novel which reveals the visionary history of a Caribbean island with an intensity and originality that dares place it alongside Lovelace, Danticat, Marshall, and Alvarez.' The Nation (Bridgetown, Barbados)"
+						"'A brilliant first novel which reveals the visionary history of a Caribbean island with an intensity and originality that dares place it alongside Lovelace, Danticat, Marshall, and Alvarez.' The Nation (Bridgetown, Barbados)"
 					],
 					"editions": [
 						{
@@ -4497,7 +4497,6 @@ export default function () {
 							"binding": "Hardcover in dust jacket.",
 							"size": "8vo (5 3/8 in x 8 in).",
 							"pages": "288",
-							"description": "",
 							"copies": [
 								{
 									"features": "",
@@ -4527,8 +4526,7 @@ export default function () {
 							"edition": "First American edition.",
 							"binding": "Hardcover in dust jacket.",
 							"size": "",
-							"pages":"",
-							"description": ""
+							"pages":""
 						}
 					]
 				},
@@ -4546,7 +4544,6 @@ export default function () {
 							"binding": "Hardcover in dust jacket.",
 							"size": "8vo (5 3/8 in x 8 in).",
 							"pages": "256",
-							"description": "",
 							"copies": [
 								{
 									"features": "",
@@ -4586,7 +4583,6 @@ export default function () {
 							"size": "8vo (5 3/8 in x 8 in).",
 							"pages": "198",
 							"img_file": "CarewMoscow1-300.jpg",
-							"description": "",
 							"copies": [
 								{
 									"features": "",
@@ -5487,7 +5483,6 @@ export default function () {
 							"size": "8vo (5 3/8 in x 8 in).",
 							"pages": "202",
 							"img_file": "ClarkeSurvivors1-300.jpg",
-							"description": "",
 							"copies": [
 								{
 									"features": "Inscribed to Toronto radio personality Ron Hewat and dated (February 2, 1965) by the author on the title page.",
@@ -5520,7 +5515,6 @@ export default function () {
 							"size": "8vo (5 3/8 in x 8 in).",
 							"pages": "183",
 							"img_file": "ClarkeThorns1-300.jpg",
-							"description": "",
 							"copies": [
 								{
 									"features": "Inscribed and dated (July 2, 1965) by the author on the title page.",
@@ -6819,7 +6813,6 @@ export default function () {
 							"size": "8vo (5 in x 7 3/4 in).",
 							"pages": "48",
 							"img_file": "DAguiarMomaDot1-300.jpg",
-							"description": "",
 							"copies": [
 								{
 									"features": "Inscribed by the author on the title page.",
@@ -6893,7 +6886,6 @@ export default function () {
 							"size": "8vo (5 1/8 in x 7 5/8 in).",
 							"pages": "138",
 							"img_file": "DAguiarLongest1st-300.jpg",
-							"description": "",
 							"copies": [
 								{
 									"features": "",
@@ -7089,7 +7081,6 @@ export default function () {
 							"size": "8vo (5 7/8 in x 8 1/2 in).",
 							"pages": "312",
 							"img_file": "DanticatFarming1-300.jpg",
-							"description": "",
 							"copies": [
 								{
 									"features": "Signed and dated (10/15/98) by the author while on tour to promote the book's publication.",
@@ -8417,7 +8408,7 @@ export default function () {
 				{
 					"pub_year": "2003",
 					"title": "Volcano Verses",
-					"summary": ["The poems in Volcano Verses express the confidence that island life and folk will outlast volcanic tantrums, that though ‘Tonight Chances pique still grows/...But cattle low and egrets ride/ Inspite of fire from mountain tides’."],
+					"summary": ["The poems in Volcano Verses express the confidence that island life and folk will outlast volcanic tantrums, that though ‘Tonight Chances pique still grows/But cattle low and egrets ride/Inspite of fire from mountain tides’."],
 					"editions": [
 						{
 							"pub_info": "Leeds: Peepal Tree Press, 2003."
@@ -9019,7 +9010,6 @@ export default function () {
 							"size": "8vo (5 3/4 in x 8 1/2 in).",
 							"pages": "253",
 							"img_file": "GlissantRipening1-300.jpg",
-							"description": "",
 							"copies": [
 								{
 									"features": "",
@@ -9317,7 +9307,7 @@ export default function () {
 				{
 					"pub_year": "1997",
 					"title": "Excavation",
-					"summary": ["A novel. When a group of Jamaican students and their lecturers begin an archaeological dig on the old estate of Plantation Plains, each has different expectations. 'Jean Goulbourne’s Excavation gives a refreshing perspective on a subject that has long troubled the West Indies - the nature of identity in a multiracial society haunted by a history of colonialism...Goulbourne’s writing style is stimulating - especially in the portrayal of the island’s landscape - and as she draws the reader into the lives of her characters, we gain a fresh perspective on West Indian culture, history, and politics.' - Geoffrey Philp, The Caribbean Writer."],
+					"summary": ["A novel. When a group of Jamaican students and their lecturers begin an archaeological dig on the old estate of Plantation Plains, each has different expectations. 'Jean Goulbourne’s Excavation gives a refreshing perspective on a subject that has long troubled the West Indies - the nature of identity in a multiracial society haunted by a history of colonialism. Goulbourne’s writing style is stimulating - especially in the portrayal of the island’s landscape - and as she draws the reader into the lives of her characters, we gain a fresh perspective on West Indian culture, history, and politics.' - Geoffrey Philp, The Caribbean Writer."],
 					"editions": [
 						{
 							"pub_info": "Leeds: Peepal Tree Press, 1997."
@@ -9826,7 +9816,6 @@ export default function () {
 							"size": "8vo (5 in x 7 1/2 in).",
 							"pages": "96",
 							"img_file": "HarrisHeartland1-300.jpg",
-							"description": "",
 							"copies": [
 								{
 									"features": "",
@@ -9861,7 +9850,6 @@ export default function () {
 							"size": "8vo (5 in x 7 1/2 in).",
 							"pages": "80",
 							"img_file": "HarrisWaiting1-300.jpg",
-							"description": "",
 							"copies": [
 								{
 									"features": "An Advance Review Copy with the publisher's slip laid in.",
@@ -9930,7 +9918,6 @@ export default function () {
 							"size": "8vo (5 3/8 in x 8 1/8 in).",
 							"pages": "104",
 							"img_file": "HarrisRainmakers1-300.jpg",
-							"description": "",
 							"copies": [
 								{
 									"features": "With a 'With the author's compliments' slip laid in.",
@@ -10045,7 +10032,6 @@ export default function () {
 							"size": "8vo (5 1/4 in x 8 in).",
 							"pages": "172",
 							"img_file": "HarrisCarnival1-300.jpg",
-							"description": "",
 							"copies": [
 								{
 									"features": "",
@@ -10082,7 +10068,6 @@ export default function () {
 							"size": "8vo (5 5/8 in x 8 3/4 in).",
 							"pages": "88",
 							"img_file": "HarrisRehearsal1-300.jpg",
-							"description": "",
 							"copies": [
 								{
 									"features": "",
@@ -10119,7 +10104,6 @@ export default function () {
 							"size": "8vo (5 3/4 in x 8 1/8 in).",
 							"pages": "244",
 							"img_file": "HarrisResurrectionP-300.jpg",
-							"description": "",
 							"copies": [
 								{
 									"features": "Uncorrected Advance Proofs, as noted on the wrappers cover.",
@@ -15393,7 +15377,7 @@ export default function () {
 				},
 				{
 					"pub_year": "1997",
-					"title": "...But Where Are You Really From?",
+					"title": "But Where Are You Really From?",
 					"summary": [""],
 					"editions": [
 						{
@@ -15945,7 +15929,7 @@ export default function () {
 					]
 				},
 				{
-					"pub_year": "1980-1982",
+					"pub_year": "1992",
 					"title": "Shame Trees Don't Grow Here : But Poincianas Bloom",
 					"summary": [""],
 					"editions": [
@@ -17196,7 +17180,7 @@ export default function () {
 				{
 					"pub_year": "1978",
 					"title": "Moods for Isis - Picturepoems of Love & Struggle",
-					"summary": ["The variety and quantity of his insight will motivate and stir the soul/mind of his readers to intense passion....as they attempt to absorb his multi-level poetic message. - Linda Taylor"],
+					"summary": ["The variety and quantity of his insight will motivate and stir the soul/mind of his readers to intense passion as they attempt to absorb his multi-level poetic message. - Linda Taylor"],
 					"editions": [
 						{
 							"pub_info": "1978"
@@ -18563,7 +18547,7 @@ export default function () {
 			"books": [
 				{
 					"pub_year": "1993",
-					"title": "...And I'll Tell You No Lies",
+					"title": "And I'll Tell You No Lies",
 					"summary": [""],
 					"editions": [
 						{
