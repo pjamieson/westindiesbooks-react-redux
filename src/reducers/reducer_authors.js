@@ -191,7 +191,8 @@ export default function () {
 							"edition": "First edition.",
 							"binding": "Trade paperback with French-fold wrappers.",
 							"size": "8vo (5 1/8 in x 7 3/4 in).",
-							"pages": "94"
+							"pages": "94",
+							"img_file": "AllfreyLove-300.jpg"
 						}
 					]
 				}
@@ -530,7 +531,10 @@ export default function () {
 						{
 							"pub_info": "Chapel Hill: Algonquin Books, 2004.",
 							"edition": "First edition.",
-							"binding": "Hardcover in just jacket."
+							"binding": "Hardcover in just jacket.",
+							"size": "8vo (5 1/4 in x 8 1/4 in).",
+							"pages": "160",
+							"img_file": "AlvarezWoman-300.jpg"
 						},
 						{
 							"pub_info": "Chapel Hill: Algonquin Books, 2011.",
