@@ -39,7 +39,17 @@ class Edition extends Component {
           {(edition.edition || edition.binding || edition.description || edition.size || edition.pages) &&
             <div className="edition-detail">
               {((edition.edition || edition.binding) && !edition.img_file) &&
-                <p><span dangerouslySetInnerHTML={{__html: edition.edition}} />&nbsp;{edition.binding}</p>
+                <div>
+                  {(edition.edition && edition.binding) &&
+                    <p>
+                      <span dangerouslySetInnerHTML={{__html: edition.edition}} />&nbsp;{edition.binding}
+                    </p>
+                  }
+                  {(edition.edition && !edition.binding) &&
+                    <p><span dangerouslySetInnerHTML={{__html: edition.edition}} /></p>
+                  }
+                  {(!edition.edition && edition.binding) && <p>{edition.binding}</p>}
+                </div>
               }
               {((edition.edition || edition.binding) && edition.img_file) &&
                 <div>
@@ -50,9 +60,9 @@ class Edition extends Component {
               {edition.description && <p>{edition.description}</p>}
               {((edition.size || edition.pages) && !edition.img_file) &&
                 <div>
-                  {(edition.size && edition.pages) && <p>{edition.size}&nbsp;{edition.pages} pages</p>}
+                  {(edition.size && edition.pages) && <p>{edition.size}&nbsp;{edition.pages} pages.</p>}
                   {(edition.size && !edition.pages) && <p>{edition.size}</p>}
-                  {(!edition.size && edition.pages) && <p>{edition.pages} pages</p>}
+                  {(!edition.size && edition.pages) && <p>{edition.pages} pages.</p>}
                 </div>
               }
               {((edition.size || edition.pages) && edition.img_file) &&

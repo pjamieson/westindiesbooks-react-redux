@@ -14,7 +14,10 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "Kingston: Printers Ltd., 1944."
+							"pub_info": "Kingston: Printers Ltd., 1944.",
+							"edition": "First edition.",
+							"binding": "Trade paperback",
+							"pages": "93"
 						}
 					]
 				}
@@ -44,11 +47,13 @@ export default function () {
 					"pub_year": "2003",
 					"title": "Lagahoo Poems",
 					"summary": [
-						"Speaking through the voice of the shapeshifting, trickster figure of Trinidadian legend, Aboud's arresting and truly original poems constantly rearranges the way the world can be perceived."
+						"Speaking through the voice of the shapeshifting, trickster figure of Trinidadian legend, Aboud's arresting and truly original poems constantly rearranges the way the world can be perceived. <i>(Publisher's synopsis)</i>"
 					],
 					"editions": [
 						{
-							"pub_info": "Leeds: Peepal Tree Press, 2003."
+							"pub_info": "Leeds: Peepal Tree Press, 2003.",
+							"edition": "First edition.",
+							"binding": "Trade paperback"
 						}
 					]
 				}
@@ -68,7 +73,9 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "Toronto: Sister Vision Press, 1996."
+							"pub_info": "Toronto: Sister Vision Press, 1996.",
+							"edition": "First edition.",
+							"binding": "Trade paperback"
 						}
 					]
 				}
@@ -121,8 +128,17 @@ export default function () {
 						},
 						{
 							"pub_info": "New York: E.P. Dutton, 1954.",
-							"edition": "First American edition.",
-							"binding": "Hardcover in dust jacket."
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 1/2 in x 7 3/4 in).",
+							"pages": "223",
+							"img_file": "AllfreyOrchid1US-300.jpg",
+							"copies": [
+								{
+									"condition": "Very good in cloth-covered boards and very good dust jacket. The corners of the boards are lightly bumped. The dust jacket has light foxing at the edges, is lightly soiled, has two 3/4 inch closed tears, and up to 1/8 inch chipping at the top and bottom of the spine. Other than two small stains on the front endpaper, the pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "80.00"
+								}
+							]
 						},
 						{
 							"pub_info": "Washington, DC: Three Continents Press, 1985.",
@@ -140,7 +156,9 @@ export default function () {
 					"summary": ["Poems."],
 					"editions": [
 						{
-							"pub_info": "Bridgetown, Barbados: Advocate Press, 1955."
+							"pub_info": "Bridgetown, Barbados: Advocate Press, 1955.",
+							"edition": "First edition.",
+							"binding": "Printed wrappers.",
 						}
 					]
 				},
@@ -163,17 +181,23 @@ export default function () {
 					"summary": ["Poems."],
 					"editions": [
 						{
-							"pub_info": "Roseau, Dominica: Star Printery, 1973."
+							"pub_info": "Roseau, Dominica: Star Printery, 1973.",
+							"edition": "First edition.",
+							"binding": "Printed wrappers.",
 						}
 					]
 				},
 				{
 					"pub_year": "2004",
 					"title": "It Falls Into Place",
-					"summary": ["Short stories set in Dominica, New York, and London."],
+					"summary": [
+						"Edited with an Introduction by Lizabeth Paravisini-Gebert.",
+						"Short stories set in Dominica, New York, and London."
+					],
 					"editions": [
 						{
 							"pub_info": "London and Roseau, Dominica: Papillote Press [2004].",
+							"edition": "First edition.",
 							"binding": "Trade paperback."
 						}
 					]
@@ -338,7 +362,13 @@ export default function () {
 						{
 							"pub_info": "New York: Grove Press, 1984.",
 							"edition": "First edition.",
-							"binding": "Published in both hardcover and trade paperback bindings."
+							"binding": "Hardcover in dustjacket."
+						},
+						{
+							"pub_info": "New York: Grove Press, 1984.",
+							"binding": "Trade paperback.",
+							"size": "8vo (5 3/8 in x 8 1/4 in).",
+							"pages": "93"
 						},
 						{
 							"pub_info": "New York: Plume, 1996.",
@@ -526,7 +556,9 @@ export default function () {
 				{
 					"pub_year": "2004",
 					"title": "The Woman I Kept to Myself",
-					"summary": ["Poems."],
+					"summary": [
+						"In this collection of seventy-five poems, Alvarez, in the middle of her life, looks back as a way of understanding and celebrating the woman she has become. <i>(Publisher's synopsis)</i>"
+					],
 					"editions": [
 						{
 							"pub_info": "Chapel Hill: Algonquin Books, 2004.",
@@ -557,7 +589,7 @@ export default function () {
 				{
 					"pub_year": "2006",
 					"title": "Saving the World",
-					"summary": ["A novel about a Latina novelist and husband who works for a humanitarian organization."],
+					"summary": ["A novel about a Latina novelist and her husband who works for a humanitarian organization."],
 					"editions": [
 						{
 							"pub_info": "Chapel Hill: Algonquin Books, 2006.",
@@ -4970,7 +5002,8 @@ export default function () {
 			"birth_year": "1927",
 			"death_year": "1997",
 			"bio": [
-				"<strong>Martin Wylde Carter</strong> was born in 1927 in Georgetown, British Guiana. His family, of mixed African, Indian and European ancestry, was part of the coloured middle class. His father was a civil servant, a reader and discusser of philosophy and mother also a lover of books and reciting verse. Martin Carter attended the prestigious Queen’s College between 1939 and 1945."
+				"<strong>Martin Wylde Carter</strong> was one of the foremost Caribbean writers of the 20th century. Twice imprisoned by the colonial government of British Guiana during the Emergency in the 1950s, he became a minister in Guyana's first independent government during the 60s, representing his country at the United Nations, but resigned in disillusionment after three years to live simply as a poet, remaining with the people.",
+				"Carter was one of the first Caribbean poets to write about slavery, Amerindian history and Indian Indentureship in relation to contemporary concerns.  Wise, angry and hopeful, Carter's poetry voices a life lived in times of public and private crisis. <i>(Bloodaxe Books biography)</i>"
 			],
 			"books": [
 				{
@@ -4998,7 +5031,8 @@ export default function () {
 				},
 				{
 					"pub_year": "1952",
-					"title": "The Kind Eagle (Poems of Prison)",
+					"title": "The Kind Eagle",
+					"subtitle": "Poems of Prison",
 					"summary": [""],
 					"editions": [
 						{
@@ -5008,7 +5042,8 @@ export default function () {
 				},
 				{
 					"pub_year": "1952",
-					"title": "The Hidden Man (Other Poems of Prison)",
+					"title": "The Hidden Man",
+					"subtitle": "Other Poems of Prison",
 					"summary": [""],
 					"editions": [
 						{
@@ -5030,37 +5065,64 @@ export default function () {
 					"pub_year": "1954",
 					"title": "Poems of Resistance",
 					"summary": [
-						"Written out of the author's experiences of the anti-colonial struggle which included his imprisonment by the British for his political activities."
+						"A collection of eighteen poems. Written out of the author's experiences of the anti-colonial struggle which included his imprisonment by the British for his political activities."
 					],
 					"editions": [
 						{
-							"pub_info": "Great Britain: Lawrence and Wishart 1954."
+							"pub_info": "Great Britain: Lawrence and Wishart 1954.",
+							"edition": "First edition."
 						},
 						{
-							"pub_info": "University of Guyana, 1966."
+							"pub_info": "University of Guyana, 1966.",
+							"edition": "Second edition."
 						},
 						{
-							"pub_info": "Georgetown, Guyana: Release Publication, 1979."
+							"pub_info": "Georgetown, Guyana: Release Publication, 1979.",
+							"edition": "Third edition.",
+							"binding": "Center-stapled in printed wrappers.",
+							"size": "12mo (5 in x 7 1/2 in).",
+							"pages": "44",
+							"img_file": "CarterResistance3rd-300.jpg",
+							"description": "A 'typographically corrected version' issued to celebrate the 25th Anniversary of the book's original publication. Includes a Foreword by Rayman Mandal of the University of Guyana.",
+							"copies": [
+								{
+									"condition": "Very good in centered-stapled stiff illustrated paper wrappers. The covers are very lightly worn and soiled, with some sunning at the spine, and the corners are lightly bumped. The pages are clean and unmarked, and the binding is tight.",
+									"price": "50.00"
+								}
+							]
 						}
 					]
 				},
 				{
-					"pub_year": "1978",
+					"pub_year": "1977",
 					"title": "Poems of Succession",
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "New Beacon Books, 1978."
+							"pub_info": "New Beacon Books, 1977.",
+							"edition": "First edition."
 						}
 					]
 				},
 				{
 					"pub_year": "1980",
 					"title": "Poems of Affinity 1978-1980",
-					"summary": [""],
+					"summary": ["A collection of thirty-five poems by the acclaimed Guyana-born poet."],
 					"editions": [
 						{
-							"pub_info": "[Georgetown, Guyana] Release Publishers [1980]."
+							"pub_info": "[Georgetown, Guyana] Release Publishers [1980].",
+							"edition": "First edition",
+							"binding": "Printed wrappers.",
+							"size": "5 1/4 in x 6 1/4 in.",
+							"pages": "83",
+							"img_file": "CarterAffinity-300.jpg",
+							"description": "Introduced by Bill Carr, with an Appreciation by Stanley Greaves. Each poem is presented on facing pages, with its title on the left leaf and the poem's text on the right leaf. Twenty-one of the poems are illustrated (without credit to the artist) and the remaining fourteen are not.",
+							"copies": [
+								{
+									"condition": "Very good, perfect-bound in stiff printed paper wrappers. The covers are very lightly worn and lightly bumped at the corners. The covers also have some staining on the inside, both front and back. The book was not produced with precision; its corners are not square and it is about 1/8 taller at the spine than at the outer edge. The pages are clean and unmarked, and the binding is tight.",
+									"price": "250.00"
+								}
+							]
 						}
 					]
 				},
@@ -5072,7 +5134,9 @@ export default function () {
 					],
 					"editions": [
 						{
-							"pub_info": "Georgetown, Guyana: Demerara Publishers, 1989."
+							"pub_info": "Georgetown, Guyana: Demerara Publishers, 1989.",
+							"edition": "First edition.",
+							"binding": "Printed wrappers."
 						},
 						{
 							"pub_info": "Red Thread Press, 1997."
@@ -5087,7 +5151,22 @@ export default function () {
 					],
 					"editions": [
 						{
-							"pub_info": "Leeds: Peepal Tree Press, 1999."
+							"pub_info": "Leeds: Peepal Tree Press, 1999.",
+							"binding": "Trade paperback."
+						}
+					]
+				},
+				{
+					"pub_year": "2006",
+					"title": "University of Hunger",
+					"subtitle": "Collected Poems & Selected Prose",
+					"summary": [
+						"The first Collected Poems of Martin Carter. The Selected Prose includes key essays on race, colonialism, political action and the role of the poet in a postcolonial society."
+					],
+					"editions": [
+						{
+							"pub_info": "United Kingdom: Bloodaxe Books, 2006.",
+							"binding": "Trade paperback."
 						}
 					]
 				}
@@ -5424,29 +5503,60 @@ export default function () {
 		},
 		{
 			"last_name": "Clarke",
-			"first_name": "A.M.",
+			"first_name": "A.M. (Alfred McDonald)",
 			"birth_country": "Trinidad and Tobago",
-			"birth_year": "",
-			"death_year": "",
-			"bio": [""],
+			"birth_year": "1912",
+			"death_year": "2001",
+			"bio": ["<strong>A.M. Clarke</strong> is considered to be one of the pioneers of the literary movement in Trinidad and Tobago. Clarke was a teacher and a regular contributor to the Literary Section of the Trinidad Guardian in the 1930s. In 1943, he published the first anthology of Trinidad poems which included the work of others. In 1999 he was awarded the 'Poet of the City of Port-of-Spain' award, and in 2000 he was named the first 'Poet Laureate of the City of Port-of-Spain.''"],
 			"books": [
 				{
-					"pub_year": "1976",
-					"title": "Revolution at Grass Roots",
+					"pub_year": "1939",
+					"title": "Ma Mamba and other stories",
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "Port-of-Spain: Educo Press, 1976."
+							"pub_info": "Trinidad and Tobago: [np] 1939.",
+							"edition": "First edition."
+						}
+					]
+				},
+				{
+					"pub_year": "1943",
+					"title": "Best Poems of Trinidad",
+					"summary": ["The first anthology of Trinidad poems which included the work of others."],
+					"editions": [
+						{
+							"pub_info": "Trinidad and Tobago: [np] 1943.",
+							"edition": "First edition."
+						},
+						{
+							"pub_info": "Fitchburg, Massachusetts: Majority Press, 1999.",
+							"edition": "Reissue.",
+							"binding": "Trade paperback.",
+							"pages": "66",
+							"description": "Includes a Preface by Albert Gomes."
+						}
+					]
+				},
+				{
+					"pub_year": "1976",
+					"title": "Revolution at Grass Roots and other stories",
+					"summary": [""],
+					"editions": [
+						{
+							"pub_info": "Port-of-Spain: Educo Press, 1976.",
+							"edition": "First edition."
 						}
 					]
 				},
 				{
 					"pub_year": "1979",
 					"title": "Caribbean Coup",
-					"summary": [""],
+					"summary": ["A novel."],
 					"editions": [
 						{
-							"pub_info": "Trinidad & Tobago: New Voices, 1979."
+							"pub_info": "Trinidad and Tobago: New Voices, 1979.",
+							"edition": "First edition."
 						}
 					]
 				},
@@ -5456,7 +5566,8 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "Trinidad & Tobago: Express, 1991."
+							"pub_info": "Port-of-Spain: Express Printing, 1991.",
+							"edition": "First edition."
 						}
 					]
 				}
@@ -5557,12 +5668,26 @@ export default function () {
 				},
 				{
 					"pub_year": "1968",
-					"title": "The Confessed Bewilderment of Martin Luther King and the Idea of Non-Violence as a Political Tactic",
-					"summary": [""],
+					"title": "The Confessed Bewilderment of Martin Luther King",
+					"subtitle": "and the Idea of Non-Violence as a Political Tactic",
+					"summary": [
+						"Published only a few weeks before the assassination of Dr. Martin Luther King Jr., this short piece argues that Dr. King was being too idealistic. Clarke writes: 'One cannot present a social problem clothed in moral terms against a people whose lack of morality in the first place, brought about the existence of that problem.'"
+					],
 					"editions": [
 						{
 							"pub_info": "Burlington, Ontario: Al Kitab Sudan, 1968.",
-							"binding": "Pamphlet."
+							"edition": "First edition.",
+							"binding": "Center-stapled printed wrappers.",
+							"size": "8vo (5 1/2 in x 8 1/2 in).",
+							"pages": "14",
+							"description": "An economically-produced pamphlet, with the typewriter-produced content formatted to fit on standard 8 1/2 x 5 1/2 inch sheets of paper when folded in half.",
+							"img_file": "ClarkeMLK-300.jpg",
+							"copies": [
+								{
+									"condition": "Good in centered-stapled printed wrappers. The covers are worn and soiled, the pamphlet has been folded in half, and the pages are stained throughout. The contents are complete, and the center-stapled binding is tight.",
+									"price": "150.00"
+								}
+							]
 						}
 					]
 				},
@@ -5884,7 +6009,7 @@ export default function () {
 			"birth_country": "Grenada",
 			"birth_year": "1950",
 			"death_year": "",
-			"bio": ["Merle Collins was born in 1950 in Grenada. Her primary education was in St Georges. She graduated from the University of the West Indies in Mona, Jamaica, where she took a degree in English and in Spanish. After graduating in 1972, she returned to Grenada, where she taught History and Spanish for the next two years. She has also taught in St Lucia. In 1980 she was awarded a Masters Georgetown University in Latin American Studies. She was deeply involved in the Grenadian revolution and served as a coordinator for Research on Latin America and the Caribbean for the Government of Grenada. She left Grenada in 1983."],
+			"bio": ["<strong>Merle Collins</strong> was born in 1950 in Grenada. Her primary education was in St Georges. She graduated from the University of the West Indies in Mona, Jamaica, where she took a degree in English and in Spanish. After graduating in 1972, she returned to Grenada, where she taught History and Spanish for the next two years. She has also taught in St Lucia. In 1980 she was awarded a Masters Georgetown University in Latin American Studies. She was deeply involved in the Grenadian revolution and served as a coordinator for Research on Latin America and the Caribbean for the Government of Grenada. She left Grenada in 1983."],
 			"books": [
 				{
 					"pub_year": "1985",
@@ -5892,7 +6017,9 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "[London] Karia Press [1985]. (Cloth)"
+							"pub_info": "[London] Karia Press [1985].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						},
 						{
 							"pub_info": "[London] Karia Press [1985].",
@@ -5902,27 +6029,31 @@ export default function () {
 				},
 				{
 					"pub_year": "1987",
-					"title": "Watchers and Seekers: Creative Writing by Black Women in Britain (Co-Editor)",
-					"summary": [""],
-					"editions": [
-						{
-							"pub_info": "London: Women's Press, 1987."
-						},
-						{
-							"pub_info": "New York: Cambridge University Press, 1990."
-						}
-					]
-				},
-				{
-					"pub_year": "1987",
 					"title": "Angel",
-					"summary": ["I think her use of Grenadian language is one of the great emotive elements of the piece. She also manages to capture complicated aspects of our history which were not previously dealt with. Because of the use of our language she has been able to tap into psychic resources which were not tapped before. (L.Snow, May 1997)"],
+					"summary": [
+						"A dramatic coming-of-age tale that parallels the life of a young woman with the political fortunes of her Caribbean island nation, <em>Angel</em> vividly portrays the harshness of life in the Third World. An enthralling look at women's lives in a developing country. <i>(Library Journal)</i>",
+						"Collins' use of Grenadian language is one of the great emotive elements of the piece. She also manages to capture complicated aspects of our history which were not previously dealt with. Because of the use of our language she has been able to tap into psychic resources which were not tapped before. <i>(L.Snow, May 1997)</i>"
+					],
 					"editions": [
 						{
-							"pub_info": "[London] Women's Press [1987]."
+							"pub_info": "[London] Women's Press [1987].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						},
 						{
-							"pub_info": "Seattle: Seal Press, 1988."
+							"pub_info": "[London] Women's Press [1987].",
+							"edition": "First paperback edition.",
+							"binding": "Trade paperback."
+						},
+						{
+							"pub_info": "Seattle: Seal Press, 1988.",
+							"edition": "First U.S. edition.",
+							"binding": "Trade paperback."
+						},
+						{
+							"pub_info": "Leeds: Peepal Tree Press, 2011.",
+							"edition": "Paperback reissue.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
@@ -5969,7 +6100,7 @@ export default function () {
 				{
 					"pub_year": "2003",
 					"title": "Lady in a Boat",
-					"summary": ["Poems. Twenty years after the death of the Grenadian revolution, Merle Collins writes of a Caribbean adrift, amnesiac and in danger of nihilistic despair. But she also achieves a life-enhancing and consoling perspective on those griefs."],
+					"summary": ["Poems. Twenty years after the death of the Grenadian revolution, <em>Merle Collins</em> writes of a Caribbean adrift, amnesiac and in danger of nihilistic despair. But she also achieves a life-enhancing and consoling perspective on those griefs."],
 					"editions": [
 						{
 							"pub_info": "Leeds: Peepal Tree Press, 2003."
@@ -10328,17 +10459,31 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "London: Longman, 1974."
+							"pub_info": "London: Longman, 1974.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
 						}
 					]
 				},
 				{
 					"pub_year": "1978",
 					"title": "The Murderer",
-					"summary": [""],
+					"summary": ["The second book by the acclaimed Guyana-born author. Winner of the Guardian Fiction Prize."],
 					"editions": [
 						{
-							"pub_info": "London: Allison and Busby, 1978."
+							"pub_info": "London: Allison & Busby [1978].",
+							"edition": "First edition. (Precedes the first U.S. edition by 14 years.)",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 3/4 in x 8 3/4 in).",
+							"pages": "190",
+							"img_file": "HeathMurderer-300.jpg",
+							"copies": [
+								{
+									"features": "Inscribed by the author on the free front endpaper.",
+									"condition": "Very good in boards and good dust jacket. The spine of the dust jacket has faded from green to blue, it is worn at the extremities, and has a closed 1 inch tear at the back lower left. There is dust staining to the pages' top edges. The book's pages are beginning to lightly tan from the edges, as is typical with aging of the paper used to print this book. Otherwise the pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a soft plastic wrapper. An acceptable copy of a title that is scarce in the true first edition.",
+									"price": "195.00"
+								}
+							]
 						},
 						{
 							"pub_info": "London: Allison and Busby, 1979.",
@@ -10349,7 +10494,9 @@ export default function () {
 							"binding": "Paperback."
 						},
 						{
-							"pub_info": "New York: Persea Books [1992]."
+							"pub_info": "New York: Persea Books [1992].",
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket.",
 						}
 					]
 				},
@@ -10686,7 +10833,11 @@ export default function () {
 			"birth_country": "St. Martin",
 			"birth_year": "1939",
 			"death_year": "1998",
-			"bio": ["Charles Borromeo Hodge was born on November 9, 1939, to St.Martin parents in San Nicholas, Aruba. He was raised by his grandmother, Ann Catherine Hodge, in St.Martin, where he attended St. Joseph School. He completed elementary and high school (HBS) in Curacao, where he won the Neerlandia Prijs for composition writing. In 1959, Hodge, with high school diploma in hand, headed home, again. That same year, the grass roots political activist Leonides 'Bahba' Richardson, introduced Hodge to the nation's father of journalism and political progressive Joseph H. Lake. Sr. Lake's influence on Hodge's writing and political development would be profound and not without controversy. Hodge's first poem, 'The Rock,' appeared in a 1959 issue of Lake's Winward Islands Opinion. He also wrote articles 'of a radical nature,' at a time when many St.Martiners hid in the alleys of Great Bay (Philipsburg) to buy the Opinion newspaper, because of its writings against 'slave wages' and the political system that were 'keeping down people.' In 1970, Hodge emigrated to Harlem, USA. In that 'Black Mecca' of New York City, the St. Martiner wrote most of the poems of his first volume, Songs & Images for St.Martin (1997). In 1991, Hodge returned to St.Martin, 'to stay.' After his return home, his poems, short stories, essays, and commentaries appeared with ravenous persistency in especially the daily St.Maarten Guardian. The senior poet's writings also appeared regularly in the nation's other publications until his death in 1998."],
+			"bio": [
+				"<strong>Charles Borromeo Hodge</strong> was born on November 9, 1939, to St.Martin parents in San Nicholas, Aruba. He was raised by his grandmother, Ann Catherine Hodge, in St.Martin, where he attended St. Joseph School. He completed elementary and high school in Curacao, where he won the Neerlandia Prijs for composition writing.",
+				"In 1959, Hodge, with high school diploma in hand, headed home, again. That same year, the grass roots political activist Leonides 'Bahba' Richardson, introduced Hodge to the nation's father of journalism and political progressive Joseph H. Lake. Sr. Lake's influence on Hodge's writing and political development would be profound and not without controversy. Hodge's first poem, 'The Rock,' appeared in a 1959 issue of Lake's Winward Islands Opinion. He also wrote articles 'of a radical nature,' at a time when many St.Martiners hid in the alleys of Great Bay (Philipsburg) to buy the Opinion newspaper, because of its writings against 'slave wages' and the political system that were 'keeping down people.'",
+				"In 1970, Hodge emigrated to Harlem, USA. In that 'Black Mecca' of New York City, the St. Martiner wrote most of the poems of his first volume, <em>Songs & Images for St.Martin</em> (1997). In 1991, Hodge returned to St.Martin, 'to stay.' After his return home, his poems, short stories, essays, and commentaries appeared with ravenous persistency in especially the daily St.Maarten Guardian. The senior poet's writings also appeared regularly in the nation's other publications until his death in 1998."
+			],
 			"books": [
 				{
 					"pub_year": "1997",
@@ -10705,30 +10856,70 @@ export default function () {
 			"last_name": "Hodge",
 			"first_name": "Merle",
 			"birth_country": "Trinidad and Tobago",
-			"birth_year": "",
+			"birth_year": "1944",
 			"death_year": "",
 			"bio": [""],
 			"books": [
 				{
 					"pub_year": "1970",
 					"title": "Crick Crack Monkey",
-					"summary": ["A revealing novel of childhood about Tee who is being made socially acceptable by her Aunt Beatrice so that she can cope with the caste system of Trinidad & Tobago. <i>(Heinemann synopsis)</i>"],
+					"summary": ["The widely-taught first book by the Trinidad-born author. A revealing novel of childhood about Tee who is being made socially acceptable by her Aunt Beatrice so that she can cope with the caste system of Trinidad & Tobago. <i>(Heinemann synopsis)</i>"],
 					"editions": [
 						{
-							"pub_info": "London: Andre Deutsch, 1970."
+							"pub_info": "London: Andre Deutsch, 1970.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 3/8 in x 8 in).",
+							"pages": "160",
+							"img_file": "HodgeMonkey1st-300.jpg",
+							"copies": [
+								{
+									"condition": "Very good in boards and dust jacket. The spine of the dust jacket is slightly faded, and has a closed 1/2 inch tear at the back top right. There is a bookplate pasted on the front pastedown, and evidence of removal of another on the left side of the free front endpaper. The book's page edges are lightly soiled. Otherwise the pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "80.00"
+								}
+							]
 						},
 						{
-							"pub_info": "London: Heinemann, 1981."
+							"pub_info": "[London] Andre Deutsch [1973].",
+							"edition": "First edition, second printing.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 3/8 in x 8 in).",
+							"pages": "160"
+						},
+						{
+							"pub_info": "[London] Andre Deutsch [1979].",
+							"edition": "First edition, third printing.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 3/8 in x 8 in).",
+							"pages": "160",
+							"img_file": "HodgeMonkey3rd-300.jpg",
+							"copies": [
+								{
+									"condition": "Very good in boards and dust jacket. The spine of the dust jacket is slightly faded, there is wrinkling and wear to the edges, and it has been price-clipped. The book's top page edges are lightly soiled. Otherwise the pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper. An acceptable copy for a collector who is content with a later printing of the first edition.",
+									"price": "20.00"
+								}
+							]
+						},
+						{
+							"pub_info": "London: Heinemann, 1981.",
+							"binding": "Paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1993",
 					"title": "For the Life of Laetitia",
-					"summary": [""],
+					"summary": ["Twelve-year-old Laetita Johnson is the first member of her family to attend secondary school, but her new life requires that she leave her old life in the village behind to live with her father in the city. <i>(Publisher's synopsis)</i>"],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar Straus Giroux, 1993."
+							"pub_info": "New York: Farrar Straus Giroux, 1993.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "New York: Farrar Straus Giroux, 1994.",
+							"edition": "First paperback edition.",
+							"binding": "Paperback."
 						}
 					]
 				}
@@ -12007,18 +12198,41 @@ export default function () {
 			"birth_country": "Trinidad and Tobago",
 			"birth_year": "1925",
 			"death_year": "2002",
-			"bio": ["Ismith Khan was born in Trinidad in 1925. He grew up within a Muslim family, who came from the country to Port of Spain, strongly influenced by his grandfather, a Pathan from Northern India, who was a militant community leader who had been shot and wounded by the colonial authorities in their suppression of the San Fernando Hosay rebellion of 1884. Ismith Khan attended Queen’s Royal College in Port of Spain and later worked as a reporter on the Trinidad Guardian. He was a close Trinidad friend of Sam Selvon, who edited the literary page of this paper before he emigrated to the UK. Khan himself left Trinidad in the 1950s to study at Michigan State University and Johns Hopkins University. Ismith Khan lived in New York until his death in April 2002."],
+			"bio": [
+				"<strong>Ismith Khan</strong> was born in Trinidad in 1925. He grew up within a Muslim family, who came from the country to Port of Spain, strongly influenced by his grandfather, a Pathan from Northern India, who was a militant community leader who had been shot and wounded by the colonial authorities in their suppression of the San Fernando Hosay rebellion of 1884.",
+				"Khan attended Queen’s Royal College in Port of Spain and later worked as a reporter on the Trinidad Guardian. He was a close Trinidad friend of Sam Selvon, who edited the literary page of this paper before he emigrated to the UK. Khan himself left Trinidad in the 1950s to study at Michigan State University and Johns Hopkins University. Khan lived in New York until his death in April 2002."
+			],
 			"books": [
 				{
 					"pub_year": "1961",
 					"title": "The Jumbie Bird",
-					"summary": [""],
+					"summary": ["The first book by the Trinidad-born author."],
 					"editions": [
 						{
-							"pub_info": "London: MacGibbon and Kee, 1961."
+							"pub_info": "London: MacGibbon & Kee [1961].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 1/4 in x 8 in).",
+							"pages": "224",
+							"img_file": "KhanJumbie-300.jpg",
+							"copies": [
+								{
+									"condition": "Near fine in boards and very good dust jacket. The dust jacket is lightly soiled on the back panel, lightly worn at the extremities, price-clipped, and shows evidence of having had a price sticker on the bottom of the front flap. The book's top page edges are lightly dust-stained, and the interior pages are just beginning to tan from the outer edges. Otherwise the pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "25.00"
+								}
+							]
 						},
 						{
-							"pub_info": "London: Longman, 1974."
+							"pub_info": "New York: Ivan Obolensky, 1961.",
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket.",
+							"pages": "224"
+						},
+						{
+							"pub_info": "Trinidad: Longman Caribbean, 1974.",
+							"edition": "Reissue",
+							"binding": "Hardcover in dust jacket.",
+							"pages": "190"
 						},
 						{
 							"pub_info": "London: Longman, 1985.",
@@ -12032,7 +12246,10 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "London: Hutchinson, 1964."
+							"pub_info": "London: Hutchinson, 1964.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"pages": "192"
 						},
 						{
 							"pub_info": "Toronto: TSAR, 1995."
@@ -12045,7 +12262,8 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "Leeds: Peepal Tree Press, 1987."
+							"pub_info": "Leeds: Peepal Tree Press, 1987.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
@@ -12055,7 +12273,8 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "Leeds: Peepal Tree Press, 1994."
+							"pub_info": "Leeds: Peepal Tree Press, 1994.",
+							"binding": "Trade paperback."
 						}
 					]
 				}
@@ -12084,10 +12303,13 @@ export default function () {
 		{
 			"last_name": "Kincaid",
 			"first_name": "Jamaica",
-			"birth_country": "Antigua/USA",
-			"birth_year": "",
+			"birth_country": "Antigua",
+			"birth_year": "25 May 1949",
 			"death_year": "",
-			"bio": [""],
+			"bio": [
+				"<strong>Jamaica Kincaid</strong> is an Antiguan-American novelist, essayist, gardener, and gardening writer. She was born in St. John's, Antigua. She lives in North Bennington, Vermont, during the summers and teaches at Harvard as the 'Professor of African and American studies in Residence' during the academic year.",
+				"Kincaid is an award-winning writer whose work has been both praised and criticized for its subject matter because her writing largely draws upon her own life and her tone is often perceived as angry. In response, Kincaid counters that many writers also draw upon personal experience, and thus to describe her writing as autobiographical and angry is not valid criticism. <i>(Wikipedia)</i>"
+			],
 			"books": [
 				{
 					"pub_year": "1983",
@@ -12095,7 +12317,9 @@ export default function () {
 					"summary": ["A collection of ten short stories."],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar, Straus and Giroux, 1983."
+							"pub_info": "New York: Farrar, Straus and Giroux, 1983.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
 						},
 						{
 							"pub_info": "London: Picador International, 1983."
@@ -12113,10 +12337,22 @@ export default function () {
 				{
 					"pub_year": "1985",
 					"title": "Annie John",
-					"summary": ["A sort novel about growing up in Antigua."],
+					"summary": ["The second book and first novel by the Antigua-born author. A sort novel about growing up in Antigua."],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar Straus Giroux [1985]."
+							"pub_info": "New York: Farrar Straus Giroux [1985].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 5/8 in x 8 1/4 in).",
+							"pages": "148",
+							"img_file": "KincaidAnnie-300.jpg",
+							"copies": [
+								{
+									"features": "Signed by the author on the title page.",
+									"condition": "Very good in boards and dust jacket. The dust jacket is faded at the spine. There is some light foxing to the front and rear endpapers and paste-downs, and to the edges of the pages. The top corners of the boards are bumped. There is a neat ownership stamp on the free front endpaper. The pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "17.50"
+								}
+							]
 						},
 						{
 							"pub_info": "New York: Plume, 1986.",
@@ -12143,7 +12379,9 @@ export default function () {
 					"summary": ["The Antigua-born author writes of her people's view of their island and the tourists who visit it."],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar Straus Giroux [1988]."
+							"pub_info": "New York: Farrar Straus Giroux [1988].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						},
 						{
 							"pub_info": "New York: Plume, 1989.",
@@ -12157,7 +12395,9 @@ export default function () {
 					"summary": ["A teenage girl from Antigua comes to New York to work as an au pair."],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar Straus Giroux [1990]."
+							"pub_info": "New York: Farrar Straus Giroux [1990].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						},
 						{
 							"pub_info": "London: Jonathan Cape [1991]."
@@ -12171,10 +12411,22 @@ export default function () {
 				{
 					"pub_year": "1996",
 					"title": "The Autobiography of My Mother",
-					"summary": ["The story of a woman's life on the island of Dominica."],
+					"summary": ["A novel telling the story of a woman's life on the island of Dominica."],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar Straus Giroux [1996]."
+							"pub_info": "New York: Farrar Straus Giroux [1996].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 1/2 in x 8 1/4 in).",
+							"pages": "228",
+							"img_file": "KincaidMother-300.jpg",
+							"copies": [
+								{
+									"features": "Signed by the author on the title page.",
+									"condition": "Fine in boards and fine dust jacket. This is a like-new copy of this book. The pages are clean and unmarked, and the binding is very tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "17.50"
+								}
+							]
 						}
 					]
 				},
@@ -12184,7 +12436,19 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar, Straus and Giroux [1997]."
+							"pub_info": "New York: Farrar, Straus and Giroux [1997].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 1/2 in x 8 1/4 in).",
+							"pages": "198",
+							"img_file": "KincaidBrother-300.jpg",
+							"copies": [
+								{
+									"features": "Signed by the author on the title page.",
+									"condition": "Fine in boards and fine dust jacket. This is a like-new copy of this book. The pages are clean and unmarked, and the binding is very tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "12.50"
+								}
+							]
 						}
 					]
 				}
@@ -12390,7 +12654,31 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "Toronto: Coach House Press, 1994."
+							"pub_info": "Toronto: Coach House Press, 1994.",
+							"edition": "First edition.",
+							"binding": "Trade paperback."
+						}
+					]
+				},
+				{
+					"pub_year": "1994",
+					"title": "Dining with the Dictator",
+					"summary": ["Set in Port-au-Prince, Haiti in the early 1970s. A sequel to the novel <em>An Aroma of Coffee</em> by the Haiti-born author."],
+					"editions": [
+						{
+							"pub_info": "Toronto: Coach House Press [1994].",
+							"edition": "First edition.",
+							"binding": "Trade paperback.",
+							"size": "8vo (5 1/2 in x 8 3/8 in).",
+							"pages": "207",
+							"img_file": "LaferriereDining-300.jpg",
+							"copies": [
+								{
+									"features": "Signed by the author on the title page.",
+									"condition": "Fine in pictorial French-fold wrappers. This is a like new copy of this book. The pages are clean and unmarked, and the binding is very tight.",
+									"price": "9.95"
+								}
+							]
 						}
 					]
 				},

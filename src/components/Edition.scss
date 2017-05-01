@@ -2,10 +2,11 @@
 
 .Edition {
   padding-left: 40px;
-  margin-top: -.5rem;
+  margin-top: -1rem;
   margin-bottom: 1rem;
   .edition-pub-info {
-    margin-top: 0;
+    clear: both;
+    padding-top: .8rem;
     margin-bottom: 0;
     font-size: 1.2rem;
   }
