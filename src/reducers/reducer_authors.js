@@ -12307,22 +12307,26 @@ export default function () {
 			"birth_year": "25 May 1949",
 			"death_year": "",
 			"bio": [
-				"<strong>Jamaica Kincaid</strong> is an Antiguan-American novelist, essayist, gardener, and gardening writer. She was born in St. John's, Antigua. She lives in North Bennington, Vermont, during the summers and teaches at Harvard as the 'Professor of African and American studies in Residence' during the academic year.",
+				"<strong>Jamaica Kincaid</strong> is an Antiguan-American novelist, essayist, gardener, and gardening writer. She was born Elaine Potter Richardson in St. John's, Antigua. She lives in North Bennington, Vermont, during the summers and teaches at Harvard as the 'Professor of African and American studies in Residence' during the academic year.",
 				"Kincaid is an award-winning writer whose work has been both praised and criticized for its subject matter because her writing largely draws upon her own life and her tone is often perceived as angry. In response, Kincaid counters that many writers also draw upon personal experience, and thus to describe her writing as autobiographical and angry is not valid criticism. <i>(Wikipedia)</i>"
 			],
 			"books": [
 				{
 					"pub_year": "1983",
 					"title": "At the Bottom of the River",
-					"summary": ["A collection of ten short stories."],
+					"summary": ["The author's first book. A collection of ten short stories."],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar, Straus and Giroux, 1983.",
+							"pub_info": "New York: Farrar, Straus and Giroux [1983].",
 							"edition": "First edition.",
 							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 5/8 in x 8 1/4 in).",
+							"pages": "82"
 						},
 						{
-							"pub_info": "London: Picador International, 1983."
+							"pub_info": "London: Picador International, 1983.",
+							"edition": "First English edition.",
+							"binding": "Hardcover in dust jacket.",
 						},
 						{
 							"pub_info": "New York: Aventura [1985].",
@@ -12381,7 +12385,9 @@ export default function () {
 						{
 							"pub_info": "New York: Farrar Straus Giroux [1988].",
 							"edition": "First edition.",
-							"binding": "Hardcover in dust jacket."
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 5/8 in x 8 1/4 in).",
+							"pages": "81"
 						},
 						{
 							"pub_info": "New York: Plume, 1989.",
@@ -12392,15 +12398,21 @@ export default function () {
 				{
 					"pub_year": "1990",
 					"title": "Lucy",
-					"summary": ["A teenage girl from Antigua comes to New York to work as an au pair."],
+					"summary": ["A novel. A teenage girl from Antigua comes to New York to work as an au pair, just as the author did."],
 					"editions": [
 						{
 							"pub_info": "New York: Farrar Straus Giroux [1990].",
 							"edition": "First edition.",
-							"binding": "Hardcover in dust jacket."
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 1/2 in x 8 1/4 in).",
+							"pages": "164"
 						},
 						{
-							"pub_info": "London: Jonathan Cape [1991]."
+							"pub_info": "London: Jonathan Cape [1991].",
+							"edition": "First English edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 1/2 in x 8 3/4 in).",
+							"pages": "164"
 						},
 						{
 							"pub_info": "New York: Plume, 1991.",
@@ -12449,6 +12461,70 @@ export default function () {
 									"price": "12.50"
 								}
 							]
+						}
+					]
+				},
+				{
+					"pub_year": "1999",
+					"title": "My Garden (Book)",
+					"summary": ["An intimate, playful, and penetrating book on gardens, the plants that fill them, and the gardeners who tend them. <i>(Publisher's synopsis)</i>"],
+					"editions": [
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux [1999].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
+						}
+					]
+				},
+				{
+					"pub_year": "2001",
+					"title": "Talk Stories",
+					"summary": ["A collection of 77 short pieces Kincaid wrote for The New Yorker's ‘Talk of the Town’ column between 1974 and 1983. With a Foreword by Ian Frazier."],
+					"editions": [
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux [2001].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 3/4 in x 8 1/2 in).",
+							"pages": "247"
+						}
+					]
+				},
+				{
+					"pub_year": "2002",
+					"title": "Mr. Potter",
+					"summary": ["A novel. <em>Jamaica Kincaid</em>'s first obsession, the island of Antigua, comes vibrantly to life under the gaze of Mr. Potter, an illiterate taxi chauffeur who makes his living along the wide, open roads that pass the only towns he has ever seen and the graveyard where he will be buried. <i>(Publisher's synopsis)</i>"],
+					"editions": [
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux [2002].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 5/8 in x 8 1/4 in).",
+							"pages": "195"
+						}
+					]
+				},
+				{
+					"pub_year": "2005",
+					"title": "Among Flowers: A Walk in the Himalayas",
+					"summary": ["In this delightful hybrid of a book—-part memoir and part travel journal—-the bestselling author takes us deep into the mountains of Nepal with a trio of botanist friends in search of native Himalayan plants that will grow in her Vermont garden. <i>(Publisher's synopsis)</i>"],
+					"editions": [
+						{
+							"pub_info": "New York: National Geographic Directions, 2005.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
+						}
+					]
+				},
+				{
+					"pub_year": "2013",
+					"title": "See Now Then",
+					"summary": ["A novel. A marriage is revealed in all its joys and agonies. This piercing examination of the manifold ways in which the passing of time operates on the human consciousness unfolds gracefully, and Kincaid inhabits each of her characters—-a mother, a father, and their two children, living in a small village in New England—-as they move, in their own minds, between the present, the past, and the future. <i>(Publisher's synopsis)</i>"],
+					"editions": [
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux [2013].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						}
 					]
 				}
