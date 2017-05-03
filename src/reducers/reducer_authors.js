@@ -9891,7 +9891,10 @@ export default function () {
 						{
 							"pub_info": "London: Faber and Faber [1960].",
 							"edition": "First edition.",
-							"binding": "Hardcover in dust jacket."
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 1/8 in x 7 3/8 in).",
+							"pages": "152",
+							"img_file": "HarrisPeacock-300.jpg"
 						},
 						{
 							"pub_info": "London: Faber and Faber [1968].",
@@ -9923,7 +9926,10 @@ export default function () {
 						{
 							"pub_info": "London: Faber and Faber [1962].",
 							"edition": "First edition.",
-							"binding": "Hardcover in dust jacket."
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 in x 7 1/2 in).",
+							"pages": "128",
+							"img_file": "HarrisArmour-300.jpg"
 						}
 					]
 				},
@@ -12982,37 +12988,72 @@ export default function () {
 			"last_name": "Lovelace",
 			"first_name": "Earl",
 			"birth_country": "Trinidad and Tobago",
-			"birth_year": "1935",
+			"birth_year": "13 July 1935",
 			"death_year": "",
-			"bio": [""],
+			"bio": [
+				"<strong>Earl Lovelace</strong> is an award-winning Trinidadian novelist, journalist, playwright, and short story writer. He is particularly recognized for his descriptive, dramatic fiction on Trinidadian culture. Using Trinidadian dialect patterns and standard English, he probes the paradoxes often inherent in social change as well as the clash between rural and urban cultures.",
+				"As Bernardine Evaristo notes, 'Lovelace is unusual among celebrated Caribbean writers in that he has always lived in Trinidad. Most writers leave to find support for their literary endeavours elsewhere and this, arguably, shapes the literature, especially after long periods of exile. But Lovelace's fiction is deeply embedded in Trinidadian society and is written from the perspective of one whose ties to his homeland have never been broken.' <i>(Wikipedia)</i>"
+			],
 			"books": [
 				{
 					"pub_year": "1965",
 					"title": "While Gods are Falling",
-					"summary": ["Winner of the B.P. Independence Literary Award, a competition sponsored by the BP Companies in Trinidad to mark the first anniversary of independence."],
+					"summary": [
+						"The first novel by the acclaimed Trinidad-born author.",
+						"Winner of the B.P. Independence Literary Award, a competition sponsored by the BP Companies in Trinidad to mark the first anniversary of independence."
+					],
 					"editions": [
 						{
 							"pub_info": "London: Collins, 1965.",
-							"binding": "Hardcover in dust jacket."
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 3/8 in x 8 in).",
+							"pages": "255",
+							"img_file": "LovelaceGods-300.jpg",
+							"copies": [
+								{
+									"features": "",
+									"condition": "Very good in boards and dust jacket. The book's spine appears to have been bumped at the top two inches where the title appears. The page edges are soiled. There is a Montreal bookstore stamp on the front endpaper, and a Trinidad bookstore sticker on the bottom right corner of the front pastedown. The dust jacket is rubbed and worn at the extremities, spotted and soiled on the back panel, and slightly faded at the spine. The book's pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "50.00"
+								}
+							]
 						},
 						{
 							"pub_info": "Chicago: Regnery, 1966.",
-							"binding": "Hardcover in dust jacket."
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 3/4 in x 8 1/4 in).",
+							"pages": "224",
+							"img_file": "LovelaceGodsUS-300.jpg"
 						}
 					]
 				},
 				{
 					"pub_year": "1968",
 					"title": "The Schoolmaster",
-					"summary": ["Earl Lovelace's second novel tells the story of an isolated rural community coming in touch with the wider world. The villages learn, only too cruelly, that 'progress' can mean the destruction of cherished values."],
+					"summary": ["Earl Lovelace's second novel tells the story of an isolated rural community coming in touch with the wider world. The villagers learn, only too cruelly, that 'progress' can mean the destruction of cherished values."],
 					"editions": [
 						{
 							"pub_info": "London: Collins, 1968.",
-							"binding": "Hardcover in dust jacket."
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 3/8 in x 8 in).",
+							"pages": "224"
 						},
 						{
 							"pub_info": "Chicago: Regnery, 1968.",
-							"binding": "Hardcover in dust jacket."
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 3/4 in x 8 1/4 in).",
+							"pages": "224",
+							"img_file": "LovelaceSchoolmasterUS-300.jpg",
+							"copies": [
+								{
+									"features": "",
+									"condition": "Very good in cloth-covered boards and dust jacket. There is some foxing, soiling, staining, and light wear to the dust jacket, and a 1/2 inch closed tear on its back panel near the spine. There is a 3/8 inch long section of wear on the front bottom edge of the boards.The book's interior pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "35.00"
+								}
+							]
 						},
 						{
 							"pub_info": "London: Heinemann [1979].",
@@ -13031,7 +13072,10 @@ export default function () {
 					"editions": [
 						{
 							"pub_info": "[London] Andre Deutsch [1979].",
-							"binding": "Hardcover in dust jacket."
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 3/8 in x 8 in).",
+							"pages": "240"
 						},
 						{
 							"pub_info": "Essex: Longman, 1979.",
@@ -13043,6 +13087,7 @@ export default function () {
 						},
 						{
 							"pub_info": "New York: Persea, 1998.",
+							"edition": "First U.S. edition.",
 							"binding": "Hardcover in dust jacket."
 						}
 					]
@@ -13050,11 +13095,25 @@ export default function () {
 				{
 					"pub_year": "1982",
 					"title": "The Wine of Astonishment",
-					"summary": ["A powerful and moving chronicle of the different ways in which members of a small Trinidad & Tobagoian community, Bonasse, hold on to their identity as they find themselves caught up in change and corruption. <i>(Heinemann synopsis)</i>"],
+					"summary": [
+						"The fourth novel by the acclaimed Trinidad-born author.",
+						"A powerful and moving chronicle of the different ways in which members of a small Trinidad and Tobagoian community, Bonasse, hold on to their identity as they find themselves caught up in change and corruption. <i>(Heinemann synopsis)</i>"
+					],
 					"editions": [
 						{
-							"pub_info": "London. Andre Deutsch, 1982.",
-							"binding": "Hardcover in dust jacket."
+							"pub_info": "[London] Andre Deutsch [1982].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 1/2 in x 8 3/4 in).",
+							"pages": "146",
+							"img_file": "LovelaceWine-300.jpg",
+							"copies": [
+								{
+									"features": "",
+									"condition": "Near fine in boards and very good dust jacket. The dust jacket is slightly faded at the spine. The pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "40.00"
+								}
+							]
 						},
 						{
 							"pub_info": "Oxford: Heinemann, 1983.",
@@ -13062,18 +13121,24 @@ export default function () {
 						},
 						{
 							"pub_info": "New York: Aventura, [1984].",
-							"binding": "Paperback."
+							"edition": "First American edition.",
+							"binding": "Trade paperback. Stiff, illustrated, French-fold wrappers.",
+							"size": "8vo (5 1/4 in x 8 in).",
+							"pages": "146",
 						}
 					]
 				},
 				{
 					"pub_year": "1984",
-					"title": "Jestina's Calypso (Play)",
-					"summary": [""],
+					"title": "Jestina's Calypso and other plays",
+					"summary": ["A collection of three plays: <i>Jestina's Calypso</i>, <i>The New Hardware Store</i>, and <i>My Name is Village</i>."],
 					"editions": [
 						{
-							"pub_info": "London: Heinemann, 1984.",
-							"binding": "Paperback."
+							"pub_info": "London; Kingston; Port of Spain: Heinemann [1984].",
+							"edition": "First edition.",
+							"binding": "Paperback.",
+							"size": "12mo (4 3/4 in x 7 1/4 in).",
+							"pages": "141"
 						}
 					]
 				},
@@ -13083,18 +13148,44 @@ export default function () {
 					"summary": ["Twelve stories collected here for the first time, including The Fire Eater's Journey, Those Heavy Cakes, and Joebell and America."],
 					"editions": [
 						{
-							"pub_info": "Oxford: Heinemann, 1988.(Paperback)"
+							"pub_info": "[Oxford] Heinemann [1988]",
+							"edition": "First edition.",
+							"binding": "Paperback.",
+							"size": "12mo (5 in x 7 3/4 in).",
+							"pages": "141",
+							"img_file": "LovelaceConversion2nd-300.jpg",
+							"copies": [
+								{
+									"features": "This copy is the second printing of the first edition, issued in 1990.",
+									"condition": "Very good in pictorial wrappers. The covers show some usage and wear. The book's pages are beginning to tan from the edges, as is typical with aging of the paper used to print this book. The pages are clean and unmarked, and the binding is tight.",
+									"price": "9.95"
+								}
+							]
 						}
 					]
 				},
 				{
 					"pub_year": "1996",
 					"title": "Salt",
-					"summary": ["Winner of the Commonwealth Writers Prize for Best Novel. A novel which explores like none before it the intermingling of cultures that is the contemporary West Indian experience."],
+					"summary": [
+						"A personal favorite by a favorite author.",
+						"Winner of the 1997 Commonwealth Writers Prize (Overall Winner, Best Book). A novel which explores like none before it the intermingling of cultures that is the contemporary West Indian experience."
+					],
 					"editions": [
 						{
 							"pub_info": "London: Faber and Faber [1996].",
-							"binding": "Hardcover in dust jacket."
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 5/8 in x 8 3/4 in).",
+							"pages": "260",
+							"img_file": "LovelaceSalt-300.jpg",
+							"copies": [
+								{
+									"features": "",
+									"condition": "Very good in boards and dust jacket. The boards have been bumped at the corners, and the wrappers show some usage and wear. The book's pages are beginning to tan from the edges, as is typical with aging of the paper used to print this book. The pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "12.50"
+								}
+							]
 						},
 						{
 							"pub_info": "London: Faber and Faber [1996].",
@@ -13102,6 +13193,7 @@ export default function () {
 						},
 						{
 							"pub_info": "[New York] Persea Books [1997].",
+							"edition": "First U.S. edition.",
 							"binding": "Hardcover in dust jacket."
 						},
 						{
@@ -13117,17 +13209,22 @@ export default function () {
 					"editions": [
 						{
 							"pub_info": "[Essex] Longman [1997].",
-							"binding": "Paperback."
+							"edition": "First edition.",
+							"binding": "Trade paperback. Center-stapled in illustrated wrappers.",
+							"size": "8vo (5 3/4 in x 8 in).",
+							"pages": "30",
 						}
 					]
 				},
 				{
 					"pub_year": "2011",
 					"title": "Is Just a Movie",
-					"summary": ["Winner of 2012 OCM Bocas Prize for Caribbean Literature"],
+					"summary": ["A novel. Winner of 2012 OCM Bocas Prize for Caribbean Literature"],
 					"editions": [
 						{
-							"pub_info": "London: Faber & Faber, January 2011."
+							"pub_info": "London: Faber & Faber, January 2011.",
+							"edition": "First edition.",
+							"binding": "Trade paperback."
 						}
 					]
 				}
