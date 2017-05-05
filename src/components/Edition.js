@@ -9,12 +9,20 @@ class Edition extends Component {
 
   render() {
     const edition = this.props.edition;
-    const email_href = 'mailto:patrick@westindiesbooks.com?subject='
-     + this.props.book_title + ' by ' + this.props.author_name;
     const img_url = '../assets/images/' + edition.img_file;
+    let note_paragraphs = [];
+    if (edition.notes) {
+      edition.notes.forEach((paragraph) => {
+        note_paragraphs.push(
+          <p key={paragraph} dangerouslySetInnerHTML={{__html: paragraph}} />
+        );
+      });
+    }
     let copies = [];
     if (edition.copies) {
       edition.copies.forEach((copy) => {
+        const email_href = 'mailto:' + copy.seller_email + '?subject='
+         + this.props.book_title + ' by ' + this.props.author_name;
         copies.push(
           <div key={copies.length} className="edition-copy">
             <p className="copy-header">An available copy of this edition:</p>
@@ -24,7 +32,7 @@ class Edition extends Component {
               <span className="copy-price">US${copy.price}</span>
               <span> To inquire about this copy, email </span>
               <span>
-                <a href={email_href}>West Indies Books</a>
+                <a href={email_href}>{copy.seller_name}</a>
               </span>
             </p>
           </div>
@@ -39,7 +47,7 @@ class Edition extends Component {
           {(edition.edition || edition.binding || edition.description || edition.size || edition.pages) &&
             <div className="edition-detail">
               {((edition.edition || edition.binding) && !edition.img_file) &&
-                <div>
+                <div className="edition-detail">
                   {(edition.edition && edition.binding) &&
                     <p>
                       <span dangerouslySetInnerHTML={{__html: edition.edition}} />&nbsp;{edition.binding}
@@ -52,25 +60,26 @@ class Edition extends Component {
                 </div>
               }
               {((edition.edition || edition.binding) && edition.img_file) &&
-                <div>
+                <div className="edition-detail">
                   <p><span dangerouslySetInnerHTML={{__html: edition.edition}} /></p>
                   <p>{edition.binding}</p>
                 </div>
               }
               {edition.description && <p>{edition.description}</p>}
               {((edition.size || edition.pages) && !edition.img_file) &&
-                <div>
+                <div className="edition-detail">
                   {(edition.size && edition.pages) && <p>{edition.size}&nbsp;{edition.pages} pages.</p>}
                   {(edition.size && !edition.pages) && <p>{edition.size}</p>}
                   {(!edition.size && edition.pages) && <p>{edition.pages} pages.</p>}
                 </div>
               }
               {((edition.size || edition.pages) && edition.img_file) &&
-                <div>
+                <div className="edition-detail">
                   {edition.size && <p>{edition.size}</p>}
                   {edition.pages && <p>{edition.pages} pages.</p>}
                 </div>
               }
+              {edition.notes && <div className="edition-detail">{note_paragraphs}</div>}
             </div>
           }
           <div className="edition-copies">

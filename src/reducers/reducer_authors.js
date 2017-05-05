@@ -135,7 +135,9 @@ export default function () {
 							"img_file": "AllfreyOrchid1US-300.jpg",
 							"copies": [
 								{
-									"condition": "Very good in cloth-covered boards and very good dust jacket. The corners of the boards are lightly bumped. The dust jacket has light foxing at the edges, is lightly soiled, has two 3/4 inch closed tears, and up to 1/8 inch chipping at the top and bottom of the spine. Other than two small stains on the front endpaper, the pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+"condition": "Very good in cloth-covered boards and very good dust jacket. The corners of the boards are lightly bumped. The dust jacket has light foxing at the edges, is lightly soiled, has two 3/4 inch closed tears, and up to 1/8 inch chipping at the top and bottom of the spine. Other than two small stains on the front endpaper, the pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
 									"price": "80.00"
 								}
 							]
@@ -4116,6 +4118,8 @@ export default function () {
 							"description": "Limited edition of 150 numbered copies, with numbers 1-50 signed by the author.",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "Number 16 of 150 numbered copies. This is one of the first 50 copies that were each signed by the poet.",
 									"condition": "Near fine in stiff printed wrappers. There is very light sun-fading to the top 1/2 inch of the front cover, otherwise this is a like-new copy of this limited edition. The pages are center-stapled into the wrappers, and are clean and unmarked.",
 									"price": "25.00"
@@ -4535,6 +4539,8 @@ export default function () {
 							"pages": "288",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Very good in boards and a good only dust jacket. This book is in nice condition while the dust jacket has multiple problems. There is a neat ownership signature on the front endpaper. The dust jacket is soiled and worn, with some loss at the extremities. It was once tape-repaired at the top of the spine and the bottom of the back panel, and that tape has yellowed with age. There is a closed razor cut across 2/3 of the back panel, and the back flap is torn from the top at the fold, remaining attached only at the very bottom. The pages are clean, and the binding is tight. The dust jacket is protected in a mylar wrapper which essentially holds the nearly-separated back flap in place.",
 									"price": "30.00"
@@ -4582,6 +4588,8 @@ export default function () {
 							"pages": "256",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Good in boards and dust jacket. This book has foxing on both the pages and the page edges. The top page edges are also dust stained. The dust jacket is soiled, worn, stained, and faded at the spine. The rear endpaper is wrinkled. The interior pages are mostly clean, with the foxing at the page edges. Some pages have evidence of diagonal folds that probably served as bookmarks. The book's binding is tight. The dust jacket is protected in a mylar wrapper.",
 									"price": "20.00"
@@ -4621,6 +4629,8 @@ export default function () {
 							"img_file": "CarewMoscow1-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Very good in boards and dust jacket. This is a nice copy of this scarce title. The dust jacket shows wear at the extremities, its spine is a bit sunned, and the rear panel is soiled and stained. The boards and pages are clean, and the binding is tight. The dust jacket is protected in a plastic wrapper.",
 									"price": "60.00"
@@ -5018,9 +5028,13 @@ export default function () {
 							"size": "18mo (4 1/8 in x 6 in).",
 							"pages": "14",
 							"img_file": "CarterHill-300.jpg",
-							"description": "Includes twelve short poems, one to a page in this small pamphlet. This is an extremely rare edition.",
+							"notes": [
+								"Includes twelve short poems, one to a page in this small pamphlet. This is an extremely rare edition."
+							],
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Very good in stiff, center-stapled printed paper wrappers. The covers are very lightly worn, and there are diagonal fold marks on the final three top page corners and the top outer corner of the back cover. The staples that bind this pamphlet have rusted. Otherwise, the pages are clean and unmarked, and the stapled binding is tight.",
 									"price": "1750.00"
@@ -5083,10 +5097,14 @@ export default function () {
 							"size": "12mo (5 in x 7 1/2 in).",
 							"pages": "44",
 							"img_file": "CarterResistance3rd-300.jpg",
-							"description": "A 'typographically corrected version' issued to celebrate the 25th Anniversary of the book's original publication. Includes a Foreword by Rayman Mandal of the University of Guyana.",
+							"notes": [
+								"A 'typographically corrected version' issued to celebrate the 25th Anniversary of the book's original publication. Includes a Foreword by Rayman Mandal of the University of Guyana."
+							],
 							"copies": [
 								{
-									"condition": "Very good in centered-stapled stiff illustrated paper wrappers. The covers are very lightly worn and soiled, with some sunning at the spine, and the corners are lightly bumped. The pages are clean and unmarked, and the binding is tight.",
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+"condition": "Very good in centered-stapled stiff illustrated paper wrappers. The covers are very lightly worn and soiled, with some sunning at the spine, and the corners are lightly bumped. The pages are clean and unmarked, and the binding is tight.",
 									"price": "50.00"
 								}
 							]
@@ -5116,10 +5134,14 @@ export default function () {
 							"size": "5 1/4 in x 6 1/4 in.",
 							"pages": "83",
 							"img_file": "CarterAffinity-300.jpg",
-							"description": "Introduced by Bill Carr, with an Appreciation by Stanley Greaves. Each poem is presented on facing pages, with its title on the left leaf and the poem's text on the right leaf. Twenty-one of the poems are illustrated (without credit to the artist) and the remaining fourteen are not.",
+							"notes": [
+								"Introduced by Bill Carr, with an Appreciation by Stanley Greaves. Each poem is presented on facing pages, with its title on the left leaf and the poem's text on the right leaf. Twenty-one of the poems are illustrated (without credit to the artist) and the remaining fourteen are not."
+							],
 							"copies": [
 								{
-									"condition": "Very good, perfect-bound in stiff printed paper wrappers. The covers are very lightly worn and lightly bumped at the corners. The covers also have some staining on the inside, both front and back. The book was not produced with precision; its corners are not square and it is about 1/8 taller at the spine than at the outer edge. The pages are clean and unmarked, and the binding is tight.",
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+"condition": "Very good, perfect-bound in stiff printed paper wrappers. The covers are very lightly worn and lightly bumped at the corners. The covers also have some staining on the inside, both front and back. The book was not produced with precision; its corners are not square and it is about 1/8 taller at the spine than at the outer edge. The pages are clean and unmarked, and the binding is tight.",
 									"price": "250.00"
 								}
 							]
@@ -5534,7 +5556,7 @@ export default function () {
 							"edition": "Reissue.",
 							"binding": "Trade paperback.",
 							"pages": "66",
-							"description": "Includes a Preface by Albert Gomes."
+							"notes": ["Includes a Preface by Albert Gomes."]
 						}
 					]
 				},
@@ -5600,6 +5622,8 @@ export default function () {
 							"img_file": "ClarkeSurvivors1-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "Inscribed to Toronto radio personality Ron Hewat and dated (February 2, 1965) by the author on the title page.",
 									"condition": "Very good in boards and dust jacket. This is a nice copy of this title. The dust jacket is sunned at the spine, lightly soiled, and lightly worn at the extremities. The pages are clean and unmarked, and the binding is tight.",
 									"price": "125.00"
@@ -5632,6 +5656,8 @@ export default function () {
 							"img_file": "ClarkeThorns1-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "Inscribed and dated (July 2, 1965) by the author on the title page.",
 									"condition": "Near fine in boards and dust jacket. This is a nice copy of this title. The dust jacket is a bit sunned at the spine, and there is a small stain on the top page edges. Perhaps oddly, the book's title page indicates Heinemann as the publisher, while the dust jacket indicates the Canadian publisher McClelland & Stewart. The pages are clean and unmarked, and the binding is tight.",
 									"price": "60.00"
@@ -5680,11 +5706,15 @@ export default function () {
 							"binding": "Center-stapled printed wrappers.",
 							"size": "8vo (5 1/2 in x 8 1/2 in).",
 							"pages": "14",
-							"description": "An economically-produced pamphlet, with the typewriter-produced content formatted to fit on standard 8 1/2 x 5 1/2 inch sheets of paper when folded in half.",
+							"notes": [
+								"An economically-produced pamphlet, with the typewriter-produced content formatted to fit on standard 8 1/2 x 5 1/2 inch sheets of paper when folded in half."
+							],
 							"img_file": "ClarkeMLK-300.jpg",
 							"copies": [
 								{
-									"condition": "Good in centered-stapled printed wrappers. The covers are worn and soiled, the pamphlet has been folded in half, and the pages are stained throughout. The contents are complete, and the center-stapled binding is tight.",
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+"condition": "Good in centered-stapled printed wrappers. The covers are worn and soiled, the pamphlet has been folded in half, and the pages are stained throughout. The contents are complete, and the center-stapled binding is tight.",
 									"price": "150.00"
 								}
 							]
@@ -6950,6 +6980,8 @@ export default function () {
 							"img_file": "DAguiarMomaDot1-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "Inscribed by the author on the title page.",
 									"condition": "Very good in stiff illustrated wrappers. There is a Poetry Book Society sticker on the front cover, and evidence of bending to the top right corner of the book. The pages are clean and unmarked, and the binding is tight.",
 									"price": "17.50"
@@ -7023,6 +7055,8 @@ export default function () {
 							"img_file": "DAguiarLongest1st-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Near fine in boards and dust jacket. There is minor sunning to the spine of the dust jacket. The book's pages are clean and unmarked, and the binding is very tight.",
 									"price": "12.50"
@@ -7218,6 +7252,8 @@ export default function () {
 							"img_file": "DanticatFarming1-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "Signed and dated (10/15/98) by the author while on tour to promote the book's publication.",
 									"condition": "Near fine in boards and dust jacket. There is minor sunning to the spine of the dust jacket. The book's pages are clean and unmarked, and the binding is very tight.",
 									"price": "17.50"
@@ -9147,6 +9183,8 @@ export default function () {
 							"img_file": "GlissantRipening1-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Very good in cloth-covered boards and very good dust jacket. This is a nice copy of this book. The top right edge of the front board is scuffed, and the rear endpaper and pastedown are separated at the top 3/8 inch. The dust jacket is a bit sunned at the spine and edges, and lightly soiled on the back panel, with a stain and closed edge tears on the back panel as well. Otherwise, the pages are clean and unmarked, and the binding is tight.",
 									"price": "50.00"
@@ -9897,6 +9935,8 @@ export default function () {
 							"img_file": "HarrisPeacock-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Very good in boards and dust jacket. There is a neat ownership bookplate hand-drawn under the dust jacket flap on the front pastedown, and a price stamp on the free front endpaper. The top page edges are lightly dust-stained. The dust jacket is sunned at the spine, soiled on the rear panel, and worn and soiled at the edges, with some loss at and near the bottom dust jacket flaps. Otherwise, the book's pages are clean, and the binding is tight. The dust jacket is protected in a plastic wrapper.",
 									"price": "75.00"
@@ -9939,6 +9979,8 @@ export default function () {
 							"img_file": "HarrisArmour-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Near fine in boards and very good dust jacket. This is a nice copy of this title. The dust jacket is price clipped, lightly sunned at the spine, lightly soiled on the rear panel, and lightly worn at the extremities. The book's pages are clean, and the binding is tight. The dust jacket is protected in a mylar wrapper .",
 									"price": "100.00"
@@ -9973,6 +10015,8 @@ export default function () {
 							"img_file": "HarrisHeartland1-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Good in boards and dust jacket. The free front endpaper has been torn out of the book, there's an ink mark and a bookstore stamp on the half title page, there are three pages with ink marks in the margin, and there's a date written in ink on the rear pastedown endpaper. The dust jacket is worn at the edges and moderately soiled. Otherwise, the book's pages are clean, and the binding is tight.",
 									"price": "60.00"
@@ -10007,6 +10051,8 @@ export default function () {
 							"img_file": "HarrisWaiting1-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "An Advance Review Copy with the publisher's slip laid in.",
 									"condition": "Near fine in boards and a very good dust jacket. There is minor wear to the dust jacket, most notable at the top right of the book's front. The book's pages are clean and unmarked, and the binding is tight.",
 									"price": "95.00"
@@ -10075,6 +10121,8 @@ export default function () {
 							"img_file": "HarrisRainmakers1-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "With a 'With the author's compliments' slip laid in.",
 									"condition": "Near fine in boards and a near fine dust jacket. The spine of the dust jacket is lightly sunned. There is light dust staining to the pages' top edges. The book's pages are clean and unmarked, and the binding is tight.",
 									"price": "75.00"
@@ -10189,6 +10237,8 @@ export default function () {
 							"img_file": "HarrisCarnival1-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Near fine in boards and a near fine dust jacket. This is a nice copy of this title. The book's pages are clean and unmarked, and the binding is very tight. The dust jacket is protected in a mylar wrapper.",
 									"price": "18.95"
@@ -10225,6 +10275,8 @@ export default function () {
 							"img_file": "HarrisRehearsal1-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Fine in boards and a fine dust jacket. This is a like new copy of this book. The book's pages are beginning to lightly tan from the edges, as is typical with aging of the paper used to print this book. Otherwise the pages are clean and unmarked, and the binding is very tight.",
 									"price": "12.50"
@@ -10261,6 +10313,8 @@ export default function () {
 							"img_file": "HarrisResurrectionP-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Fine in printed wrappers. Also includes a dust jacket that was trimmed at top and bottom in order to make it match the height of the proofs rather than the height of the hardcover first edition. The pages are clean and unmarked, and the binding is very tight. The dust jacket shows minor wear at the top and bottom of the spine.",
 									"price": "30.00"
@@ -10276,6 +10330,8 @@ export default function () {
 							"img_file": "HarrisResurrection-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Near fine in very good dust jacket. The dust jacket shows some wear at the extremities, most noticeable at the top of the spine. The book's pages are clean and unmarked, and the binding is very tight.",
 									"price": "20.00"
@@ -10514,6 +10570,8 @@ export default function () {
 							"img_file": "HeathMurderer-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "Inscribed by the author on the free front endpaper.",
 									"condition": "Very good in boards and good dust jacket. The spine of the dust jacket has faded from green to blue, it is worn at the extremities, and has a closed 1 inch tear at the back lower left. There is dust staining to the pages' top edges. The book's pages are beginning to lightly tan from the edges, as is typical with aging of the paper used to print this book. Otherwise the pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a soft plastic wrapper. An acceptable copy of a title that is scarce in the true first edition.",
 									"price": "195.00"
@@ -10909,7 +10967,9 @@ export default function () {
 							"img_file": "HodgeMonkey1st-300.jpg",
 							"copies": [
 								{
-									"condition": "Very good in boards and dust jacket. The spine of the dust jacket is slightly faded, and has a closed 1/2 inch tear at the back top right. There is a bookplate pasted on the front pastedown, and evidence of removal of another on the left side of the free front endpaper. The book's page edges are lightly soiled. Otherwise the pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+"condition": "Very good in boards and dust jacket. The spine of the dust jacket is slightly faded, and has a closed 1/2 inch tear at the back top right. There is a bookplate pasted on the front pastedown, and evidence of removal of another on the left side of the free front endpaper. The book's page edges are lightly soiled. Otherwise the pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
 									"price": "80.00"
 								}
 							]
@@ -10930,7 +10990,9 @@ export default function () {
 							"img_file": "HodgeMonkey3rd-300.jpg",
 							"copies": [
 								{
-									"condition": "Very good in boards and dust jacket. The spine of the dust jacket is slightly faded, there is wrinkling and wear to the edges, and it has been price-clipped. The book's top page edges are lightly soiled. Otherwise the pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper. An acceptable copy for a collector who is content with a later printing of the first edition.",
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+"condition": "Very good in boards and dust jacket. The spine of the dust jacket is slightly faded, there is wrinkling and wear to the edges, and it has been price-clipped. The book's top page edges are lightly soiled. Otherwise the pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper. An acceptable copy for a collector who is content with a later printing of the first edition.",
 									"price": "20.00"
 								}
 							]
@@ -12252,7 +12314,9 @@ export default function () {
 							"img_file": "KhanJumbie-300.jpg",
 							"copies": [
 								{
-									"condition": "Near fine in boards and very good dust jacket. The dust jacket is lightly soiled on the back panel, lightly worn at the extremities, price-clipped, and shows evidence of having had a price sticker on the bottom of the front flap. The book's top page edges are lightly dust-stained, and the interior pages are just beginning to tan from the outer edges. Otherwise the pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+"condition": "Near fine in boards and very good dust jacket. The dust jacket is lightly soiled on the back panel, lightly worn at the extremities, price-clipped, and shows evidence of having had a price sticker on the bottom of the front flap. The book's top page edges are lightly dust-stained, and the interior pages are just beginning to tan from the outer edges. Otherwise the pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
 									"price": "25.00"
 								}
 							]
@@ -12387,6 +12451,8 @@ export default function () {
 							"img_file": "KincaidAnnie-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "Signed by the author on the title page.",
 									"condition": "Very good in boards and dust jacket. The dust jacket is faded at the spine. There is some light foxing to the front and rear endpapers and paste-downs, and to the edges of the pages. The top corners of the boards are bumped. There is a neat ownership stamp on the free front endpaper. The pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
 									"price": "17.50"
@@ -12469,6 +12535,8 @@ export default function () {
 							"img_file": "KincaidMother-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "Signed by the author on the title page.",
 									"condition": "Fine in boards and fine dust jacket. This is a like-new copy of this book. The pages are clean and unmarked, and the binding is very tight. The dust jacket is protected in a mylar wrapper.",
 									"price": "17.50"
@@ -12491,6 +12559,8 @@ export default function () {
 							"img_file": "KincaidBrother-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "Signed by the author on the title page.",
 									"condition": "Fine in boards and fine dust jacket. This is a like-new copy of this book. The pages are clean and unmarked, and the binding is very tight. The dust jacket is protected in a mylar wrapper.",
 									"price": "12.50"
@@ -12785,6 +12855,8 @@ export default function () {
 							"img_file": "LaferriereDining-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "Signed by the author on the title page.",
 									"condition": "Fine in pictorial French-fold wrappers. This is a like new copy of this book. The pages are clean and unmarked, and the binding is very tight.",
 									"price": "9.95"
@@ -13041,6 +13113,8 @@ export default function () {
 							"img_file": "LovelaceGods-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Very good in boards and dust jacket. The book's spine appears to have been bumped at the top two inches where the title appears. The page edges are soiled. There is a Montreal bookstore stamp on the front endpaper, and a Trinidad bookstore sticker on the bottom right corner of the front pastedown. The dust jacket is rubbed and worn at the extremities, spotted and soiled on the back panel, and slightly faded at the spine. The book's pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
 									"price": "50.00"
@@ -13078,6 +13152,8 @@ export default function () {
 							"img_file": "LovelaceSchoolmasterUS-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Very good in cloth-covered boards and dust jacket. There is some foxing, soiling, staining, and light wear to the dust jacket, and a 1/2 inch closed tear on its back panel near the spine. There is a 3/8 inch long section of wear on the front bottom edge of the boards.The book's interior pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
 									"price": "35.00"
@@ -13138,6 +13214,8 @@ export default function () {
 							"img_file": "LovelaceWine-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Near fine in boards and very good dust jacket. The dust jacket is slightly faded at the spine. The pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
 									"price": "40.00"
@@ -13185,6 +13263,8 @@ export default function () {
 							"img_file": "LovelaceConversion2nd-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "This copy is the second printing of the first edition, issued in 1990.",
 									"condition": "Very good in pictorial wrappers. The covers show some usage and wear. The book's pages are beginning to tan from the edges, as is typical with aging of the paper used to print this book. The pages are clean and unmarked, and the binding is tight.",
 									"price": "9.95"
@@ -13210,6 +13290,8 @@ export default function () {
 							"img_file": "LovelaceSalt-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Very good in boards and dust jacket. The boards have been bumped at the corners, and the wrappers show some usage and wear. The book's pages are beginning to tan from the edges, as is typical with aging of the paper used to print this book. The pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
 									"price": "12.50"
@@ -13538,6 +13620,8 @@ export default function () {
 							"img_file": "MaisListen-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Very good in pictorial wrappers. The covers show some usage and wear, and there is a price sticker on the back cover. The book's pages are beginning to tan from the edges, as is typical with aging of the paper used to print this book. The pages are clean and unmarked, and the binding is tight.",
 									"price": "12.50"
@@ -14226,6 +14310,8 @@ export default function () {
 							"img_file": "MelvilleShapeUS-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Fine in boards and fine dust jacket. This is a like-new copy of this book. The pages are clean and unmarked, and the binding is very tight. The dust jacket is protected in a mylar wrapper.",
 									"price": "9.95"
@@ -14333,7 +14419,9 @@ export default function () {
 							"binding": "Hardcover in dust jacket.",
 							"size": "8vo (5 1/4 in x 7 1/2 in).",
 							"pages": "320",
-							"description": "Reportedly, the publisher's warehouse where this book was stored burned down shortly after the book's publication, and only the few copies that were not in that warehouse survive."
+							"notes": [
+								"Reportedly, the publisher's warehouse where this book was stored burned down shortly after the book's publication, and only the few copies that were not in that warehouse survive."
+							]
 						},
 						{
 							"pub_info": "London: Heinemann, 1970.",
@@ -14359,6 +14447,8 @@ export default function () {
 							"img_file": "MittelholzerOffice-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Near fine in cloth-covered boards and a very good dust jacket. This is a very nice copy of this book. The top corners of the boards are lightly bumped. The fore and bottom page edges show some foxing, and there is also some light foxing to the endpapers. The dust jacket is lightly worn at the extremities, has a small spot or stain near the author's name on the front panel, and the front, rear and spine are not quite as bright as the flaps. The book's pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
 									"price": "120.00"
@@ -14398,7 +14488,9 @@ export default function () {
 							"binding": "Hardcover in dust jacket.",
 							"size": "8vo (5 1/4 in x 7 1/2 in).",
 							"pages": "334",
-							"description": "First printing in March 1951. Second printing in June 1951."
+							"notes": [
+								"First printing in March 1951. Second printing in June 1951."
+							]
 						},
 						{
 							"pub_info": "Philadelphia: Lippincott, 1951.",
@@ -14460,6 +14552,8 @@ export default function () {
 							"img_file": "MittelholzerSylvia-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Very good in boards and a very good dust jacket. The boards are lightly bumped at front bottom corner and the rear bottom edge. There is a Perth bookshop sticker on the bottom right corner of the front pastedown, and a previous owner's name in ink at the top of the front endpaper. The dust jacket is price clipped, lightly worn at the extremities with some loss at the top and bottom of the spine. The book's pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
 									"price": "150.00"
@@ -14503,6 +14597,8 @@ export default function () {
 							"img_file": "MittelholzerHubertus-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Very good in boards and a good dust jacket. The book is lightly bumped at top left corner of the spine. There is light foxing to the front and rear endpapers and to the initial four pages. The page edges are also foxed, with dust-staining to the top edges. The dust jacket is price clipped, lightly worn at the extremities with some loss, and the rear panel has closed tears at and near the spine. The book's pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a plastic wrapper.",
 									"price": "80.00"
@@ -14555,6 +14651,8 @@ export default function () {
 							"img_file": "MittelholzerTrees-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Good in boards and a very good dust jacket. The top corners of the boards are bumped and there is an ownership inscription on the front endpaper. There is foxing to the front and rear endpapers, and there is also diminishing foxing over the initial 20 pages, then increasing over the final 20 pages. The page edges are also foxed, with dust-staining to the top edges. The dust jacket is lightly worn at the extremities, and the originally-white rear jacket panel is soiled and shows some foxing. Otherwise, the book's pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a plastic wrapper.",
 									"price": "30.00"
@@ -14655,6 +14753,8 @@ export default function () {
 							"img_file": "MittelholzerTinkling-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Near fine in boards and very good dust jacket. The spine is slightly cocked, and the bottom rear corner of the boards is lightly bumped. The dust jacket is faded at the spine, and very lightly worn at the extremities, with a 1/4 inch by 1/4 inch chip at the top of the spine, and a 1 inch closed tear at the top of the front panel. The book's pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
 									"price": "60.00"
@@ -14682,6 +14782,8 @@ export default function () {
 							"img_file": "MittelholzerMadPB-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Near fine in pictorial wrappers. This is a nearly flawless, unread copy of this book. There is very light wear to the extremities and a fold mark to the rear bottom corner of the wrappers. The book's pages are beginning to tan from the edges, as is typical with aging of the paper used to print this book. Otherwise, the pages are clean and unmarked, and the binding is very tight.",
 									"price": "95.00"
@@ -14820,6 +14922,8 @@ export default function () {
 							"img_file": "MittelholzerDrama-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "",
 									"condition": "Very good in boards and dust jacket. There is a tear at the top of the rear endpaper. The dust jacket is faded at the spine from red-orange to yellow, and less faded across the top of the front panel. The dust jacket also shows some wear at the extremities, evidence of folding along the top edge of the back panel. and is clipped at the bottom of the front flap. There is a spot or stain on the bottom page edges. The book's pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
 									"price": "70.00"
@@ -15390,6 +15494,8 @@ export default function () {
 							"img_file": "NaipaulArrival-300.jpg",
 							"copies": [
 								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
 									"features": "Publisher's promotional bookmark laid in.",
 									"condition": "Very good in boards and very good dust jacket. There is some wear to the dust jacket, most noticeable on the back. There is what's probably a remainder mark on the top page edges. The pages are clean and unmarked, and the binding is very tight. The dust jacket is protected in a mylar wrapper.",
 									"price": "12.50"
