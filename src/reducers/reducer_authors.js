@@ -9892,9 +9892,16 @@ export default function () {
 							"pub_info": "London: Faber and Faber [1960].",
 							"edition": "First edition.",
 							"binding": "Hardcover in dust jacket.",
-							"size": "8vo (5 1/8 in x 7 3/8 in).",
+							"size": "8vo (5 in x 7 3/8 in).",
 							"pages": "152",
-							"img_file": "HarrisPeacock-300.jpg"
+							"img_file": "HarrisPeacock-300.jpg",
+							"copies": [
+								{
+									"features": "",
+									"condition": "Very good in boards and dust jacket. There is a neat ownership bookplate hand-drawn under the dust jacket flap on the front pastedown, and a price stamp on the free front endpaper. The top page edges are lightly dust-stained. The dust jacket is sunned at the spine, soiled on the rear panel, and worn and soiled at the edges, with some loss at and near the bottom dust jacket flaps. Otherwise, the book's pages are clean, and the binding is tight. The dust jacket is protected in a plastic wrapper.",
+									"price": "75.00"
+								}
+							]
 						},
 						{
 							"pub_info": "London: Faber and Faber [1968].",
@@ -9909,7 +9916,7 @@ export default function () {
 				{
 					"pub_year": "1961",
 					"title": "The Far Journey of Oudin",
-					"summary": ["A novel set in Guyana. Later collected in <em>The Guyana Quartet</em>."],
+					"summary": ["The author's second novel. Set in Guyana. Later collected in <em>The Guyana Quartet</em>."],
 					"editions": [
 						{
 							"pub_info": "London: Faber and Faber [1961].",
@@ -9921,7 +9928,7 @@ export default function () {
 				{
 					"pub_year": "1962",
 					"title": "The Whole Armour",
-					"summary": ["A novel set in Guyana. Later collected in <em>The Guyana Quartet</em>. Also later collected in <em>The Whole Armour and The Secret Ladder</em>."],
+					"summary": ["The author's third novel. Set in Guyana. Later collected in <em>The Guyana Quartet</em>. Also later collected in <em>The Whole Armour and The Secret Ladder</em>."],
 					"editions": [
 						{
 							"pub_info": "London: Faber and Faber [1962].",
@@ -9929,14 +9936,21 @@ export default function () {
 							"binding": "Hardcover in dust jacket.",
 							"size": "8vo (5 in x 7 1/2 in).",
 							"pages": "128",
-							"img_file": "HarrisArmour-300.jpg"
+							"img_file": "HarrisArmour-300.jpg",
+							"copies": [
+								{
+									"features": "",
+									"condition": "Near fine in boards and very good dust jacket. This is a nice copy of this title. The dust jacket is price clipped, lightly sunned at the spine, lightly soiled on the rear panel, and lightly worn at the extremities. The book's pages are clean, and the binding is tight. The dust jacket is protected in a mylar wrapper .",
+									"price": "100.00"
+								}
+							]
 						}
 					]
 				},
 				{
 					"pub_year": "1963",
 					"title": "The Secret Ladder",
-					"summary": ["A novel set in Guyana. Later collected in <em>The Guyana Quartet</em>. Also later collected in <em>The Whole Armour and The Secret Ladder</em>."],
+					"summary": ["The author's fourth novel. Set in Guyana. Later collected in <em>The Guyana Quartet</em>. Also later collected in <em>The Whole Armour and The Secret Ladder</em>."],
 					"editions": [
 						{
 							"pub_info": "London: Faber and Faber [1963].",
@@ -10176,7 +10190,7 @@ export default function () {
 							"copies": [
 								{
 									"features": "",
-									"condition": "Near fine in boards and a very good dust jacket. There is minor sunning to the spine of the dust jacket. The book's pages are clean and unmarked, and the binding is very tight.",
+									"condition": "Near fine in boards and a near fine dust jacket. This is a nice copy of this title. The book's pages are clean and unmarked, and the binding is very tight. The dust jacket is protected in a mylar wrapper.",
 									"price": "18.95"
 								}
 							]
@@ -10240,16 +10254,31 @@ export default function () {
 					"editions": [
 						{
 							"pub_info": "London: Faber and Faber [1993].",
-							"edition": "First edition.",
-							"binding": "Hardcover in dust jacket.",
+							"edition": "Uncorrected advance proofs of the first edition.",
+							"binding": "Printed wrappers.",
 							"size": "8vo (5 3/4 in x 8 1/8 in).",
 							"pages": "244",
 							"img_file": "HarrisResurrectionP-300.jpg",
 							"copies": [
 								{
-									"features": "Uncorrected Advance Proofs, as noted on the wrappers cover.",
-									"condition": "Note: This proof copy is NOT hardcover. Fine in printed wrappers and a very good dust jacket. This is a like new copy of this set of uncorrected advance proofs. The book's pages are clean and unmarked, and the binding is very tight. The dust jacket shows minor wear at the top and bottom of the spine.",
+									"features": "",
+									"condition": "Fine in printed wrappers. Also includes a dust jacket that was trimmed at top and bottom in order to make it match the height of the proofs rather than the height of the hardcover first edition. The pages are clean and unmarked, and the binding is very tight. The dust jacket shows minor wear at the top and bottom of the spine.",
 									"price": "30.00"
+								}
+							]
+						},
+						{
+							"pub_info": "London: Faber and Faber [1993].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 1/2 in x 8 3/4 in).",
+							"pages": "244",
+							"img_file": "HarrisResurrection-300.jpg",
+							"copies": [
+								{
+									"features": "",
+									"condition": "Near fine in very good dust jacket. The dust jacket shows some wear at the extremities, most noticeable at the top of the spine. The book's pages are clean and unmarked, and the binding is very tight.",
+									"price": "20.00"
 								}
 							]
 						}
@@ -14226,36 +14255,65 @@ export default function () {
 				{
 					"pub_year": "1941",
 					"title": "Corentyne Thunder",
-					"summary": [""],
+					"summary": ["The author's first book, a novel set in Guyana."],
 					"editions": [
 						{
-							"pub_info": "London: Eyre and Spottiswoode, 1941."
+							"pub_info": "London: Eyre and Spottiswoode, 1941.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 1/4 in x 7 1/2 in).",
+							"pages": "320",
+							"description": "Reportedly, the publisher's warehouse where this book was stored burned down shortly after the book's publication, and only the few copies that were not in that warehouse survive."
 						},
 						{
-							"pub_info": "London: Heinemann, 1970."
+							"pub_info": "London: Heinemann, 1970.",
+							"edition": "Reissue.",
+							"binding": "Paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1950",
 					"title": "A Morning at the Office",
-					"summary": ["Published in the USA under the title A Morning in Trinidad."],
+					"summary": [
+						"The second novel by the acclaimed Guyana-born author. Set in Port of Spain, Trinidad.",
+						"Published in the USA under the title <em>A Morning in Trinidad</em>."
+					],
 					"editions": [
 						{
-							"pub_info": "London: Hogarth Press, 1950."
+							"pub_info": "London: Hogarth Press, 1950.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 1/4 in x 7 1/2 in).",
+							"pages": "247",
+							"img_file": "MittelholzerOffice-300.jpg",
+							"copies": [
+								{
+									"features": "",
+									"condition": "Near fine in cloth-covered boards and a very good dust jacket. This is a very nice copy of this book. The top corners of the boards are lightly bumped. The fore and bottom page edges show some foxing, and there is also some light foxing to the endpapers. The dust jacket is lightly worn at the extremities, has a small spot or stain near the author's name on the front panel, and the front, rear and spine are not quite as bright as the flaps. The book's pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "120.00"
+								}
+							]
 						},
 						{
-							"pub_info": "London: Heinemann, 1974."
+							"pub_info": "London: Heinemann, 1974.",
+							"edition": "Reissue.",
+							"binding": "Paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1950",
 					"title": "A Morning in Trinidad",
-					"summary": ["USA publication of A Morning at the Office."],
+					"summary": ["USA publication of <em>A Morning at the Office</em>."],
 					"editions": [
 						{
-							"pub_info": "Garden City: Doubleday & Company, 1950."
+							"pub_info": "Garden City: Doubleday & Company, 1950.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 1/2 in x 8 1/4 in).",
+							"pages": "250",
+							"img_file": "MittelholzerTrinidad-300.jpg"
 						}
 					]
 				},
@@ -14265,23 +14323,37 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "London/New York: Peter Nevill, 1951."
+							"pub_info": "London/New York: Peter Nevill, 1951.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 1/4 in x 7 1/2 in).",
+							"pages": "334",
+							"description": "First printing in March 1951. Second printing in June 1951."
 						},
 						{
-							"pub_info": "Philadelphia: Lippincott, 1951."
+							"pub_info": "Philadelphia: Lippincott, 1951.",
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket."
 						}
 					]
 				},
 				{
 					"pub_year": "1952",
 					"title": "Children of Kaywana",
-					"summary": ["Reissued in 1960 under the title Savage Destiny."],
+					"summary": [
+						"A novel set in Guyana. The first volume of the author's Kaywana Trilogy.",
+						"Reissued in paperback in 1960 under the title <em>Savage Destiny</em>."
+					],
 					"editions": [
 						{
-							"pub_info": "London: Peter Nevill, 1952."
+							"pub_info": "London: Peter Nevill, 1952.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						},
 						{
-							"pub_info": "New York: The John Day Company [1952]."
+							"pub_info": "New York: The John Day Company [1952].",
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket."
 						}
 					]
 				},
@@ -14291,23 +14363,43 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "London: Secker and Warburg, 1952."
+							"pub_info": "London: Secker and Warburg, 1952.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						},
 						{
-							"pub_info": "New York: The John Day Company, 1953."
+							"pub_info": "New York: The John Day Company, 1953.",
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket."
 						}
 					]
 				},
 				{
 					"pub_year": "1953",
 					"title": "The Life and Death of Sylvia",
-					"summary": ["Reissued in paperback under the title Sylvia."],
+					"summary": [
+						"Reissued in paperback under the title <em>Sylvia</em>."
+					],
 					"editions": [
 						{
-							"pub_info": "London: Secker and Warburg, 1953."
+							"pub_info": "London: Secker and Warburg, 1953.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 3/8 in x 8 in).",
+							"pages": "288",
+							"img_file": "MittelholzerSylvia-300.jpg",
+							"copies": [
+								{
+									"features": "",
+									"condition": "Very good in boards and a very good dust jacket. The boards are lightly bumped at front bottom corner and the rear bottom edge. There is a Perth bookshop sticker on the bottom right corner of the front pastedown, and a previous owner's name in ink at the top of the front endpaper. The dust jacket is price clipped, lightly worn at the extremities with some loss at the top and bottom of the spine. The book's pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "150.00"
+								}
+							]
 						},
 						{
-							"pub_info": "New York: The John Day Company, 1954."
+							"pub_info": "New York: The John Day Company, 1954.",
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket."
 						}
 					]
 				},
@@ -14317,17 +14409,35 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "Kingston: Pioneer Press, 1954."
+							"pub_info": "Kingston: Pioneer Press, 1954.",
+							"edition": "First edition.",
+							"binding": "Trade paperback in illustrated wrappers."
 						}
 					]
 				},
 				{
 					"pub_year": "1954",
 					"title": "The Harrowing of Hubertus",
-					"summary": ["Published in the USA under the title Hubertus. Reissued in 1959 under the title Kaywana Stock."],
+					"summary": [
+						"A novel set in Guyana. The second volume of the author's Kaywana Trilogy.",
+						"Published in the USA under the title <em>Hubertus</em>.",
+						"Reissued in 1959 under the title <em>Kaywana Stock</em>."
+					],
 					"editions": [
 						{
-							"pub_info": "London: Secker and Warburg, 1954."
+							"pub_info": "London: Secker and Warburg, 1954.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 3/8 in x 8 in).",
+							"pages": "303",
+							"img_file": "MittelholzerHubertus-300.jpg",
+							"copies": [
+								{
+									"features": "",
+									"condition": "Very good in boards and a good dust jacket. The book is lightly bumped at top left corner of the spine. There is light foxing to the front and rear endpapers and to the initial four pages. The page edges are also foxed, with dust-staining to the top edges. The dust jacket is price clipped, lightly worn at the extremities with some loss, and the rear panel has closed tears at and near the spine. The book's pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a plastic wrapper.",
+									"price": "80.00"
+								}
+							]
 						},
 						{
 							"pub_info": "London: NEL Books, 1968."
@@ -14337,10 +14447,12 @@ export default function () {
 				{
 					"pub_year": "1955",
 					"title": "Hubertus",
-					"summary": ["USA publication of The Harrowing of Hubertus."],
+					"summary": ["USA publication of <em>The Harrowing of Hubertus</em>."],
 					"editions": [
 						{
-							"pub_info": "New York, The John Day Company, 1955."
+							"pub_info": "New York, The John Day Company, 1955.",
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket."
 						}
 					]
 				},
@@ -14350,7 +14462,9 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "London: Secker and Warburg, 1955."
+							"pub_info": "London: Secker and Warburg, 1955.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						},
 						{
 							"pub_info": "London: Longman/Drumbeat, 1982."
@@ -14363,7 +14477,19 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "London: Secker and Warburg, 1956."
+							"pub_info": "London: Secker and Warburg, 1956.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 1/4 in x 7 1/2 in).",
+							"pages": "256",
+							"img_file": "MittelholzerTrees-300.jpg",
+							"copies": [
+								{
+									"features": "",
+									"condition": "Good in boards and a very good dust jacket. The top corners of the boards are bumped and there is an ownership inscription on the front endpaper. There is foxing to the front and rear endpapers, and there is also diminishing foxing over the initial 20 pages, then increasing over the final 20 pages. The page edges are also foxed, with dust-staining to the top edges. The dust jacket is lightly worn at the extremities, and the originally-white rear jacket panel is soiled and shows some foxing. Otherwise, the book's pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a plastic wrapper.",
+									"price": "30.00"
+								}
+							]
 						}
 					]
 				},
@@ -14373,17 +14499,24 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "London: Secker and Warburg, 1957."
+							"pub_info": "London: Secker and Warburg, 1957.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						}
 					]
 				},
 				{
 					"pub_year": "1958",
 					"title": "Kaywana Blood",
-					"summary": ["Published in the USA under the title The Old Blood."],
+					"summary": [
+						"A novel set in Guyana. The third volume of the authors Kaywana Trilogy.",
+						"Published in the USA under the title <em>The Old Blood</em>."
+					],
 					"editions": [
 						{
-							"pub_info": "London: Secker and Warburg, 1958."
+							"pub_info": "London: Secker and Warburg, 1958.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						},
 						{
 							"pub_info": "London: Grafton Books, 1986."
@@ -14393,20 +14526,24 @@ export default function () {
 				{
 					"pub_year": "1958",
 					"title": "The Old Blood",
-					"summary": ["USA publication of Kaywana Blood."],
+					"summary": ["USA publication of <em>Kaywana Blood</em>."],
 					"editions": [
 						{
-							"pub_info": "Garden City: Doubleday & Company, 1958."
+							"pub_info": "Garden City: Doubleday & Company, 1958.",
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket."
 						}
 					]
 				},
 				{
 					"pub_year": "1958",
-					"title": "With a Carib Eye (Nonfiction)",
-					"summary": [""],
+					"title": "With a Carib Eye",
+					"summary": ["Nonfiction"],
 					"editions": [
 						{
-							"pub_info": "London: Secker & Warburg, 1958."
+							"pub_info": "London: Secker & Warburg, 1958.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						}
 					]
 				},
@@ -14416,50 +14553,81 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "London: Secker & Warburg, 1958."
+							"pub_info": "London: Secker & Warburg, 1958.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						}
 					]
 				},
 				{
 					"pub_year": "1959",
 					"title": "Kaywana Stock",
-					"summary": ["Originally published in 1954 as The Harrowing of Hubertus."],
+					"summary": ["Originally published in 1954 as <em>The Harrowing of Hubertus</em>."],
 					"editions": [
 						{
-							"pub_info": "London: Secker and Warburg, 1959."
+							"pub_info": "London: Secker and Warburg, 1959.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						}
 					]
 				},
 				{
 					"pub_year": "1959",
 					"title": "A Tinkling in the Twilight",
-					"summary": [""],
+					"summary": ["A novel about a reclusive London bookseller by the acclaimed Guyana-born author."],
 					"editions": [
 						{
-							"pub_info": "London: Secker and Warburg, 1959."
+							"pub_info": "London: Secker and Warburg, 1959.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 1/2 in x 8 in).",
+							"pages": "269",
+							"img_file": "MittelholzerTinkling-300.jpg",
+							"copies": [
+								{
+									"features": "",
+									"condition": "Near fine in boards and very good dust jacket. The spine is slightly cocked, and the bottom rear corner of the boards is lightly bumped. The dust jacket is faded at the spine, and very lightly worn at the extremities, with a 1/4 inch by 1/4 inch chip at the top of the spine, and a 1 inch closed tear at the top of the front panel. The book's pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "60.00"
+								}
+							]
 						}
 					]
 				},
 				{
 					"pub_year": "1959",
 					"title": "The Mad MacMullochs",
-					"summary": [""],
+					"summary": ["A novel set in Barbados by the acclaimed Guyana-born author."],
 					"editions": [
 						{
-							"pub_info": "London: Peter Owen, 1959."
+							"pub_info": "London: Peter Owen, 1959.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						},
 						{
-							"pub_info": "London: World Distributors [1961]. (Mass Market Paperback)"
+							"pub_info": "London: World Distributors [1961].",
+							"edition": "First paperback edition.",
+							"binding": "Mass Market Paperback.",
+							"size": "12mo (4 3/8 in x 6 5/8 in).",
+							"pages": "253",
+							"img_file": "MittelholzerMadPB-300.jpg",
+							"copies": [
+								{
+									"features": "",
+									"condition": "Near fine in pictorial wrappers. This is a nearly flawless, unread copy of this book. There is very light wear to the extremities and a fold mark to the rear bottom corner of the wrappers. The book's pages are beginning to tan from the edges, as is typical with aging of the paper used to print this book. Otherwise, the pages are clean and unmarked, and the binding is very tight.",
+									"price": "95.00"
+								}
+							]
 						}
 					]
 				},
 				{
 					"pub_year": "1960",
 					"title": "Sylvia",
-					"summary": ["Originally published in 1953 as The Life and Death of Sylvia."],
+					"summary": ["Originally published in 1953 as <em>The Life and Death of Sylvia</em>."],
 					"editions": [
 						{
-							"pub_info": "New York: Dell, 1960. (Mass Market Paperback)"
+							"pub_info": "New York: Dell, 1960.",
+							"binding": "Mass Market Paperback."
 						}
 					]
 				},
@@ -14469,7 +14637,9 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "London: Secker and Warburg, 1960."
+							"pub_info": "London: Secker and Warburg, 1960.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						}
 					]
 				},
@@ -14479,17 +14649,20 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "London: Secker and Warburg, 1960."
+							"pub_info": "London: Secker and Warburg, 1960.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						}
 					]
 				},
 				{
 					"pub_year": "1960",
 					"title": "Savage Destiny",
-					"summary": ["Originally published in 1952 as Children of Kaywana."],
+					"summary": ["Originally published in 1952 as <em>Children of Kaywana</em>."],
 					"editions": [
 						{
-							"pub_info": "New York: Dell, 1960. (Mass Market Paperback)"
+							"pub_info": "New York: Dell, 1960.",
+							"binding": "Mass Market Paperback."
 						}
 					]
 				},
@@ -14499,7 +14672,9 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "London: Secker and Warburg, 1961."
+							"pub_info": "London: Secker and Warburg, 1961.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						}
 					]
 				},
@@ -14509,7 +14684,9 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "London: Putnam, 1961."
+							"pub_info": "London: Putnam, 1961.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						}
 					]
 				},
@@ -14519,17 +14696,21 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "London: Putnam, 1962."
+							"pub_info": "London: Putnam, 1962.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						}
 					]
 				},
 				{
 					"pub_year": "1963",
-					"title": "A Swarthy Boy (Autobiography)",
-					"summary": [""],
+					"title": "A Swarthy Boy",
+					"summary": ["Autobiography"],
 					"editions": [
 						{
-							"pub_info": "London: Putnam, 1963."
+							"pub_info": "London: Putnam, 1963.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						}
 					]
 				},
@@ -14539,7 +14720,9 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "London: Macdonald, 1963."
+							"pub_info": "London: Macdonald, 1963.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						}
 					]
 				},
@@ -14556,10 +14739,22 @@ export default function () {
 				{
 					"pub_year": "1965",
 					"title": "The Jilkington Drama",
-					"summary": [""],
+					"summary": ["A novel set in the English countryside by the acclaimed Guyana-born author."],
 					"editions": [
 						{
-							"pub_info": "London/New York/Toronto: Abelard-Schuman [1965]."
+							"pub_info": "London/New York/Toronto: Abelard-Schuman [1965].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 3/4 in x 8 3/4 in).",
+							"pages": "191",
+							"img_file": "MittelholzerDrama-300.jpg",
+							"copies": [
+								{
+									"features": "",
+									"condition": "Very good in boards and dust jacket. There is a tear at the top of the rear endpaper. The dust jacket is faded at the spine from red-orange to yellow, and less faded across the top of the front panel. The dust jacket also shows some wear at the extremities, evidence of folding along the top edge of the back panel. and is clipped at the bottom of the front flap. There is a spot or stain on the bottom page edges. The book's pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "70.00"
+								}
+							]
 						}
 					]
 				}
