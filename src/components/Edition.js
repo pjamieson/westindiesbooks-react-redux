@@ -10,6 +10,7 @@ class Edition extends Component {
   render() {
     const edition = this.props.edition;
     const img_url = '../assets/images/' + edition.img_file;
+
     let note_paragraphs = [];
     if (edition.notes) {
       edition.notes.forEach((paragraph) => {
@@ -18,6 +19,7 @@ class Edition extends Component {
         );
       });
     }
+    
     let copies = [];
     if (edition.copies) {
       edition.copies.forEach((copy) => {

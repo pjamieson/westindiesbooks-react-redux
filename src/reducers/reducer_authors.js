@@ -60,6 +60,214 @@ export default function () {
 			]
 		},
 		{
+			"last_name": "Adisa",
+			"first_name": "Opal Palmer",
+			"birth_country": "Jamaica",
+			"birth_year": "1954",
+			"death_year": "",
+			"bio": [
+				"Writer of both poetry and prose, photographer, curator, professor, educator and cultural activist, <strong>Opal Palmer Adisa</strong> has lectured and read her work throughout the United States, South Africa, Ghana, Nigeria, Germany, England and Prague, and has performed in Italy and Bosnia. <i>(opalpalmeradisa.com)</i>",
+				"Adisa won the 1987 Pushcart Prize award for the short story <i>Duppy Get Her</i>."
+			],
+			"books": [
+				{
+					"pub_year": "1985",
+					"title": "Pina, The Many-Eyed Fruit",
+					"summary": ["Children's book."],
+					"editions": [
+						{
+							"pub_info": "California: Julian Richardson, 1985.",
+							"edition": "First edition."
+						}
+					]
+				},
+				{
+					"pub_year": "1986",
+					"title": "Bake-Face and Other Guava Stories",
+					"summary": ["Set in rural Jamaica, these stories celebrate the lives of four, semi-educated Jamaican women struggling for survival and self-expression against a history of social and sexual oppression. Seemingly hard and rough from the outside, from within their lives offer sweetness and feeling. <i>(Publisher's synopsis)</i>"],
+					"editions": [
+						{
+							"pub_info": "Berkeley: Kelsey Street Press, 1986.",
+							"edition": "First edition.",
+							"binding": "Paperback."
+						},
+						{
+							"pub_info": "London: Flamingo, 1987.",
+							"edition": "Second edition.",
+							"binding": "Paperback",
+							"notes": ["With an Introduction by Rosa Guy."]
+						},
+						{
+							"pub_info": "London: Mango Publishing, 2007.",
+							"edition": "Reprint of second edition.",
+							"binding": "Paperback."
+						}
+					]
+				},
+				{
+					"pub_year": "1989",
+					"title": "Traveling Women",
+					"summary": ["Poems by two Bay Area women. (With Devorah Major.) The poets have worked together as <i>Daughters of Yam</i> since 1984."],
+					"editions": [
+						{
+							"pub_info": "Oakland, California: Jukebox Press, 1989.",
+							"edition": "First edition.",
+							"binding": "Paperback.",
+							"pages": "103"
+						}
+					]
+				},
+				{
+					"pub_year": "1992",
+					"title": "Tamarind and Mango Women",
+					"summary": ["Poems."],
+					"editions": [
+						{
+							"pub_info": "Toronto: Sister Vision Press, 1992.",
+							"edition": "First edition.",
+							"binding": "Trade paperback.",
+							"pages": "120"
+						}
+					]
+				},
+				{
+					"pub_year": "1997",
+					"title": "It Begins With Tears",
+					"summary": ["In this novel <em>Opal Palmer Adisa</em> brings to life a whole community and writes with understanding and compassion about the frailties of its inhabitants. Drawing on Jamaican folklore, she shows what is at the heart of village life, and how that life can be sustained. <i>(Publisher's synopsis)</i>"],
+					"editions": [
+						{
+							"pub_info": "Oxford: Heinemann, 1997.",
+							"edition": "First edition.",
+							"binding": "Paperback."
+						}
+					]
+				},
+				{
+					"pub_year": "2000",
+					"title": "Leaf-of-Life",
+					"summary": ["Poems."],
+					"editions": [
+						{
+							"pub_info": "Oakland, California: Jukebox Press, 2000.",
+							"edition": "First edition.",
+							"binding": "Paperback.",
+							"pages": "103"
+						}
+					]
+				},
+				{
+					"pub_year": "2004",
+					"title": "Caribbean Passion",
+					"summary": ["This feisty, sensuous, and thought-provoking collection of poetry from <em>Opal Palmer Adisa</em> includes powerful poems about the solidarity of women, the female elders of the poet's own family, and the desire for male difference—including the benefits of having a younger lover. In these poems there is no gap between the historical, the political, and the personal, all are defined by the presence or absence of the freedom to enjoy the fruits of life. <i>(Publisher's synopsis)</i>"],
+					"editions": [
+						{
+							"pub_info": "Leeds: Peepal Tree Press, 2004.",
+							"edition": "First edition.",
+							"binding": "Paperback.",
+							"pages": "96"
+						}
+					]
+				},
+				{
+					"pub_year": "2006",
+					"title": "Eros Muse: Poems & Essays",
+					"summary": ["Examines the love affair between the poet and her muse. Personifying the muse as her ultimate, possessive lover, the poet explores what it means to be a writer. The essays are more pragmatic in tone and approach and explore the dual role of mother and writer. Yet the poems are more flirtatious, a dance of language and process, a prance, a trot, a sweeping waltz in which the poet and language shimmy across the room. <i>(Publisher's synopsis)</i>"],
+					"editions": [
+						{
+							"pub_info": "Trenton, NJ: Africa World Press, 2006.",
+							"edition": "First edition.",
+							"binding": "Paperback."
+						}
+					]
+				},
+				{
+					"pub_year": "2007",
+					"title": "Until Judgement Comes: Stories About Jamaican Men",
+					"summary": ["Sensitive and imaginative, this collection of short stories explores the Jamaican male psyche through free-flowing narratives, stories within stories, and modern versions of folktales and myths. Structured around the author’s lifetime of experiences within a small Jamaican community, these touching stories explore modern issues relating to men—from the repercussions associated with absentee fathers to the creation of warm, loving home environments. <i>(Publisher's synopsis)</i>"],
+					"editions": [
+						{
+							"pub_info": "Leeds: Peepal Tree Press, 2007.",
+							"edition": "First edition.",
+							"binding": "Paperback."
+						}
+					]
+				},
+				{
+					"pub_year": "2009",
+					"title": "I Name Me Name",
+					"summary": ["Each piece in this dynamic poetic biography uses the voices of iconic figures past and present in a bold exploration of such hot topics as gender, race, and spirituality. The mode of presentation continually shifts—from dramatic monologue or prose poem, to prophetic rant—to provide fresh, moving viewpoints on subjects as various as the senility of a beloved grandmother and Michael Jackson's racial transformations. <i>(Publisher's synopsis)</i>"],
+					"editions": [
+						{
+							"pub_info": "Leeds: Peepal Tree Press, 2009.",
+							"edition": "First edition.",
+							"binding": "Paperback."
+						}
+					]
+				},
+				{
+					"pub_year": "2009",
+					"title": "Conscious Living",
+					"summary": ["Poems."],
+					"editions": [
+						{
+							"pub_info": "San Francisco: The Literary Leaf of Deconstructed Artichoke Press, 2009.",
+							"edition": "First edition.",
+							"binding": "Paperback chapbook."
+						}
+					]
+				},
+				{
+					"pub_year": "2009",
+					"title": "Amour Verdinia",
+					"summary": ["Poems."],
+					"editions": [
+						{
+							"pub_info": "San Francisco: The Literary Leaf of Deconstructed Artichoke Press, 2009.",
+							"edition": "First edition.",
+							"binding": "Paperback chapbook."
+						}
+					]
+				},
+				{
+					"pub_year": "2011",
+					"title": "Painting Away Regrets",
+					"summary": ["A novel. Set primarily in the Bay Area of California, this compelling tale of human intent and divine manipulation touches upon the very inherent aspects of love, betrayal, madness, and reconciliation, all within the framework of the Yoruba belief system. Two modern, urban professionals—fundamentally unsuited to one another, aside from a powerful sexual chemistry—traverse life to the point of reaching the crossroads of divorce many years later. Dancing between the drama that unfolds between protagonists Crystal and Donald and the mirrored fantasy world of the Orishas where every human act has a spiritual ramification, this frank and intimate story revels in the multiple dimensions of the heart, mind, and soul. <i>(Publisher's synopsis)</i>"],
+					"editions": [
+						{
+							"pub_info": "Leeds: Peepal Tree Press, 2011.",
+							"edition": "First edition.",
+							"binding": "Paperback"
+						}
+					]
+				},
+				{
+					"pub_year": "2013",
+					"title": "4-Headed Women",
+					"summary": ["Poems. A journey into and through womanhood—from preadolescence through menopause—and an exploration of women’s relations with one another. The poems employ female domestic imagery, manifest in the titles in the book’s first section, which name different types of breads found throughout the world—from coconut to pita. <i>(Publisher's synopsis)</i>"],
+					"editions": [
+						{
+							"pub_info": "San Fernando, California: Tia Chucha Press, 2013.",
+							"edition": "First edition.",
+							"binding": "Paperback"
+						}
+					]
+				},
+				{
+					"pub_year": "2017",
+					"title": "Love's Promise",
+					"summary": ["Stories of innocent childhood love; of couples meeting again after years of being apart and finding each other still with the passion of earlier days; older women finding time to enjoy companionship and sex; a wife whose love for herself takes her to another zone of self-protection. This is <em>Love's Promise</em> which refreshes our faith in humanity, a way of being naturally in the world, flaws and all. <i>(Carole Boyce Davies)</i>"],
+					"editions": [
+						{
+							"pub_info": "Fairfax Station, VA: CaribbeanReads Publishing, 2017.",
+							"edition": "First edition.",
+							"binding": "Trade paperback.",
+							"pages": "184"
+						}
+					]
+				}
+			]
+		},
+		{
 			"last_name": "Alleyne",
 			"first_name": "Vanessa",
 			"birth_country": "Trinidad and Tobago",
