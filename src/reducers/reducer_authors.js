@@ -13473,7 +13473,9 @@ export default function () {
 					"summary": ["This novel, set in a yard which is a microcosm of Kingston slum life, sets out as Mais himself said to give &quot;a true picture of the real Jamaica and the dreadful condition of the working classes.&quot; It precedes the Rasta story of Brother Man. <i>(Heinemann synopsis)</i>"],
 					"editions": [
 						{
-							"pub_info": "London: Jonathan Cape, 1953."
+							"pub_info": "London: Jonathan Cape, 1953.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						},
 						{
 							"pub_info": "London: Heinemann, 1980."
@@ -13486,7 +13488,9 @@ export default function () {
 					"summary": ["This is Roger Mais' second novel. It brings alive the dance and laughter of the poor struggling for existence in the slums of Jamaica. In particular it portrays the Rastafarian cult. <i>(Heinemann synopsis)</i>"],
 					"editions": [
 						{
-							"pub_info": "London: Jonathan Cape, 1954."
+							"pub_info": "London: Jonathan Cape, 1954.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						},
 						{
 							"pub_info": "London: Heinemann, 1974."
@@ -13499,10 +13503,24 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "London: Jonathan Cape, 1955."
+							"pub_info": "London: Jonathan Cape, 1955.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						},
 						{
 							"pub_info": "London: Heinemann, 1983."
+						}
+					]
+				},
+				{
+					"pub_year": "1966",
+					"title": "The Three Novels of Roger Mais",
+					"summary": [""],
+					"editions": [
+						{
+							"pub_info": "London: Jonathan Cape, 1966.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						}
 					]
 				},
@@ -13512,7 +13530,19 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "Harlow, Essex: Longman, 1986."
+							"pub_info": "[Harlow] Longman [1986].",
+							"edition": "First edition.",
+							"binding": "Trade paperback.",
+							"size": "8vo (5 in x 7 1/2 in).",
+							"pages": "160",
+							"img_file": "MaisListen-300.jpg",
+							"copies": [
+								{
+									"features": "",
+									"condition": "Very good in pictorial wrappers. The covers show some usage and wear, and there is a price sticker on the back cover. The book's pages are beginning to tan from the edges, as is typical with aging of the paper used to print this book. The pages are clean and unmarked, and the binding is tight.",
+									"price": "12.50"
+								}
+							]
 						}
 					]
 				}
@@ -13544,12 +13574,14 @@ export default function () {
 			"birth_country": "Martinique/France",
 			"birth_year": "",
 			"death_year": "",
-			"bio": ["Born in Martinique, Maran participated in the New Negro movement in the U.S. and later, through gatherings at his home in Paris, facilitated the birth of Negritude."],
+			"bio": [
+				"Born in Martinique, Maran participated in the New Negro movement in the U.S. and later, through gatherings at his home in Paris, facilitated the birth of Negritude."
+			],
 			"books": [
 				{
 					"pub_year": "1921",
 					"title": "Batouala: A True Black Novel",
-					"summary": ["Originally published in French. 'Batouala', which gained the Goncourt Prize in 1921, is a genuine picture of negro life in the French Congo. If some passages here and there appear a little outspoken to English taste, they form nevertheless an integral part of this authentic portrayal of negro manners. [British publisher's note]. Set in the Oubangui-Chari region of French Equatorial Africa."],
+					"summary": ["Originally published in French. <em>Batouala</em>, which gained the Goncourt Prize in 1921, is a genuine picture of negro life in the French Congo. If some passages here and there appear a little outspoken to English taste, they form nevertheless an integral part of this authentic portrayal of negro manners. <i>(British publisher's note)</i>. Set in the Oubangui-Chari region of French Equatorial Africa."],
 					"editions": [
 						{
 							"pub_info": "Michel: Editions Alb, 1921."
@@ -13570,7 +13602,7 @@ export default function () {
 				},
 				{
 					"pub_year": "1958",
-					"title": "Le livre du souvenir. poemes, (1909-1957)",
+					"title": "Le livre du souvenir. Poemes, (1909-1957)",
 					"summary": [""],
 					"editions": [
 						{
@@ -13586,7 +13618,7 @@ export default function () {
 			"birth_country": "Montserrat",
 			"birth_year": "1939",
 			"death_year": "",
-			"bio": ["Born in the village of Harris, Montserrat, West Indies in 1939, E .A. (Archie) Markham's large, cultivated, extended family (theirs was, as his friend Howard Fergus describes, a 'near Great-House') continues to provide him with much material for his fiction and poetry. He began a classical education at Montserrat's only grammar school, but left the island in his youth to complete his education in Britain. Nevertheless, he has remained closely concerned with the fortunes of Monserrat, particularly after the devastating hurricane Hugo of 1989 and the volcanic eruption of a few years later that continues to threaten Montserrat's very existence as a society."],
+			"bio": ["Born in the village of Harris, Montserrat, West Indies in 1939, <strong>E .A. (Archie) Markham</strong>'s large, cultivated, extended family (theirs was, as his friend Howard Fergus describes, a 'near Great-House') continues to provide him with much material for his fiction and poetry. He began a classical education at Montserrat's only grammar school, but left the island in his youth to complete his education in Britain. Nevertheless, he has remained closely concerned with the fortunes of Monserrat, particularly after the devastating hurricane Hugo of 1989 and the volcanic eruption of a few years later that continues to threaten Montserrat's very existence as a society."],
 			"books": [
 				{
 					"pub_year": "1972",
@@ -14169,36 +14201,60 @@ export default function () {
 			"last_name": "Melville",
 			"first_name": "Pauline",
 			"birth_country": "Guyana/England",
-			"birth_year": "",
+			"birth_year": "1948",
 			"death_year": "",
-			"bio": [""],
+			"bio": [
+				"<strong>Pauline Melville</strong> is a Guyanese-born writer and actress of mixed European and Amerindian ancestry, who is currently based in London, England. Among awards she has received for her writing are the Commonwealth Writers' Prize, the Guardian Fiction Prize, the Whitbread First Novel Award, and the Guyana Prize for Literature. Salman Rushdie has said: 'I believe her to be one of the few genuinely original writers to emerge in recent years.' <i>(Wikipedia)</i>"
+			],
 			"books": [
 				{
 					"pub_year": "1990",
 					"title": "Shape-Shifter",
-					"summary": [""],
+					"summary": ["A collection of short stories. Winner of the 1991 Commonwealth Writers' Prize (Overall Winner, Best First Book), and the PEN/Macmillan Silver Pen Award. A number of the stories deal with post-colonial life in the Caribbean, particularly in her native Guyana, as well as of some stories being set in London. "],
 					"editions": [
 						{
-							"pub_info": "London: The Women's Press, 1990."
+							"pub_info": "London: The Women's Press, 1990.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
+					},
+						{
+							"pub_info": "New York: Pantheon [1991].",
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 1/4 in x 8 1/2 in).",
+							"pages": "164",
+							"img_file": "MelvilleShapeUS-300.jpg",
+							"copies": [
+								{
+									"features": "",
+									"condition": "Fine in boards and fine dust jacket. This is a like-new copy of this book. The pages are clean and unmarked, and the binding is very tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "9.95"
+								}
+							]
 						},
 						{
-							"pub_info": "New York: Pantheon, 1990."
-						},
-						{
-							"pub_info": "London: Picador, 1991."
+							"pub_info": "London: Picador, 1991.",
+							"binding": "Paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1997",
 					"title": "The Ventriloquist's Tale",
-					"summary": [""],
+					"summary": [
+						"The author's first novel. Explores the nature of fiction and storytelling and writes about the impact of European colonisers on Guyanese Amerindians through the story of a brother and sister. Winner of the Whitbread First Novel Award and the Guyana Prize for Literature.",
+						"A personal favorite. Perhaps the most gripping first page I've ever read, and only gets better from there."
+					],
 					"editions": [
 						{
-							"pub_info": "London: Bloomsbury [1997]."
+							"pub_info": "London: Bloomsbury [1997].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						},
 						{
-							"pub_info": "New York: Bloomsbury, 1998."
+							"pub_info": "New York: Bloomsbury, 1998.",
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket."
 						}
 					]
 				},
@@ -14208,7 +14264,21 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "London: Bloomsbury, 1998."
+							"pub_info": "London: Bloomsbury, 1998.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
+						}
+					]
+				},
+				{
+					"pub_year": "2009",
+					"title": "Eating Air",
+					"summary": ["A novel."],
+					"editions": [
+						{
+							"pub_info": "London: Telegram, 2009.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						}
 					]
 				}
@@ -15304,10 +15374,28 @@ export default function () {
 				{
 					"pub_year": "1987",
 					"title": "The Enigma of Arrival",
-					"summary": [""],
+					"summary": ["A semi-autobiographical novel by the Trinidad-born winner of the 2001 Nobel Prize in Literature."],
 					"editions": [
 						{
-							"pub_info": "London: Andre Deutsch, 1987."
+							"pub_info": "London: Viking, 1987.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "New York: Alfred A. Knopf, 1987.",
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (6 in x 8 1/2 in).",
+							"pages": "354",
+							"img_file": "NaipaulArrival-300.jpg",
+							"copies": [
+								{
+									"features": "Publisher's promotional bookmark laid in.",
+									"condition": "Very good in boards and very good dust jacket. There is some wear to the dust jacket, most noticeable on the back. There is what's probably a remainder mark on the top page edges. The pages are clean and unmarked, and the binding is very tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "12.50"
+								}
+							]
+
 						}
 					]
 				},
