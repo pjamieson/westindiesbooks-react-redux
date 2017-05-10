@@ -84,7 +84,9 @@ class ResultsSection extends Component {
       full_name = author.first_name + ' ' + author.last_name;
 
       show_author = true;
-      // Check if author meets all filter criteria
+      // Check if the Author meets all filter criteria. At this point, we are only
+      // determining if we want to show at least one Book by the Author. The order
+      // of these tests is important, and once any test fails, no more will be tried.
       if (authorFilterText) {
         show_author = full_name.toLowerCase().indexOf(authorFilterText) > -1;
       }
@@ -109,16 +111,14 @@ class ResultsSection extends Component {
         // show author's books that meet search criteria
         author.books.forEach((book) => {
           show_book = true;
-          if (titleFilterText || publisherFilterText || offeredOnly) {
-            if (titleFilterText) {
-              show_book = book.title.toLowerCase().indexOf(titleFilterText) > -1;
-            }
-            if (show_book && publisherFilterText) {
-              show_book = this.bookHasEditionFromPublisher(book.editions, publisherFilterText);
-            }
-            if (show_book && offeredOnly) {
-              show_book = this.bookHasTitleWithEditionOffered(book.editions);
-            }
+          if (titleFilterText) {
+            show_book = book.title.toLowerCase().indexOf(titleFilterText) > -1;
+          }
+          if (show_book && publisherFilterText) {
+            show_book = this.bookHasEditionFromPublisher(book.editions, publisherFilterText);
+          }
+          if (show_book && offeredOnly) {
+            show_book = this.bookHasTitleWithEditionOffered(book.editions);
           }
           if (show_book) {
             rows.push( <Book key={rows.length} book={book}

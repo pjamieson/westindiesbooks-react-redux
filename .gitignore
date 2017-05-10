@@ -18,3 +18,7 @@ yarn-error.log*
 
 # With sass as source, don't need generated css
 src/**/*.css
+
+# SonarQube files
+/.scannerwork
+sonar-project.properties
