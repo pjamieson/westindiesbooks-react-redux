@@ -16,7 +16,7 @@ export default function () {
 						{
 							"pub_info": "Kingston: Printers Ltd., 1944.",
 							"edition": "First edition.",
-							"binding": "Trade paperback",
+							"binding": "Trade paperback.",
 							"pages": "93"
 						}
 					]
@@ -53,7 +53,7 @@ export default function () {
 						{
 							"pub_info": "Leeds: Peepal Tree Press, 2003.",
 							"edition": "First edition.",
-							"binding": "Trade paperback"
+							"binding": "Trade paperback."
 						}
 					]
 				}
@@ -94,7 +94,7 @@ export default function () {
 						{
 							"pub_info": "London: Flamingo, 1987.",
 							"edition": "Second edition.",
-							"binding": "Paperback",
+							"binding": "Paperback.",
 							"notes": ["With an Introduction by Rosa Guy."]
 						},
 						{
@@ -236,7 +236,7 @@ export default function () {
 						{
 							"pub_info": "Leeds: Peepal Tree Press, 2011.",
 							"edition": "First edition.",
-							"binding": "Paperback"
+							"binding": "Paperback."
 						}
 					]
 				},
@@ -248,7 +248,7 @@ export default function () {
 						{
 							"pub_info": "San Fernando, California: Tia Chucha Press, 2013.",
 							"edition": "First edition.",
-							"binding": "Paperback"
+							"binding": "Paperback."
 						}
 					]
 				},
@@ -283,7 +283,7 @@ export default function () {
 						{
 							"pub_info": "Toronto: Sister Vision Press, 1996.",
 							"edition": "First edition.",
-							"binding": "Trade paperback"
+							"binding": "Trade paperback."
 						}
 					]
 				}
@@ -1548,11 +1548,11 @@ export default function () {
 						},
 						{
 							"pub_info": "Woodstock, NY: Overlook [1993].",
-							"binding": "Trade paperback"
+							"binding": "Trade paperback."
 						},
 						{
 							"pub_info": "London: Faber, 2001.",
-							"binding": "Trade paperback"
+							"binding": "Trade paperback."
 						}
 					]
 				},
@@ -1570,7 +1570,7 @@ export default function () {
 						},
 						{
 							"pub_info": "London: Faber and Faber, 1998.",
-							"binding": "Trade paperback"
+							"binding": "Trade paperback."
 						}
 					]
 				},
@@ -2312,7 +2312,7 @@ export default function () {
 					"editions": [
 						{
 							"pub_info": "New York: Vintage, 2001.",
-							"binding": "Trade paperback",
+							"binding": "Trade paperback.",
 							"pages": "210 pages"
 						}
 					]
@@ -12823,9 +12823,11 @@ export default function () {
 					"summary": ["In this delightful hybrid of a book—-part memoir and part travel journal—-the bestselling author takes us deep into the mountains of Nepal with a trio of botanist friends in search of native Himalayan plants that will grow in her Vermont garden. <i>(Publisher's synopsis)</i>"],
 					"editions": [
 						{
-							"pub_info": "New York: National Geographic Directions, 2005.",
+							"pub_info": "Washington, D.C.: National Geographic [2005].",
 							"edition": "First edition.",
-							"binding": "Hardcover in dust jacket."
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 3/4 in x 8 1/4 in).",
+							"pages": "191"
 						}
 					]
 				},

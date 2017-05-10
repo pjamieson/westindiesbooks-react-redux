@@ -8,7 +8,7 @@ class Book extends Component {
 
   render() {
     const book = this.props.book;
-    let summary_paragraphs = [];
+    const summary_paragraphs = [];
     book.summary.forEach((paragraph) => {
       summary_paragraphs.push(
         <p key={paragraph} dangerouslySetInnerHTML={{__html: paragraph}} />

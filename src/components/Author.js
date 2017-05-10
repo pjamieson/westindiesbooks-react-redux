@@ -8,7 +8,7 @@ class Author extends Component {
 
   render() {
     const author = this.props.author;
-    let bio_paragraphs = [];
+    const bio_paragraphs = [];
     author.bio.forEach((paragraph) => {
       bio_paragraphs.push(
         <p key={paragraph} dangerouslySetInnerHTML={{__html: paragraph}} />

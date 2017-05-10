@@ -4,7 +4,7 @@ import './ArtIndex.css';
 
 class ArtIndex extends Component {
   render() {
-    let rows = [];
+    const rows = [];
     let last_cat = null;
     this.props.art_links.forEach((link) => {
       if (link.cat !== last_cat) {
