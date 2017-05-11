@@ -345,7 +345,7 @@ export default function () {
 								{
 									"seller_name": "West Indies Books",
 									"seller_email": "patrick@westindiesbooks.com",
-"condition": "Very good in cloth-covered boards and very good dust jacket. The corners of the boards are lightly bumped. The dust jacket has light foxing at the edges, is lightly soiled, has two 3/4 inch closed tears, and up to 1/8 inch chipping at the top and bottom of the spine. Other than two small stains on the front endpaper, the pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"condition": "Very good in cloth-covered boards and very good dust jacket. The corners of the boards are lightly bumped. The dust jacket has light foxing at the edges, is lightly soiled, has two 3/4 inch closed tears, and up to 1/8 inch chipping at the top and bottom of the spine. Other than two small stains on the front endpaper, the pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
 									"price": "80.00"
 								}
 							]
@@ -402,13 +402,16 @@ export default function () {
 					"title": "It Falls Into Place",
 					"summary": [
 						"Edited with an Introduction by Lizabeth Paravisini-Gebert.",
-						"Short stories set in Dominica, New York, and London."
+						"A collection of fourteen short stories. Set in Dominica, New York and London, the stories probe brilliantly beneath the surface of colonial life, often drawing on autobiographical experiences. Allfrey's skill is to lead her characters - from different cultures and races - into unpredictable encounters where miracles can happen. <i>Publisher's synopsys</i>"
 					],
 					"editions": [
 						{
 							"pub_info": "London and Roseau, Dominica: Papillote Press [2004].",
 							"edition": "First edition.",
-							"binding": "Trade paperback."
+							"binding": "Trade paperback with French-fold wrappers.",
+							"size": "8vo (5 1/8 in x 7 3/4 in).",
+							"pages": "138",
+							"img_file": "AllfreyFalls-300.jpg"
 						}
 					]
 				},
