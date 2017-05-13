@@ -402,7 +402,7 @@ export default function () {
 					"title": "It Falls Into Place",
 					"summary": [
 						"Edited with an Introduction by Lizabeth Paravisini-Gebert.",
-						"A collection of fourteen short stories. Set in Dominica, New York and London, the stories probe brilliantly beneath the surface of colonial life, often drawing on autobiographical experiences. Allfrey's skill is to lead her characters - from different cultures and races - into unpredictable encounters where miracles can happen. <i>Publisher's synopsys</i>"
+						"A collection of fourteen short stories. Set in Dominica, New York and London, the stories probe brilliantly beneath the surface of colonial life, often drawing on autobiographical experiences. Allfrey's skill is to lead her characters - from different cultures and races - into unpredictable encounters where miracles can happen. <i>(Publisher's synopsys)</i>"
 					],
 					"editions": [
 						{
@@ -411,7 +411,15 @@ export default function () {
 							"binding": "Trade paperback with French-fold wrappers.",
 							"size": "8vo (5 1/8 in x 7 3/4 in).",
 							"pages": "138",
-							"img_file": "AllfreyFalls-300.jpg"
+							"img_file": "AllfreyFalls-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"condition": "Very Good in lightly worn pictorial wrappers. The pages are clean and unmarked, and the binding is tight.",
+									"price": "17.50"
+								}
+							]
 						}
 					]
 				},
@@ -429,7 +437,15 @@ export default function () {
 							"binding": "Trade paperback with French-fold wrappers.",
 							"size": "8vo (5 1/8 in x 7 3/4 in).",
 							"pages": "94",
-							"img_file": "AllfreyLove-300.jpg"
+							"img_file": "AllfreyLove-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"condition": "Very Good in lightly worn pictorial wrappers. The pages are clean and unmarked, and the binding is tight.",
+									"price": "15.00"
+								}
+							]
 						}
 					]
 				}
@@ -1135,7 +1151,7 @@ export default function () {
 					"editions": [
 						{
 							"pub_info": "London: Heinemann Educational, 1973",
-							"edition": "First edition",
+							"edition": "First edition.",
 							"pages": "58"
 						}
 					]
@@ -5340,7 +5356,7 @@ export default function () {
 					"editions": [
 						{
 							"pub_info": "[Georgetown, Guyana] Release Publishers [1980].",
-							"edition": "First edition",
+							"edition": "First edition.",
 							"binding": "Printed wrappers.",
 							"size": "5 1/4 in x 6 1/4 in.",
 							"pages": "83",
@@ -12830,7 +12846,8 @@ export default function () {
 							"edition": "First edition.",
 							"binding": "Hardcover in dust jacket.",
 							"size": "8vo (5 3/4 in x 8 1/4 in).",
-							"pages": "191"
+							"pages": "191",
+							"img_file": "KincaidFlowers-300.jpg"
 						}
 					]
 				},
@@ -17976,10 +17993,15 @@ export default function () {
 				{
 					"pub_year": "1959",
 					"title": "A Quality of Violence",
-					"summary": [""],
+					"summary": ["The first novel by the acclaimed Jamaican author."],
 					"editions": [
 						{
-							"pub_info": "London: New Authors Ltd., 1959."
+							"pub_info": "London: New Authors Ltd. [1959].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 1/4 in x 8 in).",
+							"pages": "207",
+							"img_file": "SalkeyViolence-300.jpg"
 						},
 						{
 							"pub_info": "London: New Beacon Books, 1978."
@@ -17989,10 +18011,15 @@ export default function () {
 				{
 					"pub_year": "1960",
 					"title": "Escape to an Autumn Pavement",
-					"summary": [""],
+					"summary": ["The second novel by the acclaimed Jamaican author."],
 					"editions": [
 						{
-							"pub_info": "London: Hutchinson, 1960."
+							"pub_info": "London: Hutchinson [1960].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 1/4 in x 8 in).",
+							"pages": "208",
+							"img_file": "SalkeyEscape-300.jpg"
 						}
 					]
 				},
@@ -18368,114 +18395,162 @@ export default function () {
 			"birth_country": "Trinidad and Tobago",
 			"birth_year": "1924",
 			"death_year": "1994",
-			"bio": [""],
+			"bio": ["<strong>Sam Selvon</strong> began his career as a journalist in Trinidad, and went on to establish himself as a writer of novels, short stories, radio and television plays and filmscripts."],
 			"books": [
 				{
 					"pub_year": "1952",
 					"title": "A Brighter Sun",
-					"summary": [""],
+					"summary": ["The first book by the acclaimed Trinidad-born author.",
+					"Trinidad is in the turbulent throes of the Second World War. For Tiger, young and inexperienced, these are years in which to prove his manhood and independence. With his child-bride Urmilla, shy, bewildered and anxious, with two hundred dollars in cash and a milking cow, he sets out into the wilderness of adulthood. <i>(Publisher's synopsis)</i>"],
 					"editions": [
 						{
 							"pub_info": "London: Allan Wingate, 1952.",
-							"binding": "Hardcover in dust jacket."
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"img_file": "SelvonBrighterUK-300.jpg"
 						},
 						{
 							"pub_info": "New York: Viking, 1953.",
-							"binding": "Hardcover in dust jacket."
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 3/4 in x 8 1/4 in).",
+							"pages": "215",
+							"img_file": "SelvonBrighter-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"features": "",
+									"condition": "Very good in cloth-covered boards and dust jacket. There is some staining and foxing to the boards, and they are sunned along the top. The dust jacket is faded at the spine, has an in-place chip at the bottom of the spine, and shows some foxing on the flaps. The paste-downs and endpapers show some foxing, and there is an ownership sticker on the front paste-down. There is some dust-staining to the top page edges. Otherwise, the pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "25.00"
+								}
+							]
 						},
 						{
-							"pub_info": "London: Longman, 1979.",
-							"binding": "Paperback."
+							"pub_info": "London: Longman, 1971.",
+							"edition": "Reprint.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1955",
 					"title": "An Island is a World",
-					"summary": [""],
+					"summary": ["A novel set in post-World War II Trinidad. As an earlier generation thinks of returning to India, Foster, a young man, goes to England and Rufis his brother leaves for the United States, each in search of himself and his world."],
 					"editions": [
 						{
-							"pub_info": "London: Allan Wingate, 1955.",
-							"binding": "Hardcover in dust jacket."
+							"pub_info": "London: Allan Wingate [1955].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 1/8 in x 7 1/2 in).",
+							"pages": "288",
+							"img_file": "SelvonIslandUK-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"features": "",
+									"condition": "Good only in boards and dust jacket. The dust jacket is worn, chipped (most significantly at the head and foot of the spine), and tape-repaired. The boards are bumped at the corners and stained on front and back, and there's fading at the top and bottom of the spine where the dust jacket was chipped. The binding is moderately cocked. There is an ownership inscription on the front endpaper. Otherwise, the pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "40.00"
+								}
+							]
 						},
 						{
-							"pub_info": "Toronto: TSAR, 1993."
+							"pub_info": "Toronto: TSAR, 1993.",
+							"edition": "First Canadian edition.",
+							"binding": "Trade paperback.",
+							"notes": ["With a 20-page Introduction by Kenneth Ramchand."]
 						}
 					]
 				},
 				{
 					"pub_year": "1956",
 					"title": "The Lonely Londoners",
-					"summary": [""],
+					"summary": ["A classic award-winning novel of immigrant life in London in the 1950s."],
 					"editions": [
 						{
 							"pub_info": "London: Allan Wingate, 1956.",
+							"edition": "First edition.",
 							"binding": "Hardcover in dust jacket."
 						},
 						{
 							"pub_info": "New York: St. Martin's Press, 1956.",
-							"binding": "Hardcover in dust jacket."
-						},
-						{
-							"pub_info": "London: Mayflower, 1966.",
-							"binding": "Paperback."
-						},
-						{
-							"pub_info": "London: Longman, 1972.",
-							"binding": "Hardcover in dust jacket."
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 in x 7 1/2 in).",
+							"pages": "171"
 						},
 						{
 							"pub_info": "London: Longman, 1979.",
-							"binding": "Paperback."
+							"edition": "Reprint.",
+							"binding": "Trade paperback."
 						},
 						{
 							"pub_info": "Toronto: TSAR, 1991.",
-							"binding": "Paperback."
+							"edition": "Reprint.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1957",
 					"title": "Ways of Sunlight",
-					"summary": [""],
+					"summary": ["Short stories. The master-storyteller turns his pen to rural village life: gossip and rivalry between village washerwomen; toiling cane-cutters reaping their harvest; superstitious old Ma Procop protecting the fruit of her Mango tree with magic. With equal wit and sensitivity, Selvon reflects the depression of hard times in London, where people live in cold, damp basements, hustling for survival. <i>(Publisher's synopsis)</i>"],
 					"editions": [
 						{
 							"pub_info": "London: MacGibbon and Kee, 1957.",
-							"binding": "Hardcover in dust jacket."
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"pages": "188"
 						},
 						{
 							"pub_info": "New York: St. Martin's Press, 1957.",
-							"binding": "Hardcover in dust jacket."
-						},
-						{
-							"pub_info": "London: Longman Caribbean, 1973.",
+							"edition": "First U.S. edition.",
 							"binding": "Hardcover in dust jacket."
 						},
 						{
 							"pub_info": "London: Longman, 1979.",
-							"binding": "Paperback."
+							"edition": "Reprint.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1958",
 					"title": "Turn Again Tiger",
-					"summary": [""],
+					"summary": ["A sequel to the author's first novel, <em>A Brighter Sun</em>, by the acclaimed Trinidad-born author."],
 					"editions": [
 						{
-							"pub_info": "London: MacGibbon and Kee, 1958.",
-							"binding": "Hardcover in dust jacket."
+							"pub_info": "London: MacGibbon & Kee, 1958.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 1/8 in x 7 1/2 in).",
+							"pages": "219",
+							"img_file": "SelvonTurn-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"features": "",
+									"condition": "Very good in boards and dust jacket. The boards are lightly soiled and bumped at the corners, and there is a slight lean to the spine. The endpapers show foxing. The dust jacket is price-clipped, and lightly worn at the extremities. The pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a soft plastic wrapper.",
+									"price": "25.00"
+								}
+							]
 						},
 						{
 							"pub_info": "New York: St. Martin's Press, 1959.",
+							"edition": "First U.S. edition.",
 							"binding": "Hardcover in dust jacket."
 						},
 						{
 							"pub_info": "London: Four Square, 1962.",
-							"binding": "Paperback."
+							"edition": "Reprint.",
+							"binding": "Paperback.",
+							"pages": "191"
 						},
 						{
 							"pub_info": "London: Heinemann, 1979.",
+							"edition": "Reprint.",
 							"binding": "Paperback."
 						}
 					]
@@ -18487,10 +18562,12 @@ export default function () {
 					"editions": [
 						{
 							"pub_info": "London: MacGibbon and Kee, 1963.",
+							"edition": "First edition.",
 							"binding": "Hardcover in dust jacket."
 						},
 						{
 							"pub_info": "New York: St. Martin's Press, 1963.",
+							"edition": "First U.S. edition.",
 							"binding": "Hardcover in dust jacket."
 						}
 					]
@@ -18498,66 +18575,131 @@ export default function () {
 				{
 					"pub_year": "1965",
 					"title": "The Housing Lark",
-					"summary": [""],
+					"summary": ["A novel of Trinidadians doing their best to survive in a hostile London by the acclaimed Trinidad-born author."],
 					"editions": [
 						{
-							"pub_info": "London: MacGibbon and Kee, 1965.",
-							"binding": "Hardcover in dust jacket."
+							"pub_info": "London: MacGibbon & Kee, 1965.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 in x 7 1/2 in).",
+							"pages": "155",
+							"img_file": "SelvonLark-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"features": "",
+									"condition": "Very good in boards and very good dust jacket. This is a very nice ex-library copy of this scarce first edition. The only evidence of this being ex-library is the plate pasted to the front endpaper. The spine is slightly cocked and the top page edges are a bit dust-stained. The dust jacket is lightly worn and soiled. Two successive interior pages show evidence of their top corners having been folded. Otherwise, the pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "150.00"
+								}
+							]
 						},
 						{
-							"pub_info": "[Washington, DC] Three Continents Press [1990]. (Hardcover and trade paperback)"
+							"pub_info": "[Washington, DC] Three Continents Press [1990].",
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket and trade paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1968",
 					"title": "A Drink of Water",
-					"summary": [""],
+					"summary": ["Four stories from the publisher's <i>Rapid Resding</i> series. These stories are for third or fourth year secondary students whose mother tongue is not English."],
 					"editions": [
 						{
-							"pub_info": "London: Nelson, 1968."
+							"pub_info": "[London] Nelson [1968].",
+							"edition": "First edition."
+						},
+						{
+							"pub_info": "[London] Nelson [1972].",
+							"edition": "First edition, second printing",
+							"binding": "Center-stapled in printed wrappers.",
+							"pages": "43"
 						}
 					]
 				},
 				{
 					"pub_year": "1970",
 					"title": "The Plains of Caroni",
-					"summary": [""],
+					"summary": ["A novel of Trinidad by the acclaimed Trinidad-born author."],
 					"editions": [
 						{
-							"pub_info": "London: MacGibbon and Kee, 1970.",
+							"pub_info": "[London] MacGibbon and Kee [1970].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 3/4 in x 8 3/4 in).",
+							"pages": "166",
+							"img_file": "SelvonPlains-300.jpg"
+						},
+						{
+							"pub_info": "[Toronto] Canada: Williams-Wallace Publishers [1985].",
+							"edition": "First Canadian edition.",
 							"binding": "Hardcover in dust jacket."
 						},
 						{
-							"pub_info": "[Toronto] Williams-Wallace Publishers [1985]. (Hardcover and trade paperback)"
+							"pub_info": "[Toronto] Canada: Williams-Wallace Publishers [1985].",
+							"edition": "First Canadian paperback edition.",
+							"binding": "Trade paperback.",
+							"size": "8vo (5 1/2 in x 8 1/2 in).",
+							"pages": "140",
+							"img_file": "SelvonPlainsPB-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"features": "Inscribed by the author with the place (Toronto), date (March 1986), and his home and office phone numbers.",
+									"condition": "Fine in illustrated wrappers. This is a virtually flawless copy of this uncommon title. The pages are clean and unmarked, and the binding is very tight.",
+									"price": "125.00"
+								}
+							]
 						}
 					]
 				},
 				{
 					"pub_year": "1972",
 					"title": "Those Who Eat the Cascadura",
-					"summary": [""],
+					"summary": [
+						"<i>Those who eat the cascadura will, the native legend says, Wheresoever they may wander, end in Trinidad their days.</i> From <em>History of the West Indies</em> by Allister Macmillan, as quoted in an epigraph at the beginning of this book.",
+						"The village obeahman Manko foresees trouble when an Englishman Garry Johnson comes to stay in the cacao estate of his friend Roger Franklin in Trinidad. Before long his prophecy is fulfilled when the visitor falls in love with the lovey Indian Sarojini. What had been a carefree atmosphere quickly evaporates, replaced with a tension-filled air full of jealousies, rivalries and intrigues as three races interact in post-independence Trinidad. <i>(Publisher's synopsis)</i>"
+					],
 					"editions": [
 						{
-							"pub_info": "London: Davis-Poynter, 1972.",
-							"binding": "Hardcover in dust jacket."
+							"pub_info": "[London] Davis-Poynter [1972].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 3/8 in x 8 3/4 in).",
+							"pages": "182",
+							"img_file": "SelvonCascadura-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"features": "",
+									"condition": "Very good in boards and dust jacket. The boards are bumped at the corners and at the top of the spine. There is some foxing to the page edges, the endpapers, and the dust jacket flaps. There is a Trinidad bookshop sticker on the front paste-down. The dust jacket is wrinkled at the edges, and is worn at the extremities and chipped at the top of the spine. The pages show signs of having been read, with some page corners having been folded. Otherwise, the pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "60.00"
+								}
+							]
 						},
 						{
-							"pub_info": "Toronto: TSAR, 1990."
+							"pub_info": "Toronto: TSAR, 1990.",
+							"edition": "Reprint.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1975",
 					"title": "Moses Ascending",
-					"summary": ["The second of Selvon's novels about West Indians in Britain, this is the entertaining sequel to The Lonely Londoners. <i>(Heinemann synopsis)</i>"],
+					"summary": ["The second of Selvon's novels about West Indians in Britain, this is the entertaining sequel to <em>The Lonely Londoners</em>. <i>(Heinemann synopsis)</i>"],
 					"editions": [
 						{
 							"pub_info": "London: Davis-Poynter, 1975.",
+							"edition": "First edition.",
 							"binding": "Hardcover in dust jacket."
 						},
 						{
 							"pub_info": "London: Heinemann, 1984.",
+							"edition": "Reissue.",
 							"binding": "Paperback."
 						}
 					]
@@ -18565,28 +18707,56 @@ export default function () {
 				{
 					"pub_year": "1983",
 					"title": "Moses Migrating",
-					"summary": [""],
+					"summary": ["It has been more than 25 years since Moses Aloetta became one of the 'Lonely Londoners' in the novel of that name. Now - though an avowed Anglophile - he hankers for Trinidad, for sunshine, Carnival, and rum punch. With characteristic irony and delicacy of touch, Sam Selvon tells the story of Moses' re-encounter with his native land."],
 					"editions": [
 						{
-							"pub_info": "London: Longman, 1983."
+							"pub_info": "Essex: Longman, 1983.",
+							"edition": "First edition.",
+							"binding": "Mass Market paperback.",
+							"pages": "186"
 						},
 						{
-							"pub_info": "Essex: Longman Drumbeat, 1983.",
-							"binding": "Paperback."
+							"pub_info": "[Washington, DC] Three Continents Press [1992].",
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket.",
+							"notes": ["Includes a preface by 'Moses' that was written in 1992 for the first U.S. edition of the work."]
 						},
 						{
-							"pub_info": "[Washington, DC] Three Continents Press [1992]. (Hardcover and trade paperback) Includes a new preface by the author."
+							"pub_info": "[Washington, DC] Three Continents Press [1992].",
+							"edition": "First U.S. paperback edition.",
+							"binding": "Trade paperback.",
+							"size": "8vo (5 3/8 in x 8 1/8 in).",
+							"pages": "201",
+							"notes": ["Includes a preface by 'Moses' that was written in 1992 for the first U.S. edition of the work."],
+							"img_file": "SelvonMigrating-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"features": "",
+									"condition": "Near fine in illustrated wrappers. This is a nearly flawless copy of this book. There is just a bit of edge-wrinkle at the bottom of the back cover. The pages are clean and unmarked, and the binding is very tight.",
+									"price": "20.00"
+								}
+							]
+						},
+						{
+							"pub_info": "[Boulder, CO] Lynne Rienner [2008].",
+							"edition": "Reissue.",
+							"binding": "Trade paperback.",
+							"notes": ["This edition of the novel includes a new introduction to Selvon's life and work by Susheila Nasta, as well as a preface by 'Moses' that was written in 1992 for the first U.S. edition of the work."]
 						}
 					]
 				},
 				{
 					"pub_year": "1988",
-					"title": "Eldorado West One (Plays)",
-					"summary": [""],
+					"title": "Eldorado West One",
+					"subtitle": "Collected one-act plays",
+					"summary": ["Focusing on the immigration of West Indians to Britain in the 1950s and 1960s, these seven one-act radio plays vividly capture the loneliness and isolation that can be felt in one of the world s largest cities. With characteristic humor and poignancy, these stories touch on the dreams and disappointments of both the young and old as they face racial and class differences in a sprawling, urban London. <i>(Publisher's synopsis)</i>"],
 					"editions": [
 						{
 							"pub_info": "Leeds: Peepal Tree Press, 1988.",
-							"binding": "Paperback."
+							"edition": "First edition.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
@@ -18597,18 +18767,33 @@ export default function () {
 					"editions": [
 						{
 							"pub_info": "[Essex] Longman [1989].",
+							"edition": "First edition.",
 							"binding": "Paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1991",
-					"title": "Highway in the Sun (Plays)",
-					"summary": [""],
+					"title": "Highway in the Sun and Other Plays",
+					"summary": ["A collection of four plays by the acclaimed Trinidad-born author."],
 					"editions": [
 						{
-							"pub_info": "[Leeds]= Peepal Tree Press [1991].",
-							"binding": "Paperback."
+							"pub_info": "[Leeds] Peepal Tree Press [1991].",
+							"edition": "First edition.",
+							"binding": "Trade paperback.",
+							"size": "8vo (5 1/2 in x 8 in).",
+							"pages": "183",
+							"notes": ["Includes a preface by 'Moses' that was written in 1992 for the first U.S. edition of the work."],
+							"img_file": "SelvonHighway-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"features": "Scarce in this first edition, first printing.",
+									"condition": "Very fine in pictorial wrappers. This is a flawless copy of this book. The pages are clean and unmarked, and the binding is very tight.",
+									"price": "50.00"
+								}
+							]
 						}
 					]
 				}
@@ -18938,58 +19123,137 @@ export default function () {
 			"last_name": "St. Omer",
 			"first_name": "Garth",
 			"birth_country": "St. Lucia",
-			"birth_year": "",
+			"birth_year": "1931",
 			"death_year": "",
-			"bio": [""],
+			"bio": ["<strong>Garth St Omer</strong> was born in Castries, St Lucia in 1931. During the early 1950s, St Omer was part of a group of artists in St Lucia including Roderick and Derek Walcott, and the artist Dunstan St Omer. From 1956-1959, St Omer studied French and Spanish at UWI in Jamaica. During the 1960s, he travelled widely, including years spent teaching in Ghana. In the 1970s, he moved to the USA, and he completed a doctoral thesis at Princeton University in 1975. He later taught at the University of California, Santa Barbara, until his retirement as Emeritus Professor. <i>(Publisher's bio)</i>"],
 			"books": [
+				{
+					"pub_year": "1964",
+					"title": "Syrop",
+					"summary": ["A novella in <em>Introduction 2: Stories by new writers</em>."],
+					"editions": [
+						{
+							"pub_info": "London: Faber and Faber, 1964."
+						}
+					]
+				},
 				{
 					"pub_year": "1968",
 					"title": "A Room on the Hill",
-					"summary": [""],
+					"summary": ["On an inward-looking island dominated by the Catholic Church, John Lestrade mourns both the death of friends and the inauthentic, suffocating quality of his own life. When he feels he can no longer find solace in his regular means of escape--a room on a hill--he forsakes his self-imposed exile and finds himself drawn to action and defiance. Opening himself up to change, John discovers hope and gleans the possibility of change and an escape from the inauthentic. <i>(Publisher's synopsis)</i>"],
 					"editions": [
 						{
 							"pub_info": "London: Faber and Faber, 1968."
+						},
+						{
+							"pub_info": "[Leeds] Peepal Tree Press [2012].",
+							"edition": "First edition.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1968",
 					"title": "Shades of Grey",
-					"summary": ["Collects two short novels: The Lights on the Hill and Another Place Another Time."],
+					"summary": [
+						"A pair of self-contained but complementary novellas: <em>The Lights on the Hill</em> and <em>Another Place Another Time</em>.",
+						"<em>The Lights on the Hill</em> was later published separately (in 1986)."
+					],
 					"editions": [
 						{
-							"pub_info": "London: Faber and Faber, 1968."
+							"pub_info": "London: Faber and Faber [1968].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket..",
+							"size": "8vo (5 1/8 in x 7 1/2 in).",
+							"pages": "225",
+							"img_file": "StOmerShades-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"condition": "Near fine in cloth-covered boards and very good dust jacket. This is a very nice copy of this book. The dust jacket is very lightly soiled on the back panel, and a bit faded at the spine. There is light dust-staining to the top page edges. Otherwise, the pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a plastic wrapper.",
+									"price": "70.00"
+								}
+							]
+						},
+						{
+							"pub_info": "[Leeds] Peepal Tree Press [2014].",
+							"edition": "First edition.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1969",
 					"title": "Nor Any Country",
-					"summary": [""],
+					"summary": ["This is the third installment in a quartet of novels that explores the lives of the small St Lucian middle class in the years around independence. After years in Europe Peter returns unexpectedly to his West Indian home to renew contacts with people from his past: former lovers, schoolmates, and teachers - his mother and the wife he had more or less abandoned. The island has changed with it: not always for the better. <i>(Publisher's synopsis)</i>"],
 					"editions": [
 						{
-							"pub_info": "London: Faber and Faber, 1969."
+							"pub_info": "London: Faber and Faber [1969].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 1/8 in x 7 1/2 in).",
+							"pages": "110",
+							"img_file": "StOmerNor-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"features": "",
+									"condition": "Near fine in cloth-covered boards and very good dust jacket. This is a very nice copy of this book. There is some yellowing to the endpapers and paste-downs. The dust jacket is lightly soiled on the back panel, a bit faded at the spine, and shows what appears to be slight water-staining across the bottom of the front panel. (There is no staining to the boards.) The pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "60.00"
+								}
+							]
+						},
+						{
+							"pub_info": "[Leeds] Peepal Tree Press [2014].",
+							"edition": "First edition.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1972",
 					"title": "J-, Black Bam and the Masqueraders",
-					"summary": [""],
+					"summary": ["This is the final installment in a quartet of novels that explores the lives of the small St Lucian middle class in the years around independence. Peter, after years abroad, has resumed his marriage with his long abandoned wife Phyllis, and is now working as a lecturer in Jamaica. His brother Paul remains in St Lucia, disgraced and sacked from professional employment by his refusal to marry his pregnant girlfriend. He has acquired a reputation for madness, though whether this is a contrived mask or an actual breakdown is left uncertain. <i>(Publisher's synopsis)</i>"],
 					"editions": [
 						{
-							"pub_info": "London: Faber and Faber, 1972."
+							"pub_info": "London: Faber and Faber, 1972.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"pages": "109"
+						},
+						{
+							"pub_info": "[Leeds] Peepal Tree Press [2016].",
+							"edition": "First edition.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1986",
 					"title": "The Lights on the Hill",
-					"summary": ["First separate edition.  Originally published in Shades of Grey in 1968."],
+					"summary": [
+						"Stephenson, a young man, finds himself in his 30s, average and unhappy. He has stumbled through several affairs, lost a job, and begins to realize that even when golden opportunities fall into his lap, he is incapable of taking control of his own future. <i>(Publisher's synopsis)</i>",
+					],
 					"editions": [
 						{
 							"pub_info": "[London] Heinemann [1986].",
-							"binding": "Paperback."
+							"edition": "First separate edition.",
+							"binding": "Paperback.",
+							"notes": ["Originally published in <em>Shades of Grey</em> in 1968."]
+						}
+					]
+				},
+				{
+					"pub_year": "2015",
+					"title": "Prisnms",
+					"summary": ["The news of an old friend's murder throws Eugene Coard, a St Lucian psychiatrist in the USA, into reflections on his own successful migrant's journey. Trouble is, Coard is a devious liar and self-inventor who has turned American paranoia about race to his own advantage. A witty and satirical novel that challenges the reader to ask: just what can they believe? <i>(Publisher's synopsis)</i>"],
+					"editions": [
+						{
+							"pub_info": "[Leeds] Peepal Tree Press [2015].",
+							"edition": "First edition.",
+							"binding": "Trade paperback."
 						}
 					]
 				}
