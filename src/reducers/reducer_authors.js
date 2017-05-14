@@ -5246,7 +5246,7 @@ export default function () {
 				{
 					"pub_year": "1951",
 					"title": "The Hill of Fire glows Red",
-					"summary": ["The first collection of poems by the acclaimed Guyana-born poet."],
+					"summary": ["The first published collection of poems by the acclaimed Guyana-born poet."],
 						"editions": [
 						{
 							"pub_info": "British Guiana: The Miniature Poets, 1951.",
@@ -5256,7 +5256,8 @@ export default function () {
 							"pages": "14",
 							"img_file": "CarterHill-300.jpg",
 							"notes": [
-								"Includes twelve short poems, one to a page in this small pamphlet. This is an extremely rare edition."
+								"Includes twelve short poems, one to a page in this small pamphlet.",
+								"<em>The Hill of Fire Glows Red</em>, was published in a series edited by A.J. Seymour, called the Miniature Poets Series. It appeared in October 1951, a few months after Wilson Harris's pamphlet of poems, <em>Fetish</em>. The print run was one hundred copies. Poets paid five dollars for twenty copies and 'the remaining eighty copies would be sold to friends, teachers, Ministers of religion, civil servants, fellow poets for one shilling per copy' [A.J. Seymour, 'Publishing in the Caribbean', <i>Caricom Perspective</i> (January-March 1987), p.33]. Seymour writes in his unpublished notes that <em>The Hill of Fire Glows Red</em> was the only collection in the Miniature Poets Series to have had a second edition. Janet Jagan, as secretary of the PPP and editor of <i>Thunder</i>, paid Seymour to reproduce a hundred more copies to go on sale at the PPP bookshop. In the title of the first edition, 'glows' was not capitalized. <i>[Martin Carter, <em>University of Hunger</em>, ed. by Gemma Robinson, (Hexham, Northumberland: Bloodaxe Books, 2006) p.239]</i>."
 							],
 							"copies": [
 								{
@@ -5277,7 +5278,8 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "1952"
+							"pub_info": "Gerogetown: [np], 1952",
+							"edition": "First edition."
 						}
 					]
 				},
@@ -5288,17 +5290,8 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "1952"
-						}
-					]
-				},
-				{
-					"pub_year": "1953",
-					"title": "Returning",
-					"summary": [""],
-					"editions": [
-						{
-							"pub_info": "1953"
+							"pub_info": "Gerogetown: [np], 1952",
+							"edition": "First edition."
 						}
 					]
 				},
@@ -5314,7 +5307,7 @@ export default function () {
 							"edition": "First edition."
 						},
 						{
-							"pub_info": "University of Guyana, 1966.",
+							"pub_info": "University of Guyana, 1964.",
 							"edition": "Second edition."
 						},
 						{
@@ -5331,7 +5324,7 @@ export default function () {
 								{
 									"seller_name": "West Indies Books",
 									"seller_email": "patrick@westindiesbooks.com",
-"condition": "Very good in centered-stapled stiff illustrated paper wrappers. The covers are very lightly worn and soiled, with some sunning at the spine, and the corners are lightly bumped. The pages are clean and unmarked, and the binding is tight.",
+									"condition": "Very good in centered-stapled stiff illustrated paper wrappers. The covers are very lightly worn and soiled, with some sunning at the spine, and the corners are lightly bumped. The pages are clean and unmarked, and the binding is tight.",
 									"price": "50.00"
 								}
 							]
@@ -5368,7 +5361,7 @@ export default function () {
 								{
 									"seller_name": "West Indies Books",
 									"seller_email": "patrick@westindiesbooks.com",
-"condition": "Very good, perfect-bound in stiff printed paper wrappers. The covers are very lightly worn and lightly bumped at the corners. The covers also have some staining on the inside, both front and back. The book was not produced with precision; its corners are not square and it is about 1/8 taller at the spine than at the outer edge. The pages are clean and unmarked, and the binding is tight.",
+									"condition": "Very good, perfect-bound in stiff printed paper wrappers. The covers are very lightly worn and lightly bumped at the corners. The covers also have some staining on the inside, both front and back. The book was not produced with precision; its corners are not square and it is about 1/8 taller at the spine than at the outer edge. The pages are clean and unmarked, and the binding is tight.",
 									"price": "250.00"
 								}
 							]
@@ -5388,7 +5381,7 @@ export default function () {
 							"binding": "Printed wrappers."
 						},
 						{
-							"pub_info": "Red Thread Press, 1997."
+							"pub_info": "Georgetown: Red Thread Women's Press, 1997."
 						}
 					]
 				},
@@ -5410,12 +5403,16 @@ export default function () {
 					"title": "University of Hunger",
 					"subtitle": "Collected Poems & Selected Prose",
 					"summary": [
+						"Edited by Gemma Robinson",
 						"The first Collected Poems of Martin Carter. The Selected Prose includes key essays on race, colonialism, political action and the role of the poet in a postcolonial society."
 					],
 					"editions": [
 						{
-							"pub_info": "United Kingdom: Bloodaxe Books, 2006.",
-							"binding": "Trade paperback."
+							"pub_info": "[Hexham, Northumberland] Bloodaxe Books [2006])",
+							"edition": "First edition.",
+							"binding": "Trade paperback.",
+							"size": "8vo (5 3/8 in x 8 1/2 in).",
+							"pages": "323"
 						}
 					]
 				}
@@ -16505,54 +16502,96 @@ export default function () {
 			"last_name": "Patterson",
 			"first_name": "Orlando",
 			"birth_country": "Jamaica",
-			"birth_year": "",
+			"birth_year": "05 June 1940",
 			"death_year": "",
-			"bio": [""],
+			"bio": [
+				"<strong>Orlando Patterson</strong> is a Jamaican-born American author and historical and cultural sociologist known for his work regarding issues of race in the United States, as well as the sociology of development. His book <em>Freedom, Volume One, or Freedom in the Making of Western Culture</em> (1991), won the U.S. National Book Award for Nonfiction."
+			],
 			"books": [
 				{
 					"pub_year": "1964",
 					"title": "The Children of Sisyphus",
-					"summary": [""],
+					"summary": [
+						"The first novel by the Jamaica-born author.",
+						"A bleak portrayal of life on the Dungle—the rubbish heap where the very poorest squat—this beautifully poetic, existentialist novel turns an unwavering eye to life in the Jamaican ghetto. By interweaving the stories of Dinah, a prostitute who can never quite escape the circumstances of her life, and Brother Solomon, a respected Rastafarian leader who allows his followers to think that a ship is on its way to take them home to Ethiopia, this brutally poetic story creates intense and tragic characters who struggle to come to grips with the absurdity of life. As these downtrodden protagonists shed their illusions and expectations, they realize that there is no escape from meaninglessness, and eventually gain a special kind of dignity and stoic awareness about life and the universe. <i>(Publisher's synopsis)</i>"
+					],
 					"editions": [
 						{
-							"pub_info": "London: New Authors Ltd., 1964."
+							"pub_info": "[London: New Authors Limited, 1964].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 3/8 in x 8 in).",
+							"pages": "206",
+							"img_file": "PattersonSisyphus-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"condition": "Very good in boards and very good dust jacket. This is a very nice copy of this book. The dust jacket shows some wear at the extremities. There's a bit of dust-staining to the top edges, and the fore edges are soiled in spots. The pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a soft plastic wrapper.",
+									"price": "60.00"
+								}
+							]
 						},
 						{
-							"pub_info": "Boston: Houghton Mifflin, 1965."
+							"pub_info": "Boston: Houghton Mifflin, 1965.",
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket."
 						},
 						{
-							"pub_info": "Essex: Longman Trade/Caroline House, 1987.",
+							"pub_info": "Kingston: Bolivar Press, 1971.",
+							"edition": "Reissue.",
 							"binding": "Paperback."
+						},
+						{
+							"pub_info": "Essex: Longman, 1986.",
+							"edition": "Reissue.",
+							"binding": "Paperback."
+						},
+						{
+							"pub_info": "Essex: Peepal Tree Press, 2011.",
+							"edition": "Reissue.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1967",
 					"title": "An Absence of Ruins",
-					"summary": [""],
+					"summary": ["A poignant portrayal of a man shaped by the colonial education of the Caribbean intellectual class. <em>Orlando Patterson<em> offers a devastating critique of middle-class intellectualism through the self-condemning perceptions of the main character, Alexander Blackman, and the vibrant reality of the world he is unable to embrace—the world of the Jamaican working class. An intensive and inward portrayal of what the world looks like to a man who has been shaped by the deeply entrenched consequences of colonialism, this novel is full of sardonic humor and a nihilism that emerges as a kind of integrity. <i>(Publisher's synopsis)</i>"],
 					"editions": [
 						{
-							"pub_info": "London: Hutchinson, 1967."
+							"pub_info": "London: Hutchinson, 1967.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "Essex: Peepal Tree Press, 2011.",
+							"edition": "Reissue.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1967",
 					"title": "The Sociology of Slavery",
+					"subtitle": "An Analysis of the Origins, Development and Structure of Negro Slave Society in Jamaica",
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "London: Associated University, 1967."
+							"pub_info": "London: Associated University, 1967.",
+							"binding": "Hardcover."
 						}
 					]
 				},
 				{
 					"pub_year": "1972",
 					"title": "Die The Long Day",
-					"summary": [""],
+					"summary": ["A novel."],
 					"editions": [
 						{
-							"pub_info": "New York: Morrow, 1972."
+							"pub_info": "New York: Morrow, 1972.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						},
 						{
 							"pub_info": "St. Albans: Mayflower, 1973.",
@@ -16561,12 +16600,79 @@ export default function () {
 					]
 				},
 				{
-					"pub_year": "1991",
-					"title": "Freedom. Volume I: Freedom in the Making of Western Culture",
+					"pub_year": "1977",
+					"title": "Ethnic Chauvinism: The Reactionary Impulse",
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "New York: Basic Books, 1991."
+							"pub_info": "New York: Stein & Day, 1977.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"pages": "347"
+						}
+					]
+				},
+				{
+					"pub_year": "1982",
+					"title": "Slavery and Social Death: A Comparative Study",
+					"summary": ["This is the first full-scale comparative study of the nature of slavery. In a work of prodigious scholarship and enormous breadth, which draws on the tribal, ancient, premodern, and modern worlds, Orlando Patterson discusses the internal dynamics of slavery in sixty-six societies over time. These include Greece and Rome, medieval Europe, China, Korea, the Islamic kingdoms, Africa, the Caribbean islands, and the American South. <i>(Publisher's synopsis)</i>"],
+					"editions": [
+						{
+							"pub_info": "Cambridge, MA: Harvard University Press, 1982.",
+							"edition": "First edition.",
+							"binding": "Hardcover and trade paperback.",
+							"pages": "511"
+						}
+					]
+				},
+				{
+					"pub_year": "1991",
+					"title": "Freedom. Volume I: Freedom in the Making of Western Culture",
+					"summary": [
+						"This work traces the origin and development of the idea of freedom in Western culture. It deals with three distinct forms of freedom: personal freedom; civic freedom (the right to participate in public life); and sovereign freedom (the right to exercise power over others). The book examines the relationships between the idea of freedom and the institution, and argues that women, as domestic slaves and the spoils of war, were the first to articulate the cry for personal liberty. <i>(Publisher's synopsis)</i>",
+						"Winner of the U.S. National Book Award for Nonfiction."
+					],
+					"editions": [
+						{
+							"pub_info": "New York: Basic Books, 1991.",
+							"edition": "First edition.",
+							"binding": "Hardcover and trade paperback.",
+							"pages": "487"
+						}
+					]
+				},
+				{
+					"pub_year": "1999",
+					"title": "Rituals of Blood: Consequences of Slavery in Two American Centuries",
+					"summary": [""],
+					"editions": [
+						{
+							"pub_info": "Washington, DC: Civitas Counterpoint, 1999.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket and trade paperback.",
+							"pages": "330"
+						}
+					]
+				},
+				{
+					"pub_year": "2015",
+					"title": "The Cultural Matrix: Understanding Black Youth",
+					"summary": [
+						"A collection of essays by numerous contributors, edited by <em>Orlando Patterson</em>.",
+						"<em>The Cultural Matrix</em> seeks to unravel an American paradox: the socioeconomic crisis and social isolation of disadvantaged black youth, on the one hand, and their extraordinary integration and prominence in popular culture on the other. This interdisciplinary work explains how a complex matrix of cultures influences black youth. <i>(Publisher's synopsis)</i>"
+					],
+					"editions": [
+						{
+							"pub_info": "Cambridge, MA: Harvard University Press, 2015.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"pages": "688"
+						},
+						{
+							"pub_info": "Cambridge, MA: Harvard University Press, 2016.",
+							"edition": "First paperback edition.",
+							"binding": "Trade paperback.",
+							"pages": "688"
 						}
 					]
 				}
@@ -16743,10 +16849,23 @@ export default function () {
 				{
 					"pub_year": "1981",
 					"title": "Strange Fruit",
-					"summary": ["Play."],
+					"summary": ["A play. The first book by the acclaimed St. Kitts-born author."],
 					"editions": [
 						{
-							"pub_info": "[Derbyshire] Amber Lane Press [1981]."
+							"pub_info": "[Ambergate, Derbyshire] Amber Lane Press [1981].",
+							"edition": "First edition.",
+							"binding": "Paperback.",
+							"size": "12mo (4 3/8 in x 7 1/4 in).",
+							"pages": "101",
+							"img_file": "PhillipsFruit-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"condition": "Very fine in pictorial wrappers. This is a flawless copy of this book. The pages are clean and unmarked, and the binding is very tight.",
+									"price": "50.00"
+								}
+							]
 						}
 					]
 				},
@@ -16756,7 +16875,10 @@ export default function () {
 					"summary": ["<em>Where There is Darkness</em> is a play that examines the plight of a West Indian man, Albert Williams, on the eve of his return to the Caribbean after an absence of 25 years. After a farewell party at his house he faces the reality of what his time in Britain has meant to him, his family and friends. <i>(Publisher's synopsis)</i>"],
 					"editions": [
 						{
-							"pub_info": "[Derbyshire] Amber Lane Press [1982]."
+							"pub_info": "[Derbyshire] Amber Lane Press [1982].",
+							"edition": "First edition.",
+							"binding": "Paperback.",
+							"pages": "63"
 						}
 					]
 				},
@@ -16766,77 +16888,205 @@ export default function () {
 					"summary": ["Play."],
 					"editions": [
 						{
-							"pub_info": "[Derbyshire] Amber Lane Press [1984]."
+							"pub_info": "[Derbyshire] Amber Lane Press [1984].",
+							"edition": "First edition.",
+							"binding": "Paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1985",
 					"title": "The Final Passage",
-					"summary": ["The author's first novel."],
+					"summary": [
+						"Caryl Phillips's first novel tells the story of Leila, a nineteen-year-old woman living on a small Caribbean island in the 1950s. Unsatisfied with life on the island, Leila decides to leave her friends and follow her mother overseas, taking her restless husband Michael and her young son with her. Her subsequent passage to England brings her face to face with the consequences of the decisions she has made to determine her life on her own terms. <i>(Publisher's synopsis)</i>"
+					],
 					"editions": [
 						{
-							"pub_info": "London: Faber and Faber [1985].",
+							"pub_info": "[London: Faber and Faber, 1985].",
+							"edition": "Uncorrected advance proofs of the first edition.",
+							"binding": "Printed wrappers.",
+							"size": "8vo (5 3/8 in x 8 3/8 in).",
+							"pages": "205"
+						},
+						{
+							"pub_info": "[London-Boston: Faber and Faber [1985].",
 							"edition": "First edition.",
-							"binding": "Hardcover in dust jacket and trade paperback."
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 1/8 in x 8 in).",
+							"pages": "205",
+							"img_file": "PhillipsPassage-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"condition": "Very good in boards and dust jacket. The dust jacket shows no wear, but it is price-clipped at the bottom of the front flap. There are faint traces of tape residue on the front and rear free endpapers. The book's pages are beginning to tan from the edges, as is typical with aging of the paper used to print this book. Otherwise the pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a soft plastic wrapper.",
+									"price": "20.00"
+								}
+							]
+						},
+						{
+							"pub_info": "London: Faber and Faber [1985].",
+							"edition": "First paperback edition.",
+							"binding": "Trade paperback."
+						},
+						{
+							"pub_info": "Bedford: Picador, 1995.",
+							"edition": "Reissue.",
+							"binding": "Paperback."
 						},
 						{
 							"pub_info": "New York: Vintage, 1995.",
+							"edition": "Reissue.",
 							"binding": "Paperback."
+						},
+						{
+							"pub_info": "London: Faber and Faber, 1999.",
+							"edition": "Reissue.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1986",
 					"title": "A State of Independence",
-					"summary": ["The author's second novel. A personal favorite."],
+					"summary": [
+						"The author's second novel. A personal favorite.",
+						"Phillips examines the transitions of a Caribbean nation from colonialism to a dubious state of independence through the experiences of Bertram Francis, a young man who leaves St. Kitts at the age of thirteen to study law on a coveted scholarship in England. Twenty years later he returns, chastened by failure, hoping to succeed at 'something that doesn't make me dependent upon the white man.' The rejections Francis faced in England are nothing to those that greet him in his homeland, where the resentments of the people he abandoned are exceeded only by the cynicism of the old friends who have prospered under the new regime. <i>(Publisher's synopsis)</i>"
+					],
 					"editions": [
 						{
-							"pub_info": "London: Faber and Faber, 1986.",
+							"pub_info": "London-Boston: Faber and Faber [1986].",
+							"edition": "Uncorrected advance proofs of the first edition.",
+							"binding": "Printed wrappers.",
+							"size": "8vo (5 3/8 in x 8 1/2 in).",
+							"pages": "122"
+						},
+						{
+							"pub_info": "London-Boston: Faber and Faber [1986].",
 							"edition": "First edition.",
-							"binding": "Hardcover in dust jacket."
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 3/4 in x 8 3/4 in).",
+							"pages": "158",
+							"img_file": "PhillipsState-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"condition": "Near fine in boards and near fine dust jacket. This is a very nice copy of this book. Only a minor bump to the top rear corner of the boards keeps it from being fine. The pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "20.00"
+								}
+							]
 						},
 						{
-							"pub_info": "New York: Farrar Straus Giroux, 1986.",
-							"edition": "First American edition.",
-							"binding": "Hardcover in dust jacket."
+							"pub_info": "London: Faber and Faber, 1986.",
+							"edition": "First paperback edition.",
+							"binding": "Trade paperback."
 						},
 						{
-							"pub_info": "New York: Macmillan [1988].",
+							"pub_info": "New York: , Straus and Giroux [1986].",
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 5/8 in x 8 3/4 in).",
+							"pages": "158",
+							"img_file": "PhillipsStateUS-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"condition": "Very good in boards and near fine dust jacket. The top corners of the boards have been bumped. While the dust jacket shows no wear, it is beginning to yellow on the white front and rear flaps, as is typical with this dust jacket. The book's pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "9.95"
+								}
+							]
+						},
+						{
+							"pub_info": "New York: Collier Books, 1988.",
+							"edition": "First U.S. paperback edition.",
+							"binding": "Trade paperback."
+						},
+						{
+							"pub_info": "Bedford: Picador, 1995.",
+							"edition": "Reissue.",
 							"binding": "Paperback."
 						},
 						{
 							"pub_info": "New York: Vintage, 1995.",
-							"binding": "Paperback."
+							"edition": "Reissue.",
+							"binding": "Trade paperback."
+						},
+						{
+							"pub_info": "London: Faber and Faber, 1999.",
+							"edition": "Reissue.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1987",
 					"title": "The European Tribe",
-					"summary": ["The author's first full-length work of nonfiction. 'The European Tribe' is the global community of whites who have forced their languages, cultures, and history on their non-white neighbors."],
+					"summary": [
+						"The author's first full-length work of nonfiction.",
+						"In this richly descriptive and haunting narrative, Caryl Phillips chronicles a journey through modern-day Europe, his quest guided by a moral compass rather than a map.  Seeking personal definition within the parameters of growing up black in Europe, he discovers that the natural loneliness and confusion inherent in long jorneys collides with the bigotry of the 'European Tribe'-a global community of whites caught up in an unyielding, Eurocentric history. <i>(Publisher's synopsis)</i>"
+					],
 					"editions": [
 						{
+							"pub_info": "London-Boston: Faber and Faber [1987].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 5/8 in x 8 3/4 in).",
+							"pages": "129",
+							"img_file": "PhillipsTribe-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"condition": "Very good in boards and dust jacket. The dust jacket shows very little wear, and the boards are lightly bumped at the corners. There is a bookshop stamp on the rear paste-down. The book's pages are beginning to tan from the edges, as is typical with aging of the paper used to print this book. Otherwise the pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a soft plastic wrapper.",
+									"price": "12.50"
+								}
+							]
+						},
+						{
 							"pub_info": "New York: Farrar Straus Giroux [1987].",
-							"edition": "First American edition.",
+							"edition": "First U.S. edition.",
 							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "Bedford: Picador, 1993.",
+							"edition": "Reissue.",
+							"binding": "Paperback."
+						},
+						{
+							"pub_info": "London: Faber and Faber, 1993.",
+							"edition": "Reissue.",
+							"binding": "Trade paperback."
+						},
+						{
+							"pub_info": "New York: Vintage, 2000.",
+							"edition": "Reissue.",
+							"binding": "Trade paperback.",
+							"notes": ["In the afterword to the Vintage edition, Phillips revisits the Europe he knew as a young man and offers fresh observations."]
 						}
 					]
 				},
 				{
 					"pub_year": "1987",
 					"title": "Playing Away",
-					"summary": ["Teleplay."],
+					"summary": ["A screen play about West Indians and other Black Britons playing on a cricket team in rural England.."],
 					"editions": [
 						{
-							"pub_info": "London: Faber and Faber, 1987."
+							"pub_info": "London: Faber and Faber, 1987.",
+							"edition": "First edition.",
+							"binding": "Trade paperback.",
+							"pages": "79"
 						}
 					]
 				},
 				{
 					"pub_year": "1989",
 					"title": "Higher Ground",
-					"summary": ["The author's third novel."],
+					"summary": [
+						"The author's third novel.",
+						"Covering three ages, this novel begins in the Caribbean with the slave trade at its height and moves into the 1960s with a series of letters from prison of a black American convict to his family. The final part, set in England, tells of a West Indian who is determined to leave for his native land. <i>(Publisher's synopsis)</i>"
+					],
 					"editions": [
 						{
 							"pub_info": "London: Viking, 1989.",
@@ -16845,11 +17095,32 @@ export default function () {
 						},
 						{
 							"pub_info": "New York: Viking, 1989.",
-							"edition": "First American edition.",
+							"edition": "First U.S. edition.",
 							"binding": "Hardcover in dust jacket."
 						},
 						{
+							"pub_info": "London: Picador, 1989.",
+							"edition": "First paperback edition.",
+							"binding": "Paperback."
+						},
+						{
+							"pub_info": "New York: Penguin, 1990.",
+							"edition": "First U.S. paperback edition.",
+							"binding": "Trade paperback."
+						},
+						{
 							"pub_info": "New York: Vintage Books, 1995.",
+							"edition": "Reissue.",
+							"binding": "Paperback."
+						},
+						{
+							"pub_info": "London: Faber and Faber, 1999.",
+							"edition": "Reissue.",
+							"binding": "Trade paperback."
+						},
+						{
+							"pub_info": "New York: Vintage Books, 2006.",
+							"edition": "Reissue.",
 							"binding": "Paperback."
 						}
 					]
@@ -16857,20 +17128,52 @@ export default function () {
 				{
 					"pub_year": "1991",
 					"title": "Cambridge",
-					"summary": ["The author's fourth novel."],
+					"summary": [
+						"The author's fourth novel.",
+						"<em>Cambridge</em> is a powerful and haunting novel set in that uneasy time between the abolition of the slave trade and the emancipation of the slaves. It is the story of Emily Cartwright, a young woman sent from England to visit her father's West Indian plantation, and Cambridge, a plantation slave, educated and Christianised by his first master in England and now struggling to maintain his dignity. <i>(Publisher's synopsis)</i>"
+					],
 					"editions": [
 						{
-							"pub_info": "London: Bloomsbury, 1991.",
+							"pub_info": "[London] Bloomsbury [1991].",
 							"edition": "First edition.",
-							"binding": "Hardcover in dust jacket."
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (6 3/8 in x 9 1/2 in).",
+							"pages": "184",
+							"img_file": "PhillipsCambridgeUK-300.jpg",
+							"notes": ["A sewn-in ribbon bookmark is a feature of this edition's binding."],
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"features": "Signed by the author on the title page.",
+									"condition": "Very good in boards and dust jacket. There are light bumps to the top and bottom corners of the rear boards, and the top page edges are a bit dust stained. The pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "20.00"
+								}
+							]
 						},
 						{
 							"pub_info": "New York: Alfred A. Knopf, 1992.",
-							"edition": "First American edition.",
+							"edition": "First U.S. edition.",
 							"binding": "Hardcover in dust jacket."
 						},
 						{
+							"pub_info": "London: Picador, 1992.",
+							"edition": "First paperback edition.",
+							"binding": "Paperback."
+						},
+						{
 							"pub_info": "New York: Vintage, 1993.",
+							"edition": "First U.S. paperback edition.",
+							"binding": "Paperback."
+						},
+						{
+							"pub_info": "London: Faber and Faber, 2000.",
+							"edition": "Reissue.",
+							"binding": "Trade paperback."
+						},
+						{
+							"pub_info": "London and New York: Vintage, 2008.",
+							"edition": "Reissue.",
 							"binding": "Paperback."
 						}
 					]
@@ -16878,23 +17181,66 @@ export default function () {
 				{
 					"pub_year": "1993",
 					"title": "Crossing The River",
-					"summary": ["The author's fifth novel. Shortlisted for the 1993 Booker Prize."],
+					"summary": [
+						"The author's fifth novel. Shortlisted for the 1993 Booker Prize. A personal favorite.",
+						"An ambitious, formally inventive, and intensely moving evocation of the scattered offspring of Africa. It begins in a year of failing crops and desperate foolishness, which forces a father to sell his three children into slavery. Employing a brilliant range of voices and narrative techniques, Caryl Phillips folows these exiles across the river that separates continents and centuries. <i>(Publisher's synopsis)</i>"
+					],
 					"editions": [
 						{
-							"pub_info": "London: Bloomsbury, 1993.",
+							"pub_info": "[London] Bloomsbury [1993].",
 							"edition": "First edition.",
-							"binding": "Hardcover in dust jacket."
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (6 1/4 in x 9 1/2 in).",
+							"pages": "237",
+							"img_file": "PhillipsCrossing-300.jpg",
+							"notes": ["A sewn-in ribbon bookmark is a feature of this edition's binding."],
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"condition": "Very good in boards and dust jacket. There are bumps to the bottom corners of the boards. The pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a plastic wrapper.",
+									"price": "14.95"
+								}
+							]
 						},
 						{
 							"pub_info": "New York: Alfred A. Knopf, 1994.",
-							"edition": "First American edition.",
+							"edition": "Advance reading excerpt. (Not the complete book.)",
+							"binding": "Trade paperback."
+						},
+						{
+							"pub_info": "New York: Alfred A. Knopf, 1994.",
+							"edition": "First U.S. edition.",
 							"binding": "Hardcover in dust jacket."
 						},
 						{
-							"pub_info": "Toronto: Knopf Canada, 1994."
+							"pub_info": "Toronto: Knopf Canada, 1994.",
+							"edition": "First Canadian edition.",
+							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "London: Picador, 1994.",
+							"edition": "First paperback edition.",
+							"binding": "Paperback."
+						},
+						{
+							"pub_info": "New York: Alfred A. Knopf, 1994.",
+							"edition": "First U.S. paperback edition.",
+							"binding": "Trade paperback."
 						},
 						{
 							"pub_info": "New York: Vintage, 1995.",
+							"edition": "Reissue.",
+							"binding": "Paperback."
+						},
+						{
+							"pub_info": "London: Faber and Faber, 2000.",
+							"edition": "Reissue.",
+							"binding": "Trade paperback."
+						},
+						{
+							"pub_info": "London and New York: Vintage, 2006.",
+							"edition": "Reissue.",
 							"binding": "Paperback."
 						}
 					]
@@ -16902,7 +17248,10 @@ export default function () {
 				{
 					"pub_year": "1997",
 					"title": "The Nature of Blood",
-					"summary": ["The author's sixth novel."],
+					"summary": [
+						"The author's sixth novel.",
+						"Phillips creates a dazzling kaleidoscope of historical fiction, one that illuminates the dark legacy of Europe's obsession with race and blood. At the center of <em>The Nature of Blood</em> is a young woman, a Nazi death camp survivor, devastated by the loss of everyone she loves. Her story is interwoven with a cast of characters from both the present and past: her uncle Stephan, Othello the Moorish general, three Jews in 15th century Venice, and an Ethiopian Jew struggling for acceptance in contemporary Israel. Tracing these characters through disparate lands and centuries, Phillips creates an unforgettable group portrait of individuals overwhelmed by the force of European tribalism. <i>(Publisher's synopsis)</i>"
+					],
 					"editions": [
 						{
 							"pub_info": "London: Faber and Faber [1997].",
@@ -16910,16 +17259,47 @@ export default function () {
 							"binding": "Hardcover in dust jacket."
 						},
 						{
-							"pub_info": "New York, Alfred A. Knopf, 1997.",
+							"pub_info": "New York - Toronto: Alfred A. Knopf, 1997.",
+							"edition": "Advance copy of the First American edition.",
+							"binding": "Trade paperback in stiff paper slipcase.",
+							"size": "8vo (5 5/8 in x 8 3/8 in).",
+							"pages": "212",
+							"img_file": "PhillipsBloodCase-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"features": "Signed by the author on the front endpaper.",
+									"condition": "Near fine in pictorial wrappers and very good stiff paper slipcase. The slipcase for this book is a bit worn at the extremities, with a one inch tear at the rear bottom edge. The pages are clean and unmarked, and the binding is very tight.",
+									"price": "14.95"
+								}
+							]
+						},
+						{
+							"pub_info": "New York - Toronto: Alfred A. Knopf, 1997.",
 							"edition": "First American edition.",
-							"binding": "Hardcover in dust jacket."
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (6 1/4 in x 9 1/2 in)."
+						},
+						{
+							"pub_info": "London: Faber and Faber, 1998.",
+							"edition": "Reissue.",
+							"binding": "Trade paperback."
+						},
+						{
+							"pub_info": "New York: Vintage, 1998.",
+							"edition": "Reissue.",
+							"binding": "Paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1997",
 					"title": "Extravagant Strangers: A Literature of Belonging (Editor)",
-					"summary": ["An anthology of pieces by British writers who were born beyond Britain's shores."],
+					"summary": [
+						"An anthology of pieces by British writers who were born beyond Britain's shores.",
+						"Shakespeare called Othello 'an extravagant and wheeling stranger/Of here and every where.' In this exciting anthology, <em>Caryl Phillips</em> has collected writings by thirty-nine extravagant strangers: British writers who were born outside of Britain and see it with clear and critical eyes. These eloquent and incisive voices prove that English literature, far from being pure or homogenous, has in fact been shaped and influenced by outsiders for over two hundred years. <i>(Publisher's synopsis)</i>"
+					],
 					"editions": [
 						{
 							"pub_info": "London: Faber and Faber [1997].",
@@ -16927,7 +17307,13 @@ export default function () {
 							"binding": "Hardcover in dust jacket."
 						},
 						{
-							"pub_info": "New York: Vintage Books, 1999.",
+							"pub_info": "London: Faber and Faber, 1998.",
+							"edition": "First paperback Edition.",
+							"binding": "Trade paperback."
+						},
+						{
+							"pub_info": "New York: Vintage Books, 1998.",
+							"edition": "First U.S. edition.",
 							"binding": "Trade paperback."
 						}
 					]
@@ -16935,14 +17321,19 @@ export default function () {
 				{
 					"pub_year": "1999",
 					"title": "The Right Set (Editor)",
-					"summary": ["An anthology of 65 great writings on tennis, with an Introduction by Phillips."],
+					"summary": [
+						"An anthology of 65 great writings on tennis, edited and with an Introduction by Phillips.",
+						"A collection of writings on the remarkable evolution of a gentleman's pastime into a sport of jet-set players of athletic and psychological genius. Here are the stories of champions, from the Renshaw twins to 'ghetto Cinderella' Venus Williams. Here, too, are volleys between tradition and innovation--debates on everything from etiquette and earnings to André Agassi's rejection of the customary tennis whites. Insightful, informative, wonderfully entertaining. <i>(Publisher's synopsis)</i>"
+					],
 					"editions": [
 						{
 							"pub_info": "[London] Faber and Faber [1999].",
+							"edition": "First edition.",
 							"binding": "Trade paperback."
 						},
 						{
 							"pub_info": "New York: Vintage Books, 1999.",
+							"edition": "First U.S. edition.",
 							"binding": "Trade paperback."
 						}
 					]
@@ -16950,7 +17341,7 @@ export default function () {
 				{
 					"pub_year": "2000",
 					"title": "The Atlantic Sound",
-					"summary": [""],
+					"summary": ["In <em>The Atlantic Sound</em> Caryl Phillips explores the complex notion of what constitutes 'home'. Seen through the historical prism of the Atlantic Slave trade, he undertakes a personal quest to come to terms with the dislocation and discontinuities that a diasporan history engenders in the soul of an individual. Philips journeys from the Caribbean to Britain by banana boat, repeating a journey he made to England as a child in the 1950s. He then visits three pivotal cities: Liverpool, developed on the back of the slave trade, Elmina, on the west coast of Ghana, site of the most important slave fort in Africa; and Charleston in the American South, celebrated as the city where the Civil War began - not for being the city where fully one-third of African-Americans were landed and sold into bondage. Finally, Phillips journeys to Israel where he encounters a community of two thousand African-Americans, whose thirty-year sojourn in the Negev desert leaves him once again contemplating the modern condition of diasporan displacement. <i>(Publisher's synopsis)</i>"],
 					"editions": [
 						{
 							"pub_info": "[London] Faber and Faber [2000].",
@@ -16959,35 +17350,180 @@ export default function () {
 						},
 						{
 							"pub_info": "New York: Alfred A. Knopf, 2000.",
-							"edition": "First American edition.",
+							"edition": "First U.S. edition.",
 							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "New York: Vintage Books, 2000.",
+							"edition": "First U.S. paperback edition.",
+							"binding": "Trade paperback."
+						},
+						{
+							"pub_info": "United Kingdom: Vintage Books, 2001.",
+							"edition": "First U.K. paperback edition.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "2001",
 					"title": "A New World Order",
-					"summary": ["Essays."],
+					"summary": ["Essays. The Africa of his ancestry, the Caribbean of his birth, the Britain of his upbringing, and the United States where he now lives are the focal points of award-winning writer <em>Caryl Phillips</em>'s profound inquiry into evolving notions of home, identity, and belonging in an increasingly international society. <i>(Publisher's synopsis)</i>"],
 					"editions": [
 						{
 							"pub_info": "London: Secker & Warburg [2001].",
-							"edition": "First edition."
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						},
 						{
-							"pub_info": "New York: Alfred A. Knopf, 2002.",
-							"binding": "Trade paperback."
+							"pub_info": "New York: Vintage Books, 2002.",
+							"edition": "First U.S. edition.",
+							"binding": "Trade paperback.",
+							"pages": "309"
 						}
 					]
 				},
 				{
 					"pub_year": "2003",
 					"title": "A Distant Shore",
-					"summary": ["The author's seventh novel."],
+					"summary": [
+						"The author's seventh novel.",
+						"A novel set in contemporary England, about an African man and an English woman whose hidden lives, and worlds, are revealed in their fragile, fateful connection. Dorothy and Solomon live in a new housing estate on the outskirts of an English village. She’s recently bought her bungalow; he’s recently become the night watchman. He is black, an immigrant. She is white, a recently retired music teacher. They are both solitary, reticent outsiders. When they move tenuously toward each other and their paths briefly cross, neither of them can know that it will be the last true human contact either will have. <i>(Publisher's synopsis)</i>"
+					],
 					"editions": [
 						{
 							"pub_info": "London: Secker & Warburg [2003].",
 							"edition": "First edition.",
 							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "New York: Alfred A. Knopf, 2003.",
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "New York: Vintage Books, 2005.",
+							"edition": "First U.S. edition.",
+							"binding": "Trade paperback."
+						}
+					]
+				},
+				{
+					"pub_year": "2005",
+					"title": "Dancing in the Dark",
+					"summary": [
+						"The author's eighth novel.",
+						"In this searing novel, <em>Caryl Phillips</em> reimagines the life of the first black entertainer in the U.S. to reach the highest levels of fame and fortune. After years of struggling for success on the stage, Bert Williams (1874—1922), the child of recent immigrants from the Bahamas, made the radical decision to don blackface makeup and play the 'coon.' Behind this mask he became a Broadway headliner–as influential a comedian as Chaplin, Laurel and Hardy, and W. C. Fields, who called him 'the funniest man I ever saw, and the saddest man I ever knew.' It is this dichotomy at Williams’ core that Phillips explores in this richly nuanced, brilliantly written novel, unblinking in its attention to the sinister compromises that make up an identity. <i>(Publisher's synopsis)</i>"
+					],
+					"editions": [
+						{
+							"pub_info": "London: Secker & Warburg [2005].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "New York: Alfred A. Knopf, 2005.",
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "New York: Vintage Books, 2006.",
+							"edition": "First U.S. edition.",
+							"binding": "Trade paperback."
+						}
+					]
+				},
+				{
+					"pub_year": "2007",
+					"title": "Foreigners",
+					"subtitle": "Three English Lives",
+					"summary": [
+						"Part fiction, part biography, part history, Phillips tells the story of three Black men who find themselves in Britain at different times, in different centuries, but who face the same racism."
+					],
+					"editions": [
+						{
+							"pub_info": "London: Harvill Secker [2007].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "New York: Alfred A. Knopf, 2007.",
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "New York: Vintage Books, 2008.",
+							"edition": "First U.S. edition.",
+							"binding": "Trade paperback."
+						}
+					]
+				},
+				{
+					"pub_year": "2009",
+					"title": "The Falling Snow",
+					"summary": [
+						"The author's ninth novel.",
+						"Keith—born in England in the early 1960s to immigrant West Indian parents but primarily raised by his white stepmother—is a social worker heading a Race Equality unit in London whose life has come undone. He is separated from his wife of twenty years, kept at arm’s length by his teenage son, estranged from his father, and accused of harassment by a coworker. And beneath it all, he has a desperate feeling that his work—even in fact his life—is no longer relevant. <i>(Publisher's synopsis)</i>"
+					],
+					"editions": [
+						{
+							"pub_info": "London: Harvill Secker [2009].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "New York: Alfred A. Knopf, 2009.",
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "New York: Vintage Books, 2010.",
+							"edition": "First U.S. paperback edition.",
+							"binding": "Trade paperback."
+						}
+					]
+				},
+				{
+					"pub_year": "2011",
+					"title": "Color Me English",
+					"summary": ["Phillips reflects on the shifting notions of race, culture, and belonging before and after the September 11 attacks on the World Trade Center. <em>Color Me English</em> opens with an inspired story from his boyhood, a poignant account of a shared sense of isolation he felt with the first Muslim boy who joined his school. Phillips then turns to his years living and teaching in the United States, including a moving account of the day the twin towers fell. We follow him across Europe and through Africa while he grapples with making sense of colonial histories and contemporary migrations—engaging with legendary African, African American, and international writers from James Baldwin and Richard Wright to Chinua Achebe and Ha Jin who have aspired to see themselves and their own societies more clearly. <i>(Publisher's synopsis)</i>"],
+					"editions": [
+						{
+							"pub_info": "New York: New Press [2011].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "New York: New Press, 2013.",
+							"edition": "First U.S. edition.",
+							"binding": "Paperback."
+						},
+					]
+				},
+				{
+					"pub_year": "2015",
+					"title": "The Lost Child",
+					"summary": [
+						"Caryl Phillips’s <em>The Lost Child</em> is a sweeping story of orphans and outcasts, haunted by the past and fighting to liberate themselves from it. At its center is Monica Johnson—cut off from her parents after falling in love with a foreigner—and her bitter struggle to raise her sons in the shadow of the wild moors of the north of England. Phillips intertwines her modern narrative with the childhood of one of literature’s most enigmatic lost boys, as he deftly conjures young Heathcliff, the anti-hero of <em>Wuthering Heights</em>, and his ragged existence before Mr. Earnshaw brought him home to his family.",
+						"Written in the tradition of Jean Rhys’s <em>Wide Sargasso Sea</em> and J. M. Coetzee’s <em>Foe, The Lost Child</em> is a multifaceted, deeply original response to Emily Bronte’s masterpiece, <em>Wuthering Heights</em>. <i>(Publisher's synopsis)</i>"
+					],
+					"editions": [
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux, 2015.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"pages": "272"
+						},
+						{
+							"pub_info": "Oxford: Oneworld Publications, 2015.",
+							"edition": "First U.K. edition.",
+							"binding": "Hardcover in dust jacket and trade paperback.",
+							"pages": "272"
+						},
+						{
+							"pub_info": "New York: Picador USA, 2016.",
+							"edition": "First U.S. paperback edition.",
+							"binding": "Trade paperback."
 						}
 					]
 				}
@@ -17846,20 +18382,40 @@ export default function () {
 			"last_name": "Roumain",
 			"first_name": "Jacques",
 			"birth_country": "Haiti",
-			"birth_year": "",
-			"death_year": "",
-			"bio": [""],
+			"birth_year": "04 June 1907",
+			"death_year": "18 August 1944",
+			"bio": ["<strong>Jacques Roumain </strong> was a Haitian writer, politician, and advocate of Marxism. He is considered one of the most prominent figures in Haitian literature. Although not as known in the English-speaking world, Roumain has significant following in Europe, and is renowned in the Caribbean and Latin America. The great African-American poet, Langston Hughes, translated some of Roumain's greatest works, including <em>Gouverneurs de la Rosée</em> (Masters of the Dew), a masterpiece of world literature. Although his life was short, Roumain managed to touch many aspects of Haitian life and culture. <i>(Wikipedia)</i>"],
 			"books": [
 				{
-					"pub_year": "1944",
+					"pub_year": "1947",
 					"title": "Masters of the Dew",
-					"summary": ["This outstanding Haitian novel tells of Manuel's struggle to keep his little community from starvation during drought. At the same time the story of his love for Annaise is told with great sensitiveness. A work of unusual freshness and beauty."],
+					"summary": [
+						"A classic novel of Haiti by the Haiti-born author who died of still-unknown causes less than a month after completing this book.",
+						"Tells of Manuel's struggle to keep his little community from starvation during drought. At the same time the story of his love for Annaise is told with great sensitiveness. A work of unusual freshness and beauty."
+					],
 					"editions": [
 						{
-							"pub_info": "1944"
+							"pub_info": "New York: Reynal & Hitchcock [1947].",
+							"edition": "First English language edition of <em>Gouverneurs de la Rosée</em> (1944).",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 5/8 in x 8 1/4 in).",
+							"pages": "180",
+							"img_file": "RoumainDew-300.jpg",
+							"notes": ["Translated by Langston Hughes and Mercer Cook."],
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"features": "",
+									"condition": "Very good in cloth-covered boards and a fair dust jacket. The boards are lightly sunned at the spine and across the top, and the dust jacket is worn, chipped, soiled, and tape-reinforced. There is a small ownership stamp on the front paste-down. The book's top edge is dust-stained, and the pages are tanned from the edges, as is typical with aging of the paper used to print this book. Otherwise, the pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "17.50"
+								}
+							]
 						},
 						{
-							"pub_info": "Oxford: Heinemann, 1978."
+							"pub_info": "Oxford: Heinemann, 1978.",
+							"edition": "Reissue.",
+							"binding": "Paperback."
 						}
 					]
 				}
@@ -20015,20 +20571,161 @@ export default function () {
 			"last_name": "Williams",
 			"first_name": "Denis",
 			"birth_country": "Guyana",
-			"birth_year": "",
-			"death_year": "",
-			"bio": [""],
+			"birth_year": "01 February 1923",
+			"death_year": "28 June 1998",
+			"bio": ["<strong>Denis Williams</strong> was a Guyanese painter, author and archaeologist."],
 			"books": [
 				{
 					"pub_year": "1963",
 					"title": "Other Leopards",
+					"summary": [
+						"The author's first novel.",
+						"Lionel Froad hopes to rediscover Lobo, his alter ego from ancestral times, while on an architectural survey in the horn of Africa. Instead, he finds himself having complex relationships between his filial, white boss and a stunning girl from Wales, both of whom distract him from his goal. Eventually, Lionel is forced to recognize the painful division between his New World self and ancestry as a result of slavery and centuries of separation. <i>(Publisher's synopsys)</i>"
+					],
+					"editions": [
+						{
+							"pub_info": "[London: New Authors Limited, 1963].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 1/4 in x 8 in).",
+							"pages": "222",
+							"img_file": "WilliamsLeopards-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"condition": "Very good plus in boards and dust jacket. This is a very nice copy of this book. The dust jacket has been clipped at the bottom of the front flap, but the price remains. There's a bit of dust-staining to the top edges. The pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "20.00"
+								}
+							]
+						},
+						{
+							"pub_info": "London: Heinemann, 1983.",
+							"edition": "Reissue.",
+							"binding": "Paperback."
+						},
+						{
+							"pub_info": "Leeds: Peepal Tree Press, 2009.",
+							"edition": "Reissue.",
+							"binding": "Trade paperback."
+						}
+					]
+				},
+				{
+					"pub_year": "1968",
+					"title": "The Third Temptation",
+					"summary": ["In this novel, a young man is killed in a traffic accident at a busy intersection of a Welsh seaside resort. Through shifting time sequences and multiple points of view, this detailed novel follows a small group of onlookers whose perceptions, thoughts, and memories—both pertinent and unconnected—are triggered by the tragic scene. The witnessed trauma prompts a deep reflection on the nature of power—the third temptation of Christ. Utilizing the gaudy vulgarity of the resort at the height of the season as a backdrop, this story underscores the power of chance, the ever-present threat of misfortune, and the temptations inherent in the exercise of power. <i>(Publisher's synopsys)</i>"],
+					"editions": [
+						{
+							"pub_info": "London: Calder & Boyars, 1968.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "Leeds: Peepal Tree Press, 2010.",
+							"edition": "Reissue.",
+							"binding": "Trade paperback."
+						}
+					]
+				},
+				{
+					"pub_year": "1969",
+					"title": "Image and Idea in the Arts of Guyana",
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "London: Hutchinson, 1963."
+							"pub_info": "Georgetown: National History and Arts Council, 1969.",
+							"edition": "First edition.",
+							"binding": "Paperback."
+						}
+					]
+				},
+				{
+					"pub_year": "1973",
+					"title": "Giglioli in Guyana, 1922-1972",
+					"summary": [""],
+					"editions": [
+						{
+							"pub_info": "Georgetown: National History and Arts Council, 1973.",
+							"edition": "First edition.",
+							"binding": "Paperback.",
+							"pages": "122"
+						}
+					]
+				},
+				{
+					"pub_year": "1974",
+					"title": "Icon and Image",
+					"subtitle": "A Study of Sacred and Secular Forms of African Classical Art",
+					"summary": [""],
+					"editions": [
+						{
+							"pub_info": "[London] Allen Lane [1974].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (7 3/4 in x 10 in).",
+							"pages": "331"
 						},
 						{
-							"pub_info": "London: Heinemann, 1983."
+							"pub_info": "New York : New York University Press, 1974.",
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket."
+						}
+					]
+				},
+				{
+					"pub_year": "1976",
+					"title": "Guyana, Colonial Art to Revolutionary Art, 1966-1976",
+					"summary": [""],
+					"editions": [
+						{
+							"pub_info": "Ruimvelt, Guyana: The Centre, 1976.",
+							"edition": "First edition."
+						}
+					]
+				},
+				{
+					"pub_year": "1976",
+					"title": "Contemporary Art in Guyana",
+					"summary": [""],
+					"editions": [
+						{
+							"pub_info": "1976.",
+							"edition": "First edition."
+						}
+					]
+				},
+				{
+					"pub_year": "1985",
+					"title": "Habitat and Culture in Ancient Guyana",
+					"summary": [""],
+					"editions": [
+						{
+							"pub_info": "Georgetown: Department of Culture, 1985.",
+							"edition": "First edition."
+						}
+					]
+				},
+				{
+					"pub_year": "1995",
+					"title": "Pages in Guyanese Prehistory",
+					"summary": [""],
+					"editions": [
+						{
+							"pub_info": "Georgetown: Walter Roth Museum of Anthropology, 1995.",
+							"edition": "First edition.",
+							"binding": "Paperback."
+						}
+					]
+				},
+				{
+					"pub_year": "2003",
+					"title": "Prehistoric Guyana",
+					"summary": [""],
+					"editions": [
+						{
+							"pub_info": "Kingston: Ian Randle, 2003.",
+							"edition": "First edition."
 						}
 					]
 				}
