@@ -402,7 +402,7 @@ export default function () {
 					"title": "It Falls Into Place",
 					"summary": [
 						"Edited with an Introduction by Lizabeth Paravisini-Gebert.",
-						"A collection of fourteen short stories. Set in Dominica, New York and London, the stories probe brilliantly beneath the surface of colonial life, often drawing on autobiographical experiences. Allfrey's skill is to lead her characters - from different cultures and races - into unpredictable encounters where miracles can happen. <i>(Publisher's synopsys)</i>"
+						"A collection of fourteen short stories. Set in Dominica, New York and London, the stories probe brilliantly beneath the surface of colonial life, often drawing on autobiographical experiences. Allfrey's skill is to lead her characters - from different cultures and races - into unpredictable encounters where miracles can happen. <i>(Publisher's synopsis)</i>"
 					],
 					"editions": [
 						{
@@ -19357,7 +19357,6 @@ export default function () {
 							"binding": "Trade paperback.",
 							"size": "8vo (5 1/2 in x 8 in).",
 							"pages": "183",
-							"notes": ["Includes a preface by 'Moses' that was written in 1992 for the first U.S. edition of the work."],
 							"img_file": "SelvonHighway-300.jpg",
 							"copies": [
 								{
@@ -20638,8 +20637,10 @@ export default function () {
 				{
 					"pub_year": "1996",
 					"title": "Homage to Robert Frost",
-					"summary": ["A collection of essays on the work of the American poet, Robert Frost. They explore the misconceptions and mythologies that surround Frost, and attempt to define the tension in his poems. <i>(Publisher's synopsis)</i>"],
-					"notes": ["Co-authored by Walcott with Joseph Brodsky and Seamus Heaney."],
+					"summary": [
+						"Co-authored by Walcott with Joseph Brodsky and Seamus Heaney.",
+						"A collection of essays on the work of the American poet, Robert Frost. They explore the misconceptions and mythologies that surround Frost, and attempt to define the tension in his poems. <i>(Publisher's synopsis)</i>"
+					],
 					"editions": [
 						{
 							"pub_info": "New York: Farrar, Straus and Giroux [1996].",
@@ -20688,7 +20689,7 @@ export default function () {
 				{
 					"pub_year": "1998",
 					"title": "What the Twilight Says: Essays",
-					"summary": ["A collection of essays by the St. Lucia-born winner of the 1992 Nobel Prize in Literature."],
+					"summary": ["A collection of essays by the St. Lucia-born winner of the 1992 Nobel Prize in Literature. Includes Walcott's moving and insightful examinations of the paradoxes of Caribbean culture, including his noted Nobel lecture, and his reckoning of the work and significance of such poets as Robert Lowell, Joseph Brodsky, Robert Frost, Seamus Heaney, and Ted Hughes, and of prose writers such as V. S. Naipaul and Patrick Chamoiseau. <i>(Publisher's synopsis)</i>"],
 					"editions": [
 						{
 							"pub_info": "New York: Farrar Straus Giroux [1998].",
@@ -20702,7 +20703,7 @@ export default function () {
 									"seller_name": "West Indies Books",
 									"seller_email": "patrick@westindiesbooks.com",
 									"condition": "Fine in boards and fine dust jacket. This is a like-new copy of this book. The pages are clean and unmarked, and the binding is very tight. The dust jacket is protected in a mylar wrapper.",
-									"price": "19.95"
+									"price": "12.50"
 								}
 							]
 						},
@@ -20737,7 +20738,7 @@ export default function () {
 									"seller_email": "patrick@westindiesbooks.com",
 									"features": "Advance Review Copy with publisher's two-sided promotional sheet laid in.",
 									"condition": "Fine in boards and fine dust jacket. This is a like-new copy of this book, with a bit of wear at the bottom of the dust jacket spine. The pages are clean and unmarked, and the binding is very tight. The dust jacket is protected in a mylar wrapper.",
-									"price": "19.95"
+									"price": "40.00"
 								}
 							]
 						},
@@ -20904,10 +20905,8 @@ export default function () {
 					"pub_year": "2016",
 					"title": "Morning, Paramin",
 					"summary": [
+						"Co-authored with Peter Doig.",
 						"<em>Morning, Paramin</em> offers us a stunning collaboration between a Nobel Prize–winning poet, Derek Walcott, and a renowned figurative painter, Peter Doig. It journeys through the physical and psychological landscapes of two lives, from the snowy landscapes of Edmonton to the sun-washed shores of the Caribbean, from the process of mourning a loved one to the experience of watching a film. Taking the form of a call-and-response, with paintings on one side and poetry on the other, <em>Morning Paramin</em> lets Walcott’s characteristic perception and wit shine through in his illuminating responses to Doig’s luminescent paintings. <i>(Publisher's synopsis)</i>"
-					],
-					"notes": [
-						"Co-authored with Peter Doig."
 					],
 					"editions": [
 						{
