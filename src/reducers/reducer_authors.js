@@ -12957,10 +12957,10 @@ export default function () {
 		},
 		{
 			"last_name": "La Fortune",
-			"first_name": "Knolly",
+			"first_name": "Knolly S.",
 			"birth_country": "Trinidad and Tobago",
-			"birth_year": "",
-			"death_year": "",
+			"birth_year": "1920",
+			"death_year": "Novelist, poet, and teacher.",
 			"bio": [""],
 			"books": [
 				{
@@ -12969,17 +12969,29 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "London: privately printed, 1968."
+							"pub_info": "London: privately printed, 1968.",
+							"edition": "First edition.",
+							"binding": "Printed wrappers."
 						}
 					]
 				},
 				{
 					"pub_year": "1979",
-					"title": "The Schoolmaster Remembers",
+					"title": "The Schoolmaster Remembers: Colonial Trinidad 1930",
 					"summary": [""],
 					"editions": [
 						{
 							"pub_info": "London: privately printed, 1979."
+						}
+					]
+				},
+				{
+					"pub_year": "1984",
+					"title": "Trouble Make Monkey Eat Pepper",
+					"summary": ["A novel."],
+					"editions": [
+						{
+							"pub_info": "1984."
 						}
 					]
 				}
@@ -13368,7 +13380,8 @@ export default function () {
 							"edition": "First edition.",
 							"binding": "Hardcover in dust jacket.",
 							"size": "8vo (5 3/8 in x 8 in).",
-							"pages": "224"
+							"pages": "224",
+							"img_file": "LovelaceSchoolmasterUK-300.jpg"
 						},
 						{
 							"pub_info": "Chicago: Regnery, 1968.",
@@ -13407,7 +13420,8 @@ export default function () {
 							"edition": "First edition.",
 							"binding": "Hardcover in dust jacket.",
 							"size": "8vo (5 3/8 in x 8 in).",
-							"pages": "240"
+							"pages": "240",
+							"img_file": "LovelaceDragon-300.jpg"
 						},
 						{
 							"pub_info": "Essex: Longman, 1979.",
@@ -13472,7 +13486,8 @@ export default function () {
 							"edition": "First edition.",
 							"binding": "Paperback.",
 							"size": "12mo (4 3/4 in x 7 1/4 in).",
-							"pages": "141"
+							"pages": "141",
+							"img_file": "LovelaceCalypso-300.jpg"
 						}
 					]
 				},
@@ -16557,12 +16572,13 @@ export default function () {
 				{
 					"pub_year": "1967",
 					"title": "An Absence of Ruins",
-					"summary": ["A poignant portrayal of a man shaped by the colonial education of the Caribbean intellectual class. <em>Orlando Patterson<em> offers a devastating critique of middle-class intellectualism through the self-condemning perceptions of the main character, Alexander Blackman, and the vibrant reality of the world he is unable to embrace—the world of the Jamaican working class. An intensive and inward portrayal of what the world looks like to a man who has been shaped by the deeply entrenched consequences of colonialism, this novel is full of sardonic humor and a nihilism that emerges as a kind of integrity. <i>(Publisher's synopsis)</i>"],
+					"summary": ["A poignant portrayal of a man shaped by the colonial education of the Caribbean intellectual class. <em>Orlando Patterson</em> offers a devastating critique of middle-class intellectualism through the self-condemning perceptions of the main character, Alexander Blackman, and the vibrant reality of the world he is unable to embrace—the world of the Jamaican working class. An intensive and inward portrayal of what the world looks like to a man who has been shaped by the deeply entrenched consequences of colonialism, this novel is full of sardonic humor and a nihilism that emerges as a kind of integrity. <i>(Publisher's synopsis)</i>"],
 					"editions": [
 						{
 							"pub_info": "London: Hutchinson, 1967.",
 							"edition": "First edition.",
-							"binding": "Hardcover in dust jacket."
+							"binding": "Hardcover in dust jacket.",
+							"img_file": "PattersonRuins-300.jpg"
 						},
 						{
 							"pub_info": "Essex: Peepal Tree Press, 2011.",
@@ -19062,7 +19078,8 @@ export default function () {
 						{
 							"pub_info": "New York: St. Martin's Press, 1957.",
 							"edition": "First U.S. edition.",
-							"binding": "Hardcover in dust jacket."
+							"binding": "Hardcover in dust jacket.",
+							"img_file": "SelvonSunlightUS-300.jpg"
 						},
 						{
 							"pub_info": "London: Longman, 1979.",
@@ -19124,7 +19141,8 @@ export default function () {
 						{
 							"pub_info": "New York: St. Martin's Press, 1963.",
 							"edition": "First U.S. edition.",
-							"binding": "Hardcover in dust jacket."
+							"binding": "Hardcover in dust jacket.",
+							"img_file": "SelvonThunderUS-300.jpg"
 						}
 					]
 				},
