@@ -20119,9 +20119,11 @@ export default function () {
 			"last_name": "Walcott",
 			"first_name": "Derek",
 			"birth_country": "St. Lucia",
-			"birth_year": "1930",
-			"death_year": "",
-			"bio": [""],
+			"birth_year": "23 January 1930",
+			"death_year": "17 March 2017",
+			"bio": [
+				"<strong>Sir Derek Alton Walcott</strong> was a Saint Lucian poet and playwright. He received the 1992 Nobel Prize in Literature. He was Professor of Poetry at the University of Essex from 2010 to 2013. His works include the Homeric epic poem <em>Omeros</em> (1990), which many critics view as Walcott's major achievement. In addition to winning the Nobel Prize, Walcott received many literary awards over the course of his career, including an Obie Award in 1971 for his play <em>Dream on Monkey Mountain</em>, a MacArthur Foundation 'genius' award, a Royal Society of Literature Award, the Queen's Medal for Poetry, the inaugural OCM Bocas Prize for Caribbean Literature, the 2011 T. S. Eliot Prize for his book of poetry <em>White Egrets</em> and the Griffin Trust For Excellence In Poetry Lifetime Recognition Award in 2015."
+			],
 			"books": [
 				{
 					"pub_year": "1948",
@@ -20129,7 +20131,8 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "Port of Spain: Guardian Commercial Printery, 1948."
+							"pub_info": "Port of Spain: Guardian Commercial Printery, 1948.",
+							"edition": "First edition."
 						}
 					]
 				},
@@ -20139,7 +20142,8 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "Babrados: Advocate, 1949."
+							"pub_info": "Babrados: Advocate, 1949.",
+							"edition": "First edition."
 						}
 					]
 				},
@@ -20149,17 +20153,23 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "London: Jonathan Cape [1962]."
+							"pub_info": "London: Jonathan Cape [1962].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"pages": "80"
 						}
 					]
 				},
 				{
 					"pub_year": "1964",
 					"title": "Selected Poems",
-					"summary": ["Part I comprises a selection from In a Green Night (Cape, 1962); Parts II and III, poems that were previously uncollected."],
+					"summary": ["Part I comprises a selection from <em>In a Green Night</em> (Cape, 1962); Parts II and III, poems that were previously uncollected."],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar, Straus & Company, 1964."
+							"pub_info": "New York: Farrar, Straus & Company, 1964.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"pages": "85"
 						}
 					]
 				},
@@ -20169,7 +20179,14 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "London: Jonathan Cape, 1965."
+							"pub_info": "London: Jonathan Cape, 1965.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "London: Jonathan Cape, 1969.",
+							"edition": "First paperback edition.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
@@ -20179,40 +20196,111 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "London: Jonathan Cape, 1969."
+							"pub_info": "London: Jonathan Cape, 1969.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "London: Jonathan Cape, 1974.",
+							"edition": "First paperback edition.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1970",
 					"title": "The Gulf",
-					"summary": ["This collection of poems includes the whole of The Gulf and Other Poems (Cape, 1969) as well as selections from The Castaway and Other Poems (Cape, 1965)."],
+					"summary": ["This collection of poems includes the whole of <em>The Gulf and Other Poems</em> (Cape, 1969) as well as selections from <em>The Castaway and Other Poems<em> (Cape, 1965)."],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar, Straus and Giroux [1970]."
+							"pub_info": "New York: Farrar, Straus and Giroux [1970].",
+							"edition": "First U.S. edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 7/8 in x 8 1/2 in).",
+							"pages": "111",
+							"img_file": "WalcottGulf-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"features": "Advance Review Copy with publisher's slip laid in.",
+									"condition": "Very good in cloth-covered boards and very good dust jacket. This is a very nice copy of this book. The dust jacket is sunned on the spine, the back panel, and along the outside edges of the flaps. The pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "95.00"
+								}
+							]
+						},
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux/Noonday Press [1970].",
+							"edition": "First paperback edition.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1970",
 					"title": "Dream On Monkey Mountain and Other Plays",
-					"summary": [""],
+					"summary": ["A collection of four plays, with a 38-page 'Overture' by the St. Lucia-born winner of the 1992 Nobel Prize in Literature."],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar, Straus and Giroux [1970]."
-						}
+							"pub_info": "New York: Farrar, Straus and Giroux [1970].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 5/8 in x 8 1/2 in).",
+							"pages": "326",
+							"img_file": "WalcottDream-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"condition": "Very good in boards and dust jacket. The book's top corners are lightly bumped. There is evidence of a sticker having been removed from the top right corner of the front pastedown. The dust jacket is sunned at the spine, shows wear at the extremities, most notably at the head and foot of the spine, and both flaps have fold marks from top to bottom. The pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "35.00"
+								}
+							]
+						},
+						{
+							"pub_info": "London: Jonathan Cape, 1972.",
+							"edition": "First U.K. edition.",
+							"binding": "Hardcover in dust jacket."
+						},
 					]
 				},
 				{
 					"pub_year": "1973",
 					"title": "Another Life",
-					"summary": [""],
+					"summary": ["An autobiographical long narrative poem by the St. Lucia-born winner of the 1992 Nobel Prize in Literature."],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar, Straus and Giroux [1973]."
+							"pub_info": "New York: Farrar, Straus and Giroux [1973].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (6 1/4 in x 8 3/4 in).",
+							"pages": "152",
+							"img_file": "WalcottLifeUS-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"features": "Advance Review Copy with publisher's slip laid in.",
+									"condition": "Near fine in cloth-covered boards and near fine dust jacket. This is a very nice copy of this book. The dust jacket is sunned on the spine and back panel, and shows a bit of wear at the top and bottom of the spine. The pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "195.00"
+								}
+							]
 						},
 						{
-							"pub_info": "London: Jonathan Cape [1973]."
+							"pub_info": "London: Jonathan Cape [1973].",
+							"edition": "First U.K. edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 3/4 in x 8 3/4 in).",
+							"pages": "152",
+							"img_file": "WalcottLifeUK-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"condition": "Very good in boards and dust jacket. The rear board is bumped at the top spine corner, and there is a gift inscription on the front endpaper. There is foxing to the paste-downs and endpapers, as well as to the initial pages through the dedication page, and to the fore page edges. The top page edges are both dust-stained and foxed. The dust jacket is faded at the spine, lightly worn at the extremities, and has about 1/4 inch of loss at the top of the spine, with tape reinforcement on the inside of the jacket at the top of the spine. Otherwise, the pages are clean and unmarked, and the binding is tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "195.00"
+								}
+							]
 						},
 						{
 							"pub_info": "Washington, DC: Three Continents Press, 1982.",
@@ -20223,13 +20311,23 @@ export default function () {
 				{
 					"pub_year": "1976",
 					"title": "Sea Grapes",
-					"summary": [""],
+					"summary": ["Poems."],
 					"editions": [
 						{
-							"pub_info": "London: Jonathan Cape, 1976."
+							"pub_info": "London: Jonathan Cape, 1976.",
+							"edition": "First edition.",
+							"binding": "Trade paperback.",
+							"pages": "95"
 						},
 						{
-							"pub_info": "New York: Farrar, Straus and Giroux [1976]. (Slightly revised edition)"
+							"pub_info": "New York: Farrar, Straus and Giroux [1976].",
+							"edition": "First U.S. edition. (Slightly revised)",
+							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux / Noonday Press [1976].",
+							"edition": "First U.S. paperback edition.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
@@ -20239,8 +20337,23 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar, Straus and Giroux [1978]."
-						}
+							"pub_info": "New York: Farrar, Straus and Giroux [1978].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"pages": "275"
+						},
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux [1978].",
+							"edition": "First paperback edition.",
+							"binding": "Trade paperback.",
+							"pages": "275"
+						},
+						{
+							"pub_info": "London: Jonathan Cape, 1979.",
+							"edition": "First U.K. edition.",
+							"binding": "Trade paperback.",
+							"pages": "275"
+						},
 					]
 				},
 				{
@@ -20249,136 +20362,545 @@ export default function () {
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar, Straus and Giroux [1979]."
+							"pub_info": "New York: Farrar, Straus and Giroux [1979].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						},
 						{
-							"pub_info": "London: Jonathan Cape, 1980."
+							"pub_info": "New York: Farrar, Straus and Giroux [1979].",
+							"edition": "First paperback edition.",
+							"binding": "Trade paperback.",
+							"pages": "57"
+						},
+						{
+							"pub_info": "London: Jonathan Cape, 1980.",
+							"edition": "First U.K. edition.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1980",
 					"title": "Remembrance and Pantomime",
-					"summary": [""],
+					"summary": ["Two plays. First produced by Joseph Papp's New York Shakespeare Festival in 1979, <em>Remembrance</em> is the story of an evasively eloquent retired teacher who cannot reconcile his anachronistic love of British culture with the evolution of his family and community in independent Trinidad. <em>Pantomime</em> is a fast-paced comedy set in Tobago. In the hope of entertaining future guests, an English hotel owner proposes that he and his black handyman work up a satire on the Robinson Crusoe story."],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar, Straus and Giroux [1980]."
+							"pub_info": "New York: Farrar, Straus and Giroux [1980].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"pages": "170"
+						},
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux [1980].",
+							"edition": "First paperback edition.",
+							"binding": "Trade paperback.",
+							"pages": "170"
 						}
 					]
 				},
 				{
 					"pub_year": "1981",
 					"title": "The Fortunate Traveller",
-					"summary": [""],
+					"summary": ["Poems."],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar, Straus and Giroux [1981]."
+							"pub_info": "New York: Farrar, Straus and Giroux [1981].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"pages": "98"
 						},
 						{
-							"pub_info": "London: Jonathan Cape, 1982."
+							"pub_info": "New York: Farrar, Straus and Giroux [1981].",
+							"edition": "First paperback edition.",
+							"binding": "Trade paperback.",
+							"pages": "98"
+						},
+						{
+							"pub_info": "London: Jonathan Cape, 1982.",
+							"edition": "First U.K. edition.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1984",
 					"title": "Midsummer",
-					"summary": [""],
+					"summary": ["Most of the poems in this sequence of fifty where written in close succession during one summer in Trinidad. Their principle themes are the relationship of poetry to painting, the stasis of midsummer in the tropics, and the pull of the sea, family and friendship. <i>(Publisher's synopsis)</i>"],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar, Straus and Giroux [1984]."
+							"pub_info": "New York: Farrar, Straus and Giroux [1984].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
 						},
 						{
-							"pub_info": "London: Jonathan Cape, 1984."
+							"pub_info": "New York: Farrar, Straus and Giroux [1984].",
+							"edition": "First paperback edition.",
+							"binding": "Trade paperback.",
+							"pages": "98"
+						},
+						{
+							"pub_info": "London: Faber & Faber, 1984.",
+							"edition": "First U.K. edition.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1986",
 					"title": "Three Plays: The Last Carnival; Beef, No Chicken; A Branch of the Blue Nile",
-					"summary": [""],
+					"summary": ["The three plays in this collection form a triptych - the central play, a farce, is flanked by two dramas. Together they span the last four decades of Trinidad's social and political history, beginning, in <em>The Last Carnival</em>, with the colonial life-style of a French Creole family faced with the emergence of the Black Power movement, and ending, in <em>A Branch of the Blue Nile</em>, with the conflict among members of a small theatre company in contemporary Port-of-Spain. <em>Beef, No Chicken</em>, the middle play, deals with the corruption of a small town in a hurry to catch up with the industrialization that a new highway will bring. <i>(Publisher's synopsis)</i>"],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar, Straus and Giroux [1986]."
+							"pub_info": "New York: Farrar, Straus and Giroux [1986].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux [1986].",
+							"edition": "First paperback edition.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1986",
 					"title": "Collected Poems 1948-1984",
-					"summary": [""],
+					"summary": ["Collects poems from eight previous books, along with the long narrative poem <em>Another Life</em>, by the acclaimed St. Lucia-born poet and playwright."],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar, Straus and Giroux [1986]."
+							"pub_info": "New York: Farrar, Straus & Giroux [1986].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (6 1/2 in x 8 3/4 in).",
+							"pages": "516",
+							"img_file": "WalcottCPoems-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"features": "Advance Review Copy with publisher's slip, a promotional piece, and a promotional photo of the author laid in.",
+									"condition": "Very good in boards and dust jacket. This is a nice copy of this book. The dust jacket is faded at the spine and wrinkled at the top left inch of the rear panel. The pages are clean and unmarked, and the binding is tight. The dust jacket is protected under a plastic cover.",
+									"price": "150.00"
+								}
+							]
+						},
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux [1987].",
+							"edition": "First paperback edition.",
+							"binding": "Trade paperback."
+						},
+						{
+							"pub_info": "London: Faber & Faber, 1992.",
+							"edition": "First U.K. edition.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1987",
 					"title": "The Arkansas Testament",
-					"summary": [""],
+					"summary": ["Derek Walcott's eighth collection of poems, <em>The Arkansas Testament</em>, is divided into two parts--'Here,' verse evoking the poet's native Caribbean, and 'Elsewhere.' It opens with six poems in quatrains whose memorable, compact lines further Walcott's continuous effort to crystallize images of the Caribbean landscape and people. <i>(Publisher's synopsis)</i>"],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar, Straus and Giroux [1987]."
+							"pub_info": "New York: Farrar, Straus and Giroux [1987].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"pages": "117"
+						},
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux [1988].",
+							"edition": "First paperback edition.",
+							"binding": "Trade paperback."
+						},
+						{
+							"pub_info": "London: Faber & Faber, 1988.",
+							"edition": "First U.K. edition.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1990",
 					"title": "Omeros",
-					"summary": [""],
+					"summary": ["A long, ambitious poem, of circular design, by the St. Lucia-born author. Considered by many to be his finest work, Walcott was awarded the Nobel Prize in Literature in 1992, two years following this book's publication."],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar, Straus and Giroux [1990]."
+							"pub_info": "New York: Farrar Straus Giroux [1990].",
+							"edition": "Uncorrected advance proofs of the first edition.",
+							"binding": "Printed wrappers.",
+							"size": "8vo (5 3/8 in x 8 3/8 in).",
+							"pages": "323",
+							"img_file": "WalcottOmerosP-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"features": "",
+									"condition": "Near fine in stiff printed wrappers. The wrappers are sunned at and near the spine, and the text 'UNCORRECTED PROOF' at the top of the front cover has been circled by hand in ink. The pages are clean and unmarked, and the binding is very tight.",
+									"price": "80.00"
+								}
+							]
+						},
+						{
+							"pub_info": "New York: Farrar Straus Giroux [1990].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 3/4 in x 8 3/4 in).",
+							"pages": "325",
+							"img_file": "WalcottOmeros-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"features": "Advance Review Copy with publisher's slip and promotional photo of the author laid in.",
+									"condition": "Fine in cloth-covered boards and fine dust jacket. This is a very nice copy of this book. The only flaw is a very shallow, 1/4-inch round indentation on the front panel of the dust jacket near the fore edge, with a matching, even-less-shallow indentation on the board underneath. The pages are clean and unmarked, and the hinges and binding are very tight. The dust jacket is protected under a plastic cover.",
+									"price": "95.00"
+								}
+							]
+						},
+						{
+							"pub_info": "London: Faber & Faber, 1990.",
+							"edition": "First U.K. edition.",
+							"binding": "Hardcover in dust jacket.",
+							"pages": "325"
+						},
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux [1992].",
+							"edition": "First paperback edition.",
+							"binding": "Trade paperback."
+						},
+						{
+							"pub_info": "London: Faber & Faber, 1998.",
+							"edition": "First U.K. paperback edition.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1993",
 					"title": "The Antilles: Fragments of Epic Memory",
-					"summary": [""],
+					"summary": ["This is the address given by Derek Walcott in Stockholm on 10 December 1992, at the ceremony marking his acceptance of the Nobel Prize for Literature."],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar, Straus and Giroux [1993]."
+							"pub_info": "New York: Farrar, Straus and Giroux [1993].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"pages": "52"
+						},
+						{
+							"pub_info": "London: Faber & Faber, 1993.",
+							"edition": "First U.K. edition.",
+							"binding": "Paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1993",
 					"title": "The Odyssey: A Stage Version",
-					"summary": [""],
+					"summary": ["With its inspired counterpointing of Homeric and Caribbean themes, Derek Walcott's new play, commissioned by Britain's Royal Shakespeare Company, springs from the same imaginative sources as his epic poem <em>Omeros</em>. <i>(Publisher's synopsis)</i>"],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar, Straus and Giroux [1993]."
+							"pub_info": "New York: Farrar, Straus and Giroux [1993].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"pages": "160"
+						},
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux / Noonday [1993].",
+							"edition": "First paperback edition.",
+							"binding": "Trade paperback."
+						},
+						{
+							"pub_info": "London: Faber & Faber, 1993.",
+							"edition": "First U.K. edition.",
+							"binding": "Paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1996",
 					"title": "Homage to Robert Frost",
-					"summary": [""],
+					"summary": ["A collection of essays on the work of the American poet, Robert Frost. They explore the misconceptions and mythologies that surround Frost, and attempt to define the tension in his poems. <i>(Publisher's synopsis)</i>"],
+					"notes": ["Co-authored by Walcott with Joseph Brodsky and Seamus Heaney."],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar, Straus and Giroux [1996]."
+							"pub_info": "New York: Farrar, Straus and Giroux [1996].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux / Noonday [1997].",
+							"edition": "First paperback edition.",
+							"binding": "Trade paperback."
+						},
+						{
+							"pub_info": "London: Faber & Faber, 1997.",
+							"edition": "First U.K. edition.",
+							"binding": "Paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1997",
 					"title": "The Bounty",
-					"summary": [""],
+					"summary": ["The winner of the 1992 Nobel Prize in Literature presents a collection of poems--his first since <em>Omeros</em>--that includes an elegy to his mother and a series of meditations on his native island of St. Lucia. <i>(Publisher's synopsis)</i>"],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar, Straus and Giroux [1997]."
+							"pub_info": "New York: Farrar, Straus and Giroux [1997].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "London: Faber & Faber, 1997.",
+							"edition": "First U.K. edition.",
+							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "London: Faber & Faber, 1997.",
+							"edition": "First U.K. paperback edition.",
+							"binding": "Paperback."
+						},
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux / Noonday [1998].",
+							"edition": "First U.S. paperback edition.",
+							"binding": "Trade paperback."
 						}
 					]
 				},
 				{
 					"pub_year": "1998",
 					"title": "What the Twilight Says: Essays",
+					"summary": ["A collection of essays by the St. Lucia-born winner of the 1992 Nobel Prize in Literature."],
+					"editions": [
+						{
+							"pub_info": "New York: Farrar Straus Giroux [1998].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (5 3/4 in x 8 3/4 in).",
+							"pages": "245",
+							"img_file": "WalcottTwilight-300.jpg",
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"condition": "Fine in boards and fine dust jacket. This is a like-new copy of this book. The pages are clean and unmarked, and the binding is very tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "19.95"
+								}
+							]
+						},
+						{
+							"pub_info": "London: Faber & Faber, 1998.",
+							"edition": "First U.K. edition.",
+							"binding": "Paperback."
+						},
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux / Noonday [1999].",
+							"edition": "First U.S. paperback edition.",
+							"binding": "Trade paperback."
+						}
+					]
+				},
+				{
+					"pub_year": "2000",
+					"title": "Tiepolo's Hound",
+					"summary": ["A book-length poem on two educations in painting, a century apart. <em>Tiepolo's Hound</em> joins the quests of two Caribbean men. Camille Pissarro, born in 1830, leaves his native St. Thomas to follow his vocation as a painter in Paris. The poet himself hunts for a detail -- 'a slash of pink on the inner thigh/of a white hound' -- of a Venetian painting encountered on an early visit from St. Lucia to New York. Both journeys take us through a Europe of the mind's eye, in search of a connection between the lost, actual landscape of a childhood and the mythical landscape of empire. <i>(Publisher's synopsis)</i>"],
+					"editions": [
+						{
+							"pub_info": "New York: Farrar Straus Giroux [2000].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"size": "8vo (7 1/2 in x 9 1/2 in).",
+							"pages": "164",
+							"img_file": "WalcottHound-300.jpg",
+							"notes": ["Illustrated with reproductions of 26 watercolors by the author."],
+							"copies": [
+								{
+									"seller_name": "West Indies Books",
+									"seller_email": "patrick@westindiesbooks.com",
+									"features": "Advance Review Copy with publisher's two-sided promotional sheet laid in.",
+									"condition": "Fine in boards and fine dust jacket. This is a like-new copy of this book, with a bit of wear at the bottom of the dust jacket spine. The pages are clean and unmarked, and the binding is very tight. The dust jacket is protected in a mylar wrapper.",
+									"price": "19.95"
+								}
+							]
+						},
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux [2000].",
+							"edition": "First U.S. paperback edition.",
+							"binding": "Trade paperback."
+						},
+						{
+							"pub_info": "London: Faber & Faber, 2001.",
+							"edition": "First U.K. edition.",
+							"binding": "Paperback."
+						}
+					]
+				},
+				{
+					"pub_year": "2002",
+					"title": "The Haitian Trilogy: Plays",
+					"subtitle": "Henri Christophe, Drums and Colours, and The Haytian Earth",
+					"summary": ["In the history plays that comprise <em>The Haitian Trilogy</em>-- Henri Christophe, Drums and Colours and The Haytian Earth--Derek Walcott, recipient of the Nobel Prize in Literature, uses verse to tell the story of his native West Indies as a four-hundred-year cycle of war, conquest and rebellion. <i>(Publisher's synopsis)</i>"],
+					"editions": [
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux [2012].",
+							"edition": "First edition.",
+							"binding": "Trade paperback."
+						}
+					]
+				},
+				{
+					"pub_year": "2002",
+					"title": "Walker and The Ghost Dance: Plays",
+					"summary": ["Two plays on American themes."],
+					"editions": [
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux [2002].",
+							"edition": "First edition.",
+							"binding": "Trade paperback.",
+							"pages": "246"
+						}
+					]
+				},
+				{
+					"pub_year": "2004",
+					"title": "The Prodigal: A Poem",
+					"summary": ["<em>The Prodigal</em> is a journey through physical and mental landscapes, from Greenwich Village to the Alps, Pescara to Milan, Germany to Cartagena. But always in 'the music of memory, water,'' abides St. Lucia, the author's birthplace, and the living sea. <i>(Publisher's synopsis)</i>"],
+					"editions": [
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux [2004].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"pages": "105"
+						},
+						{
+							"pub_info": "London: Faber & Faber, 2005.",
+							"edition": "First U.K. edition.",
+							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "London: Faber & Faber, 2006.",
+							"edition": "First U.K. paperback edition.",
+							"binding": "Paperback."
+						},
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux [2006].",
+							"edition": "First U.S. paperback edition.",
+							"binding": "Paperback."
+						}
+					]
+				},
+				{
+					"pub_year": "2007",
+					"title": "Selected Poems",
+					"summary": ["This new <em>Selected Poems</em> offers for the first time a portable and lucidly ordered retrospect of the fertile career of Derek Walcott, spanning six decades and drawing on twelve collections. <i>(Publisher's synopsis)</i>"],
+					"editions": [
+						{
+							"pub_info": "New York: Farrar, Straus & Company, 2007.",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"pages": "307"
+						},
+						{
+							"pub_info": "London: Faber & Faber, 2007.",
+							"edition": "First U.K. edition.",
+							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "London: Faber & Faber, 2008.",
+							"edition": "First U.K. paperback edition.",
+							"binding": "Trade paperback."
+						}
+					]
+				},
+				{
+					"pub_year": "2010",
+					"title": "White Egrets: Poems",
+					"summary": ["<em>White Egrets</em> is a moving new collection from one of the most important poets of the twentieth century--a celebration of the life and language of the West Indies. It is also a triumphant paean to beauty, love, art, and--perhaps most surprisingly--getting older. <i>(Publisher's synopsis)</i>"],
+					"editions": [
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux [2010].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket.",
+							"pages": "86"
+						},
+						{
+							"pub_info": "London: Faber & Faber, 2010.",
+							"edition": "First U.K. edition.",
+							"binding": "Hardcover in dust jacket.",
+							"pages": "89"
+						},
+						{
+							"pub_info": "London: Faber & Faber, 2011.",
+							"edition": "First U.K. paperback edition.",
+							"binding": "Paperback."
+						},
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux [2011].",
+							"edition": "First U.S. paperback edition.",
+							"binding": "Paperback."
+						}
+					]
+				},
+				{
+					"pub_year": "2012",
+					"title": "Moon-Child: A Play",
+					"summary": ["<em>In Moon-Child</em>, the poet and playwright Derek Walcott returns to the island of St. Lucia for a lush and vivid tale of spirituality and the supernatural. In this lyrical new work, the crafty Planter (who may or may not be the Devil in disguise) schemes to take over the island for development.  <i>(Publisher's synopsis)</i>"],
+					"editions": [
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux [2012].",
+							"edition": "First edition.",
+							"binding": "Trade paperback."
+						}
+					]
+				},
+				{
+					"pub_year": "2014",
+					"title": "O Starry Starry Night: A Play",
+					"summary": ["Two masterful artists—Gauguin and van Gogh—come alive in a vibrant drama about friendship, art, and madness. <i>(Publisher's synopsis)</i>"],
+					"editions": [
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux [2014].",
+							"edition": "First edition.",
+							"binding": "Trade paperback."
+						}
+					]
+				},
+				{
+					"pub_year": "2014",
+					"title": "The Poetry of Derek Walcott: 1948 - 2013",
 					"summary": [""],
 					"editions": [
 						{
-							"pub_info": "New York: Farrar, Straus and Giroux [1998]."
+							"pub_info": "New York: Farrar, Straus and Giroux [2014].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "London: Faber & Faber, 2014.",
+							"edition": "First U.K. edition.",
+							"binding": "Hardcover in dust jacket."
+						}
+					]
+				},
+				{
+					"pub_year": "2016",
+					"title": "Morning, Paramin",
+					"summary": [
+						"<em>Morning, Paramin</em> offers us a stunning collaboration between a Nobel Prize–winning poet, Derek Walcott, and a renowned figurative painter, Peter Doig. It journeys through the physical and psychological landscapes of two lives, from the snowy landscapes of Edmonton to the sun-washed shores of the Caribbean, from the process of mourning a loved one to the experience of watching a film. Taking the form of a call-and-response, with paintings on one side and poetry on the other, <em>Morning Paramin</em> lets Walcott’s characteristic perception and wit shine through in his illuminating responses to Doig’s luminescent paintings. <i>(Publisher's synopsis)</i>"
+					],
+					"notes": [
+						"Co-authored with Peter Doig."
+					],
+					"editions": [
+						{
+							"pub_info": "New York: Farrar, Straus and Giroux [2016].",
+							"edition": "First edition.",
+							"binding": "Hardcover in dust jacket."
+						},
+						{
+							"pub_info": "London: Faber & Faber, 2016.",
+							"edition": "First U.K. edition.",
+							"binding": "Hardcover in dust jacket."
 						}
 					]
 				}
